@@ -10,6 +10,11 @@
     },
     {
       "check": "ratio",
+      "id": "ch1210-0011",
+      "detail": "length ratio 4.86 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
       "id": "ch1210-0013",
       "detail": "length ratio 4.70 outside bounds [0.6, 4.5]"
     },
@@ -21,7 +26,7 @@
     {
       "check": "ratio",
       "id": "ch1210-0016",
-      "detail": "length ratio 5.11 outside bounds [0.6, 4.5]"
+      "detail": "length ratio 4.89 outside bounds [0.6, 4.5]"
     },
     {
       "check": "ratio",

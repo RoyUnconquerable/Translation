@@ -1,23 +1,142 @@
 [
-  {"id": "ch1210-0004", "type": "awkward", "severity": "minor", "note": "近了 describes a completed change of state in third-person narration, not inner monologue, so per the style guide's past-tense rule it should read \"drew near,\" not the draft's present-tense \"draws near.\"", "patched": true},
-  {"id": "ch1210-0013", "type": "awkward", "severity": "minor", "note": "\"he'd never counted\" uses a contraction ending in 'd, which the style guide bans as ambiguous between had/would; it should read \"he had never counted.\"", "patched": true},
-  {"id": "ch1210-0015", "type": "awkward", "severity": "minor", "note": "\"which inherently possessed\" is a which-relative clause, banned by the style guide, and should be recast as a participle (\"inherently possessing\").", "patched": true},
-  {"id": "ch1210-0016", "type": "terminology", "severity": "minor", "note": "\"the one in True History\" drops the article before True History; per the glossary (正史 usually takes 'the') and to match the parallel \"in the False History\" earlier in the same sentence, it should read \"in the True History.\"", "patched": true},
-  {"id": "ch1210-0017", "type": "awkward", "severity": "minor", "note": "\"they'd gone to earlier eras\" uses a banned 'd contraction; it should read \"they had gone to earlier eras.\"", "patched": true},
-  {"id": "ch1210-0021", "type": "mistranslation", "severity": "minor", "note": "The source hedges twice (不太可能 \"probably not,\" 可能 \"possibly\"), but the draft renders both as near-certain claims (\"couldn't have been\" / \"must be\"), overstating the Spell Dao Lord's confidence.", "patched": true},
-  {"id": "ch1210-0023", "type": "awkward", "severity": "minor", "note": "\"they'd be even more pleased\" uses a banned 'd contraction; it should read \"they would be even more pleased.\"", "patched": true},
-  {"id": "ch1210-0026", "type": "awkward", "severity": "minor", "note": "\"That consciousness which fled\" uses \"which\" for a restrictive clause, banned by the style guide; it should read \"that fled.\"", "patched": true},
-  {"id": "ch1210-0028", "type": "mistranslation", "severity": "minor", "note": "下方混乱，难以看清的伪史 describes a single object, the chaotic and hard-to-discern False History below, but the draft splits it into two separate things: \"the chaos below and the False History that was hard to discern.\"", "patched": true},
-  {"id": "ch1210-0028", "type": "terminology", "severity": "minor", "note": "The pronoun \"his\" refers to the Primordial Saint, a Dao Lord, and per the style guide's divine-pronoun rule should be capitalized \"His,\" as it already is in the very next segment (0029).", "patched": true},
-  {"id": "ch1210-0030", "type": "terminology", "severity": "minor", "note": "\"to him\" refers to the Primordial Saint, a Dao Lord, and should be capitalized \"Him\" per the style guide's divine-pronoun rule.", "patched": true},
-  {"id": "ch1210-0035", "type": "awkward", "severity": "minor", "note": "鲸吞牛饮 (swallowing like a whale, guzzling like an ox) is flattened to the generic adverb \"greedily,\" dropping the chengyu's image that the style guide asks to keep inside a natural English frame.", "patched": true},
-  {"id": "ch1210-0036", "type": "awkward", "severity": "minor", "note": "在汇聚 is third-person narration describing an ongoing action, not inner monologue, so per the style guide's past-tense rule it should not be rendered in the present tense (\"Variable Converges\").", "patched": true},
-  {"id": "ch1210-0037", "type": "mistranslation", "severity": "major", "note": "也正是他改变了伪史的流向 names a person (他, \"he\") as the one who altered history's flow, but the draft substitutes \"this Variable\" as the actor, erasing the source's distinction between the Variable itself and the person responsible for it.", "patched": true},
-  {"id": "ch1210-0039", "type": "terminology", "severity": "minor", "note": "\"what he hoped for\" refers to the Primordial Saint, a Dao Lord, and should be capitalized \"He\" per the style guide's divine-pronoun rule.", "patched": true},
-  {"id": "ch1210-0040", "type": "omission", "severity": "minor", "note": "The source's leading ellipsis (‘.越多，越好。’) marks a hesitation before the thought per the style guide's leading-ellipsis convention, but the draft drops it entirely (\"*The more, the better.*\").", "patched": true},
-  {"id": "ch1210-0045", "type": "omission", "severity": "major", "note": "所有因果线都是晦暗的 (every karmic thread was dim) is a full descriptive clause that is entirely missing from the draft.", "patched": true},
-  {"id": "ch1210-0060", "type": "awkward", "severity": "minor", "note": "\"He'd been prepared\" uses a banned 'd contraction; it should read \"He had been prepared.\"", "patched": true},
-  {"id": "ch1210-0062", "type": "mistranslation", "severity": "minor", "note": "削弱了数成 means weakened by a fraction (roughly several tenths), but \"weakened by several tiers\" wrongly suggests discrete hierarchical levels rather than a proportional degree.", "patched": true},
-  {"id": "ch1210-0062", "type": "awkward", "severity": "minor", "note": "\"suddenly weakened\" is a third use of \"suddenly\" in the chapter (after 0003 and 0032), exceeding the style guide's budget of at most two.", "patched": true},
-  {"id": "ch1210-0067", "type": "awkward", "severity": "minor", "note": "\"the Sea of Light, which paradoxically rendered\" uses a which-relative banned by the style guide; it should be recast as a participle (\"paradoxically rendering\").", "patched": true}
+  {
+    "id": "ch1210-0005",
+    "type": "awkward",
+    "severity": "minor",
+    "note": "\"the Other Shore, which had dwelt high and unseen, sank in turn\" uses a which-relative, banned by the style guide (\"Avoid which-relatives; recast as a new sentence or a participle\").",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0006",
+    "type": "tone",
+    "severity": "minor",
+    "note": "\"weakened his mighty power by more than half\" leaves \"his\" lowercase, but the referent is the Spell Dao Lord, a Dao Lord, whose pronouns must be capitalized per the divine-pronoun rule (already applied correctly to him in segments 0012-0014).",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0011",
+    "type": "tone",
+    "severity": "minor",
+    "note": "Source \"不该这么快的。\" carries no ‘’ marks, so per the style guide only ‘’-marked interiority renders as italic direct thought; the draft wrongly italicizes it as *It shouldn't be this quick.* instead of rendering it as plain free-indirect narration.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0015",
+    "type": "awkward",
+    "severity": "minor",
+    "note": "\"a strange beast called Taiyi, which possessed formidable deathlessness inherent to it\" uses a banned which-relative and redundantly repeats \"it\" right after \"which\".",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0016",
+    "type": "awkward",
+    "severity": "minor",
+    "note": "\"was merely an Immortal Bridge Great True Monarch, which is why he perished\" uses a banned which-relative; should be split into two beats per the style guide.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0021",
+    "type": "tone",
+    "severity": "minor",
+    "note": "\"the Spell Dao Lord immediately transmitted his confusion\" leaves \"his\" lowercase, but the referent is a Dao Lord and should be capitalized \"His\" per the divine-pronoun rule.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0023",
+    "type": "awkward",
+    "severity": "minor",
+    "note": "\"They'd be even more pleased if someone else had altered history\" reads as referring to \"the other two\" (its nearest antecedent), but 他们 in the source refers to the Sword Sovereign, Vast Sky, and World-Honored One named just before, who are the ones pleased if the culprit isn't their own affiliate.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0026",
+    "type": "terminology",
+    "severity": "major",
+    "note": "The draft calls the fled consciousness \"who\" and refers to it with \"his\"/\"he\" (\"it must be his doing\", \"what he did\"), but the glossary specifies \"it\" for this guided-out consciousness (see the 祖龙/Ancestral Dragon entry: \"'it' for the guided-out consciousness\"), and the chapter context confirms this is that same consciousness that fled under the Primordial Saint's watch.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0028",
+    "type": "tone",
+    "severity": "minor",
+    "note": "Within the same sentence the draft capitalizes \"His eyes\" but lowercases \"as he watched\", both referring to the Primordial Saint; the pronouns should match per the divine-pronoun rule.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0030",
+    "type": "awkward",
+    "severity": "minor",
+    "note": "\"To His view, however, it was something altogether different\" is an unidiomatic collocation; natural English is \"In His view\" or \"To Him\".",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0035",
+    "type": "mistranslation",
+    "severity": "minor",
+    "note": "\"如同一座无底的黑洞\" (like a bottomless black hole) is rendered as \"like a bottomless abyss,\" dropping the specific black-hole image that ties thematically to the surrounding \"sea of stars\" (星辰之海/星海) imagery.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0037",
+    "type": "tone",
+    "severity": "minor",
+    "note": "\"it was he who had changed the False History's course\" leaves \"he\" lowercase, but the referent is the Primordial Saint (confirmed by the following segment naming him again) and should be capitalized \"He\" per the divine-pronoun rule.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0039",
+    "type": "tone",
+    "severity": "minor",
+    "note": "\"this was exactly what he desired\" leaves \"he\" lowercase, but the referent is the Primordial Saint and should be capitalized \"He\" per the divine-pronoun rule.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0052",
+    "type": "tone",
+    "severity": "minor",
+    "note": "The ‘’-marked direct thought \"还是太快了\" (it's still too fast) is a present-moment assessment and should render in present tense per the style guide's rule for direct inner monologue, but the draft uses past tense (\"it was burning through too fast\").",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0060",
+    "type": "terminology",
+    "severity": "minor",
+    "note": "然而就在这时 has a mandated default rendering, \"However, at that very moment.\" (style guide stock-opener table), but the draft uses \"but at that moment\" instead.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0062",
+    "type": "awkward",
+    "severity": "minor",
+    "note": "\"the obstruction from the False History suddenly dropped\" is the third use of \"suddenly\" in the chapter (after 0003 and 0032), exceeding the style guide's budget of at most two per chapter.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0066",
+    "type": "awkward",
+    "severity": "minor",
+    "note": "\"became the straw that broke the camel's back: what brought Lü Yang to this point\" uses a colon to attach an awkward appositive clause; the two ideas read as a strained restatement rather than a clean consequence.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0067",
+    "type": "terminology",
+    "severity": "minor",
+    "note": "入目所见 has a mandated default rendering, \"Before his eyes,\" never a cleft (style guide stock-opener table), but the draft opens with an inverted \"Before him stretched a boundless passage...\" construction instead.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0067",
+    "type": "mistranslation",
+    "severity": "minor",
+    "note": "混沌苍茫 (chaotic and vast/hazy) is rendered as \"primordial and desolate\"; 苍茫 means vast and hazy, not \"desolate\", which wrongly implies bleak emptiness not present in the source.",
+    "patched": true
+  },
+  {
+    "id": "ch1210-0069",
+    "type": "tone",
+    "severity": "minor",
+    "note": "The ‘’-marked direct thought \"就是这里了\" (this is the place) is a present-moment realization and should render in present tense per the style guide's rule for direct inner monologue, but the draft uses past tense (\"This was the place\").",
+    "patched": true
+  }
 ]
