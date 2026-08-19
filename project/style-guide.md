@@ -16,10 +16,8 @@ English sentence, then rhythm and voice.
   sentence or a participle. Subject first; open with a connective (However,
   Thus, At that moment) only at a real logical turn, roughly one sentence
   in ten.
-- Compose at 12-14 words per sentence on average; when a sentence passes
-  about 25 words, end it and start another.
-- Strict paragraph parity: one English paragraph per source segment. Never
-  merge, split, or reorder paragraphs.
+- Let rhythm serve the English: sentence length and paragraph texture may
+  flex wherever the result sounds better and flows more naturally.
 - Contractions by default, in narration as much as dialogue, but no
   contraction ending in 'd (write "he had", "I would").
 - Register follows the speaker. Narration is direct and dignified. The
