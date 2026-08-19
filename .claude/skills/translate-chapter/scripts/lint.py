@@ -29,6 +29,7 @@ import argparse
 import json
 import os
 import re
+import signal
 import statistics
 import sys
 from pathlib import Path
@@ -212,6 +213,8 @@ def run_gate(root: Path, cfg: dict, glossary: dict) -> int:
 
 
 def main() -> None:
+    # die quietly when piped into head/grep instead of tracebacking
+    signal.signal(signal.SIGPIPE, signal.SIG_DFL)
     parser = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("chapter", nargs="?", help="chapter name, e.g. ch012")
