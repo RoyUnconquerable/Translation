@@ -25,6 +25,11 @@ English sentence, then rhythm and voice.
   slang or mild cursing; never formalize or euphemize casual/internet
   diction. Dao Lords and formal speakers are courteous and composed
   (diction, not banned contractions); couplets and wenyan may go archaic.
+  Dao Lord dialogue runs formal and complete: "It is unlikely that...",
+  "Do you not wish to know what it has done?" (owner edits, Ch. 1210).
+- When the Dao Lords act collectively in narration, Their/Them capitalize:
+  "the full might of Their descent... sank with Them" (owner edit, Ch.
+  1210).
 - Be blunt where the source is blunt. Do not smooth a joke or a threat.
 - Restate a name rather than lean on a bare pronoun when two same-gender
   referents share a paragraph. Generic persons take singular they; in
@@ -142,3 +147,8 @@ English sentence, then rhythm and voice.
   At that moment / Immediately after / The next instant" reads as
   translationese. The defaults table covers the beats the source genuinely
   marks; everywhere else, open with the actor.
+- Verbless fragments mid-scene. A beat line gets a subject and a verb: "It
+  was aimed directly at the Primordial Saint.", never "Directed straight at
+  the Primordial Saint." Same for thought-frames: "a thought flashed
+  through His mind", never the clipped "thought raced" (owner edits, Ch.
+  1210). Fragments are reserved for genuinely dramatic standalone beats.

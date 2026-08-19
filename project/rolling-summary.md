@@ -32,7 +32,8 @@ The Dao Lords' combined descent drags the Other Shore down toward the
 mortal world. The Spell Dao Lord, suppressed by the World-Honored One,
 Sword Sovereign, and Vast Sky despite the Spiritual Power Dao Lord's help,
 first suspects Sublime Bliss of changing the False History's flow, then
-publicly redirects suspicion to the consciousness that slipped in under the
+publicly redirects suspicion to the consciousness (pronoun: it/its, owner
+ruling Ch. 1210) that slipped in under the
 Primordial Saint's watch. The Primordial Saint stays silent: He alone sees
 Variables streaming into the False History's dim karma net, and He wants
 more. Lü Yang, borrowing Rampart Earth's power through Fate-Reforming,
