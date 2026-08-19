@@ -138,3 +138,7 @@ English sentence, then rhythm and voice.
   thus", "understanding crystallized", "trained their gaze". Say it the way
   a person would: "just like that", "everything became clear", "had their
   eyes fixed on" (owner edits, Ch. 1209).
+- Transition-word chains: paragraph after paragraph opening on "However /
+  At that moment / Immediately after / The next instant" reads as
+  translationese. The defaults table covers the beats the source genuinely
+  marks; everywhere else, open with the actor.
