@@ -1,18 +1,7 @@
 {
   "chapter": "ch1210",
-  "status": "fail",
-  "fails": [
-    {
-      "check": "glossary",
-      "id": "ch1210-0049",
-      "detail": "source term '踏天' not rendered as any of: Treading the Heavens"
-    },
-    {
-      "check": "glossary",
-      "id": "ch1210-0049",
-      "detail": "source term '位格' not rendered as any of: Status"
-    }
-  ],
+  "status": "pass",
+  "fails": [],
   "warns": [
     {
       "check": "ratio",
@@ -68,6 +57,11 @@
       "check": "ratio",
       "id": "ch1210-0046",
       "detail": "length ratio 4.67 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1210-0049",
+      "detail": "length ratio 5.50 outside bounds [0.6, 4.5]"
     },
     {
       "check": "ratio",
