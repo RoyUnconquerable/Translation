@@ -1,7 +1,18 @@
 {
   "chapter": "ch1210",
-  "status": "pass",
-  "fails": [],
+  "status": "fail",
+  "fails": [
+    {
+      "check": "glossary",
+      "id": "ch1210-0049",
+      "detail": "source term '踏天' not rendered as any of: Treading the Heavens"
+    },
+    {
+      "check": "glossary",
+      "id": "ch1210-0049",
+      "detail": "source term '位格' not rendered as any of: Status"
+    }
+  ],
   "warns": [
     {
       "check": "ratio",
@@ -41,7 +52,7 @@
     {
       "check": "ratio",
       "id": "ch1210-0027",
-      "detail": "length ratio 1.67 far from chapter median 3.77"
+      "detail": "length ratio 1.67 far from chapter median 3.81"
     },
     {
       "check": "ratio",
@@ -60,11 +71,6 @@
     },
     {
       "check": "ratio",
-      "id": "ch1210-0049",
-      "detail": "length ratio 5.30 outside bounds [0.6, 4.5]"
-    },
-    {
-      "check": "ratio",
       "id": "ch1210-0053",
       "detail": "length ratio 4.55 outside bounds [0.6, 4.5]"
     },
@@ -76,17 +82,17 @@
     {
       "check": "ratio",
       "id": "ch1210-0057",
-      "detail": "length ratio 1.43 far from chapter median 3.77"
+      "detail": "length ratio 1.43 far from chapter median 3.81"
     },
     {
       "check": "ratio",
       "id": "ch1210-0061",
-      "detail": "length ratio 1.00 far from chapter median 3.77"
+      "detail": "length ratio 1.00 far from chapter median 3.81"
     },
     {
       "check": "ratio",
       "id": "ch1210-0069",
-      "detail": "length ratio 1.62 far from chapter median 3.77"
+      "detail": "length ratio 1.62 far from chapter median 3.81"
     },
     {
       "check": "ratio",

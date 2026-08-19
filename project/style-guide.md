@@ -45,6 +45,14 @@ English sentence, then rhythm and voice.
 - Straight ASCII double quotes only. Corner brackets 「」 and 『』 become
   straight double quotes; nested or scare quotes inside speech use single
   quotes. Terminal punctuation goes inside the closing quote.
+- Speech is never italicized. A “”-quoted line in an exchange between
+  characters is spoken dialogue in straight quotes, even with no tag; only
+  ‘’-marked interiority renders as *italic* thought. The one latitude: a
+  solitary speaker's self-muttering may render as thought (owner practice,
+  Ch. 1209).
+- A hard scene change (different place, different people, or a jump in
+  time) is marked by a line containing only --- before the new scene's
+  opening paragraph.
 - A source paragraph that is entirely a 【...】 line renders plain, Title
   Case, keeping the source line's terminal punctuation (a period by
   default): no bold, no brackets. An inline 【X】 inside
@@ -85,6 +93,19 @@ English sentence, then rhythm and voice.
   zhang, jin, mu; avoid meters.
 - American spelling throughout; "toward", never "towards"; "farther" for
   physical distance; serial comma always.
+- Capitalize Yin and Yang.
+- Breakthrough cascades and list-beats join with commas, not periods:
+  "True Monarch, mid-stage True Monarch, Great True Monarch!" (owner edit,
+  Ch. 1209).
+
+## Default renderings (stock beat-openers, always the same)
+
+- 然而就在这时 = "However, at that very moment."
+- 下一秒 / 下一瞬 = "The next instant,"
+- 霎时间 / 刹那间 = "In an instant,"
+- 与此同时 / 同时 = "At the same time,"
+- 就这样 = "just like that" (never bookish "thus")
+- 入目所见 = "Before his eyes," (never a cleft)
 
 ## Banned habits (translationese you never want)
 
@@ -113,3 +134,7 @@ English sentence, then rhythm and voice.
   translated text. Concerns go in the closing report, never on the page.
 - Repeating a distinctive phrase within a chapter, or a word within a
   paragraph, when the source did not repeat it on purpose.
+- Bookish or compressed narration where plain English is wanted: "wandered
+  thus", "understanding crystallized", "trained their gaze". Say it the way
+  a person would: "just like that", "everything became clear", "had their
+  eyes fixed on" (owner edits, Ch. 1209).

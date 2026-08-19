@@ -24,7 +24,7 @@ holding a million God-Sealing Method incense believers, reconnects his Dao
 Lineage through Divine Offerings to the Heavenly Palace, and rockets to
 Treading the Heavens, masked by his Mountaintop Fire identity. He then
 anchors Rampart Earth's karmic light a thousand years into the past. The
-Dao Lords outside freeze: the flow of history has been changed.
+Dao Lords outside freeze: the course of history has been changed.
 
 ## Chapter 1210
 
