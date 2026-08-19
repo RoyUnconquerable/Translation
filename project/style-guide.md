@@ -46,7 +46,8 @@ English sentence, then rhythm and voice.
   straight double quotes; nested or scare quotes inside speech use single
   quotes. Terminal punctuation goes inside the closing quote.
 - A source paragraph that is entirely a 【...】 line renders plain, Title
-  Case, ending with a period: no bold, no brackets. An inline 【X】 inside
+  Case, keeping the source line's terminal punctuation (a period by
+  default): no bold, no brackets. An inline 【X】 inside
   prose likewise drops brackets and bold.
 - Prefer action beat + quote in one paragraph, or a bare quote paragraph.
   Speech tags are rare; only said / asked / replied; a tag takes a comma
