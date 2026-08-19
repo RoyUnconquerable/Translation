@@ -116,6 +116,11 @@ English sentence, then rhythm and voice.
 
 - Em dashes, en dashes, curly quotes, and the single-glyph ellipsis (three
   periods instead). Semicolons: at most two per chapter, prefer zero.
+- Contractions ending in 'd - "he'd", "I'd", "they'd" - are BANNED without
+  exception, narration and dialogue alike: always write the full form ("he
+  had", "I would"). Other contractions (n't forms especially) stay welcome.
+  This rule has been violated and owner-corrected twice; check for it
+  explicitly in the self-review pass (owner reassertion, Ch. 1210).
 - "and yet" - never; bare "yet" or "but".
 - Comma splices in narration; split into two beats.
 - Reflex fillers, budgeted per chapter: at most one each of "actually",

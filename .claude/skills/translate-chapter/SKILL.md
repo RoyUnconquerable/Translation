@@ -70,9 +70,20 @@ its closing report to the user at the next natural pause.
 
 If there are failures: re-invoke `chapter-drafter` in MODE B with ONLY the
 failing ids and their lint details (from `work/<chapter>.lint.json`), then
-re-run lint. Repeat until zero failures. Warnings are for your judgment:
-scan them, note real risks (a ratio outlier is how omissions and padding
-show up), ignore the benign ones.
+re-run lint. Repeat until zero failures. Batch every failing id into ONE
+Mode B round per cycle. Warnings are for your judgment: scan them, note
+real risks (a ratio outlier is how omissions and padding show up), ignore
+the benign ones.
+
+Cost discipline:
+- Punctuation-only warnings (em dashes, curly quotes) are NOT worth a
+  drafter round. Hand them to the reviewer's task list in stage 6; it reads
+  every line anyway.
+- When the exact final text of a line is already decided - the owner's own
+  wording, or a mechanical fix like casing or a lost quote mark - apply it
+  with `scripts/patch.py <chapter> --set <id> "<tgt>"` instead of spawning
+  an agent. patch.py re-lints automatically. Anything requiring translation
+  judgment still goes through Mode B.
 
 ### 5. Commit point 1
 
@@ -84,6 +95,15 @@ Spawn the `chapter-reviewer` agent with the chapter name. It writes
 `work/<chapter>.issues.json`, then patches only the flagged segments in the
 draft. The reviewer must always have the segments file available: it judges
 the draft against the source, never on its own.
+
+Reviewer spawn protocol (a stalled run once burned its entire output budget
+on deliberation before writing a byte - these are mandatory):
+- Batch the chapter into ranges of ~18 segments; findings are written to
+  disk after EVERY batch.
+- Tell it explicitly: keep internal deliberation minimal, act through tool
+  calls, judgment lives in the recorded issues and patches, not in
+  reasoning.
+- Include any punctuation warnings from stage 4 in its task list.
 
 Re-run lint afterward. If a patch broke a check, run the stage-4 failure
 loop again until clean.
