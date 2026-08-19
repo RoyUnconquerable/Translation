@@ -1,0 +1,9 @@
+{
+  "source_lang": "zh",
+  "target_lang": "en",
+  "source_script": "cjk",
+  "strict_numbers": false,
+  "ratio_bounds": [0.6, 4.5],
+  "allowed_source_chars": "",
+  "term_min_count": 3
+}
