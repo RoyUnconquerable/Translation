@@ -10,13 +10,8 @@
     },
     {
       "check": "ratio",
-      "id": "ch1210-0011",
-      "detail": "length ratio 5.71 outside bounds [0.6, 4.5]"
-    },
-    {
-      "check": "ratio",
       "id": "ch1210-0013",
-      "detail": "length ratio 4.74 outside bounds [0.6, 4.5]"
+      "detail": "length ratio 4.70 outside bounds [0.6, 4.5]"
     },
     {
       "check": "ratio",
@@ -26,7 +21,7 @@
     {
       "check": "ratio",
       "id": "ch1210-0016",
-      "detail": "length ratio 5.00 outside bounds [0.6, 4.5]"
+      "detail": "length ratio 5.11 outside bounds [0.6, 4.5]"
     },
     {
       "check": "ratio",
@@ -36,37 +31,27 @@
     {
       "check": "ratio",
       "id": "ch1210-0025",
-      "detail": "length ratio 7.40 outside bounds [0.6, 4.5]"
+      "detail": "length ratio 8.40 outside bounds [0.6, 4.5]"
     },
     {
       "check": "ratio",
       "id": "ch1210-0027",
-      "detail": "length ratio 1.67 far from chapter median 3.81"
+      "detail": "length ratio 1.67 far from chapter median 3.75"
     },
     {
       "check": "ratio",
-      "id": "ch1210-0029",
-      "detail": "length ratio 4.80 outside bounds [0.6, 4.5]"
+      "id": "ch1210-0038",
+      "detail": "length ratio 4.56 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1210-0041",
+      "detail": "length ratio 5.30 outside bounds [0.6, 4.5]"
     },
     {
       "check": "ratio",
       "id": "ch1210-0043",
-      "detail": "length ratio 5.46 outside bounds [0.6, 4.5]"
-    },
-    {
-      "check": "ratio",
-      "id": "ch1210-0046",
-      "detail": "length ratio 4.67 outside bounds [0.6, 4.5]"
-    },
-    {
-      "check": "ratio",
-      "id": "ch1210-0049",
-      "detail": "length ratio 5.50 outside bounds [0.6, 4.5]"
-    },
-    {
-      "check": "ratio",
-      "id": "ch1210-0053",
-      "detail": "length ratio 4.55 outside bounds [0.6, 4.5]"
+      "detail": "length ratio 5.38 outside bounds [0.6, 4.5]"
     },
     {
       "check": "ratio",
@@ -75,27 +60,17 @@
     },
     {
       "check": "ratio",
-      "id": "ch1210-0057",
-      "detail": "length ratio 1.43 far from chapter median 3.81"
-    },
-    {
-      "check": "ratio",
       "id": "ch1210-0061",
-      "detail": "length ratio 1.00 far from chapter median 3.81"
-    },
-    {
-      "check": "ratio",
-      "id": "ch1210-0069",
-      "detail": "length ratio 1.62 far from chapter median 3.81"
-    },
-    {
-      "check": "ratio",
-      "id": "ch1210-0071",
-      "detail": "length ratio 4.56 outside bounds [0.6, 4.5]"
+      "detail": "length ratio 1.00 far from chapter median 3.75"
     },
     {
       "check": "ratio",
       "id": "ch1210-0072",
+      "detail": "length ratio 4.87 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1210-0073",
       "detail": "length ratio 4.53 outside bounds [0.6, 4.5]"
     }
   ]
