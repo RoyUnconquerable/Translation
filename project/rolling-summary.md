@@ -5,13 +5,26 @@ last; trim the whole file to stay near 250 words after each update.
 
 ## Through Chapter 1205 (condensed)
 
-Sublime Bliss's true body is Taiyi, a deathless collective of consciousness
-bodies; his Dao Heart is flawed (perfection tier only). Lü Yang trapped him
-in a dream replaying the Saint Sect newbie arc, destroyed one strand of his
-consciousness, and now covets Yellow Millet, the dream plane. He teleported
-the whole Old Lord Temple away ahead of a retaliatory strike; his
-cultivation is still short of his prime, so he avoids a direct meeting.
-Sublime Bliss is tracing the Yellow Millet's connection toward him.
+Sublime Bliss (true body: Taiyi, a deathless collective) was dream-trapped
+by Lü Yang, who destroyed one strand of his consciousness and covets Yellow
+Millet, the dream plane. Lü Yang teleported the Old Lord Temple away ahead
+of a strike; his cultivation was short of his prime. Sublime Bliss traces
+the Yellow Millet's connection toward him.
+
+## Chapter 1209 (story order: precedes 1210)
+
+The Nameless Dao Lord prowls the False History unseen; only Extreme Heaven
+Cliff in Jiangnan, held by a half-transcendent consciousness, bars Him. He
+finds Skyward's hidden Grotto-Heaven, the Achieving Dao Hidden Profound
+Manor, surfacing, and thirty years of history records excised: he suspects
+Skyward is working with the record-cutter (Saint Sect with Sword Pavilion).
+Lü Yang slips in the back door, unseals Rampart Earth from behind Skyward's
+inverted Open/Closed door and Cognitive Barrier, reclaims a glazed sphere
+holding a million God-Sealing Method incense believers, reconnects his Dao
+Lineage through Divine Offerings to the Heavenly Palace, and rockets to
+Treading the Heavens, masked by his Mountaintop Fire identity. He then
+anchors Rampart Earth's karmic light a thousand years into the past. The
+Dao Lords outside freeze: the flow of history has been changed.
 
 ## Chapter 1210
 
