@@ -33,13 +33,23 @@ Sanity-check the printed stats; a web-novel chapter is usually 30-120 segments.
     python3 .claude/skills/translate-chapter/scripts/glossary.py candidates <chapter>
 
 Etiquette:
-- Curate the raw list yourself: drop grammar fragments and common words, keep
-  real names, techniques, realms, artifacts, recurring set phrases.
+- Curate the raw list yourself: drop grammar fragments and empty function
+  words, keep real names, techniques, realms, artifacts, recurring set
+  phrases - AND recurring ordinary vocabulary that could drift between fair
+  alternatives (异常 anomaly/aberration, 气息 aura/breath). The glossary is
+  the pipeline's memory, and it is not just for proper nouns.
+- Candidates count cumulatively across all chapters and carry precedent
+  lines showing how earlier chapters rendered the term. Consistency
+  outranks novelty: where a precedent exists, propose the established
+  rendering unless the user overrules it.
 - Propose a rendering for each keeper, then present the batch to the user and
   WAIT for approval. The script proposes strings and counts; the model
   curates; the human approves.
 - Batch ALL questions for the user here - term renderings, source
   ambiguities, style calls. The later stages run unattended.
+- After changing an existing rendering with `--force`, run
+  `lint.py --all`: it re-checks every earlier draft against the new rule
+  and lists exactly which old segments now need repair.
 - Record each approved term:
 
       python3 .claude/skills/translate-chapter/scripts/glossary.py add <source> <target> [--note "..."]

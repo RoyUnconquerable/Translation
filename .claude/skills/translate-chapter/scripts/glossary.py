@@ -119,6 +119,43 @@ def sample_context(segments: list[dict], term: str, width: int = 18) -> tuple[st
     return "", ""
 
 
+def load_archive(root: Path, current_chapter: str) -> list[tuple[str, list[dict], dict]]:
+    """Earlier chapters' segments and drafted targets, for cross-chapter memory."""
+    archive = []
+    suffix = ".segments.jsonl"
+    for seg_path in sorted((root / "work").glob(f"*{suffix}")):
+        chapter = seg_path.name[: -len(suffix)]
+        if chapter == current_chapter:
+            continue
+        try:
+            segments = common.read_jsonl(seg_path)
+        except ValueError:
+            continue
+        tgt_by_id: dict = {}
+        draft_path = root / "work" / f"{chapter}.draft.jsonl"
+        if draft_path.is_file():
+            try:
+                tgt_by_id = {row.get("id"): row.get("tgt", "")
+                             for row in common.read_jsonl(draft_path)}
+            except ValueError:
+                pass
+        archive.append((chapter, segments, tgt_by_id))
+    return archive
+
+
+def find_precedent(archive: list, term: str, width: int = 90) -> tuple[str, str] | None:
+    """First earlier segment containing the term, with its English rendering."""
+    for _chapter, segments, tgt_by_id in archive:
+        for seg in segments:
+            if term in seg.get("src", ""):
+                tgt = (tgt_by_id.get(seg.get("id")) or "").strip()
+                if tgt:
+                    if len(tgt) > width:
+                        tgt = tgt[:width] + "..."
+                    return seg.get("id", ""), tgt
+    return None
+
+
 def cmd_candidates(args: argparse.Namespace) -> int:
     root = common.find_root()
     cfg = common.load_config(root)
@@ -128,25 +165,44 @@ def cmd_candidates(args: argparse.Namespace) -> int:
         raise SystemExit(f"error: no segments file for '{args.chapter}'; run segment.py first")
     segments = common.read_jsonl(seg_path)
     texts = [seg.get("src", "") for seg in segments]
-    text = "\n".join(texts)
     min_count = int(cfg.get("term_min_count", 3))
 
-    if cfg.get("source_script", "cjk") == "cjk":
-        counts = cjk_ngram_counts(texts)
-    else:
-        counts = latin_seq_counts(texts)
-    candidates = pick_candidates(counts, list(glossary), text, min_count)
+    archive = load_archive(root, args.chapter)
+    archive_texts = [seg.get("src", "") for _, asegs, _ in archive for seg in asegs]
+
+    is_cjk_mode = cfg.get("source_script", "cjk") == "cjk"
+    count_fn = cjk_ngram_counts if is_cjk_mode else latin_seq_counts
+    counts = count_fn(texts)
+    archive_counts = count_fn(archive_texts) if archive_texts else Counter()
+
+    # Cross-chapter memory: a term qualifies when its CUMULATIVE frequency
+    # across all chapters reaches the floor, as long as it appears in this
+    # chapter - recurring vocabulary that shows up once per chapter still
+    # surfaces for a consistency ruling instead of drifting silently.
+    combined = Counter(counts)
+    combined.update({g: c for g, c in archive_counts.items() if g in counts})
+    text_all = "\n".join(texts + archive_texts)
+    candidates = pick_candidates(combined, list(glossary), text_all, min_count)
 
     if not candidates:
         print(f"no new candidates in {args.chapter} at term_min_count={min_count}")
         return 0
     print(f"{len(candidates)} candidate(s) in {args.chapter} "
-          f"(frequency >= {min_count}, longest match preferred, glossary excluded):")
+          f"(cumulative frequency >= {min_count}, longest match preferred, "
+          "glossary excluded):")
     for term in candidates:
         seg_id, snippet = sample_context(segments, term)
-        print(f"  {term}\tx{counts[term]}\t[{seg_id}] {snippet}")
+        line = f"  {term}\tx{counts[term]}"
+        if archive_counts.get(term):
+            line += f" (+{archive_counts[term]} earlier)"
+        print(f"{line}\t[{seg_id}] {snippet}")
+        precedent = find_precedent(archive, term)
+        if precedent:
+            print(f"      precedent [{precedent[0]}] {precedent[1]}")
     print("\nCurate this list, propose renderings, and get the user's approval; "
-          "then record each with: glossary.py add <source> <target> [--note ...]")
+          "then record each with: glossary.py add <source> <target> [--note ...]\n"
+          "Consistency outranks novelty: where a precedent line shows an earlier "
+          "rendering, propose that rendering unless the user overrules it.")
     return 0
 
 
