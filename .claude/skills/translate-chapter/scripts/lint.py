@@ -48,6 +48,29 @@ def digit_seqs(text: str) -> list[str]:
     return [m.group(0).replace(",", "") for m in NUM_RE.finditer(text)]
 
 
+def _all_occurrences_excepted(src: str, term: str, exceptions: list[str]) -> bool:
+    """True when every occurrence of term in src sits inside an exception
+    context (a longer string, from the glossary row's [except: ...] note,
+    in which the term match is a word-boundary accident)."""
+    spans = []
+    for exc in exceptions:
+        start = 0
+        while True:
+            idx = src.find(exc, start)
+            if idx == -1:
+                break
+            spans.append((idx, idx + len(exc)))
+            start = idx + 1
+    pos = 0
+    while True:
+        idx = src.find(term, pos)
+        if idx == -1:
+            return True
+        if not any(lo <= idx and idx + len(term) <= hi for lo, hi in spans):
+            return False
+        pos = idx + 1
+
+
 def lint_chapter(root: Path, cfg: dict, glossary: dict, chapter: str) -> dict:
     """Run every check for one chapter, write its lint.json, return the report."""
     fails: list[dict] = []
@@ -128,9 +151,13 @@ def lint_chapter(root: Path, cfg: dict, glossary: dict, chapter: str) -> dict:
 
         tgt_lower = tgt.lower()
         for entry in glossary.values():
-            if entry["source"] in src and not any(
-                variant.lower() in tgt_lower for variant in entry["variants"]
+            if entry["source"] not in src:
+                continue
+            if entry.get("exceptions") and _all_occurrences_excepted(
+                src, entry["source"], entry["exceptions"]
             ):
+                continue
+            if not any(variant.lower() in tgt_lower for variant in entry["variants"]):
                 fail("glossary", rid,
                      f"source term '{entry['source']}' not rendered as any of: {entry['target']}")
 

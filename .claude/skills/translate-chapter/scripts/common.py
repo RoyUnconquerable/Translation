@@ -8,6 +8,7 @@ finds project/config.json.
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 DEFAULT_CONFIG = {
@@ -124,10 +125,21 @@ def load_glossary(root: Path | None = None) -> dict[str, dict]:
                 continue  # malformed row; the add subcommand never writes these
             source = cols[0].strip()
             target = cols[1].strip()
+            notes = cols[2].strip() if len(cols) > 2 else ""
+            # "[except: A|B]" in the notes lists longer contexts in which an
+            # occurrence of the source term is a word-boundary accident
+            # (e.g. 合道 inside 配合道行) and must not be enforced by lint.
+            exceptions = [
+                item.strip()
+                for group in re.findall(r"\[except:\s*([^\]]+)\]", notes)
+                for item in group.split("|")
+                if item.strip()
+            ]
             entries[source] = {
                 "source": source,
                 "target": target,
                 "variants": [v.strip() for v in target.split("|") if v.strip()],
-                "notes": cols[2].strip() if len(cols) > 2 else "",
+                "notes": notes,
+                "exceptions": exceptions,
             }
     return entries
