@@ -1,0 +1,72 @@
+{
+  "chapter": "ch1209",
+  "status": "pass",
+  "fails": [],
+  "warns": [
+    {
+      "check": "ratio",
+      "id": "ch1209-0002",
+      "detail": "length ratio 6.00 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0004",
+      "detail": "length ratio 5.30 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0010",
+      "detail": "length ratio 5.07 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0011",
+      "detail": "length ratio 4.61 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0015",
+      "detail": "length ratio 1.00 far from chapter median 3.57"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0017",
+      "detail": "length ratio 1.50 far from chapter median 3.57"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0020",
+      "detail": "length ratio 5.00 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0040",
+      "detail": "length ratio 4.93 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0060",
+      "detail": "length ratio 5.08 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0080",
+      "detail": "length ratio 4.75 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0081",
+      "detail": "length ratio 6.22 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0082",
+      "detail": "length ratio 7.00 outside bounds [0.6, 4.5]"
+    },
+    {
+      "check": "ratio",
+      "id": "ch1209-0087",
+      "detail": "length ratio 1.00 far from chapter median 3.57"
+    }
+  ]
+}

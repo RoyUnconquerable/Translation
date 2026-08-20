@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "last_updated": "2026-08-19",
+  "source_snapshot": {
+    "repository": "RoyUnconquerable/Translation",
+    "branch": "claude/translation-pipeline-build-3gdy6r",
+    "commit": "405e61125ba6abc935cbc56eaf1ccbf57c3fb091",
+    "archive_branch": "archive/claude-pipeline-2026-08-19"
+  },
+  "latest_finalized": "ch1210",
+  "next_expected": "ch1211",
+  "chapters": {
+    "ch1209": {
+      "story_order": 1209,
+      "status": "final",
+      "segments": 91,
+      "issues": 10,
+      "flagged_segments": 10,
+      "patched_segments": 10,
+      "lint_status": "pass",
+      "lint_warnings": 13,
+      "owner_final_applied": true
+    },
+    "ch1210": {
+      "story_order": 1210,
+      "status": "final",
+      "segments": 74,
+      "issues": 20,
+      "flagged_segments": 19,
+      "patched_segments": 19,
+      "lint_status": "pass",
+      "lint_warnings": 19,
+      "owner_final_applied": true
+    }
+  }
+}

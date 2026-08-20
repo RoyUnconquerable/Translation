@@ -1,0 +1,30 @@
+name: ChatGPT pipeline QA
+
+on:
+  push:
+    paths:
+      - "chatgpt/**"
+      - ".github/workflows/chatgpt-pipeline-qa.yml"
+  pull_request:
+    paths:
+      - "chatgpt/**"
+      - ".github/workflows/chatgpt-pipeline-qa.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Lint every migrated chapter
+        run: python chatgpt/scripts/lint.py --all
+      - name: Validate chapter state and assembled output
+        run: python chatgpt/scripts/state.py

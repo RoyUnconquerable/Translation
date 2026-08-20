@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "source_commit": "405e61125ba6abc935cbc56eaf1ccbf57c3fb091",
+  "hash_algorithm": "git-blob-sha1",
+  "note": "Matching Git blob IDs prove the initial ChatGPT handoff copied the Claude state without content changes. Later ChatGPT work is expected to diverge.",
+  "files": [
+    {"from": "project/config.json", "to": "chatgpt/config.json", "git_blob_sha": "c081c6e1a6b361dda721b70878867c4eb3b61ee0"},
+    {"from": "project/glossary.tsv", "to": "chatgpt/glossary/terminology.tsv", "git_blob_sha": "7ab78a89e67c9ec069cf07ff8835415326a36792"},
+    {"from": "project/style-guide.md", "to": "chatgpt/reference/style-guide.md", "git_blob_sha": "4e3e3c4ab31b798e00f34001d2d66e01381e6247"},
+    {"from": "project/rolling-summary.md", "to": "chatgpt/reference/continuity.md", "git_blob_sha": "13c7541e901236e2137e1d99e2ba8820dbed55fe"},
+    {"from": "source/ch1209.txt", "to": "chatgpt/chapters/source/ch1209.txt", "git_blob_sha": "92861dc42d54515ad304c3145d92737f88d88112"},
+    {"from": "source/ch1210.txt", "to": "chatgpt/chapters/source/ch1210.txt", "git_blob_sha": "d4c1ae01def64e7241bc55b59e7597b5701a8ee5"},
+    {"from": "work/ch1209.segments.jsonl", "to": "chatgpt/chapters/work/ch1209.segments.jsonl", "git_blob_sha": "cda3b8fd1bfee86f7a2bd3fc88b91fc921c9907f"},
+    {"from": "work/ch1209.draft.jsonl", "to": "chatgpt/chapters/work/ch1209.draft.jsonl", "git_blob_sha": "c6fe9f18ad03735a2a1c0598531dee7ef36b927a"},
+    {"from": "work/ch1209.issues.json", "to": "chatgpt/chapters/work/ch1209.issues.json", "git_blob_sha": "a77ffff2ed1bc194e3ef190c83acb987888ba963"},
+    {"from": "work/ch1209.lint.json", "to": "chatgpt/chapters/work/ch1209.lint.json", "git_blob_sha": "b3eae8b24ada2da6795fe4e1acd8a8966d6da63d"},
+    {"from": "work/ch1210.segments.jsonl", "to": "chatgpt/chapters/work/ch1210.segments.jsonl", "git_blob_sha": "d329aeb2bb8a03804f4b94d251c2d2c3a1d263c7"},
+    {"from": "work/ch1210.draft.jsonl", "to": "chatgpt/chapters/work/ch1210.draft.jsonl", "git_blob_sha": "e2690ec7f683198b977de740240a11b6a6be4d0a"},
+    {"from": "work/ch1210.issues.json", "to": "chatgpt/chapters/work/ch1210.issues.json", "git_blob_sha": "6d60488c325a8e477e0ba8093087a012fd9e3a1e"},
+    {"from": "work/ch1210.lint.json", "to": "chatgpt/chapters/work/ch1210.lint.json", "git_blob_sha": "e2f3e4bd265871df886d5c0a8f69cee8aeef1113"},
+    {"from": "work/telemetry.csv", "to": "chatgpt/chapters/work/telemetry.csv", "git_blob_sha": "b485d8f759d316a33490053078731045d25d69d8"},
+    {"from": "output/ch1209.en.txt", "to": "chatgpt/chapters/final/ch1209.en.txt", "git_blob_sha": "ac6b932743f6a9d1c2d048aa2d843d566244dd1a"},
+    {"from": "output/ch1210.en.txt", "to": "chatgpt/chapters/final/ch1210.en.txt", "git_blob_sha": "0f1fcc72d659446fcedf2052017e76ce718d6cb1"}
+  ]
+}
