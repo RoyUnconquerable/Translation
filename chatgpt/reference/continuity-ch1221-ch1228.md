@@ -1,6 +1,6 @@
-# Chat Translation Continuity, Chapters 1221 to 1229
+# Chat Translation Continuity, Chapters 1221 to 1230
 
-This supplement records owner-reviewed chat translations that were intentionally not added as chapter files. Read it after `continuity.md` before continuing with Chapter 1230.
+This supplement records owner-reviewed chat translations that were intentionally not added as chapter files. Read it after `continuity.md` before continuing with Chapter 1231.
 
 The Nether Whisper Ancestor returns to the forefront and overwhelms the six Dragon Monarchs. The Cangjiang Dragon Monarch revives because his life is entrusted to the Immortal Pivot, but the cause and memories of his death are erased. He flees to the Old Dragon Monarch and finds the Qujian Dragon Monarch beheaded but kept alive by Demon-Purging True Person.
 
@@ -11,3 +11,5 @@ Lü Yang deduces that the Nameless Dao Lord was born from the World-Honored One'
 Outside the False History, the Sword Sovereign, the World-Honored One, and Vast Sky consider accelerating the Primordial Saint's Divine Transformation and Ascension plan through the Nascent Soul Pill. The Primordial Saint anticipates this. At 129,600 years before the False History, the Cultivating Truth Dao Lord and Lü Yang reach a five-colored lock and the black vortex containing Si Sui.
 
 Inside the vortex, status and ordinary temporal order collapse. The Cultivating Truth Dao Lord shields Lü Yang as they cross shattered fragments of time, where a single step can advance or reverse thousands of years of lifespan. Si Sui's repeated strikes against the seal reveal the correct fragment at exactly 129,600 years in the past. When Lü Yang's borrowed Foundation Establishment soul begins to vanish, Si Sui grants it more than 200,000 years of lifespan. They arrive before a three-story pavilion, where a young, teacher-like Si Sui greets both Fellow Daoists in person.
+
+Si Sui restores a physical body to Lü Yang's puppet through the Dharma Body Dao and immediately recognizes the Cultivating Truth Dao Lord's origins, lack of a foundation anchoring Him in the world, and resulting Primordial Spirit flaws. He draws both visitors into a quiet room and expounds the Dao. The lecture enthralls the Cultivating Truth Dao Lord but means nothing to Lü Yang, whose complete lack of wisdom light Si Sui notices at once. Si Sui says he expected later successors even though he does not recognize Lü Yang, then reveals that the apparent paradise is only an illusion within his sea of consciousness. In reality, he is still hammering the dark seal without pause.
