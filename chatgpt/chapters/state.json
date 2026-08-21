@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-21",
   "source_snapshot": {
     "repository": "RoyUnconquerable/Translation",
     "branch": "claude/translation-pipeline-build-3gdy6r",
@@ -9,6 +9,15 @@
   },
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
+  "chat_translation_handoff": {
+    "latest_translated_in_chat": "ch1228",
+    "chapter_files_committed": false,
+    "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1228.tsv",
+    "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1228.md",
+    "continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
+    "next_chat_chapter": "ch1229",
+    "instruction": "Read all three supplements before translating later chapters. Keep chapter prose in chat unless the owner explicitly requests repository chapter files."
+  },
   "chapters": {
     "ch1209": {
       "story_order": 1209,
