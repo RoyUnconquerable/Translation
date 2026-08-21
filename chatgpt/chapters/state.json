@@ -10,13 +10,13 @@
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
   "chat_translation_handoff": {
-    "latest_translated_in_chat": "ch1232",
+    "latest_translated_in_chat": "ch1233",
     "chapter_files_committed": false,
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1228.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
-    "next_chat_chapter": "ch1233",
-    "instruction": "Read all three supplements before translating later chapters. The supplement contents now extend through Chapter 1232 despite their retained filenames. Keep chapter prose in chat unless the owner explicitly requests repository chapter files."
+    "next_chat_chapter": "ch1234",
+    "instruction": "Read all three supplements before translating later chapters. The supplement contents now extend through Chapter 1233 despite their retained filenames. Preserve one target paragraph per source paragraph, italicize explicit and unmistakable implicit internal thought, capitalize True Self, and keep chapter prose in chat unless the owner explicitly requests repository chapter files."
   },
   "chapters": {
     "ch1209": {
