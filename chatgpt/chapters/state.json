@@ -10,13 +10,13 @@
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
   "chat_translation_handoff": {
-    "latest_translated_in_chat": "ch1239",
+    "latest_translated_in_chat": "ch1240",
     "chapter_files_committed": false,
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1228.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1228.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
-    "next_chat_chapter": "ch1240",
+    "next_chat_chapter": "ch1241",
     "pending_term_approval": {
       "天帝": "Heavenly Emperor",
       "补天道": "Heaven-Mending Dao"
