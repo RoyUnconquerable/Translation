@@ -10,13 +10,18 @@
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
   "chat_translation_handoff": {
-    "latest_translated_in_chat": "ch1238",
+    "latest_translated_in_chat": "ch1239",
     "chapter_files_committed": false,
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1228.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1228.md",
-    "continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
-    "next_chat_chapter": "ch1239",
-    "instruction": "Read all three supplements before translating later chapters. The supplement contents now extend through Chapter 1238 despite their retained filenames. Preserve one target paragraph per source paragraph, italicize explicit and unmistakable implicit internal thought, capitalize True Self, choose Variable or Variables according to whether the source means one individual or multiple/the general class, and keep chapter prose in chat unless the owner explicitly requests repository chapter files."
+    "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
+    "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
+    "next_chat_chapter": "ch1240",
+    "pending_term_approval": {
+      "天帝": "Heavenly Emperor",
+      "补天道": "Heaven-Mending Dao"
+    },
+    "instruction": "Read the terminology supplement, style supplement, prior continuity supplement, and current continuity supplement before translating later chapters. Preserve one target paragraph per source paragraph, italicize explicit and unmistakable implicit internal thought, capitalize True Self, choose Variable or Variables according to whether the source means one individual or multiple/the general class, and keep chapter prose in chat unless the owner explicitly requests repository chapter files. Do not add pending terms to the canonical glossary until the owner approves or corrects them."
   },
   "chapters": {
     "ch1209": {
