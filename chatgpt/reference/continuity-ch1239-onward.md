@@ -21,3 +21,13 @@ Lü Yang's true soul awakens inside the Achieving Dao Hidden Profound Manor and 
 The Old Dragon Monarch rolls over to thank Lü Yang for saving him from Bu Tianque. Lü Yang promises that none of the six Dragon Monarchs will die, making the Old Dragon Monarch more wary because their lives remain entrusted to the Heavenly Lord and death would permit revival. Lü Yang looks toward the Heavenly Lord's consciousness outside the Grotto-Heaven, identifies it as the irreconcilable obstacle to remaking heaven and earth, and declares that he shall seal Heaven.
 
 Title rendering used in chat: `我欲封天` = `I Shall Seal Heaven`. This is a chapter-title rendering, not a canonical terminology ruling.
+
+## Chapter 1241
+
+Lü Yang's declaration that he will seal Heaven provokes the Heavenly Lord's wrath, but he dismisses the display as empty intimidation from an innately divine being that possesses immense power without knowing how to wield it. He shows the Old Dragon Monarch the White Jade Capital and explains that he has already sealed the heaven of the Achieving Dao Hidden Profound Manor. He intends to extend the result across the Immortal Pivot, beginning with the Overseas and Jiangxi.
+
+The Old Dragon Monarch doubts Lü Yang can take Jiangxi, the final territory of the Three Foundations. Lü Yang calls Pan Huang forward. After confirming that Lü Yang's recording of Si Sui is genuine, Pan Huang offers Jiangxi without hesitation so Lü Yang can fulfill his ambition, even if every Three Foundations cultivator must sacrifice themselves.
+
+Lü Yang addresses the Old Dragon Monarch by his name, Ao Guang, and offers the six Dragon Monarchs one final chance. Although their True Spirits and lives are controlled by the Heavenly Lord, Lü Yang promises that the God-Sealing Method will let him take charge of their lives instead. With thunder raging outside the Grotto-Heaven, he declares: rather than serve Heaven, worship him.
+
+Title rendering used in chat: `祀我` = `Worship Me!`. This is a chapter-title rendering, not a canonical terminology ruling.
