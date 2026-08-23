@@ -31,3 +31,15 @@ The Old Dragon Monarch doubts Lü Yang can take Jiangxi, the final territory of 
 Lü Yang addresses the Old Dragon Monarch by his name, Ao Guang, and offers the six Dragon Monarchs one final chance. Although their True Spirits and lives are controlled by the Heavenly Lord, Lü Yang promises that the God-Sealing Method will let him take charge of their lives instead. With thunder raging outside the Grotto-Heaven, he declares: rather than serve Heaven, worship him.
 
 Title rendering used in chat: `祀我` = `Worship Me!`. This is a chapter-title rendering, not a canonical terminology ruling.
+
+## Chapter 1242
+
+The Old Dragon Monarch recognizes that Lü Yang's Dao title, True Monarch Sovereign of Fate, corresponds in imagery to Heavenly Fire even though Lü Yang currently holds Mountaintop Fire. Lü Yang expects that mismatch to end soon. As the contests for the White Jade Capital's Divine Positions conclude, Foundation Establishment cultivators become Divine Monarchs and Outer Path True Monarchs switch to the God-Sealing Method, pouring their divine flames and power into Lü Yang.
+
+Lü Yang credits Skyward's thirty years of preparation in the False History with saving him at least a century and making his rapid rise, meeting with Si Sui, and Primordial Spirit cultivation possible, but postpones rescuing Skyward from the Grand Sword Patriarch to avoid alerting the enemy. Lü Yang leaves the Achieving Dao Hidden Profound Manor and confronts the Heavenly Lord outside. The Heavenly Lord attempts to extinguish the six Dragon Monarchs and calls down a sea of heavenly lightning, each golden bolt strong enough to kill a True Monarch.
+
+Lü Yang identifies the attack as closely resembling Divine Firmament Thunder but lacking the deeper Five Heavenly Numbers transformations. With Great Forest Wood held by Skyward and the Water Element severed through the Dragon Monarchs' submission, the Heavenly Lord's Five Elements are incomplete. At the Heaven-Connecting Sea of Clouds, Bu Tianque and the first-generation Alchemy Cauldron Peak Lord Lian Tiandou judge that the Heavenly Lord's full strength would leave only Jiangnan safe, recalling that even the Eastern Sovereign nearly became tribulation ash when marching against Heaven.
+
+The weight of the Immortal Pivot and the ever-growing heavenly punishment cannot bend Lü Yang. The Nether Whisper Ancestor urges him to retreat if necessary, but Lü Yang opens the Grotto-Heaven and draws out all the God-Sealing Method's gathered divine light. Countless sparks join into a prairie fire around him, and his voice rises above the thunder as he declares that after this day he will be invincible under the heavens.
+
+The source excerpt supplied for Chapter 1242 omitted the chapter title, so no title rendering has been fixed.
