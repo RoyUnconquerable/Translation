@@ -65,7 +65,7 @@ for all of the following:
   fragments, or needless formalization of jokes and profanity;
 - no Westernization that erases Chinese cultivation concepts or sect culture.
 
-### Idioms and allusions
+### Idioms, allusions, and wordplay
 
 - every chengyu, classical allusion, Buddhist or Daoist reference, couplet,
   proclamation, and scripture line preserves its defining image and rhetorical
@@ -73,12 +73,17 @@ for all of the following:
 - concrete images are not flattened into generic paraphrase. The donkey in
   `黔驴技穷`, the Heaven-and-Earth division in `绝地天通`, and the image
   sequence in `梦幻泡影` must survive;
+- deliberate character substitutions, homophone jokes, corrupted idioms, and
+  title wordplay preserve their contextual double meaning. In `人尽其材`, the
+  English must retain both the familiar ideal of putting everyone to use and
+  the darker joke that people have become usable material;
 - established English allusion names may be used, but unrelated English idioms
   must not replace specifically Chinese imagery.
 
 Fluent prose is not evidence of accuracy. A correct alternate phrasing is not
 an issue merely because a reviewer prefers another word. Conversely, smooth
-English that drops imagery, paragraph structure, or source logic is an issue.
+English that drops imagery, paragraph structure, wordplay, or source logic is an
+issue.
 
 Write every finding to the chapter issues file before patching. Patch only
 flagged IDs and mark each issue patched after source-grounded verification.
