@@ -57,6 +57,11 @@ wording.
 - Never flatten an image-bearing idiom into a generic conclusion. Retain the
   donkey in `黔驴技穷`, the Heaven-and-Earth division in `绝地天通`, and
   comparable load-bearing images.
+- Preserve deliberate character substitutions, homophone jokes, corrupted
+  idioms, and other wordplay. When the English cannot reproduce both the base
+  phrase and the altered character literally, retain the contextual double
+  meaning. `人尽其材` must preserve both the familiar promise of putting every
+  person to use and the joke that people are being treated as useful material.
 - Italicize direct and unmistakable implicit internal thought, including silent
   questions, exclamations, reasoning, and conclusions. Do not italicize plain
   focalized narration.
@@ -76,8 +81,8 @@ wording.
   punctuation, and other banned forms.
 - Confirm spoken dialogue versus internal-thought formatting, including
   implicit thoughts not explicitly marked in Chinese.
-- Check every idiom, allusion, verse, and religious reference for preserved
-  imagery and rhetorical force.
+- Check every idiom, allusion, verse, religious reference, and deliberate
+  wordplay for preserved imagery, double meaning, and rhetorical force.
 - Check combat geography, cause and effect, technique ownership, and the exact
   distinction between cultivation, Dao Attainment, status, Mysteries, and
   Fruition Attainments.
