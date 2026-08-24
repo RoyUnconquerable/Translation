@@ -43,3 +43,15 @@ Lü Yang identifies the attack as closely resembling Divine Firmament Thunder bu
 The weight of the Immortal Pivot and the ever-growing Heavenly Punishment cannot bend Lü Yang. The Nether Whisper Ancestor urges him to retreat if necessary, but Lü Yang opens the Grotto-Heaven and draws out all the God-Sealing Method's gathered divine light. Countless sparks join into a prairie fire around him, and his voice rises above the thunder as he declares that after this day he will be invincible under the heavens.
 
 Title rendering used in chat: `天罚` = `Heavenly Punishment!`. The complete source confirms the title and the restored opening identifies Lü Yang as True Monarch Sovereign of Fate.
+
+## Chapter 1243
+
+Millions of God-Sealing deities bear Lü Yang upward as the Heavenly Lord surrounds him with lightning and a succession of natural disasters. Lü Yang splits the lightning sea with one palm. Fate-Reforming turns part of the lightning against its master, while the gods spread below and seize the Immortal Pivot's mighty power from the Heavenly Lord.
+
+The Heavenly Lord manifests a projection of the Grand Sword Patriarch with his tacit consent, intending to test Lü Yang. In Jiangxi, Pan Huang spreads Si Sui's recording and calls upon the Three Foundations to switch Dao Lineages. Divine flames rapidly cover Jiangxi. At the same time, the six Dragon Monarchs bring the entire Water Element over to Lü Yang, and Jiangxi's conversion lets him seize the Fire Element as well. Mountaintop Fire, Overturned Lamp Fire, Thunderbolt Fire, Molten Fire, and Furnace Fire raise Heavenly Fire into place.
+
+Six Water Element and six Fire Element Fruition Attainments form twelve stars. Their combined radiance shatters the Heavenly Lord's thunderclouds. Lü Yang invokes the classical image of `绝地天通`, declaring that the passage between Heaven and Earth is severed throughout Jiangxi and the Overseas. The Grand Sword Patriarch's projection vanishes like a dream, an illusion, a bubble, or a shadow.
+
+At the Sword Pavilion, the Grand Sword Patriarch lets Skyward emerge briefly from beneath Extreme Heaven Cliff. Skyward says he and Lü Yang do not rely on trust but merely walk the same Dao, and argues that since Heaven itself walks the Demonic Dao, rule by a demon accords with heavenly principles. Destroying the projection leaves the Grand Sword Patriarch with his first wound in many years, but he agrees to keep watching.
+
+Title rendering used in chat: `自出洞来无敌手` = `Since Emerging from the Cave, I Have Had No Equal!`. The title preserves the first half of the traditional cave-emergence couplet and also plays on Lü Yang emerging from the Grotto-Heaven.
