@@ -1,12 +1,44 @@
 # Known error traps
 
-These are regressions already caught or owner-corrected. Check them explicitly.
+These are regressions already caught or owner-corrected. Check them explicitly
+before delivery.
 
-- Never use a contraction ending in `'d`; this was corrected twice in Chapter
-  1210. Expand `he'd`, `I'd`, `they'd`, and similar forms.
-- `位格` is lowercase `status` under the final owner ruling. A recorded
-  Chapter 1210 exception folds one occurrence into `Treading the Heavens
-  cultivation`.
+## Mechanical and structural traps
+
+- Never use a contraction ending in `'d`. Expand `he'd`, `I'd`, `they'd`, and
+  similar forms, while retaining other natural contractions.
+- Never use em dashes, en dashes, curly quotes, or a single-glyph ellipsis.
+- Preserve source paragraph structure. One source paragraph remains one target
+  paragraph. Do not split a multi-sentence paragraph for rhythm.
+- Italicize direct and unmistakable implicit internal thought even when the
+  Chinese does not explicitly mark it as thought.
+- Spoken dialogue is never italicized. Hard scene changes use a line containing
+  only `---`.
+- Do not use verbless fragments for ordinary action or thought beats.
+- Do not omit or invent a chapter title. Translate the supplied title together
+  with the chapter.
+
+## Cultural and prose traps
+
+- Preserve Chinese idioms, classical allusions, and their defining imagery in
+  natural English. Do not flatten them into generic conclusions.
+- `黔驴技穷` must retain the donkey, for example `the donkey had reached the
+  end of its tricks`, not merely `it had no tricks left`.
+- `绝地天通` must retain the severing of communication or passage between
+  Heaven and Earth.
+- `梦幻泡影` must retain the dream, illusion, bubble, and shadow image chain.
+- The target register is polished Wuxiaworld-quality xianxia prose: natural
+  modern English, clear combat causality, dignified cultivation language, and
+  preserved Chinese texture. Do not Westernize the setting or write literal
+  machine-translation syntax.
+- When a literal source frame is unclear, write a refined English sentence while
+  preserving every meaning-bearing detail, speaker intention, and paragraph
+  position.
+
+## Terminology traps
+
+- `位格` is lowercase `status` under the final owner ruling. A recorded Chapter
+  1210 exception folds one occurrence into `Treading the Heavens cultivation`.
 - `慧光` is lowercase `wisdom light`.
 - `法光` is `dharma light`, not `law-light`.
 - `法诀` is `hand seal`.
@@ -14,17 +46,36 @@ These are regressions already caught or owner-corrected. Check them explicitly.
 - `天赋` is lowercase `talent`.
 - `道行` is `Dao Attainment`; `修为` is `cultivation`. They are distinct.
 - `无穷伟力` is `boundless power`; bare `伟力` is `mighty power`, subject to
-  the context exceptions in the terminology TSV.
+  context exceptions in the terminology TSV.
 - `流向` is `course` in the historical collocation, not `flow`.
+- `定数` is `Destiny`, never `Fixed Outcome`.
+- `听幽祖师` is `the Nether Whisper Ancestor`, with the article.
+- Named Dragon Monarch titles normally take `the` in running prose.
+- `荡魔真人` is bare `Demon-Purging True Person`, without `the`.
+- `不涸川` is `Never-Drying River`.
+- `东流尊` is `Lord of the Eastern Flow`.
+- `天地根` is `Foundation of Heaven and Earth`.
+- `资同饮` is `Shared Nourishment`.
+- `阳湖龙君` is `the Yanghu Dragon Monarch` in normal running prose.
+- `旁门阴阳` and `阴阳旁门` render as `the unorthodox path to Yin and Yang`
+  according to syntax.
+- `万众一心` is `the One Mind`, never `Myriad Hearts as One`.
+- Use `Saint`, never `Sage`, for Si Sui and related Sea of Light epithets.
+- `真我` is `True Self`, with both words capitalized.
+- `变数` is `Variable` for one individual and `Variables` for multiple
+  individuals or the general plural class.
 - The Nameless Dao Lord is capitalized everywhere and takes He/Him.
 - The slipped consciousness in Chapter 1210 takes `it/its`.
 - Collective Dao Lord pronouns in narration are Their/Them.
 - Dao Lord dialogue is formal and complete. Do not turn it into clipped modern
   speech.
-- Spoken dialogue is never italicized. Hard scene changes use a line containing
-  only `---`.
-- Do not use verbless fragments for ordinary action beats.
+
+## Workflow traps
+
+- Owner-edited prose is final. Extract reusable rulings instead of reverting to
+  an earlier model draft.
 - Never hand-edit an assembled final chapter. Patch its aligned draft and
   reassemble.
-- A glossary override can invalidate earlier chapters; always run all-chapter
-  lint after `--force`.
+- A glossary override can invalidate earlier chapters. Always run all-chapter
+  lint after a forced change.
+- Do not claim a GitHub update unless the commit was actually published.
