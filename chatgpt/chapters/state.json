@@ -12,8 +12,9 @@
   "chat_translation_handoff": {
     "latest_translated_in_chat": "ch1243",
     "chapter_files_committed": false,
-    "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1228.tsv",
+    "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1243.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1228.md",
+    "world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1203-ch1243.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
     "next_chat_chapter": "ch1244",
@@ -21,7 +22,12 @@
       "天帝": "Heavenly Emperor",
       "补天道": "Heaven-Mending Dao"
     },
-    "instruction": "Read the terminology supplement, style supplement, prior continuity supplement, and current continuity supplement before translating later chapters. The current continuity supplement now extends through Chapter 1243. Preserve one target paragraph per source paragraph, italicize explicit and unmistakable implicit internal thought, capitalize True Self, choose Variable or Variables according to whether the source means one individual or multiple/the general class, preserve Chinese idioms and classical allusions with their defining imagery, and keep chapter prose in chat unless the owner explicitly requests repository chapter files. In particular, retain the donkey in 黔驴技穷 rather than flattening it into a generic paraphrase. Do not add pending terms to the canonical glossary until the owner approves or corrects them. Chapter 1243 is titled Since Emerging from the Cave, I Have Had No Equal!"
+    "style_and_pipeline_audit": {
+      "date": "2026-08-24",
+      "status": "rules hardened",
+      "notes": "Core project instructions, style guide, translation specification, QA rules, known-error traps, glossary loading, and lint checks now enforce owner corrections through Chapter 1243. Owner glossary supplements are loaded after the base terminology TSV and therefore override older rows."
+    },
+    "instruction": "Before translating later chapters, read the base terminology TSV, the owner terminology supplement, the core style guide, the owner style supplement, the verified world-reference policy supplement, and both continuity supplements. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Use natural contractions except those ending in 'd. Capitalize True Self. Use Saint, never Sage, for Si Sui. Choose Variable or Variables according to number and meaning. Preserve Chinese idioms, classical allusions, Buddhist and Daoist references, and their defining imagery. Retain the donkey in 黔驴技穷, the Heaven-and-Earth division in 绝地天通, and the full image sequence in 梦幻泡影. Target polished Wuxiaworld-quality xianxia English with clear combat causality and dignified cultivation register, without copying published wording. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Do not add pending terms to the canonical glossary until the owner approves or corrects them. Chapter 1243 is titled Since Emerging from the Cave, I Have Had No Equal!"
   },
   "chapters": {
     "ch1209": {
