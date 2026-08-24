@@ -1,4 +1,4 @@
-# World Reference Supplement, Chapters 1203 to 1243
+# World Reference Supplement, Chapters 1203 to 1244
 
 ## Scope and authority
 
@@ -80,10 +80,30 @@ well. Mountaintop Fire, Overturned Lamp Fire, Thunderbolt Fire, Molten Fire, and
 Furnace Fire elevate Heavenly Fire, while six Fire and six Water Fruition
 Attainments form twelve stars that shatter the Heavenly Lord's thunderclouds.
 
+### Jiangxi under the God-Sealing Method
+
+Chapter 1244 jumps forward three years. The Heavenly Lord can no longer directly
+enter Jiangxi, but blockades it, cuts off spiritual qi and rainfall, damages its
+earth veins, and generates repeated natural disasters. After bringing order to
+the Overseas, Lü Yang enters Jiangxi with a visible sea of clouds carrying
+spiritual qi and rain. The twelve Fire and Water Fruition Attainment stars and
+the converted God-Sealing cultivators regulate the region's spiritual workings,
+causing cultivation, artifact refinement, plants, birds, and beasts to flourish.
+
+Lü Yang states that mortals are useful material within his Dao Lineage and lays
+out a social order providing land, homes, education, work, care in old age, an
+eight-hour workday, one rest day after every four workdays, and one hundred days
+off each year. The joke turns dark when he requires their entire lives, including
+future reincarnations, to support the God-Sealing Method.
+
 ## Cultural rendering note
 
 Later chapter records must preserve classical and religious imagery rather than
 reduce it to plot summary. Chapter 1242's `黔驴技穷` retains the donkey at the
 end of its tricks. Chapter 1243's `绝地天通` retains the severing of passage or
 communication between Heaven and Earth, and `梦幻泡影` retains the complete
-dream, illusion, bubble, and shadow image chain.
+dream, illusion, bubble, and shadow image chain. Chapter 1244's title
+`吕阳的人尽其材` deliberately alters `人尽其才` by replacing talent with
+material; the translation must preserve both putting everyone to use and the
+exploitative treatment of people as resources. The chapter also retains the
+horse-at-the-cliff image in `悬崖勒马`.
