@@ -1,4 +1,4 @@
-# Owner Style Rulings, Chapters 1221 to 1243
+# Owner Style Rulings, Chapters 1221 to 1244
 
 These are direct owner rulings and override model preference. Read them with
 `style-guide.md` before translating later chapters.
@@ -30,6 +30,13 @@ These are direct owner rulings and override model preference. Read them with
   tricks`, not merely `it has no tricks left`. Preserve the Heaven-and-Earth
   image in `绝地天通` and the dream, illusion, bubble, and shadow imagery in
   `梦幻泡影`.
+- Preserve deliberate character substitutions, homophone jokes, corrupted
+  idioms, and other Chinese wordplay. When English cannot reproduce both the
+  familiar phrase and its altered character literally, preserve the contextual
+  double meaning rather than translating only the surface conclusion. In
+  Chapter 1244, `人尽其材` plays on `人尽其才` while recasting people as useful
+  material; the English must retain both the promise of putting everyone to use
+  and the exploitative joke.
 - Do not use em dashes or en dashes.
 - The fixed title is `the Nether Whisper Ancestor`, including the article.
 - Named individual Dragon Monarch titles normally take `the` in running prose.
