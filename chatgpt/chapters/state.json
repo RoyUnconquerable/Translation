@@ -13,7 +13,7 @@
     "latest_translated_in_chat": "ch1243",
     "chapter_files_committed": false,
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1243.tsv",
-    "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1228.md",
+    "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1243.md",
     "world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1203-ch1243.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
@@ -25,7 +25,7 @@
     "style_and_pipeline_audit": {
       "date": "2026-08-24",
       "status": "rules hardened",
-      "notes": "Core project instructions, style guide, translation specification, QA rules, known-error traps, glossary loading, and lint checks now enforce owner corrections through Chapter 1243. Owner glossary supplements are loaded after the base terminology TSV and therefore override older rows."
+      "notes": "Core project instructions, style guide, translation specification, QA rules, known-error traps, glossary loading and writing, and lint checks now enforce owner corrections through Chapter 1243. Owner glossary supplements are loaded after the base terminology TSV and therefore override older rows; future glossary additions write to the active owner supplement."
     },
     "instruction": "Before translating later chapters, read the base terminology TSV, the owner terminology supplement, the core style guide, the owner style supplement, the verified world-reference policy supplement, and both continuity supplements. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Use natural contractions except those ending in 'd. Capitalize True Self. Use Saint, never Sage, for Si Sui. Choose Variable or Variables according to number and meaning. Preserve Chinese idioms, classical allusions, Buddhist and Daoist references, and their defining imagery. Retain the donkey in 黔驴技穷, the Heaven-and-Earth division in 绝地天通, and the full image sequence in 梦幻泡影. Target polished Wuxiaworld-quality xianxia English with clear combat causality and dignified cultivation register, without copying published wording. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Do not add pending terms to the canonical glossary until the owner approves or corrects them. Chapter 1243 is titled Since Emerging from the Cave, I Have Had No Equal!"
   },
