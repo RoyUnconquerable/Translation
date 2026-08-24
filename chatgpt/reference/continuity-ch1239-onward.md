@@ -55,3 +55,15 @@ Six Water Element and six Fire Element Fruition Attainments form twelve stars. T
 At the Sword Pavilion, the Grand Sword Patriarch lets Skyward emerge briefly from beneath Extreme Heaven Cliff. Skyward says he and Lü Yang do not rely on trust but merely walk the same Dao, and argues that since Heaven itself walks the Demonic Dao, rule by a demon accords with heavenly principles. Destroying the projection leaves the Grand Sword Patriarch with his first wound in many years, but he agrees to keep watching.
 
 Title rendering used in chat: `自出洞来无敌手` = `Since Emerging from the Cave, I Have Had No Equal!`. The title preserves the first half of the traditional cave-emergence couplet and also plays on Lü Yang emerging from the Grotto-Heaven.
+
+## Chapter 1244
+
+At the Heaven-Connecting Sea of Clouds, Lian Tiandou and Bu Tianque marvel that Lü Yang endured the Heavenly Lord's punishment and stripped away two of the Five Elements without directly attaining their Fruition Attainments. Bu Tianque teases Lian Tiandou about the old scandal in which he escaped her by breaking through and reining in his horse at the cliff's edge. Both recognize that Lü Yang wants to establish rules for all cultivators and approve of his attempt to accomplish what others cannot.
+
+Lü Yang reflects that his declaration of invincibility refers not to combat strength but to the overwhelming advantage of the God-Sealing Method. The six Dragon Monarchs, the Heavenly Lord, Bu Tianque, Lian Tiandou, and the Grand Sword Patriarch are not enemies in his eyes, but potential talent and material who can be converted to his Dao Lineage.
+
+Three years later, the Heavenly Lord has blockaded Jiangxi, cut off its spiritual qi and rain, damaged its earth veins, and forced the Three Foundations to spend their strength preserving the region. After bringing order to the Overseas, Lü Yang walks into Jiangxi with a sea of clouds, spiritual qi, and rain. The twelve Fire and Water Fruition Attainment stars and every God-Sealing cultivator regulate the region's spiritual workings, causing cultivators, treasures, plants, birds, and beasts to flourish.
+
+Lü Yang declares that mortals are useful material under his Dao Lineage and must therefore be put to full use. He promises land, housing, education, work, care in old age, an eight-hour workday, one day of rest after every four days of work, and one hundred days off each year, while requiring every life to serve the God-Sealing Method even through reincarnation.
+
+Title rendering used in chat: `吕阳的人尽其材` = `Lü Yang Makes Full Use of Everyone`. The source deliberately substitutes `材`, material, for the familiar `才`, talent, in `人尽其才`; the English preserves both the promise of using everyone's abilities and the darker joke that people themselves are treated as resources.
