@@ -33,17 +33,16 @@ CJK_RANGES = (
 )
 
 # Fullwidth / CJK punctuation that should not survive into a Latin-script
-# target. Curly quotes, the single-glyph ellipsis, and the em dash are
-# included because zh raws carry them and the style guide bans them in the
-# English output; lint reports these as warnings, not failures.
+# target. Curly quotes, the single-glyph ellipsis, and both long dashes are
+# included because the style guide bans them in English output.
 CJK_PUNCT = set(
-    "、。，；：？！"      # ideographic stops and clause marks
-    "「」『』〈〉《》"     # corner and angle brackets
-    "【】〔〕（）"         # lenticular brackets, fullwidth parens
-    "・·…—–～"           # middle dots, ellipsis glyph, dashes, wave dash
-    "“”‘’"               # curly quotes
-    "＂＇｀＝＋－＊／＼｜＜＞＃＄％＆＠＾＿｛｝￥"  # other fullwidth forms
-    "　"              # ideographic space
+    "、。，；：？！"
+    "「」『』〈〉《》"
+    "【】〔〕（）"
+    "・·…—–～"
+    "“”‘’"
+    "＂＇｀＝＋－＊／＼｜＜＞＃＄％＆＠＾＿｛｝￥"
+    "　"
 )
 
 
@@ -85,7 +84,7 @@ def load_config(root: Path | None = None) -> dict:
 
 
 def read_jsonl(path: Path) -> list[dict]:
-    """Read a JSONL file; raises ValueError naming the offending line on bad input."""
+    """Read a JSONL file; raise ValueError naming the offending line on bad input."""
     rows = []
     with open(path, encoding="utf-8") as fh:
         for lineno, line in enumerate(fh, 1):
@@ -110,52 +109,67 @@ def write_jsonl(path: Path, rows) -> None:
 
 
 def is_cjk(ch: str) -> bool:
-    """True for Han ideographs (the ranges in CJK_RANGES)."""
+    """True for Han ideographs in the ranges above."""
     cp = ord(ch)
     return any(lo <= cp <= hi for lo, hi in CJK_RANGES)
 
 
-def load_glossary(root: Path | None = None) -> dict[str, dict]:
-    """Parse glossary/terminology.tsv into an ordered {source: entry} mapping.
+def glossary_paths(root: Path) -> list[Path]:
+    """Return canonical glossary files in override order.
 
-    Columns are source / target / notes, tab-separated, with a header row.
-    The target field may hold pipe-separated variants (e.g. "qi|spiritual qi").
-    A later row for the same source overrides an earlier one; that is exactly
-    what `glossary.py add --force` appends, so the newest ruling wins.
+    ``terminology.tsv`` is the base glossary. State-backed owner ruling files
+    under ``glossary/owner-rulings-*.tsv`` are loaded afterward in lexical
+    order, so the latest chapter-range supplement overrides earlier rows. This
+    makes owner corrections enforceable by every script rather than leaving
+    them as documentation only.
+    """
+    glossary_dir = root / "glossary"
+    primary = glossary_dir / "terminology.tsv"
+    supplements = sorted(glossary_dir.glob("owner-rulings-*.tsv"))
+    return [primary, *supplements]
+
+
+def load_glossary(root: Path | None = None) -> dict[str, dict]:
+    """Parse the base terminology TSV and owner ruling supplements.
+
+    Columns are source / target / notes, tab-separated, with a header row. The
+    target field may hold pipe-separated variants, for example
+    ``qi|spiritual qi``. A later row for the same source overrides an earlier
+    one, matching the owner's final-ruling policy.
     """
     root = root or find_root()
-    path = root / "glossary" / "terminology.tsv"
     entries: dict[str, dict] = {}
-    if not path.is_file():
-        return entries
-    with open(path, encoding="utf-8") as fh:
-        for line in fh:
-            line = line.rstrip("\n")
-            if not line.strip() or line.lstrip().startswith("#"):
-                continue
-            cols = line.split("\t")
-            if cols[0].strip().lower() == "source" and len(cols) > 1 \
-                    and cols[1].strip().lower() == "target":
-                continue  # header row
-            if len(cols) < 2 or not cols[0].strip() or not cols[1].strip():
-                continue  # malformed row; the add subcommand never writes these
-            source = cols[0].strip()
-            target = cols[1].strip()
-            notes = cols[2].strip() if len(cols) > 2 else ""
-            # "[except: A|B]" in the notes lists longer contexts in which an
-            # occurrence of the source term is a word-boundary accident
-            # (e.g. 合道 inside 配合道行) and must not be enforced by lint.
-            exceptions = [
-                item.strip()
-                for group in re.findall(r"\[except:\s*([^\]]+)\]", notes)
-                for item in group.split("|")
-                if item.strip()
-            ]
-            entries[source] = {
-                "source": source,
-                "target": target,
-                "variants": [v.strip() for v in target.split("|") if v.strip()],
-                "notes": notes,
-                "exceptions": exceptions,
-            }
+
+    for path in glossary_paths(root):
+        if not path.is_file():
+            continue
+        with open(path, encoding="utf-8") as fh:
+            for line in fh:
+                line = line.rstrip("\n")
+                if not line.strip() or line.lstrip().startswith("#"):
+                    continue
+                cols = line.split("\t")
+                if cols[0].strip().lower() == "source" and len(cols) > 1 \
+                        and cols[1].strip().lower() == "target":
+                    continue
+                if len(cols) < 2 or not cols[0].strip() or not cols[1].strip():
+                    continue
+                source = cols[0].strip()
+                target = cols[1].strip()
+                notes = cols[2].strip() if len(cols) > 2 else ""
+                exceptions = [
+                    item.strip()
+                    for group in re.findall(r"\[except:\s*([^\]]+)\]", notes)
+                    for item in group.split("|")
+                    if item.strip()
+                ]
+                entries[source] = {
+                    "source": source,
+                    "target": target,
+                    "variants": [v.strip() for v in target.split("|") if v.strip()],
+                    "notes": notes,
+                    "exceptions": exceptions,
+                    "file": path.name,
+                }
+
     return entries
