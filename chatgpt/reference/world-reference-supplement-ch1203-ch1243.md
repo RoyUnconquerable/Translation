@@ -1,4 +1,4 @@
-# World Reference Supplement, Chapters 1203 to 1244
+# World Reference Supplement, Chapters 1203 to 1245
 
 ## Scope and authority
 
@@ -96,6 +96,37 @@ eight-hour workday, one rest day after every four workdays, and one hundred days
 off each year. The joke turns dark when he requires their entire lives, including
 future reincarnations, to support the God-Sealing Method.
 
+### Lü Yang's territorial embodiment
+
+Chapter 1245 establishes that conversion to the God-Sealing Method merely severs
+a territory from the Immortal Pivot; Lü Yang must then spend years ordering its
+land, spiritual workings, and population before remaking heaven and earth is
+complete. After three years, he perceives every inch of Jiangxi and the Overseas
+and every cultivator and mortal within them. The Immortal Pivot's mighty power
+elevates his status, while the bonds of living beings anchor him against becoming
+lost in the Fathomless Void. He estimates that control of one additional mainland
+region would let him contend with the Grand Sword Patriarch.
+
+### Chongguang inside the False History
+
+Chapter 1245 reveals that Chongguang's birthplace is Kan-Yang Lake in Jiangbei,
+where his form more than one hundred thousand years before reincarnation was an
+Immortal Spirit stone embryo carrying Xin-Metal qi. When his True History self is
+sent into the False History, the two versions unify like the two sides of a
+mirror: karma and memory differ, but the person does not. The embryo becomes his
+peak Foundation Establishment body with the five divine abilities of Overturned
+Lamp Fire perfected. `Kan-Yang Lake` remains provisional pending owner approval.
+
+### The World-Honored One's message to the Heavenly Lord
+
+Chapter 1245 reveals why the Dao Lords send Chongguang into the False History.
+His Immortal Spirit origins ensure the lucid Heavenly Lord will detect and
+soul-search him. The forbidden knowledge and historical memories placed in his
+sea of consciousness are a planted message carrying a hidden method. The
+Heavenly Lord accepts the knowledge, its consciousness convulses, and a distant
+bell with golden Buddhist imagery reveals that the World-Honored One made the
+move.
+
 ## Cultural rendering note
 
 Later chapter records must preserve classical and religious imagery rather than
@@ -107,3 +138,8 @@ dream, illusion, bubble, and shadow image chain. Chapter 1244's title
 material; the translation must preserve both putting everyone to use and the
 exploitative treatment of people as resources. The chapter also retains the
 horse-at-the-cliff image in `悬崖勒马`.
+
+Chapter 1245 preserves the Jing-and-Wei Rivers image in `泾渭分明`, the rat and
+vessel in `投鼠忌器`, and the snake and well-rope in `一朝被蛇咬，十年怕井绳`.
+These images are part of the source's reasoning and must not be flattened into
+generic caution or clear separation.
