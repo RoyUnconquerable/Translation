@@ -67,3 +67,17 @@ Three years later, the Heavenly Lord has blockaded Jiangxi, cut off its spiritua
 Lü Yang declares that mortals are useful material under his Dao Lineage and must therefore be put to full use. He promises land, housing, education, work, care in old age, an eight-hour workday, one day of rest after every four days of work, and one hundred days off each year, while requiring every life to serve the God-Sealing Method even through reincarnation.
 
 Title rendering used in chat: `吕阳的人尽其材` = `Lü Yang Makes Full Use of Everyone`. The source deliberately substitutes `材`, material, for the familiar `才`, talent, in `人尽其才`; the English preserves both the promise of using everyone's abilities and the darker joke that people themselves are treated as resources.
+
+## Chapter 1245
+
+Lü Yang explains that switching cultivators to the God-Sealing Method only severs a territory from the Immortal Pivot and does not itself complete the remaking of heaven and earth. After three years spent ordering Jiangxi and the Overseas down to every inch of land, he can perceive every city, village, cultivator, and mortal. All living beings seem joined to him while remaining distinct like the Jing and Wei Rivers. The Immortal Pivot's mighty power raises his status, while the bonds of living beings keep him anchored against becoming lost in the Fathomless Void.
+
+Lü Yang judges that he could now shatter the Heavenly Punishment directly rather than resist it through the severing of passage between Heaven and Earth. Controlling one more of Jiangdong, Jiangnan, or Jiangbei would let him challenge even the Grand Sword Patriarch. He then senses something foreign to the False History being sent inside.
+
+At Kan-Yang Lake in Jiangbei, Chongguang awakens in his earliest False History form, an Immortal Spirit stone embryo from more than one hundred thousand years before his reincarnation. His True History self and False History self unify like the two sides of a mirror. The Xin-Metal stone embryo transforms into his peak Foundation Establishment body with the five divine abilities of Overturned Lamp Fire perfected.
+
+The Heavenly Lord detects Chongguang immediately and forcibly searches his soul. Chongguang realizes that the Dao Lords selected him as a messenger because his Immortal Spirit origins guaranteed discovery. The forbidden knowledge and historical memories poured into him were intended for the Heavenly Lord, not for Chongguang. The Heavenly Lord's wariness evokes both striking a rat while fearing damage to the vessel and being bitten once by a snake, then fearing a well-rope for ten years.
+
+The Heavenly Lord accepts all the planted knowledge and triggers the hidden method within it. After its consciousness convulses, a distant bell, golden Buddhist light, temples, monks, and Dharma exposition reveal that the World-Honored One made the move. The manifested imagery finally condenses into a single cry.
+
+Title rendering used in chat: `重光：苦也！` = `Chongguang: Woe Is Me!`. `坎阳湖` is provisionally rendered `Kan-Yang Lake` pending owner approval.
