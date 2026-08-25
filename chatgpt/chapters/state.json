@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-24",
+  "last_updated": "2026-08-25",
   "source_snapshot": {
     "repository": "RoyUnconquerable/Translation",
     "branch": "claude/translation-pipeline-build-3gdy6r",
@@ -10,24 +10,25 @@
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
   "chat_translation_handoff": {
-    "latest_translated_in_chat": "ch1244",
+    "latest_translated_in_chat": "ch1245",
     "chapter_files_committed": false,
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1243.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1243.md",
     "world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1203-ch1243.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
-    "next_chat_chapter": "ch1245",
+    "next_chat_chapter": "ch1246",
     "pending_term_approval": {
       "天帝": "Heavenly Emperor",
-      "补天道": "Heaven-Mending Dao"
+      "补天道": "Heaven-Mending Dao",
+      "坎阳湖": "Kan-Yang Lake"
     },
     "style_and_pipeline_audit": {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "status": "rules hardened",
-      "notes": "Core project instructions, style guide, translation specification, QA rules, owner style rulings, known-error traps, glossary loading and writing, and lint checks enforce owner corrections through Chapter 1244. The source-grounded review now explicitly checks image-bearing idioms, classical and religious allusions, deliberate character substitutions, homophone jokes, corrupted idioms, and title wordplay. Owner glossary supplements are loaded after the base terminology TSV and therefore override older rows; future glossary additions write to the active owner supplement."
+      "notes": "Core project instructions, style guide, translation specification, QA rules, owner style rulings, known-error traps, glossary loading and writing, and lint checks enforce owner corrections through Chapter 1245. Source-grounded review explicitly checks image-bearing idioms, classical and religious allusions, deliberate character substitutions, homophone jokes, corrupted idioms, title wordplay, and parallel allusion chains within a single paragraph. Owner glossary supplements load after the base terminology TSV and override older rows; future approved glossary additions write to the active owner supplement."
     },
-    "instruction": "Before translating later chapters, read the base terminology TSV, the owner terminology supplement, the core style guide, the owner style supplement, the verified world-reference policy supplement, and both continuity supplements. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Use natural contractions except those ending in 'd. Capitalize True Self. Use Saint, never Sage, for Si Sui. Choose Variable or Variables according to number and meaning. Preserve Chinese idioms, classical allusions, Buddhist and Daoist references, deliberate character substitutions, homophone jokes, corrupted idioms, and their defining imagery or double meaning. Retain the donkey in 黔驴技穷, the Heaven-and-Earth division in 绝地天通, the full image sequence in 梦幻泡影, the horse at the cliff in 悬崖勒马, and the talent/material pun in 人尽其材. Target polished Wuxiaworld-quality xianxia English with clear combat causality and dignified cultivation register, without copying published wording. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Do not add pending terms to the canonical glossary until the owner approves or corrects them. Chapter 1244 is titled Lü Yang Makes Full Use of Everyone."
+    "instruction": "Before translating later chapters, read the base terminology TSV, the owner terminology supplement, the core style guide, the owner style supplement, the verified world-reference policy supplement, and both continuity supplements. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Use natural contractions except those ending in 'd. Capitalize True Self. Use Saint, never Sage, for Si Sui. Choose Variable or Variables according to number and meaning. Preserve Chinese idioms, classical allusions, Buddhist and Daoist references, deliberate character substitutions, homophone jokes, corrupted idioms, and their defining imagery or double meaning. Retain the donkey in 黔驴技穷, the Heaven-and-Earth division in 绝地天通, the full image sequence in 梦幻泡影, the horse at the cliff in 悬崖勒马, the talent/material pun in 人尽其材, the Jing-and-Wei Rivers in 泾渭分明, the rat and vessel in 投鼠忌器, and the snake and well-rope in 一朝被蛇咬，十年怕井绳. Target polished Wuxiaworld-quality xianxia English with clear combat causality and dignified cultivation register, without copying published wording. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Do not add pending terms to the canonical glossary until the owner approves or corrects them. Chapter 1245 is titled Chongguang: Woe Is Me!"
   },
   "chapters": {
     "ch1209": {
