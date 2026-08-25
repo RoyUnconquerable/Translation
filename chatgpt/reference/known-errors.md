@@ -22,11 +22,33 @@ before delivery.
 
 - Preserve Chinese idioms, classical allusions, and their defining imagery in
   natural English. Do not flatten them into generic conclusions.
+- Preserve linked metaphor chains across the whole paragraph. Do not translate
+  each idiom in isolation if the source develops one image into the next.
 - `黔驴技穷` must retain the donkey, for example `the donkey had reached the
   end of its tricks`, not merely `it had no tricks left`.
 - `绝地天通` must retain the severing of communication or passage between
   Heaven and Earth.
 - `梦幻泡影` must retain the dream, illusion, bubble, and shadow image chain.
+- `悬崖勒马` must retain the horse and cliff image.
+- `人尽其材` deliberately alters `人尽其才`; preserve both putting everyone to
+  use and treating people themselves as useful material.
+- `泾渭分明` must retain the Jing and Wei Rivers when the image is active.
+- `投鼠忌器` must retain both rat and vessel, as in `afraid to strike the rat
+  for fear of shattering the vessel`.
+- `一朝被蛇咬，十年怕井绳` must retain the snake and rope, as in `once bitten
+  by a snake and now feared even a coiled rope`.
+- When `照单全收` directly continues an eating image, preserve that chain with
+  wording such as `swallow it whole` rather than reverting to the isolated
+  dictionary sense `accept everything on the list`.
+- Preserve board-game imagery such as `落子` with a piece placed on the board.
+- In administrative or territorial contexts, do not translate `梳理` literally
+  as `comb`. Use `bring into order`, `systematically bring into order`, or a
+  contextually faithful equivalent.
+- `浩如烟海` should retain its sea image when natural, such as `a vast sea of
+  historical memories and forbidden knowledge`.
+- The Chapter 1245 title is `Chongguang: What Suffering!`, not `Woe Is Me!`.
+  Its internal `苦也` is `What suffering...`, and the closing `噫` is `Alas!`
+  in that scene.
 - The target register is polished Wuxiaworld-quality xianxia prose: natural
   modern English, clear combat causality, dignified cultivation language, and
   preserved Chinese texture. Do not Westernize the setting or write literal
