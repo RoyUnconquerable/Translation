@@ -115,7 +115,7 @@ before delivery.
   individuals or the general plural class.
 - `坎阳湖` is `Kan-Yang Lake`.
 - `小友` is `little friend`, never `young friend`.
-- `滴天髓` is `Dripping Heaven's Marrow`.
+- `滴天髓` is `Drop of Heaven's Essence`, never `Dripping Heaven's Marrow`.
 - Use the hyphenated elemental forms `Jia-Wood`, `Yi-Wood`, `Xin-Metal`,
   `Gui-Water`, `Si-Fire`, and `Chen-Earth`.
 - The Nameless Dao Lord is capitalized everywhere and takes He/Him.
