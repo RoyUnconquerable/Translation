@@ -1,4 +1,4 @@
-# Owner Style Rulings, Chapters 1221 to 1247
+# Owner Style Rulings, Chapters 1221 to 1248
 
 These are direct owner rulings and override model preference. Read them with
 `style-guide.md` before translating later chapters.
@@ -23,6 +23,12 @@ These are direct owner rulings and override model preference. Read them with
   explicit thought quotation marks. This includes unmistakable first-person
   reasoning, silent exclamations, conclusions, questions, and free-standing
   thought beats. Keep the thought in the same paragraph position as the source.
+- Internal thoughts generally use present tense because they are immediate
+  mental speech. Use future tense naturally for plans and predictions. Past or
+  past perfect remains appropriate for genuine recollection, an earlier state,
+  a completed event, a counterfactual, or another sequence that requires
+  anteriority. Do not mechanically shift immediate thought into past tense to
+  match past-tense narration.
 - Preserve Chinese idioms, classical allusions, Buddhist and Daoist references,
   and their defining imagery inside natural English. Do not flatten a concrete
   allusion into a generic paraphrase. For example, `黔驴技穷` must retain the
@@ -57,6 +63,7 @@ These are direct owner rulings and override model preference. Read them with
 - `天妖` is `heavenly demon`, never `celestial demon`, in the current False
   History context.
 - `命数` is `Fate`; `定数` remains `Destiny`.
+- `小友` is `little friend`, never `young friend`.
 - Do not use em dashes or en dashes.
 - The fixed title is `the Nether Whisper Ancestor`, including the article.
 - Named individual Dragon Monarch titles normally take `the` in running prose.
