@@ -87,9 +87,12 @@ When principles conflict, the order is:
 - Do not italicize ordinary exposition merely because it is focalized through a
   character. Free indirect narration stays in roman type when it remains
   narration rather than the character's direct mental voice.
-- Direct thought normally uses first person and the present or future when that
-  is how the character experiences it. Projections use natural would-forms,
-  never rhetorical inversion.
+- Direct thought generally uses first person and present tense because it is
+  immediate mental speech. Use future tense naturally for plans and
+  predictions. Use past or past perfect only when the thought genuinely recalls
+  a completed event, distinguishes an earlier state, reports remembered facts,
+  expresses a counterfactual, or requires another anterior sequence. Do not
+  mechanically backshift immediate thought to match past-tense narration.
 
 ## Chinese idioms, allusions, and religious texture
 
@@ -159,6 +162,7 @@ When principles conflict, the order is:
   titles, and epithets are translated into English.
 - Translate honorifics: Fellow Daoist, Senior, Junior, True Person, True
   Monarch, and Dao Lord. Use Daoist, never Taoist. `本座` is `This Seat`.
+- `小友` is `little friend`, never `young friend`.
 - Capitalize He, His, Him, They, Them, and reflexives only when the referent is a
   Dao Lord. A Dao Lord speaking of Himself capitalizes I, My, and Me, and You
   and Your when addressing another Dao Lord under the established project rule.
