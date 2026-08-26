@@ -102,6 +102,26 @@ When principles conflict, the order is:
   left`.
 - Preserve the Heaven-and-Earth image in `绝地天通`, the dream, illusion,
   bubble, and shadow sequence in `梦幻泡影`, and comparable image chains.
+- Preserve linked metaphor chains across the entire paragraph or chapter. If
+  one idiom establishes an image that a later line develops, choose wording
+  that keeps the chain coherent rather than translating each phrase in
+  isolation.
+- Retain concrete later-book images when they carry the reasoning or joke:
+  the Jing and Wei Rivers in `泾渭分明`, the rat and vessel in `投鼠忌器`, the
+  snake and coiled rope in `一朝被蛇咬，十年怕井绳`, the tail in `尾大不掉`,
+  the wedding dress in `做嫁衣`, the ant swallowing a dragon in `蝼蚁吞龙`,
+  the pot of porridge in `乱成一锅粥`, the guest-and-host reversal in
+  `反客为主`, the wrathful Vajra paired with a heart blooming in laughter in
+  `金刚怒目` and `笑开了花`, and the broken ship in `跳船`.
+- Retain images introduced in later chapters when natural English permits it:
+  the stepping stones in `踏脚石`, the broad open road in `康庄大道`, the
+  ghost that refuses to disperse in `阴魂不散`, the body-and-bones transformation
+  in `脱胎换骨`, and a piece placed on the board in `一子`.
+- Preserve deliberate character substitutions, homophone jokes, corrupted
+  idioms, and altered quotations. When English cannot reproduce both the
+  familiar phrase and its altered character literally, preserve the contextual
+  double meaning. `人尽其材` must carry both putting everyone to use and the
+  exploitative joke that people themselves are material.
 - Use an established English name for a well-known allusion when one exists,
   but do not replace a specifically Chinese image with an unrelated English
   idiom.
@@ -149,6 +169,12 @@ When principles conflict, the order is:
   Monarch`, never `True Monarch of Mountaintop Fire`.
 - Do not promote generic words into proper nouns. Capitalize only what the
   glossary and owner rulings capitalize.
+- `天妖` is `heavenly demon` in the False History context, never `celestial
+  demon`.
+- `命数` is `Fate`; `定数` is `Destiny`. Do not merge the two concepts.
+- Heavenly Stem and Earthly Branch elemental names use the established
+  hyphenated forms, including Jia-Wood, Yi-Wood, Xin-Metal, Gui-Water, Si-Fire,
+  and Chen-Earth.
 - The glossary is the sole term authority. Resolve disputes in the glossary,
   never by improvising in a chapter.
 
@@ -166,6 +192,28 @@ When principles conflict, the order is:
 - Breakthrough cascades and list beats join with commas rather than becoming a
   sequence of clipped sentence fragments: `True Monarch, mid-stage True
   Monarch, Great True Monarch!`
+
+## Refinement and owner-final policy
+
+- Owner-edited prose is final in substance and wording choice. Extract durable
+  rulings from it rather than reverting to an earlier draft.
+- Correct obvious mechanical slips in owner-edited prose, such as missing
+  possessive apostrophes, articles, duplicate words, or accidental punctuation,
+  without changing the owner's intended phrasing or meaning.
+- In administrative and territorial contexts, render `梳理` naturally as
+  `bring into order`, `systematically bring into order`, `regularize`, or a
+  contextually faithful equivalent, never the literal `comb`.
+- When `第一人` is an explicit ranking, prefer `the number one expert` over a
+  vaguer superlative.
+- When `证道根基`, `成道根基`, or a comparable construction becomes awkward,
+  use `the foundation upon which He proved the Dao` or `the foundation of His
+  Dao attainment`, according to context. Never write `the foundation of Him
+  proving the Dao`.
+- Named historical events use their established singular form and natural
+  possessives, such as `the Eastern Sovereign's March on Heaven`.
+- When `一面之词` emphasizes that all evidence comes from one interested party,
+  prefer a natural formulation such as `Everything we have heard has come from
+  Your side alone`.
 
 ## Default renderings
 
