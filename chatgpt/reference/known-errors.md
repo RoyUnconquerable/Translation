@@ -12,6 +12,10 @@ before delivery.
   paragraph. Do not split a multi-sentence paragraph for rhythm.
 - Italicize direct and unmistakable implicit internal thought even when the
   Chinese does not explicitly mark it as thought.
+- Direct internal thought generally uses present tense. Do not backshift an
+  immediate deduction merely because narration is past tense. Use past or past
+  perfect only for genuine recollection, an earlier state, a completed event,
+  a counterfactual, or another sequence requiring anteriority.
 - Spoken dialogue is never italicized. Hard scene changes use a line containing
   only `---`.
 - Do not use verbless fragments for ordinary action or thought beats.
@@ -110,6 +114,8 @@ before delivery.
 - `变数` is `Variable` for one individual and `Variables` for multiple
   individuals or the general plural class.
 - `坎阳湖` is `Kan-Yang Lake`.
+- `小友` is `little friend`, never `young friend`.
+- `滴天髓` is `Dripping Heaven's Marrow`.
 - Use the hyphenated elemental forms `Jia-Wood`, `Yi-Wood`, `Xin-Metal`,
   `Gui-Water`, `Si-Fire`, and `Chen-Earth`.
 - The Nameless Dao Lord is capitalized everywhere and takes He/Him.
