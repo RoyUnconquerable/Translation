@@ -17,13 +17,16 @@ before delivery.
 - Do not use verbless fragments for ordinary action or thought beats.
 - Do not omit or invent a chapter title. Translate the supplied title together
   with the chapter.
+- Obvious mechanical slips in owner-edited prose may be corrected, but do not
+  use that permission to rewrite the owner's wording choices.
 
 ## Cultural and prose traps
 
 - Preserve Chinese idioms, classical allusions, and their defining imagery in
   natural English. Do not flatten them into generic conclusions.
-- Preserve linked metaphor chains across the whole paragraph. Do not translate
-  each idiom in isolation if the source develops one image into the next.
+- Preserve linked metaphor chains across the whole paragraph or chapter. Do not
+  translate each idiom in isolation if the source develops one image into the
+  next.
 - `黔驴技穷` must retain the donkey, for example `the donkey had reached the
   end of its tricks`, not merely `it had no tricks left`.
 - `绝地天通` must retain the severing of communication or passage between
@@ -40,7 +43,21 @@ before delivery.
 - When `照单全收` directly continues an eating image, preserve that chain with
   wording such as `swallow it whole` rather than reverting to the isolated
   dictionary sense `accept everything on the list`.
-- Preserve board-game imagery such as `落子` with a piece placed on the board.
+- Preserve board-game imagery such as `落子` and `一子` with a piece placed on
+  the board.
+- Preserve `尾大不掉` through the tail image, `做嫁衣` through the wedding
+  dress, `蝼蚁吞龙` through the ant and dragon, `乱成一锅粥` through the pot
+  of porridge, `反客为主` through the guest-and-host reversal, and `跳船`
+  through the broken-ship image.
+- Preserve the contrast between the World-Honored One's wrathful Vajra glare
+  and His heart blooming with laughter.
+- `踏脚石` must retain stepping stones when the hierarchy is described as
+  Dao Lords standing on those below them.
+- `康庄大道` should retain the image of a broad, open road rather than becoming
+  only `a good option` or `a safe method`.
+- `阴魂不散` should retain the lingering-ghost image when used as an insult.
+- `脱胎换骨` should retain the body-and-bones transformation image when the
+  process is emphasized.
 - In administrative or territorial contexts, do not translate `梳理` literally
   as `comb`. Use `bring into order`, `systematically bring into order`, or a
   contextually faithful equivalent.
@@ -56,6 +73,9 @@ before delivery.
 - When a literal source frame is unclear, write a refined English sentence while
   preserving every meaning-bearing detail, speaker intention, and paragraph
   position.
+- Never write awkward constructions such as `the foundation of Him proving the
+  Dao`. Use `the foundation upon which He proved the Dao` or `the foundation of
+  His Dao attainment`.
 
 ## Terminology traps
 
@@ -71,6 +91,9 @@ before delivery.
   context exceptions in the terminology TSV.
 - `流向` is `course` in the historical collocation, not `flow`.
 - `定数` is `Destiny`, never `Fixed Outcome`.
+- `命数` is `Fate`, distinct from `定数`.
+- `天妖` is `heavenly demon`, never `celestial demon`, in the current False
+  History context.
 - `听幽祖师` is `the Nether Whisper Ancestor`, with the article.
 - Named Dragon Monarch titles normally take `the` in running prose.
 - `荡魔真人` is bare `Demon-Purging True Person`, without `the`.
@@ -86,6 +109,9 @@ before delivery.
 - `真我` is `True Self`, with both words capitalized.
 - `变数` is `Variable` for one individual and `Variables` for multiple
   individuals or the general plural class.
+- `坎阳湖` is `Kan-Yang Lake`.
+- Use the hyphenated elemental forms `Jia-Wood`, `Yi-Wood`, `Xin-Metal`,
+  `Gui-Water`, `Si-Fire`, and `Chen-Earth`.
 - The Nameless Dao Lord is capitalized everywhere and takes He/Him.
 - The slipped consciousness in Chapter 1210 takes `it/its`.
 - Collective Dao Lord pronouns in narration are Their/Them.
