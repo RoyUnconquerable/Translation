@@ -7,8 +7,8 @@ Usage:
 Checks, per segment, source against target:
   coverage       every source id present exactly once, none empty, no invented
                  ids                                            HARD FAILURE
-  paragraph      no target row contains an embedded paragraph break
-                                                                HARD FAILURE
+  paragraph      no target row contains an embedded paragraph break; an exact
+                 scene-break marker may appear at one edge only   HARD FAILURE
   source-chars   leftover source-script characters in the target
                                                                 HARD FAILURE
   glossary       a glossary source term in a segment's source requires one of
@@ -41,6 +41,8 @@ import common
 MEDIAN_DEVIATION_FACTOR = 2.0
 NUM_RE = re.compile(r"\d[\d,]*")
 D_CONTRACTION_RE = re.compile(r"\b[A-Za-z]+(?:['’])d\b", re.IGNORECASE)
+SCENE_BREAK_PREFIX = "---\n\n"
+SCENE_BREAK_SUFFIX = "\n\n---"
 
 BANNED_STYLE_CHARS = {
     "—": "em dash",
@@ -56,6 +58,16 @@ BANNED_STYLE_CHARS = {
 def digit_seqs(text: str) -> list[str]:
     """Arabic digit runs, comma-normalized, so 1,000 becomes 1000."""
     return [m.group(0).replace(",", "") for m in NUM_RE.finditer(text)]
+
+
+def paragraph_payload(text: str) -> str:
+    """Remove exact edge scene-break markup before paragraph-level checks."""
+    normalized = text.replace("\r\n", "\n").replace("\r", "\n")
+    if normalized.startswith(SCENE_BREAK_PREFIX):
+        normalized = normalized[len(SCENE_BREAK_PREFIX):]
+    if normalized.endswith(SCENE_BREAK_SUFFIX):
+        normalized = normalized[:-len(SCENE_BREAK_SUFFIX)]
+    return normalized
 
 
 def _all_occurrences_excepted(src: str, term: str, exceptions: list[str]) -> bool:
@@ -128,7 +140,11 @@ def lint_chapter(root: Path, cfg: dict, glossary: dict, chapter: str) -> dict:
         if not isinstance(tgt, str) or not tgt.strip():
             fail("coverage", rid, "empty tgt")
             continue
-        if "\n" in tgt or "\r" in tgt:
+        payload = paragraph_payload(tgt)
+        if not payload.strip():
+            fail("coverage", rid, "tgt contains only scene-break markup")
+            continue
+        if "\n" in payload:
             fail(
                 "paragraph",
                 rid,
@@ -145,13 +161,13 @@ def lint_chapter(root: Path, cfg: dict, glossary: dict, chapter: str) -> dict:
             fail("coverage", rid or "", "missing from the draft")
 
     pairs = [
-        (row["id"], src_by_id[row["id"]], row["tgt"])
+        (row["id"], src_by_id[row["id"]], paragraph_payload(row["tgt"]))
         for row in draft
         if isinstance(row.get("id"), str)
         and row.get("id") in src_by_id
         and counts.get(row.get("id")) == 1
         and isinstance(row.get("tgt"), str)
-        and row["tgt"].strip()
+        and paragraph_payload(row["tgt"]).strip()
     ]
 
     allowed = set(cfg.get("allowed_source_chars") or "")

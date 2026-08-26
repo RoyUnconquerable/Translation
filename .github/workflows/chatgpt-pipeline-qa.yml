@@ -9,6 +9,11 @@ on:
     paths:
       - "chatgpt/**"
       - ".github/workflows/chatgpt-pipeline-qa.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: chatgpt-pipeline-qa-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: read

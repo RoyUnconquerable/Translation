@@ -134,3 +134,13 @@ When the owner supplies edited final prose, adopt it exactly in the aligned
 draft with `patch.py` where possible, reassemble, and record every reusable
 terminology, style, cultural, continuity, or known-error ruling. Never patch only
 the final file. Commit as `revise: <chapter> owner final`.
+
+## 8. Commit batching and CI hygiene
+
+Treat the glossary, style, continuity, world-reference, known-error, and state
+changes produced by one chapter as one coherent repository update. Publish them
+in a single commit or tree update rather than one commit per file. Run the final
+lint and state gates before moving the branch. Do not knowingly leave a failed
+workflow run unresolved. The GitHub Actions workflow cancels superseded runs on
+the same branch, but batching remains the primary safeguard against repeated
+notifications.
