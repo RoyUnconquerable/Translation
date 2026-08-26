@@ -1,6 +1,6 @@
 # Chat Translation Continuity, Chapter 1246 Onward
 
-Read `chatgpt/reference/continuity.md`, `chatgpt/reference/continuity-ch1221-ch1228.md`, `chatgpt/reference/continuity-ch1239-onward.md`, `chatgpt/reference/owner-edits-ch1245.md`, and `chatgpt/reference/owner-edits-ch1246.md` before this file. The owner-edit supplements override older chat-draft wording.
+Read `chatgpt/reference/continuity.md`, `chatgpt/reference/continuity-ch1221-ch1228.md`, `chatgpt/reference/continuity-ch1239-onward.md`, `chatgpt/reference/owner-edits-ch1245.md`, `chatgpt/reference/owner-edits-ch1246.md`, and `chatgpt/reference/owner-edits-ch1247.md` before this file. The owner-edit supplements override older chat-draft wording.
 
 ## Chapter 1246
 
@@ -34,8 +34,26 @@ Chongguang's Immortal Spirit body supplies Yin Xin-Metal. His four divine abilit
 
 The World-Honored One treats Chongguang as a piece placed on the board to test True Monarch Sovereign of Fate. If Lü Yang cannot answer this move, the World-Honored One will judge him unworthy of being entrusted with His Dao Path. At Spirit Mountain in Jiangxi, Lü Yang senses the change as it occurs.
 
-Draft title rendering: `重光的机缘` = `Chongguang's Fortuitous Opportunity`.
+Title rendering: `重光的机缘` = `Chongguang's Fortuitous Opportunity`.
 
-Terminology locked for this chapter: `命数` = `Fate`, distinct from `定数` = `Destiny`; `辛金` = `Xin-Metal`; `甲木` = `Jia-Wood`; `乙木` = `Yi-Wood`; `癸水` = `Gui-Water`; `巳火` = `Si-Fire`; `辰土` = `Chen-Earth`; `五行` = `Five Elements`; `坎阳湖` = `Kan-Yang Lake`.
+Terminology locked for this chapter: `命数` = `Fate`, distinct from `定数` = `Destiny`; `辛金` = `Xin-Metal`; `甲木` = `Jia-Wood`; `乙木` = `Yi-Wood`; `癸水` = `Gui-Water`; `巳火` = `Si-Fire`; `辰土` = `Chen-Earth`; `五行` = `Five Elements`; `坎阳湖` = `Kan-Yang Lake`; `小友` = `little friend`.
 
 Cultural images to preserve include the Other Shore's stepping stones (`踏脚石`), the broad open road (`康庄大道`), Soaring Firmament as a ghost that refuses to disperse (`阴魂不散`), the body-and-bones transformation (`脱胎换骨`), and the World-Honored One's move as a piece placed on the board (`一子`).
+
+## Chapter 1248
+
+Atop Spirit Mountain, Lü Yang's regional command over Jiangxi and the Overseas places him in a state of unity between Heaven and man, effectively making him another Heavenly Lord. He uses Drop of Heaven's Essence to search the Immortal Pivot's karma for the person sent in from the mortal world.
+
+A stronger mighty power conceals the intruder just before Lü Yang can expose them, but he preserves one extremely weak strand of karma. From its fleeting imagery, he sees a figure surrounded by the qi of the Five Elements, transforming it into lightning that resonates with the Immortal Pivot's Five Elements Fruition Attainments. The figure is not seeking one Fruition Attainment, but the fundamental Five Elements themselves.
+
+Lü Yang concludes that even a True Monarch who gains the Heavenly Lord's support could use four ounces to move a thousand pounds and destabilize his control over the twelve Water and Fire Fruition Attainments. The same connection is a double-edged sword, however, because he could use the intruder to influence the remaining Five Elements Fruition Attainments. Since the Dao Lord's move leaves discoverable traces and is not decisive enough to settle matters outright, Lü Yang infers that the move is a test, most likely from the World-Honored One.
+
+Lü Yang returns through his Foundation Establishment puppet to consult Si Sui. Si Sui is teaching the Cultivating Truth Dao Lord and again calls Lü Yang's puppet-control method an evil path, though he accepts that it is presently the best means of communication. He explains that the Dao Lord is testing whether Lü Yang has truly contacted him.
+
+Si Sui reveals that the great net of karma was formerly the River of Time, the foundation upon which the Primordial Saint proved the Dao. Time always advances, and the past is already Destiny and cannot be changed. The Primordial Saint initially proved Time as an unorthodox path to Destiny and only later truly took command of Destiny. By allowing Myriad Treasures to prove Karma and trace time backward to join the ancient war, He personally weakened His own foundation.
+
+Lü Yang then asks what would happen if the Primordial Saint personally killed the World-Honored One. Si Sui answers that if Karma collapsed, the great net of karma would revert to the River of Time. With Variables already rooted within it, the Primordial Saint could then use Destiny to command Variables, hold both Daos alone, and remove the final flaw from His cultivation.
+
+Draft title rendering: `初圣之秘` = `The Primordial Saint's Secret`.
+
+Locked correction: `滴天髓` = `Drop of Heaven's Essence`, never `Dripping Heaven's Marrow`. Draft terms awaiting owner correction if needed: `时光长河` = `River of Time`; `时光` = `Time` when treated as the Primordial Saint's proven path.
