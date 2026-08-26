@@ -48,8 +48,34 @@ The World-Honored One removes Jia-Wood and adds Gui-Water. Chongguang is left wi
 
 The World-Honored One explicitly uses Chongguang as a piece placed on the board to test True Monarch Sovereign of Fate. If Lü Yang cannot answer the move, the World-Honored One will not entrust His Dao Path to him. Lü Yang senses the resulting change from Spirit Mountain in Jiangxi.
 
+## Chapter 1248 additions
+
+### Lü Yang's regional Heavenly Lord state
+
+After bringing Jiangxi and the Overseas under the God-Sealing Method, Lü Yang can enter a state of unity between Heaven and man while seated on Spirit Mountain. In this state, he functions as another Heavenly Lord within the territory he controls and can search the Immortal Pivot's vast karma through Drop of Heaven's Essence.
+
+### The Five Elements intruder
+
+Lü Yang detects a person sent into the False History from the mortal world, but a stronger mighty power conceals the person before he can expose them. He preserves one weak strand of karma and sees a figure surrounded by the qi of the Five Elements. The qi transforms into lightning and resonates with the Immortal Pivot's Five Elements Fruition Attainments.
+
+The figure is not seeking an individual Fruition Attainment. They are seeking the fundamental Five Elements themselves. With even True Monarch cultivation and the Heavenly Lord's support, such a figure could use four ounces to move a thousand pounds and influence the twelve Water and Fire Fruition Attainments under Lü Yang's control. The connection also gives Lü Yang a potential path to influence the remaining elemental Fruition Attainments through that same figure.
+
+### The River of Time and the Primordial Saint's foundation
+
+Si Sui reveals that the great net of karma was formerly the River of Time. It was the foundation upon which the Primordial Saint proved the Dao. Time always moves forward, and the past is already Destiny and cannot be changed.
+
+The Primordial Saint initially proved Time, an unorthodox path to Destiny, and only much later truly took command of Destiny. By allowing Myriad Treasures to prove Karma and trace time backward to participate in the ancient war, He personally weakened this foundation.
+
+If the World-Honored One were killed and Karma collapsed, the great net of karma would revert to the River of Time. Because Variables have already taken deep root within the net, the Primordial Saint could then use Destiny to command Variables, hold both Daos alone, and remove the final deficiency from His cultivation. Si Sui presents this as the result of Lü Yang's hypothetical, not as an event already guaranteed to occur.
+
+### The World-Honored One's test
+
+Si Sui confirms that the move involving the Five Elements intruder is a test. More precisely, the World-Honored One is testing whether Lü Yang has truly established contact with Si Sui. The concealment method exploits the limited understanding of the River of Time possessed by cultivators below the Dao Lord level, but a cultivator of sufficient status can see through it as easily as turning over a hand.
+
 ## Cultural and terminology note
 
 `天妖` renders as `heavenly demon`, not `celestial demon`, under the Chapter 1246 owner ruling. The Chapter 1246 linked images must remain visible in English: a tail too large to control (`尾大不掉`), sewing the Sword Sovereign's wedding dress (`做嫁衣`), an ant swallowing a dragon (`蝼蚁吞龙`), the Sea of Light becoming a pot of porridge (`乱成一锅粥`), reversing guest and host (`反客为主`), a wrathful Vajra exterior hiding a heart blooming with laughter (`金刚怒目` / `笑开了花`), and the Other Shore as a sinking broken ship from which the World-Honored One means to jump.
 
 Chapter 1247 adds the Other Shore's stepping stones (`踏脚石`), a broad open road (`康庄大道`), Soaring Firmament as a ghost that refuses to disperse (`阴魂不散`), a body-and-bones transformation (`脱胎换骨`), and a strategic move represented as a piece placed on the board (`一子`). `命数` is `Fate`, distinct from `定数`, which remains `Destiny`.
+
+Chapter 1248 locks `滴天髓` as `Drop of Heaven's Essence`, superseding the erroneous reference rendering `Dripping Heaven's Marrow`. The four-ounces-and-a-thousand-pounds image in `四两拨千斤` and the hand-turning image in `易如反掌` should remain visible. `时光长河` is drafted as `River of Time` pending any later owner correction.
