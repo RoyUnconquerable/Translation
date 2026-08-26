@@ -19,3 +19,23 @@ The World-Honored One outwardly protests beneath a wrathful Vajra glare, but inw
 Title rendering: `世尊想要跳船了` = `The World-Honored One Wants to Jump Ship`.
 
 Owner terminology and cultural imagery to preserve include `天妖` as `heavenly demon`, the tail grown too large to control (`尾大不掉`), sewing the Sword Sovereign's wedding dress (`做嫁衣`), an ant swallowing a dragon (`蝼蚁吞龙`), the Sea of Light becoming a pot of porridge (`乱成一锅粥`), reversing the roles of guest and host (`反客为主`), the wrathful Vajra glare paired with a heart blooming in laughter (`金刚怒目` / `笑开了花`), and the Other Shore as a sinking broken ship from which the World-Honored One means to jump.
+
+## Chapter 1247
+
+The World-Honored One decides that the crucial issue is not whether to jump ship, but when and how. He outwardly withdraws His request for authority over the Heavenly Dao and parts from the Sword Sovereign and Vast Sky on bad terms, intending to preserve the foundation upon which He proved the Dao until He can trade it for the most valuable possible bargaining chip.
+
+The Sword Sovereign and Vast Sky suspect that He has learned something inside the False History. They reason that even after the Other Shore falls during Divine Transformation and Ascension, retaining True Monarch Radiant World Western Light would preserve the World-Honored One's seat and let Him return when the Other Shore is rebuilt. The Sword Sovereign attempts to calculate through Fate but cannot see through Karma's connection to Variable. Because only the One Mind can currently enter the False History, They remain unable to verify the World-Honored One's account.
+
+Inside the False History, the World-Honored One reflects that the Other Shore is a hierarchy of stepping stones. The Primordial Saint stands on everyone, other upper Dao Lords stand on Him and the Spiritual Power Dao Lord, and He has no one beneath His own feet. He decides to meet True Monarch Sovereign of Fate before committing to another ship, since jumping onto a second broken vessel about to sink would be worse than remaining where He is.
+
+The World-Honored One then offers Chongguang a fortuitous opportunity. Chongguang discovers that Chen-Earth remains Yin in the False History and concludes that Soaring Firmament's influence follows him like a ghost that refuses to disperse. The World-Honored One dismisses Overturned Lamp Fire as a dead end and instead restructures Chongguang's five divine abilities around the Five Elements.
+
+Chongguang's Immortal Spirit body supplies Yin Xin-Metal. His four divine abilities are Jia-Wood, Yi-Wood, Chen-Earth, and Si-Fire, but reversed Chen-Earth leaves their Yin and Yang out of balance. The World-Honored One removes Jia-Wood and adds Gui-Water, leaving Xin-Metal, Yi-Wood, Gui-Water, Si-Fire, and Chen-Earth. All five elements are present and uniformly Yin. Their fusion produces a dazzling lightning radiance in Chongguang's eyes.
+
+The World-Honored One treats Chongguang as a piece placed on the board to test True Monarch Sovereign of Fate. If Lü Yang cannot answer this move, the World-Honored One will judge him unworthy of being entrusted with His Dao Path. At Spirit Mountain in Jiangxi, Lü Yang senses the change as it occurs.
+
+Draft title rendering: `重光的机缘` = `Chongguang's Fortuitous Opportunity`.
+
+Terminology locked for this chapter: `命数` = `Fate`, distinct from `定数` = `Destiny`; `辛金` = `Xin-Metal`; `甲木` = `Jia-Wood`; `乙木` = `Yi-Wood`; `癸水` = `Gui-Water`; `巳火` = `Si-Fire`; `辰土` = `Chen-Earth`; `五行` = `Five Elements`; `坎阳湖` = `Kan-Yang Lake`.
+
+Cultural images to preserve include the Other Shore's stepping stones (`踏脚石`), the broad open road (`康庄大道`), Soaring Firmament as a ghost that refuses to disperse (`阴魂不散`), the body-and-bones transformation (`脱胎换骨`), and the World-Honored One's move as a piece placed on the board (`一子`).
