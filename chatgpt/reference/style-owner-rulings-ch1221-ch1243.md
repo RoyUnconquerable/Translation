@@ -1,4 +1,4 @@
-# Owner Style Rulings, Chapters 1221 to 1244
+# Owner Style Rulings, Chapters 1221 to 1247
 
 These are direct owner rulings and override model preference. Read them with
 `style-guide.md` before translating later chapters.
@@ -30,6 +30,11 @@ These are direct owner rulings and override model preference. Read them with
   tricks`, not merely `it has no tricks left`. Preserve the Heaven-and-Earth
   image in `绝地天通` and the dream, illusion, bubble, and shadow imagery in
   `梦幻泡影`.
+- Preserve linked metaphor chains across the whole paragraph or chapter. Later
+  locked examples include the Jing and Wei Rivers, rat and vessel, snake and
+  coiled rope, tail too large to control, wedding dress, ant swallowing a
+  dragon, pot of porridge, guest-and-host reversal, wrathful Vajra paired with a
+  heart blooming in laughter, and the broken ship used for jumping ship.
 - Preserve deliberate character substitutions, homophone jokes, corrupted
   idioms, and other Chinese wordplay. When English cannot reproduce both the
   familiar phrase and its altered character literally, preserve the contextual
@@ -37,6 +42,21 @@ These are direct owner rulings and override model preference. Read them with
   Chapter 1244, `人尽其材` plays on `人尽其才` while recasting people as useful
   material; the English must retain both the promise of putting everyone to use
   and the exploitative joke.
+- Preserve the stepping-stone image in `踏脚石`, the broad open road in
+  `康庄大道`, the lingering ghost in `阴魂不散`, the body-and-bones
+  transformation in `脱胎换骨`, and the board-game image in `一子` when these
+  appear in Chapter 1247 or later.
+- Owner-edited prose is final in substance, but obvious mechanical slips such as
+  missing apostrophes, articles, duplicate words, or accidental punctuation
+  should be corrected without changing the owner's intended phrasing.
+- In administrative contexts, `梳理` uses natural wording such as `bring into
+  order` or `systematically bring into order`, not the literal `comb`.
+- When `第一人` states an explicit ranking, prefer `the number one expert`.
+- For awkward `证道根基` or `成道根基` constructions, use `the foundation upon
+  which He proved the Dao` or `the foundation of His Dao attainment`.
+- `天妖` is `heavenly demon`, never `celestial demon`, in the current False
+  History context.
+- `命数` is `Fate`; `定数` remains `Destiny`.
 - Do not use em dashes or en dashes.
 - The fixed title is `the Nether Whisper Ancestor`, including the article.
 - Named individual Dragon Monarch titles normally take `the` in running prose.
