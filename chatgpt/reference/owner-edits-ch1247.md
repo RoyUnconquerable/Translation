@@ -14,6 +14,11 @@ This file records the owner's corrections following the Chapter 1247 draft. It o
 - Past tense and past perfect remain appropriate when the character is genuinely recalling a completed event, distinguishing an earlier state from the present, reporting remembered facts, or expressing a counterfactual or anterior sequence.
 - Do not shift an immediate deduction into past tense merely to match the narration.
 
+## Pre-Chapter 1248 terminology correction
+
+- `滴天髓` = `Drop of Heaven's Essence`.
+- The earlier reference rendering `Dripping Heaven's Marrow` is superseded and must not be used.
+
 ## Continuity correction
 
 In Chapter 1247, the World-Honored One addresses Chongguang as `little friend`. He offers Chongguang a fortuitous opportunity, restructures his Five Elements configuration, and leaves him as a piece on the board to test True Monarch Sovereign of Fate.
