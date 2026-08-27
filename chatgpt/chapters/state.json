@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-08-27",
   "source_snapshot": {
     "repository": "RoyUnconquerable/Translation",
     "branch": "claude/translation-pipeline-build-3gdy6r",
@@ -13,22 +13,27 @@
     "latest_translated_in_chat": "ch1250",
     "chapter_files_committed": false,
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1243.tsv",
+    "latest_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1250.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1243.md",
+    "latest_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1250.md",
     "owner_edit_supplements": [
       "chatgpt/reference/owner-edits-ch1245.md",
       "chatgpt/reference/owner-edits-ch1246.md",
       "chatgpt/reference/owner-edits-ch1247.md",
-      "chatgpt/reference/owner-edits-ch1249.md"
+      "chatgpt/reference/owner-edits-ch1249.md",
+      "chatgpt/reference/owner-edits-ch1250.md"
     ],
-    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1247.md",
-    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1249.md",
+    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1249.md",
+    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1250.md",
     "world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1203-ch1243.md",
     "prior_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1246-onward.md",
-    "latest_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1249-onward.md",
+    "recent_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1249-onward.md",
+    "latest_world_reference_supplement": "chatgpt/reference/world-reference-correction-ch1250.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
-    "recent_continuity_supplement": "chatgpt/reference/continuity-ch1246-onward.md",
-    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1249-onward.md",
+    "recent_continuity_supplement": "chatgpt/reference/continuity-ch1249-onward.md",
+    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1250-owner.md",
+    "chat_fast_path": "chatgpt/instructions/chat-fast-path.md",
     "next_chat_chapter": "ch1251",
     "pending_term_approval": {
       "天帝": "Heavenly Emperor",
@@ -37,11 +42,11 @@
       "时光": "Time"
     },
     "style_and_pipeline_audit": {
-      "date": "2026-08-26",
-      "status": "rules hardened; CI repaired; chat handoff advanced through Chapter 1250",
-      "notes": "The core style guide, owner-style supplement, active owner glossary, known-error traps, continuity, and world-reference handoffs incorporate owner corrections and source-grounded rules through Chapter 1250. 小友 is little friend. Direct internal thought generally uses present tense, with past and past perfect reserved for genuine recollection, anterior events, counterfactuals, and other exceptions. 滴天髓 is Drop of Heaven's Essence. 大宗师 is Grand Ancestral Master, a place or realm among the seven Heavenly Person's Remnant Consciousnesses named after the Zhuangzi chapter, never Grandmaster or a person/title. Chapter 1250 preserves the flowers-through-mist, marketplace-hermit, connected-branches, soft-persimmon, hand-reaching-and-seizing, and repeated-again images. Repository writes are batched and the full QA workflow must pass before completion. Chapter prose remains in chat only."
+      "date": "2026-08-27",
+      "status": "owner final applied through Chapter 1250; chat-only fast path enabled",
+      "notes": "The owner's Chapter 1250 prose is the governing version. New locked rulings include Acting Sect Master, the Heaven-Connecting Sea of Clouds, viewing flowers through the fog, hide in plain sight, time and time again, shared the same qi with intertwined branches, the soft persimmon, and seeking the Golden Core through Heart Demons without inventing a formal Heart Demon Dao. Future chat-only chapters should deliver prose before repository maintenance. Provisional first drafts no longer trigger handoff commits or CI. After owner approval or edited prose, extract reusable rulings and publish one atomic glossary, style, continuity, world-reference, and state update. Chapter prose remains in chat only."
     },
-    "instruction": "Before translating later chapters, read the base terminology TSV, the owner terminology supplement, the core style guide, the owner style supplement, every owner-edit supplement, every world-reference supplement, and every continuity supplement named in this handoff. The latest owner-edit supplement overrides conflicting earlier draft or continuity wording. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Direct internal thought generally uses present tense because it is immediate mental speech; use future for plans and predictions, and past or past perfect only for genuine recollection, completed prior events, counterfactuals, or another sequence requiring anteriority. Use natural contractions except those ending in 'd. Capitalize True Self. Use Saint, never Sage, for Si Sui. Choose Variable or Variables according to number and meaning. Render 天妖 as heavenly demon, never celestial demon in this context. Render 命数 as Fate and 定数 as Destiny. Use Kan-Yang Lake for 坎阳湖 and the established hyphenated elemental forms Jia-Wood, Yi-Wood, Xin-Metal, Gui-Water, Si-Fire, and Chen-Earth. Render 小友 as little friend, never young friend. Render 滴天髓 as Drop of Heaven's Essence, never Dripping Heaven's Marrow. Render 大宗师 as Grand Ancestral Master. It is a Zhuangzi-derived place or realm among the Heavenly Person's Remnant Consciousnesses, never Grandmaster and never a person or honorific. Preserve Chinese idioms, classical allusions, Buddhist and Daoist references, deliberate character substitutions, homophone jokes, corrupted idioms, and their defining imagery or double meaning. Preserve linked metaphor chains across the entire paragraph and chapter rather than translating each expression in isolation. Retain the donkey in 黔驴技穷, the Heaven-and-Earth division in 绝地天通, the full image sequence in 梦幻泡影, the horse at the cliff in 悬崖勒马, the talent/material pun in 人尽其材, the Jing-and-Wei Rivers in 泾渭分明, the rat and vessel in 投鼠忌器, the snake and coiled rope in 一朝被蛇咬，十年怕井绳, the tail in 尾大不掉, the wedding dress in 做嫁衣, the ant and dragon in 蝼蚁吞龙, the pot of porridge in 乱成一锅粥, the guest-and-host reversal in 反客为主, the wrathful Vajra and blossoming laughter in 金刚怒目 / 笑开了花, the broken-ship imagery in 跳船, the stepping stones in 踏脚石, the broad open road in 康庄大道, the lingering ghost in 阴魂不散, the body-and-bones transformation in 脱胎换骨, the board-game piece in 一子, the four ounces moving a thousand pounds in 四两拨千斤, the hand-turning image in 易如反掌, the crafty rabbit's three burrows in 狡兔三窟, the flowers through mist in 雾里看花, the greatest hermit hidden in the marketplace in 大隐隐于市, shared qi and connected branches in 同气连枝, the soft persimmon in 捏软柿子, the hand-reaching-and-seizing image in 手到擒来, and the escalating repeated-again joke in 又双叒叕. Preserve the upper, middle, and lower strategy parallelism in 上策 / 中策 / 下策. In an eating-metaphor chain, 照单全收 may be rendered as swallow it whole. Preserve board-game imagery such as 落子 as placing a piece on the board. In administrative contexts, render 梳理 naturally as bringing a territory or system into order, not literally combing it. In 证道根基 or 成道根基 contexts, use natural constructions such as the foundation upon which He proved the Dao or the foundation of His Dao attainment, never the foundation of Him proving the Dao. Target polished Wuxiaworld-quality xianxia English with clear combat causality and dignified cultivation register, without copying published wording. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Do not add pending terms to the canonical glossary until the owner approves or corrects them. Chapter 1245 is titled Chongguang: What Suffering! Its internal 苦也 is What suffering... and its closing 噫 is Alas! Chapter 1246 is titled The World-Honored One Wants to Jump Ship. Chapter 1247 is titled Chongguang's Fortuitous Opportunity. Chapter 1248 is drafted as The Primordial Saint's Secret. Chapter 1249 is drafted as Good Thing I Didn't Close It. Chapter 1250 is drafted as Everything Becomes Clear!."
+    "instruction": "Before translating later chapters, read state.json, config.json, the canonical terminology TSV, the core style guide, continuity.md, every terminology, style, owner-edit, world-reference, and continuity supplement named in this handoff, and chat-fast-path.md. Repository files outrank chat memory, and the latest owner ruling wins. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Direct thought generally uses present tense, with past or past perfect reserved for genuine recollection, anterior events, counterfactuals, and other real sequence needs. Use natural contractions except those ending in 'd. Preserve all source meaning, numbers, logical relations, idioms, allusions, jokes, and metaphor chains in polished xianxia English. Do not force a literal calque when the owner has locked a natural equivalent. 小友 is little friend. 滴天髓 is Drop of Heaven's Essence. 大宗师 is Grand Ancestral Master, a Zhuangzi-derived Remnant Consciousness place. 大隐隐于市 is hide in plain sight in Chapter 1250's context. 雾里看花 is viewing flowers through the fog. 又双叒叕 is time and time again. 接天云海 is the Heaven-Connecting Sea of Clouds. 代掌教 is Acting Sect Master as a formal office. In Chapter 1250's recollection, 证心魔 is seeking the Golden Core through Heart Demons, not an invented formal Heart Demon Dao. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Under the chat-only fast path, deliver the translated prose before metadata work, make no provisional first-draft handoff commit, and update glossary, style, continuity, world reference, and state once in an atomic commit only after owner approval or edited prose."
   },
   "chapters": {
     "ch1209": {
