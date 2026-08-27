@@ -10,31 +10,44 @@
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
   "chat_translation_handoff": {
-    "latest_translated_in_chat": "ch1250",
+    "latest_translated_in_chat": "ch1251",
+    "latest_owner_finalized_in_chat": "ch1251",
     "chapter_files_committed": false,
+    "verified_world_reference_project_source": {
+      "filename": "being-a-talent-reference(1).md",
+      "title": "Being A Talent: World Reference and Appendix",
+      "coverage": "Chapters 1 to 1202",
+      "registry": "chatgpt/reference/project-source-registry.md",
+      "instruction": "Search this attached project source only for terms and facts relevant to the current chapter. The canonical glossary, later owner rulings, and later chapter revelations override conflicts."
+    },
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1243.tsv",
-    "latest_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1250.tsv",
+    "prior_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1250.tsv",
+    "latest_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1251.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1243.md",
-    "latest_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1250.md",
+    "prior_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1250.md",
+    "latest_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1251.md",
     "owner_edit_supplements": [
       "chatgpt/reference/owner-edits-ch1245.md",
       "chatgpt/reference/owner-edits-ch1246.md",
       "chatgpt/reference/owner-edits-ch1247.md",
       "chatgpt/reference/owner-edits-ch1249.md",
-      "chatgpt/reference/owner-edits-ch1250.md"
+      "chatgpt/reference/owner-edits-ch1250.md",
+      "chatgpt/reference/owner-edits-ch1251.md"
     ],
-    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1249.md",
-    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1250.md",
+    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1250.md",
+    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1251.md",
     "world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1203-ch1243.md",
     "prior_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1246-onward.md",
     "recent_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1249-onward.md",
-    "latest_world_reference_supplement": "chatgpt/reference/world-reference-correction-ch1250.md",
+    "owner_world_reference_correction": "chatgpt/reference/world-reference-correction-ch1250.md",
+    "latest_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1251.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
     "recent_continuity_supplement": "chatgpt/reference/continuity-ch1249-onward.md",
-    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1250-owner.md",
+    "owner_continuity_correction": "chatgpt/reference/continuity-ch1250-owner.md",
+    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1251-owner.md",
     "chat_fast_path": "chatgpt/instructions/chat-fast-path.md",
-    "next_chat_chapter": "ch1251",
+    "next_chat_chapter": "ch1252",
     "pending_term_approval": {
       "天帝": "Heavenly Emperor",
       "补天道": "Heaven-Mending Dao",
@@ -43,10 +56,10 @@
     },
     "style_and_pipeline_audit": {
       "date": "2026-08-27",
-      "status": "owner final applied through Chapter 1250; chat-only fast path enabled",
-      "notes": "The owner's Chapter 1250 prose is the governing version. New locked rulings include Acting Sect Master, the Heaven-Connecting Sea of Clouds, viewing flowers through the fog, hide in plain sight, time and time again, shared the same qi with intertwined branches, the soft persimmon, and seeking the Golden Core through Heart Demons without inventing a formal Heart Demon Dao. Future chat-only chapters should deliver prose before repository maintenance. Provisional first drafts no longer trigger handoff commits or CI. After owner approval or edited prose, extract reusable rulings and publish one atomic glossary, style, continuity, world-reference, and state update. Chapter prose remains in chat only."
+      "status": "owner final applied through Chapter 1251; verified world reference registered; five-minute chat fast path tightened",
+      "notes": "The owner's Chapter 1251 prose is the governing version. New locked terms include Sacred Fire Cliff, Thirty-Three Heavens Vertical and Horizontal Go Formation, Illuminating Law, Profound Heaven Upright Crown, Eight Negations Wisdom Sword, Purple-Azure Tushita Fire, Inscribing the Heavenly Chapter, and Supreme Fire Element Fruition Attainment. Formal displayed decrees retain bold corner brackets as a narrow exception to ordinary call-out formatting. Future ordinary chapters use one targeted terminology lookup, one translation pass, and one source-grounded check, with no broad research, repeated full rewrites, or pre-delivery repository maintenance. The uploaded verified world reference through Chapter 1202 is an attached project source and should be searched only as needed."
     },
-    "instruction": "Before translating later chapters, read state.json, config.json, the canonical terminology TSV, the core style guide, continuity.md, every terminology, style, owner-edit, world-reference, and continuity supplement named in this handoff, and chat-fast-path.md. Repository files outrank chat memory, and the latest owner ruling wins. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Direct thought generally uses present tense, with past or past perfect reserved for genuine recollection, anterior events, counterfactuals, and other real sequence needs. Use natural contractions except those ending in 'd. Preserve all source meaning, numbers, logical relations, idioms, allusions, jokes, and metaphor chains in polished xianxia English. Do not force a literal calque when the owner has locked a natural equivalent. 小友 is little friend. 滴天髓 is Drop of Heaven's Essence. 大宗师 is Grand Ancestral Master, a Zhuangzi-derived Remnant Consciousness place. 大隐隐于市 is hide in plain sight in Chapter 1250's context. 雾里看花 is viewing flowers through the fog. 又双叒叕 is time and time again. 接天云海 is the Heaven-Connecting Sea of Clouds. 代掌教 is Acting Sect Master as a formal office. In Chapter 1250's recollection, 证心魔 is seeking the Golden Core through Heart Demons, not an invented formal Heart Demon Dao. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Under the chat-only fast path, deliver the translated prose before metadata work, make no provisional first-draft handoff commit, and update glossary, style, continuity, world reference, and state once in an atomic commit only after owner approval or edited prose."
+    "instruction": "Before translating later chapters, read state.json first. Reuse unchanged canonical authorities already loaded in the same project chat, but freshly read every newly named or changed supplement. Read config.json, the canonical terminology TSV, the core style guide, every terminology, style, owner-edit, world-reference, and continuity supplement named in this handoff, chat-fast-path.md, and the registered project-source file Being A Talent: World Reference and Appendix when relevant. Repository files outrank chat memory; the canonical glossary and the latest owner ruling override older reference entries. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought. Direct thought generally uses present tense, with past or past perfect reserved for genuine recollection, anterior events, counterfactuals, and other real sequence needs. Use natural contractions except those ending in 'd. Preserve all source meaning, numbers, logical relations, idioms, allusions, jokes, and metaphor chains in polished xianxia English. Apply the Chapter 1251 owner style directly: compact causal explanations, forceful but accurate action, clear combat geography, and no repeated explanation. Formal displayed decrees retain bold corner brackets; ordinary technique and artifact call-outs remain plain. Locked Chapter 1251 terms are Sacred Fire Cliff, Thirty-Three Heavens Vertical and Horizontal Go Formation, Illuminating Law, Profound Heaven Upright Crown, Eight Negations Wisdom Sword, Purple-Azure Tushita Fire, Inscribing the Heavenly Chapter, and Supreme Fire Element Fruition Attainment. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Under the chat-only fast path, search only the current chapter's actual terms, avoid broad web or repository research when authorities already resolve them, make one translation pass and one separate source-grounded check, deliver the complete chapter before repository maintenance, make no provisional handoff commit, and publish one atomic glossary, style, continuity, world-reference, and state update only after owner approval or edited prose."
   },
   "chapters": {
     "ch1209": {

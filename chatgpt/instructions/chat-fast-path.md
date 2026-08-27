@@ -4,7 +4,7 @@ This supplement applies when the owner asks for chapter prose directly in chat a
 
 ## Goal
 
-Deliver the translated chapter promptly, with the owner's target of roughly three minutes where chapter length and terminology permit, while retaining the same quality standard.
+Deliver the translated chapter promptly, with the owner's target of no more than five minutes for an ordinary chapter where length and terminology permit, while retaining the same quality standard. Avoidable process work must never delay the prose.
 
 ## 1. Cache stable repository authorities within one project chat
 
@@ -21,20 +21,24 @@ This is a cache, not permission to rely on stale memory.
 
 ## 2. Use targeted terminology review
 
-Search the glossary for terms actually appearing in the new source. Reuse locked terms without reopening them. Present one terminology batch only for genuinely new, changed, or materially ambiguous renderings.
+Search the glossary and the registered project world reference only for terms that actually appear in the new source. Reuse locked terms without reopening them. Present one terminology batch only for genuinely new, changed, or materially ambiguous renderings.
 
-Do not perform broad repository searches for ordinary words already governed by the style guide.
+Do not perform broad repository searches, reread the full world reference, or browse the web for ordinary words already governed by the glossary, owner rulings, or style guide. External research is reserved for a genuinely unresolved allusion or term whose correct rendering materially depends on it.
+
+When the glossary or verified project source resolves every chapter term, do not stop for a terminology batch. Proceed directly to translation.
 
 ## 3. Deliver prose before repository maintenance
 
 For a new chat-only chapter:
 
-1. perform the terminology check;
-2. translate and source-check the chapter;
-3. show the complete chapter in chat as soon as the prose is ready;
-4. do not create a provisional continuity or state commit before the owner reviews it.
+1. perform the targeted terminology check;
+2. translate the complete chapter in one drafting pass;
+3. perform one separate source-grounded check;
+4. patch only problems identified by that check;
+5. show the complete chapter in chat immediately;
+6. do not create a provisional continuity or state commit before the owner reviews it.
 
-The owner must not wait through GitHub metadata writes or CI before seeing the chapter.
+The owner must not wait through GitHub metadata writes, CI, broad research, or repeated stylistic rewrites before seeing the chapter.
 
 ## 4. Treat owner approval or edited prose as the stabilization point
 
@@ -62,18 +66,31 @@ The chat-only draft still receives a separate source-grounded pass checking:
 
 Run this review once after the complete draft rather than repeatedly rewriting the chapter in successive stylistic passes. Patch only identified problems.
 
-## 6. Batch tools and verification
+## 6. Five-minute operating path
+
+For an ordinary chapter, the working sequence is deliberately narrow:
+
+- read the current state;
+- reuse unchanged authorities already loaded in the project chat;
+- search only the chapter's actual terms in the glossary and verified project source;
+- make one translation pass;
+- make one source-check pass;
+- deliver immediately.
+
+Do not add a web-research phase, a general literary-analysis phase, multiple full rewrites, or pre-delivery repository work unless the source itself creates a genuine unresolved issue. Quality comes from applying the established style correctly on the first pass, not from multiplying passes.
+
+## 7. Batch tools and verification
 
 - Group independent repository reads into one batch where possible.
 - Use one Git tree commit for all files produced by an owner-finalized chapter.
 - Poll the resulting workflow run once after its jobs have had time to complete rather than issuing many rapid status requests.
-- Never leave an actual failed run unresolved, but do not delay presentation of chapter prose while a documentation-only handoff commit is validating.
+- Never leave an actual failed run unresolved, but do not delay presentation of chapter prose while documentation-only maintenance is validating.
 
-## 7. Response order
+## 8. Response order
 
 For new chapters, the visible order is:
 
 1. complete translated chapter;
 2. a brief repository status note only after the owner-finalized update exists.
 
-Avoid long process commentary, repeated citations to the same files, and descriptions of every low-level repository operation.
+Avoid long process commentary, repeated citations to the same files, descriptions of low-level repository operations, and terminology explanations the owner did not request.
