@@ -10,11 +10,9 @@
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
   "chat_translation_handoff": {
-    "latest_translated_in_chat": "ch1253",
-    "latest_owner_finalized_in_chat": "ch1253",
-    "intervening_unreviewed_chat_chapters": [
-      "ch1252"
-    ],
+    "latest_translated_in_chat": "ch1254",
+    "latest_owner_finalized_in_chat": "ch1254",
+    "intervening_unreviewed_chat_chapters": ["ch1252"],
     "chapter_files_committed": false,
     "verified_world_reference_project_source": {
       "filename": "being-a-talent-reference(1).md",
@@ -24,11 +22,11 @@
       "instruction": "Search this attached project source only for terms and facts relevant to the current chapter. The canonical glossary, later owner rulings, and later chapter revelations override conflicts."
     },
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1243.tsv",
-    "prior_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1251.tsv",
-    "latest_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1253.tsv",
+    "prior_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1253.tsv",
+    "latest_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1254.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1243.md",
-    "prior_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1251.md",
-    "latest_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1253.md",
+    "prior_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1253.md",
+    "latest_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1254.md",
     "owner_edit_supplements": [
       "chatgpt/reference/owner-edits-ch1245.md",
       "chatgpt/reference/owner-edits-ch1246.md",
@@ -36,24 +34,27 @@
       "chatgpt/reference/owner-edits-ch1249.md",
       "chatgpt/reference/owner-edits-ch1250.md",
       "chatgpt/reference/owner-edits-ch1251.md",
-      "chatgpt/reference/owner-edits-ch1253.md"
+      "chatgpt/reference/owner-edits-ch1253.md",
+      "chatgpt/reference/owner-edits-ch1254.md"
     ],
-    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1251.md",
-    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1253.md",
+    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1253.md",
+    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1254.md",
     "world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1203-ch1243.md",
     "prior_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1246-onward.md",
     "recent_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1249-onward.md",
     "owner_world_reference_correction": "chatgpt/reference/world-reference-correction-ch1250.md",
     "chapter1251_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1251.md",
-    "latest_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1253.md",
+    "chapter1253_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1253.md",
+    "latest_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1254.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
     "recent_continuity_supplement": "chatgpt/reference/continuity-ch1249-onward.md",
     "owner_continuity_correction": "chatgpt/reference/continuity-ch1250-owner.md",
     "chapter1251_continuity_supplement": "chatgpt/reference/continuity-ch1251-owner.md",
-    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1253-owner.md",
+    "chapter1253_continuity_supplement": "chatgpt/reference/continuity-ch1253-owner.md",
+    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1254-owner.md",
     "chat_fast_path": "chatgpt/instructions/chat-fast-path.md",
-    "next_chat_chapter": "ch1254",
+    "next_chat_chapter": "ch1255",
     "pending_term_approval": {
       "天帝": "Heavenly Emperor",
       "补天道": "Heaven-Mending Dao",
@@ -62,33 +63,13 @@
     },
     "style_and_pipeline_audit": {
       "date": "2026-08-27",
-      "status": "owner-final Chapter 1253 applied; Chapter 1252 remains a chat draft; five-minute chat fast path remains governing",
-      "notes": "The owner's Chapter 1253 prose is the governing version for that chapter. New reusable rulings include Beheading Pending Review for 斩监候, three avatars for Emperor Cang's 三化, the definite-article form the Immortal Kingdom Daoist Law, seal script for 符箓文字 in this manifestation, the spiritual qi of heaven and earth for 天地灵机 in this combat context, rise to the challenge for 应战, the natural idiom rendering when events turn abnormal, there's always something behind it, and establish statutes and enforce the law for 设律行法. Style should remain compact, forceful, and natural rather than preserving literal imagery that produces translationese. Chapter 1252 was translated in chat but did not receive a separate owner edit; its plot context is preserved in the Chapter 1253 continuity supplement without treating its exact prose as owner-final."
+      "status": "owner-final Chapter 1254 applied; Chapter 1252 remains a chat draft; five-minute chat fast path remains governing",
+      "notes": "The owner's Chapter 1254 prose is governing. New reusable rulings include Beheading, Immediate Execution for 斩立决, bold corner brackets for manifested judicial penalty labels, remnant shadow for 残痕留影, and smurf/smurfing for the recurring 炸鱼 joke. Preserve the meta joke chain around smurfing and dimensional suppression rather than solemnizing it. The final I, Lü Yang self-comparison is unmistakable internal thought and remains italicized even without explicit Chinese thought quotation marks."
     },
-    "instruction": "Before translating later chapters, read state.json first. Reuse unchanged canonical authorities already loaded in the same project chat, but freshly read every newly named or changed supplement. Read config.json, the canonical terminology TSV, the core style guide, every terminology, style, owner-edit, world-reference, and continuity supplement named in this handoff, chat-fast-path.md, and the registered project-source file Being A Talent: World Reference and Appendix when relevant. Repository files outrank chat memory; the canonical glossary and the latest owner ruling override older reference entries. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought, including an unspoken thought explicitly conveyed through a character's tone. Direct thought generally uses present tense, with past or past perfect reserved for genuine recollection, anterior events, counterfactuals, and other real sequence needs. Use natural contractions except those ending in 'd. Preserve all source meaning, numbers, logical relations, idioms, allusions, jokes, and metaphor chains in polished xianxia English. Apply the latest owner style directly: compact causal explanations, forceful but accurate action, clear combat geography, short emphatic beats where the source supports them, and no repeated explanation. Preserve an idiom's function and cultural force without forcing a literal image when it makes the English unnatural. Formal displayed decrees retain bold corner brackets; ordinary technique and artifact call-outs remain plain unless an owner-final term naturally includes an article. Locked Chapter 1253 rulings include Beheading Pending Review, his single body possessed three avatars, the Immortal Kingdom Daoist Law, seal script, the spiritual qi of heaven and earth, rise to the challenge, when events turn abnormal, there's always something behind it, and establish statutes and enforce the law. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Under the chat-only fast path, search only the current chapter's actual terms, avoid broad web or repository research when authorities already resolve them, make one translation pass and one separate source-grounded check, deliver the complete chapter before repository maintenance, make no provisional handoff commit, and publish one atomic glossary, style, continuity, world-reference, and state update only after owner approval or edited prose."
+    "instruction": "Before translating later chapters, read state.json first. Reuse unchanged canonical authorities already loaded in the same project chat, but freshly read every newly named or changed supplement. Read config.json, the canonical terminology TSV, the core style guide, every terminology, style, owner-edit, world-reference, and continuity supplement named in this handoff, chat-fast-path.md, and the registered project-source file Being A Talent: World Reference and Appendix when relevant. Repository files outrank chat memory; the canonical glossary and latest owner ruling override older reference entries. Preserve one target paragraph per source paragraph. Italicize explicit and unmistakable implicit internal thought, including extended self-address or resolution even when Chinese thought quotes are absent. Direct thought generally uses present tense, with past or past perfect only for genuine sequence needs. Use natural contractions except those ending in 'd. Preserve all source meaning, numbers, logical relations, idioms, allusions, jokes, metaphor chains, and deliberate modern slang in polished xianxia English. Apply the latest owner style directly: compact causal explanations, forceful accurate action, clear combat geography, short emphatic beats, and no repeated explanation. Preserve the source's register shifts; 炸鱼 is smurf/smurfing in this arc and its dimensional-suppression/fish joke chain must remain comic. Formal displayed decrees and judicial penalty labels retain bold corner brackets; ordinary technique and artifact call-outs remain plain. Locked Chapter 1254 rulings include Beheading, Immediate Execution, remnant shadow, smurf/smurfing, and dimensional suppression. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Under the chat-only fast path, search only the current chapter's actual terms, avoid broad web or repository research when authorities already resolve them, make one translation pass and one separate source-grounded check, deliver the complete chapter before repository maintenance, make no provisional handoff commit, and publish one atomic glossary, style, continuity, world-reference, and state update only after owner approval or edited prose."
   },
   "chapters": {
-    "ch1209": {
-      "story_order": 1209,
-      "status": "final",
-      "segments": 91,
-      "issues": 10,
-      "flagged_segments": 10,
-      "patched_segments": 10,
-      "lint_status": "pass",
-      "lint_warnings": 13,
-      "owner_final_applied": true
-    },
-    "ch1210": {
-      "story_order": 1210,
-      "status": "final",
-      "segments": 74,
-      "issues": 20,
-      "flagged_segments": 19,
-      "patched_segments": 19,
-      "lint_status": "pass",
-      "lint_warnings": 18,
-      "owner_final_applied": true
-    }
+    "ch1209": {"story_order":1209,"status":"final","segments":91,"issues":10,"flagged_segments":10,"patched_segments":10,"lint_status":"pass","lint_warnings":13,"owner_final_applied":true},
+    "ch1210": {"story_order":1210,"status":"final","segments":74,"issues":20,"flagged_segments":19,"patched_segments":19,"lint_status":"pass","lint_warnings":18,"owner_final_applied":true}
   }
 }
