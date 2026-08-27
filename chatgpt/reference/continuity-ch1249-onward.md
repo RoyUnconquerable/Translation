@@ -21,3 +21,19 @@ Draft title rendering: `幸好我没关` = `Good Thing I Didn't Close It`.
 Locked owner ruling: `大宗师` = `Grand Ancestral Master`, a Remnant Consciousness realm named after the *Zhuangzi* chapter, never `Grandmaster` and never a person or honorific.
 
 Cultural imagery to preserve includes the crafty rabbit's three burrows in `狡兔三窟`, the upper, middle, and lower strategy structure in `上策 / 中策 / 下策`, and the Saint Sect principle that in the end one must rely on oneself.
+
+## Chapter 1250
+
+Si Sui narrows the World-Honored One's test piece to an exceptionally talented Foundation Establishment True Person from the Immortal Pivot in the True History, because directly seeking the fundamental Five Elements requires both talent and brilliance. With this higher vantage point, Lü Yang identifies Chongguang: apart from Demon-Purging True Person, Chongguang ranks first among the Immortal Pivot's Foundation Establishment cultivators, serves as the Saint Sect's acting sect master, and has reached the True Monarch realm in three of Lü Yang's restarts, including one through the unfamiliar Heart Demon Dao.
+
+Lü Yang reconstructs the method behind the move. Chongguang was an Immortal Spirit in his previous life, so his ancient original body exists in Jiangbei and naturally draws the Heavenly Lord's attention. The Heavenly Lord's earlier obstruction and the One Mind lead Lü Yang to conclude that the World-Honored One controls the Heavenly Lord and chose Chongguang as His piece. The crucial information Si Sui has provided gives Lü Yang confidence that he can negotiate with the World-Honored One and perhaps draw Him into his own camp.
+
+After withdrawing from the Foundation Establishment puppet, Lü Yang decides to seize Jiangbei. Chongguang cannot move freely as an Immortal Spirit and must avoid human habitation, but his identity and birthplace make discovery inevitable once Lü Yang controls the region. The three years spent bringing Jiangxi and the Overseas into order are complete.
+
+At the Heaven-Connecting Sea of Clouds, Lian Tiandou predicts Lü Yang's approach. Jiangdong and Jiangnan remain linked, and the Grand Sword Patriarch's presence makes Jiangnan too hard a target, leaving Jiangbei as the soft persimmon. Lian Tiandou chooses to fight Lü Yang because he believes Lü Yang may hold answers to certain questions, and Bu Tianque agrees to follow him.
+
+Lian Tiandou then senses something wrong with his memories that Eldest Senior Brother died and Little Junior Brother disappeared. Looking at the familiar sky, he silently asks what lies beyond the Immortal Pivot and why no True Monarch or Dao Lineage ever thinks of venturing into the Sea of Light. The world he remembers begins to seem illusory.
+
+Draft title rendering: `一切明晰` = `Everything Becomes Clear!`.
+
+Cultural and style notes: preserve the flowers-through-mist image in `雾里看花`, the greatest hermit hidden in the marketplace in `大隐隐于市`, the connected-branches image in `同气连枝`, the soft persimmon in `捏软柿子`, the hand-reaching-and-seizing image in `手到擒来`, and the escalating repeated `again` joke in `又双叒叕`.

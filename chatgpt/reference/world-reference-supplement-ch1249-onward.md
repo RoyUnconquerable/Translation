@@ -41,3 +41,31 @@ After reconstructing the Primordial Saint's suspected arrangement, Lü Yang imme
 ## Cultural and terminology note
 
 Preserve the crafty rabbit and its three burrows in `狡兔三窟`. Preserve the parallel hierarchy of upper, middle, and lower strategies in `上策 / 中策 / 下策`. Treat Grand Ancestral Master as a Zhuangzi-derived Remnant Consciousness place-name in every later reference. The title and closing thought are drafted as `Good Thing I Didn't Close It` pending any later owner correction.
+
+## Chapter 1250 additions
+
+### Identification of the World-Honored One's test piece
+
+Si Sui infers that the Dao Lord's test piece is only a Foundation Establishment True Person from the Immortal Pivot in the True History, but one with enough talent and brilliance to bypass individual Fruition Attainments and seek the fundamental Five Elements. This higher-level inference lets Lü Yang identify Chongguang.
+
+Lü Yang states that, apart from Demon-Purging True Person, Chongguang ranks first among the Immortal Pivot's Foundation Establishment cultivators and serves as the Saint Sect's acting sect master. Across Lü Yang's restarts, Chongguang has reached the True Monarch realm three times. In one life, he rapidly comprehended the previously unfamiliar Heart Demon Dao and used it to advance. These are Lü Yang's remembered observations across lives.
+
+### Chongguang's Immortal Spirit origin and Jiangbei
+
+Lü Yang reasons that because Chongguang was an Immortal Spirit in his previous life, the karma of his original Immortal Spirit body still exists in the False History's ancient era. Immortal Spirit gestation is measured in ten-thousand-year spans. Chongguang's reincarnated Saint Sect identity also implies that his original Immortal Spirit body was born in Jiangbei.
+
+Lü Yang further reasons that the Heavenly Lord would naturally focus on an Immortal Spirit. The Heavenly Lord's intervention against Lü Yang's earlier karmic calculation, combined with the One Mind's ability to control consciousness, leads Lü Yang to conclude that the World-Honored One has taken control of the Heavenly Lord and selected Chongguang as His piece. This remains Lü Yang's deduction.
+
+### Lü Yang's next territorial objective
+
+After three years spent bringing Jiangxi and the Overseas into order, Lü Yang decides to seize Jiangbei. He expects Chongguang to avoid populated places because he lacks Lü Yang's means of hiding an Immortal Spirit among ordinary cultivators. Once Jiangbei falls under Lü Yang's command, he considers locating Chongguang's original body only a matter of time.
+
+### Lian Tiandou's doubts about the False History
+
+At the Heaven-Connecting Sea of Clouds, Lian Tiandou predicts that Lü Yang will target Jiangbei rather than Jiangnan. Jiangdong and Jiangnan are closely linked, and the Grand Sword Patriarch's presence in Jiangnan remains a deterrent. Lian Tiandou decides to fight Lü Yang because he suspects Lü Yang may hold answers to questions troubling him. Bu Tianque agrees to stand with him.
+
+Lian Tiandou questions the memories that Eldest Senior Brother died and Little Junior Brother disappeared. He silently asks what exists beyond the Immortal Pivot and why the many True Monarchs and Dao Lineages remain confined to it without attempting to enter the Sea of Light. The world in his memories begins to seem illusory. The source does not yet explain the cause of this inconsistency.
+
+## Cultural and terminology note
+
+Chapter 1250 preserves `雾里看花` through the image of viewing flowers through mist, `大隐隐于市` through the greatest hermit hidden in the marketplace, `同气连枝` through shared qi and connected branches, `捏软柿子` through pinching the soft persimmon, and `手到擒来` through reaching out and seizing. The playful written escalation `又双叒叕` should remain an emphatic chain of repeated `again` rather than being flattened to a single `again`.
