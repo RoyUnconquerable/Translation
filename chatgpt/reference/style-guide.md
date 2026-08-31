@@ -7,6 +7,11 @@ combat logic, dignified cultivation language, and intact Chinese cultural
 texture. This is a quality benchmark, not permission to copy recognizable
 wording from any published translation.
 
+The owner-edited Chapters 1 to 1202 establish the series-wide prose baseline.
+Use them as evidence for voice, cadence, and narrative restraint, not as an
+authority for superseded terms or mechanical habits. The current glossary and
+later owner rulings always override older manuscript inconsistencies.
+
 When principles conflict, the order is:
 
 1. complete and exact source meaning;
@@ -33,6 +38,35 @@ When principles conflict, the order is:
   revelation, short reaction beats, and sudden escalation. Smooth the English
   without erasing that structure.
 
+## Series cadence and restraint
+
+- The established voice is brisk, spare, and confident. Most paragraphs carry
+  one principal beat: a fact, action, reaction, deduction, question, or punch
+  line. Do not enlarge a short source beat merely to make it sound more
+  literary or complete.
+- Short questions, verdicts, reversals, and fragments are an important part of
+  the serial rhythm. Keep them short when the source gives them independent
+  emphasis. Do not fold *But to Dao Lords?*, *Not good.*, or an equivalent beat
+  into neighboring explanation.
+- Exposition should normally state the rule, then its immediate consequence.
+  Trust the reader to connect implications the source leaves implicit. Do not
+  add a summary, emotional gloss, or explanation after the point has landed.
+- Keep narrative transitions light. A new beat often needs only a plain time,
+  place, or viewpoint marker. Do not decorate routine movement between beats
+  with atmospheric language absent from the source.
+- Humor is usually dry, concrete, and embedded in the character's reasoning.
+  Preserve the slang, literal image, abrupt comparison, or self-satisfied
+  conclusion, then stop. Do not explain why the line is funny or add a second
+  joke.
+- Climactic scale comes from contrast: restrained setup, a clean image, then a
+  decisive change. Prefer exact nouns and forceful ordinary verbs over stacked
+  intensifiers. Let a short sound effect or consequence paragraph carry its
+  own impact.
+- Preserve deliberate recurrence in logical ladders and escalating sequences.
+  Repeating the same key term may be stronger and clearer than cycling through
+  synonyms, especially for cultivation concepts, comparisons, and successive
+  conclusions.
+
 ## Paragraph and sentence integrity
 
 - Preserve source paragraph structure exactly. One source paragraph becomes
@@ -45,6 +79,9 @@ When principles conflict, the order is:
   and emphasis survives.
 - Write in clear beats rather than stacked structures. Prefer actor, action,
   consequence. Split a compound sentence when both halves stand independently.
+- Match the source beat's size. A brief source paragraph should ordinarily
+  remain a brief English paragraph, while a dense explanatory paragraph should
+  not be compressed until a premise or causal step disappears.
 - Avoid excessive which-relatives and nominal stacks. Recast with a new
   sentence, a participle, or a direct verb.
 - Subject first. Open with a connective such as However, Thus, or At that
@@ -62,6 +99,9 @@ When principles conflict, the order is:
 - Narration is direct and dignified. The protagonist's speech and inner voice
   may keep slang, jokes, internet diction, and mild cursing from the source.
   Never formalize or euphemize them.
+- Keep evaluation close to the viewpoint character. Plain lines such as *What
+  a joke.*, *Damn it.*, or *That was trouble.* are preferable to narratorial
+  paraphrases that distance the reader from the reaction.
 - Dao Lords and formal speakers use courteous, composed, complete sentences.
   Their register is formal, but ordinary contractions remain available unless
   they end in `'d`.
@@ -93,6 +133,9 @@ When principles conflict, the order is:
   a completed event, distinguishes an earlier state, reports remembered facts,
   expresses a counterfactual, or requires another anterior sequence. Do not
   mechanically backshift immediate thought to match past-tense narration.
+- Preserve the compactness of thought. Do not turn a terse realization into a
+  fully explained argument, add a thought tag such as *he realized*, or repeat
+  in narration what the italicized thought has already established.
 
 ## Chinese idioms, allusions, and religious texture
 
@@ -149,6 +192,10 @@ When principles conflict, the order is:
   not add bold. Inline bracketed terms likewise lose brackets and bold.
 - Prefer an action beat plus quote in one paragraph, or a bare quote paragraph.
   Speech tags are rare and limited to said, asked, and replied.
+- Do not add a speech tag, adverb, facial expression, or emotional
+  interpretation merely to clarify a line whose speaker and force are already
+  clear from sequence and wording. The established manuscript often lets a
+  bare line carry the exchange.
 - Hesitation keeps a leading ellipsis inside the quote, such as `"...Hmph."`.
   A silent response uses the fixed form `Name: "..."`.
 - Sound effects are uppercase, unquoted, and on their own source-aligned line:
