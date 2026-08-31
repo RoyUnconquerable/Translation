@@ -12,9 +12,10 @@ Read, in order:
 3. `chatgpt/glossary/terminology.tsv`;
 4. `chatgpt/reference/style-guide.md`;
 5. `chatgpt/reference/continuity.md`;
-6. every terminology, owner-style, world-reference, and continuity supplement
+6. `chatgpt/reference/known-errors.md`;
+7. every terminology, owner-style, world-reference, and continuity supplement
    named in the state handoff;
-7. the immediately preceding chapter's source, work files, and final output.
+8. the immediately preceding chapter's source, work files, and final output.
 
 Repository files outrank chat memory. The latest owner ruling wins. Run:
 
@@ -23,6 +24,11 @@ python chatgpt/scripts/state.py
 ```
 
 Fix repository-state errors before creating a new draft.
+
+Conversation summaries and prior model drafts do not satisfy the source-read
+requirement. Under the chat-only fast path, when the Chinese source exists only
+in the owner's current message, treat that exact pasted text as the source and
+audit it directly paragraph by paragraph.
 
 ## 1. Ingest and segment
 

@@ -133,3 +133,33 @@ before delivery.
 - A glossary override can invalidate earlier chapters. Always run all-chapter
   lint after a forced change.
 - Do not claim a GitHub update unless the commit was actually published.
+
+## Rejected-draft trap: Chapter 1271
+
+- The first Chapter 1271 draft was rejected on 2026-08-31 and must never be
+  reused as prose or precedent. Its main process failure was translating from
+  remembered context and then checking fluency without a direct, paragraph-by-
+  paragraph comparison against the Chinese and current repository authorities.
+- Chapter 1271 has 66 Chinese body paragraphs. A valid target must have exactly
+  66 body paragraphs in the same order, in addition to the chapter title.
+- In this historical scene, the Ancestral Dragon is the Dao Lord Himself, not
+  the guided-out consciousness. Use `He/His/Him`. The third divided Sanhe voice
+  speaks for the Ancestral Dragon, so His self-reference takes `Me/My`, and a
+  collective reference to Dao Lords takes `They/Them`. The Sword Sovereign
+  takes `She/Her`.
+- `天下` must retain the article and plural cosmological form, normally `under
+  the heavens` or the contextually approved `beneath the heavens`, never bare
+  `under heaven` or `beneath heaven`.
+- Reuse the owner-locked `a full sixty-year cycle`, `sixty-year purge of
+  demons`, `the First-Generation Alchemy Cauldron Peak Lord`, `Grotto-Heaven
+  Method`, `Sanhe`, and `war between Dao Lords` where their Chinese terms recur.
+- Preserve the dry-weeds-and-rotten-wood image in `摧枯拉朽`, the wolf in
+  `狼子野心`, the solemn-righteous appearance in `道貌岸然`, the hidden-depth,
+  indecision, and fierce-face/faint-heart contrasts in the final insult list,
+  and the human-in-appearance versus beast-within punch line in `都是畜生`.
+- Avoid mechanical calques such as `the opening of its edge`, `excavates the
+  Dao roots`, and `an interrogation of his Dao Heart`. Compose natural English
+  while preserving the sharpening, digging-root, and Dao Heart trial images.
+- The Chapter 1271 title and corrected chat prose remain pending owner review.
+  Do not promote either into an owner ruling until the owner approves or edits
+  the redraft.

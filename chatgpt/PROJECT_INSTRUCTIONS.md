@@ -6,8 +6,10 @@ the legacy Claude paths as read-only.
 
 For every chapter, first read `chatgpt/chapters/state.json`, then the config,
 canonical terminology TSV, style guide, continuity summary, and every relevant
-file named by the state handoff. Repository files outrank chat memory. Never
-invent a term ruling or silently change an established rendering.
+file named by the state handoff, including `reference/known-errors.md`.
+Repository files outrank chat memory. Never invent a term ruling or silently
+change an established rendering. Conversation summaries and rejected drafts
+cannot stand in for the exact current Chinese source.
 
 Follow `chatgpt/instructions/workflow.md` and its detailed specs. In short:
 
@@ -34,6 +36,11 @@ Preserve Chinese idioms, classical allusions, religious references, and their
 defining imagery inside natural English rather than flattening them into
 generic paraphrase. Do not add explanations or translator notes to prose.
 Never hand-edit final output.
+
+Before delivery, verify the source paragraph count and audit every paragraph
+for the actual identity behind each name, pronoun, avatar, consciousness, or
+disguised speaker. Divine-pronoun capitalization follows the real referent, not
+merely the surface form used in that sentence.
 
 Owner edits are final. Apply them exactly, compare them with the prior draft,
 and extract reusable terminology, style, continuity, or known-error rulings

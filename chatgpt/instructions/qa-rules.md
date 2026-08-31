@@ -54,6 +54,9 @@ for all of the following:
   `Sage`, and singular or plural `Variable` according to meaning;
 - established character identity, divine pronouns, Dao titles, and chapter
   continuity, without importing facts absent from the source.
+- the actual referent behind every avatar, consciousness, divided self,
+  quotation, or disguised speaker; divine capitalization follows that referent
+  even when the surface form looks mortal.
 
 ### Xianxia prose quality
 

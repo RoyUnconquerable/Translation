@@ -10,6 +10,8 @@ Deliver the translated chapter promptly, with the owner's target of no more than
 
 At the start of a translation session, read the canonical state, config, terminology, style, continuity, and every supplement named by state. Record the branch head and the relevant file SHAs.
 
+Read `reference/known-errors.md` as part of this authority set. A conversation summary, an earlier assistant draft, or a continuity capsule may guide retrieval, but none may substitute for the exact current Chinese source.
+
 For later chapters in the same uninterrupted project chat:
 
 - fetch `state.json` first;
@@ -26,6 +28,8 @@ Search the glossary and the registered project world reference only for terms th
 Do not perform broad repository searches, reread the full world reference, or browse the web for ordinary words already governed by the glossary, owner rulings, or style guide. External research is reserved for a genuinely unresolved allusion or term whose correct rendering materially depends on it.
 
 When the glossary or verified project source resolves every chapter term, do not stop for a terminology batch. Proceed directly to translation.
+
+Before drafting, make a private current-chapter authority sheet containing the paragraph count, every recurring named referent and its required pronouns, and every locked term or image-bearing idiom in the source. This is especially important when an avatar, consciousness, quotation, or divided self conceals a Dao Lord's identity.
 
 ## 3. Deliver prose before repository maintenance
 
@@ -63,6 +67,8 @@ The chat-only draft still receives a separate source-grounded pass checking:
 - direct and implicit internal thought;
 - idioms, allusions, jokes, and metaphor chains;
 - combat causality and natural published English.
+
+The pass must use the exact Chinese paragraphs, never a summary of them. Confirm the source and target paragraph counts independently, then trace every name and pronoun to the actual referent before checking capitalization. Fluent English is not evidence that this identity check passed.
 
 Run this review once after the complete draft rather than repeatedly rewriting the chapter in successive stylistic passes. Patch only identified problems.
 
