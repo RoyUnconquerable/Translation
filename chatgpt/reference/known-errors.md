@@ -23,6 +23,13 @@ before delivery.
   with the chapter.
 - Obvious mechanical slips in owner-edited prose may be corrected, but do not
   use that permission to rewrite the owner's wording choices.
+- The owner explicitly flagged slight raw-format drift in the supplied Chapter
+  1272 final. Do not treat that drift as precedent. In particular, the source
+  paragraphs `He said:` and `I saw it. And I remember it.` remain two target
+  paragraphs in future source-aligned work.
+- Normalize only the evident Chapter 1272 paste slips: duplicated *two hundred
+  years*, curly quotation marks, singular agreement in *karma is rewritten*,
+  and the unmatched quotation mark after the sword inscription.
 
 ## Cultural and prose traps
 

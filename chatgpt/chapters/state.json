@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-31",
+  "last_updated": "2026-09-01",
   "source_snapshot": {
     "repository": "RoyUnconquerable/Translation",
     "branch": "claude/translation-pipeline-build-3gdy6r",
@@ -10,8 +10,8 @@
   "latest_finalized": "ch1210",
   "next_expected": "ch1211",
   "chat_translation_handoff": {
-    "latest_translated_in_chat": "ch1271",
-    "latest_owner_finalized_in_chat": "ch1270",
+    "latest_translated_in_chat": "ch1272",
+    "latest_owner_finalized_in_chat": "ch1272",
     "intervening_unreviewed_chat_chapters": [
       "ch1252",
       "ch1256",
@@ -28,11 +28,11 @@
       "instruction": "Search this attached project source only for terms and facts relevant to the current chapter. The canonical glossary, later owner rulings, and later chapter revelations override conflicts."
     },
     "owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1221-ch1243.tsv",
-    "prior_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1269.tsv",
-    "latest_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1270.tsv",
+    "prior_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1270.tsv",
+    "latest_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1272.tsv",
     "owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1221-ch1243.md",
-    "prior_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1269.md",
-    "latest_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1270.md",
+    "prior_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1270.md",
+    "latest_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1272.md",
     "owner_edit_supplements": [
       "chatgpt/reference/owner-edits-ch1245.md",
       "chatgpt/reference/owner-edits-ch1246.md",
@@ -55,10 +55,11 @@
       "chatgpt/reference/owner-edits-ch1267.md",
       "chatgpt/reference/owner-edits-ch1268.md",
       "chatgpt/reference/owner-edits-ch1269.md",
-      "chatgpt/reference/owner-edits-ch1270.md"
+      "chatgpt/reference/owner-edits-ch1270.md",
+      "chatgpt/reference/owner-edits-ch1272.md"
     ],
-    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1269.md",
-    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1270.md",
+    "prior_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1270.md",
+    "latest_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1272.md",
     "world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1203-ch1243.md",
     "prior_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1246-onward.md",
     "recent_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1249-onward.md",
@@ -66,7 +67,7 @@
     "chapter1251_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1251.md",
     "chapter1253_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1253.md",
     "chapter1254_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1254.md",
-    "latest_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1270.md",
+    "latest_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1272.md",
     "prior_continuity_supplement": "chatgpt/reference/continuity-ch1221-ch1228.md",
     "continuity_supplement": "chatgpt/reference/continuity-ch1239-onward.md",
     "recent_continuity_supplement": "chatgpt/reference/continuity-ch1249-onward.md",
@@ -74,22 +75,29 @@
     "chapter1251_continuity_supplement": "chatgpt/reference/continuity-ch1251-owner.md",
     "chapter1253_continuity_supplement": "chatgpt/reference/continuity-ch1253-owner.md",
     "chapter1254_continuity_supplement": "chatgpt/reference/continuity-ch1254-owner.md",
-    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1270-owner.md",
+    "latest_continuity_supplement": "chatgpt/reference/continuity-ch1272-owner.md",
     "chat_fast_path": "chatgpt/instructions/chat-fast-path.md",
     "known_error_register": "chatgpt/reference/known-errors.md",
-    "next_chat_chapter": "ch1271",
+    "next_chat_chapter": "ch1273",
     "pending_term_approval": {
       "补天道": "Heaven-Mending Dao"
     },
     "style_and_pipeline_audit": {
-      "date": "2026-08-31",
-      "status": "Chapter 1271 first draft rejected; source-grounded redraft pending owner review; Chapters 1252, 1256, and 1259 also remain unreviewed",
-      "notes": "Never reuse the rejected Chapter 1271 draft. Read the Chapter 1271 section in known-errors.md before continuing. The redraft must preserve all 66 Chinese body paragraphs, trace the third Sanhe voice to the Ancestral Dragon, apply He/His/Him and Me/My accordingly, retain the article in under/beneath the heavens, preserve the final idiom sequence and beast punch line, and avoid mechanical calques. Chapter 1270 remains the latest owner-final style authority."
+      "date": "2026-09-01",
+      "status": "Chapter 1272 owner final recorded; Chapter 1271 source-grounded redraft remains pending owner review; Chapters 1252, 1256, and 1259 also remain unreviewed",
+      "notes": "Never reuse the rejected Chapter 1271 first draft. Read its section in known-errors.md and keep the redraft pending until the owner approves or edits it. Chapter 1272 is the latest owner-final style authority. Its supplied prose contained slight raw-format drift that the owner explicitly warned against carrying forward, so every future chapter must preserve exact source paragraph structure."
     },
     "chapter1271_rejected_draft_audit": {
       "status": "source-grounded redraft delivered in chat; awaiting owner approval or edited prose",
       "authority": "chatgpt/reference/known-errors.md",
-      "instruction": "Do not reuse the rejected first draft or mark Chapter 1271 owner-final. Keep next_chat_chapter at ch1271 until the owner approves or edits the redraft."
+      "instruction": "Do not reuse the rejected first draft or mark Chapter 1271 owner-final. Keep it in the pending-review list even while later chapter translation proceeds."
+    },
+    "chapter1272_owner_final_audit": {
+      "status": "owner final recorded with obvious mechanical slips normalized in the durable rulings",
+      "authority": "chatgpt/reference/owner-edits-ch1272.md",
+      "locked_rulings": "This Sword Is Blameless Before the World, Though Not Before Men; lowercase karma for ordinary 因果; True Dragon; Immortal Calendar; consumable materials; an illusory bubble within karma; the complete righteousness inscription; the counterfactual Ancestral Dragon release; leverage against the Dao Lords; and the closing declaration",
+      "style": "Apply compact moral argument, explicit hypothetical relations, practical threat language, controlled transformation imagery, and classical elevation only where the source warrants it.",
+      "formatting": "The slight paragraph drift in the supplied owner edit is explicitly not precedent. Future chapters must map exactly one target paragraph to each source paragraph in identical order."
     },
     "instruction": "Before translating later chapters, read state.json first. Reuse unchanged canonical authorities already loaded in the same project chat, but freshly read every newly named or changed supplement. Read config.json, the canonical terminology TSV, the core style guide, every terminology, style, owner-edit, world-reference, and continuity supplement named in this handoff, chat-fast-path.md, and the registered project-source file Being A Talent: World Reference and Appendix when relevant. Repository files outrank chat memory; the canonical glossary and latest owner ruling override older reference entries. HARD STRUCTURE RULE: preserve exactly one target paragraph per Chinese source paragraph, in identical order. Never merge adjacent source paragraphs and never split a source paragraph merely for English flow. Apply scene break `---` only when warranted by the source/project convention. Italicize explicit and unmistakable implicit internal thought, but do not convert third-person free indirect narration into first-person italics solely because it reports reasoning. Direct thought follows the thought-moment rather than blanket narrative backshift: a completed exchange may be past, a capability unused up to now may be present perfect, and standing judgments and general truths remain present or modal present. Completed alternative history requires the counterfactual perfect, and an event anterior to that hypothetical outcome requires past perfect. Use natural contractions except those ending in 'd; allowed forms such as would've and could've should not be expanded without a voice or emphasis reason. Preserve all source meaning, numbers, logical relations, idioms, allusions, jokes, metaphor chains, and deliberate modern slang in polished xianxia English. Apply the latest owner style directly: compact causal explanations, forceful accurate action, clear combat geography, short emphatic beats, and no repeated explanation. Preserve established capitalized Dao Lord pronouns where applicable. SOURCE CHECK RULE: the separate review must audit time relationships, natural contractions, every locked term and capitalization, exact title and affiliation relationships, natural xianxia phrasing, idiom imagery, omissions, additions, numbers, logic, and paragraph alignment before running mechanical checks. Locked Chapter 1255 rulings include True Monarch Sovereign of Fate, Shi Tianyi, The Heavenly Palace, The Wheel of Life and Death, Time of Flourishing, Time of Withering, and Treasure, please reveal yourself. Locked Chapter 1257 rulings include real world, Sea of Suffering, fellow traveler on the Dao, person who shares my Dao, six to four, same-realm phrasing, and the hard scene break before the far end of the firmament. Locked Chapter 1258 rulings include Without Me, the First-Generation Peak Lords Would Have Been Finished!, Sanhe, Utmost Nature Immortal-Seeking Scripture, Overseas True Dragons, full sixty-year cycle, war between Dao Lords, the single-leaf image, and the counterfactual-perfect tense. Locked Chapter 1260 rulings include The Only Chance in This Life, Mahayana True Enlightenment Scripture, This Venerable, Time, River of Time, Great Net of Karma, Taiyi Beast, the sales-pitch joke, and the spit, ship, tail, donkey, scales, and two-handed surrender images. Locked Chapter 1261 rulings include Divine Transformation and Ascension Begins Again!, Metal Element, Wood Element, Earth Element, Boundless Dao, Great Post Earth, the bold bracketed imperial edict, the hard scene break before the changed-main-channel reaction, the implicit direct thought Then come., and the linked dream, downstream river, and palm imagery. Locked Chapter 1262 rulings include I'm Actually Not Stupid at All, Purple-Azure Tushita Fire, Underworld Sovereign's Hall, Outer Heavens, Lord of the Underworld, Tai Yitian, the character for Heaven, the snare and last-laugh images, and the exact True Monarch Azure Firmament, Cangjiang Dragon Monarch, and Primordial Saint identity sequence. Locked Chapter 1263 rulings include The Primordial Saint's Methods, exploding pill, Dark Side of the Sea of Light, draw out the Tribulation, Tribulation had descended!, the modern direct register, clockwork and chain progression, and the mediocre man, spider silk and horse tracks, worm-eaten Great Dao, and drinking-poison-to-quench-thirst images. Locked Chapter 1264 rulings include Two Birds with One Stone, an Open Scheme!, Celestial Court, Star Palace, Mysterious Wall, Usurpation of the Huai, Flowing Downward, Dao-attainment ground, lesser cultivator, the hard scene break before the Ancestral Dragon's attempt, and the divine-dragon, four-ounces, heavy-burden, turning-palm, arrows, and rat images. Locked Chapter 1265 rulings include The False History Returns!, Palace of Soaring Clouds, Heavenly Emperor, Fortune, Great Dao of Yin, the Divine Rank corresponding to Divine Offerings, the peach image, both hard scene breaks, and past-perfect chronology when altered history becomes the new established past. Locked Chapter 1266 rulings include But Incapable, Seven Emotions Heaven-Fathoming Art, True Self, lowercase wisdom light, the Dao-without-feeling paradox, the Heaven and Earth are not benevolent allusion, the italicized Si Sui? thought, coherent visual sequencing, natural person referents, and the understated simply lacked the ability punch line. Treat owner revisions as stylistic evidence governing sentence construction, causal transitions, image control, and comic timing, not only as mechanical substitutions. Locked Chapter 1267 rulings include The Mysteries of the Heavenly Dao, Prismatic Talent, A Guest Rejected by Heaven and Earth, true nature as distinct from True Self, the flowers-in-a-mirror and moon-in-water allusion, the toy control metaphor, the hard scene break before the Immortal Pivot reveal, and the unique-history and external-force panel wording. Apply the owner final as stylistic evidence for compact causal progression, precise control verbs, explicit destinations, naturalized metaphors, and isolated reversal beats. Locked Chapter 1268 rulings include The Great Dao of Variables Manifests!, Buddhist Dharma, How virtuous!, ten trillion Buddha-lands, the grains-of-sand and stupa image, human capital, the hard scene break before the Immortal Pivot, and the complete elevated proclamation with Mandate of Heaven, Divine Dao, gods of heaven and earth, and peace to all beneath the heavens. Apply the owner final as stylistic evidence for dynamic temporal-chaos prose, explicit social support relations, concise comparisons, clear directional imagery, and balanced formal parallelism. Locked Chapter 1269 rulings include Primordial Spirit!, Supreme Dao Transformation, capitalized Status at the breakthrough, comprehensive italics for unmistakable Heavenly Emperor thoughts, the absolute difference in talent joke, the forced-melon and thirst reversal, the two-fists and four-hands image, and the complete Long have I contended with myself, and still I would rather be myself classical line with emphasis on long. The explicit Chapter 1270 correction is Yin-Yang Creation and Destruction Profound Light. Apply the owner final as stylistic evidence for concise mirrored action, modern cheat humor, purpose-first cultivation explanation, and clear directional breakthrough imagery. Locked Chapter 1270 rulings include Sanhe, Yin-Yang Creation and Destruction Profound Light, True Monarch Supreme Dharma, the lines-on-his-palm image, the golden-scaled carp transforming into a dragon and stirring the winds and clouds, the gentleman-deceived-through-what-is-right maxim, untouched by the red dust, and the cash-in and screw-him-over joke. Apply the owner final as stylistic evidence for cultivation-centered explanation, concrete image progression, character-centered historical causality, selective Chinese texture, natural dignified dialogue, and understated manipulative compassion. Keep chapter prose in chat unless the owner explicitly requests repository chapter files. Under the chat-only fast path, search only the current chapter's actual terms, avoid broad web or repository research when authorities already resolve them, make one translation pass and one separate source-grounded check, deliver the complete chapter before repository maintenance, make no provisional handoff commit, and publish one atomic glossary, style, continuity, world-reference, and state update only after owner approval or edited prose.",
     "chapter1254_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1254.tsv",
@@ -159,7 +167,12 @@
     "chapter1270_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1270.md",
     "chapter1270_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1270.md",
     "chapter1270_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1270.md",
-    "chapter1270_continuity_supplement": "chatgpt/reference/continuity-ch1270-owner.md"
+    "chapter1270_continuity_supplement": "chatgpt/reference/continuity-ch1270-owner.md",
+    "chapter1272_owner_terminology_supplement": "chatgpt/glossary/owner-rulings-ch1272.tsv",
+    "chapter1272_owner_style_supplement": "chatgpt/reference/style-owner-rulings-ch1272.md",
+    "chapter1272_owner_edit_supplement": "chatgpt/reference/owner-edits-ch1272.md",
+    "chapter1272_world_reference_supplement": "chatgpt/reference/world-reference-supplement-ch1272.md",
+    "chapter1272_continuity_supplement": "chatgpt/reference/continuity-ch1272-owner.md"
   },
   "chapters": {
     "ch1209": {
