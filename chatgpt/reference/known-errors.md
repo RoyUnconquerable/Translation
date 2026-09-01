@@ -30,6 +30,12 @@ before delivery.
 - Normalize only the evident Chapter 1272 paste slips: duplicated *two hundred
   years*, curly quotation marks, singular agreement in *karma is rewritten*,
   and the unmatched quotation mark after the sword inscription.
+- The Chapter 1273 owner final was supplied as body prose without its heading.
+  Retain the existing translated title. A body-only owner edit is never
+  permission to omit the source chapter title.
+- Normalize the evident Chapter 1273 mechanical slips: curly quotation marks
+  become straight ASCII quotation marks, and *furrow a brow* becomes *furrow
+  his brow* without reverting the owner's intended expression.
 
 ## Cultural and prose traps
 
