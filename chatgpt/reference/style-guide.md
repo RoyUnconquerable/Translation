@@ -94,9 +94,11 @@ When principles compete, use this order:
   narration is past tense. Free indirect narration remains roman and normally
   follows the narrative past.
 - Determine direct thought from voice and context, not mechanically from the
-  source's quotation glyphs. When Chinese elides the subject, preserve the
-  thinker's immediate viewpoint instead of turning the thought into a
-  third-person report.
+  source's quotation glyphs. A third-person analytical conclusion may remain
+  free indirect narration in roman type even when Chinese encloses it in
+  thought marks. When Chinese elides the subject, preserve the thinker's
+  immediate viewpoint instead of turning the thought into a third-person
+  report.
 - When history is rewritten, use tense to show the new established past and
   any event anterior to it. Do not backshift mechanically.
 - Do not add thought tags or restate in narration what an italicized thought

@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1269 to 1281
+# Current continuity: Chapters 1269 to 1282
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -77,12 +77,21 @@ approval. Review status belongs in the chapter ledger.
   Dao-attainment system with Si Sui's inward cultivation path.
 - The Primordial Saint has not appeared among the descending Dao Lords. His
   location and present level are unknown.
+- Chapter 1282: Lü Yang blocked Vast Sky from joining the Sword Sovereign.
+  Vast Sky used the Written Word to dim Heaven-Slayer and the Five Elements
+  Fruition Attainments, revealing that He had named the Sea of Light's written
+  language, thirty Fruition Attainments, and ten Great Daos when He proved the
+  Dao of Fortune.
+- Vast Sky then linked both `True Monarch Sovereign of Fate` and `Lü Yang` to
+  Fortune and began erasing Lü Yang's ability to affect the outside world. The
+  effect cannot kill him directly, but it can leave him effectively lost in
+  the Fathomless Void. Lü Yang is resisting it with his Primordial Spirit.
 
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Primordial Spirit complete but internally unfinished; seriously wounded; much of the Heavenly Palace destroyed; facing Vast Sky. |
+| Lü Yang | Primordial Spirit complete but internally unfinished; seriously wounded; much of the Heavenly Palace destroyed; facing Vast Sky while resisting the erasure of his Fortune. |
 | Dao Tianqi | Underworld damaged but intact; currently the strongest defender in the Sea of Light; facing the Sword Sovereign. |
 | World-Honored One | Peak Golden Core and no longer a Dao Lord; comparatively rested; holding the Spell Dao Lord and Du Xuan. |
 | Sword Sovereign | Won Her exchange with Lü Yang but failed every strategic objective; finger wounded; blocked by Dao Tianqi. |

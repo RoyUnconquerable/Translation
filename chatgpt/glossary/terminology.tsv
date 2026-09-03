@@ -71,7 +71,7 @@ source	target	notes
 玄妙	Mystery|Mysteries	number follows the raw (Ch. 1174 ruling); provenance terminology.tsv
 天宫	Heavenly Palace	with 'the' (Ch. 1196 ruling); provenance terminology.tsv
 位格	status	lowercase except at sentence start; the legacy phrase 踏天境的高位格 was translated compositionally [except: 踏天境的高位格]; provenance terminology.tsv
-现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; provenance owner-rulings-ch1276.tsv
+现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世]; provenance owner-rulings-ch1276.tsv
 仙桥	Immortal Bridge	provenance terminology.tsv
 改因易果	altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; provenance terminology.tsv
 伟力	mighty power	owner-approved 2026-08-19 [except: 无穷伟力|降世的伟力]; 降世的伟力 = 'the might of Their descent' (owner Ch. 1210); provenance terminology.tsv
@@ -310,3 +310,8 @@ source	target	notes
 都玄	Du Xuan	Spiritual Power Dao Lord; divine pronouns He/His/Him; provenance consolidation
 爆丹	exploding pill	split from malformed combined source; provenance consolidation
 爆炸丹	exploding pill	split from malformed combined source; provenance consolidation
+道庭	Dao Court	Vast Sky's institution; provenance owner-final Ch.1282
+箓文	seal-script character	individual written glyph; pluralize normally; never use the writing-system noun "seal scripts" for countable characters; provenance owner-final Ch.1282
+符箓之法	talisman arts	Vast Sky's name- and writing-based method; provenance owner-final Ch.1282
+心剑	heart sword	Heaven-Slayer's actual nature after Sanhe's Primordial Spirit sacrifice; lowercase as a descriptive type; provenance owner-final Ch.1282
+文字	Written Word|written language|writing	use the Written Word for Vast Sky's bracketed Dao concept and written language for ordinary script; provenance owner-final Ch.1282

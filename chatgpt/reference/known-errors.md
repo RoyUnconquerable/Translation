@@ -27,6 +27,11 @@ better canonical control makes it redundant.
 - Use `Yin-Yang Creation and Destruction Profound Light` for `两仪生灭玄光`.
 - Translate `光铸的双手` as `hands forged from light` when that construction
   recurs.
+- Resolve `现世` grammatically before enforcing terminology. As a noun it is
+  `the mortal world`; as a verb, including `再度现世`, it means to manifest or
+  appear.
+- Count individual `箓文` as `seal-script characters`, not `seal scripts`,
+  which incorrectly treats each glyph as an entire writing system.
 - `天下` normally needs the established plural cosmological form, `under the
   heavens` or `beneath the heavens`, not bare `under heaven`.
 

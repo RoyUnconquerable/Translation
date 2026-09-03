@@ -19,3 +19,7 @@ date	chapter	category	decision	promoted_to	status
 2026-09-03	1266-1279	QUALITY	Correct misremembered allusions and overfitted owner phrases, including 圣人不仁, 万事莫贵于义, and 道德绑架.	phrase-memory.tsv	active
 2026-09-03	1266-1280	TERM	Add missing late-arc identities and technical terms, including 万宝, 识念, 重光, 三根基, and Sanhe's cultivation terms.	terminology.tsv and entities.tsv	active
 2026-09-03	all	PIPELINE	Remove executable legacy Claude triggers from the active branch and retain only compatibility pointers; the archive branch preserves the old implementation.	README.md and audit.py	active
+2026-09-03	1282	TERM	Use Dao Court for 道庭, seal-script character for countable 箓文, talisman arts for 符箓之法, and the Written Word for bracketed 文字.	terminology.tsv	active
+2026-09-03	1282	PHRASE	Preserve the bolting-rabbit image, the circle-of-light chain, and Vast Sky's complete definition of Fortune.	phrase-memory.tsv	active
+2026-09-03	1282	FACT	Vast Sky governs Fortune through names and the Written Word; Heaven-Slayer cuts the Primordial Spirit in direct clashes.	world-reference.md and continuity.md	active
+2026-09-03	1282	MACRO	Treat third-person analytical conclusions as free indirect narration when they are not voiced mental speech, regardless of Chinese thought marks.	style-guide.md	active

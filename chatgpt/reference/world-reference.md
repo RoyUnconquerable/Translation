@@ -64,6 +64,13 @@ source facts unless explicitly labeled as a character hypothesis.
   where the source has not confirmed one.
 - Fate, Destiny, Fortune, and Variables are separate concepts and sources of
   imagery.
+- Vast Sky defines Fortune as the power a phenomenon or living being possesses
+  to influence external things, fate, and the world. He proved the Dao of
+  Fortune through the Written Word.
+- Vast Sky created the Sea of Light's written language and named the thirty
+  Fruition Attainments and its ten Great Daos. By linking those names to
+  Fortune, He can suppress a named power or erase a person's ability to affect
+  the world, producing a state like becoming lost in the Fathomless Void.
 - The Five Heavenly Numbers can be gathered through corresponding Mysteries.
   The Ancestral Dragon and Lü Yang both use personal Mysteries to contain them,
   but their systems and purposes are not identical.
@@ -105,6 +112,9 @@ source facts unless explicitly labeled as a character hypothesis.
 - Heaven-Slayer combines the Sword Sovereign's long refinement of Sanhe's True
   History body with the False History Sanhe's temporary Primordial Spirit
   sacrifice and seizure of that sword.
+- Heaven-Slayer is a heart sword. Any opponent who clashes with its edge has a
+  portion of the Primordial Spirit cut away, so a prolonged battle increases
+  the risk of becoming lost in the Fathomless Void.
 
 ## Era outline
 
