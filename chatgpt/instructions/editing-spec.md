@@ -1,47 +1,53 @@
-# Editing and owner-revision specification
+# Owner revision and editing
 
-## Minimal, traceable edits
+The owner's intent, explicit terminology choices, and approved editorial
+decisions are authoritative. Supplied English is not exempt from source,
+grammar, continuity, terminology, tense, formatting, or allusion review.
 
-Every non-mechanical edit starts with a recorded issue tied to a segment ID.
-Repair only the named segment and preserve as much correct wording as the fix
-allows. Do not restyle unrelated sentences while reviewing.
+Repair clear mechanical errors directly. If owner wording appears to change
+meaning, weaken or substitute an idiom, contradict a hard term or identity, or
+create unnatural English, do not canonize it silently and do not silently
+override it. Present the issue and a source-grounded alternative for
+confirmation.
 
-Mechanical edits whose exact final text is already known may use `patch.py`.
-Translation judgment still requires direct comparison with the source and a
-recorded reason.
+## Compare once
 
-## Owner edits
+Align the owner version with both the exact source and the prior draft,
+paragraph by paragraph. First verify fidelity, grammar, terminology,
+continuity, thought mode and tense, allusions, and formatting. Then record what
+changed in word choice, tone, sentence structure, pacing, terminology, logic,
+and formatting. Do not treat a typo or an unverified mistranslation as stylistic
+evidence.
 
-The owner's supplied final wording outranks model preference. When owner prose
-arrives:
+## Classify before promotion
 
-1. align each change to its segment ID;
-2. apply the exact wording to the draft, not only the assembled final;
-3. re-run lint and assembly;
-4. diff owner text against the prior reviewed draft;
-5. extract reusable rulings into the glossary, style guide, continuity, or
-   known-errors file;
-6. run all-chapter lint after a changed term ruling.
+Every difference receives one classification:
 
-Do not generalize a one-off phrasing unless the edit establishes a repeatable
-rule. Record uncertain scope explicitly and ask the owner rather than silently
-turning a local choice into global policy.
+- `MACRO`: a reusable writing principle;
+- `TERM`: a stable recurring name or concept;
+- `PHRASE`: a contextual title, allusion, verse, image, or special line;
+- `FACT`: a stable world mechanic or relationship;
+- `CONTINUITY`: current plot state;
+- `LOCAL`: a passage-specific preference;
+- `MECHANICAL`: spelling, punctuation, agreement, duplicated text, or paste
+  damage.
 
-## Issue record
+Promote each item only to its matching canonical file. One edit may support an
+existing rule without creating a new one. Local and mechanical items do not
+become global rules.
 
-`<chapter>.issues.json` is a JSON array. Each object has:
+## Repository update
 
-```json
-{
-  "id": "ch1211-0001",
-  "type": "mistranslation",
-  "severity": "major",
-  "note": "One source-grounded sentence explaining the defect.",
-  "patched": false
-}
-```
+Update the chapter ledger and compact state. Do not create chapter-specific
+style, glossary, continuity, world, or owner-edit files. Record concise
+provenance in `reference/decision-log.tsv` only when useful.
 
-Allowed types are `mistranslation`, `omission`, `addition`, `terminology`,
-`tone`, and `awkward`. Major means meaning is wrong, missing, or invented;
-minor means style or flow. Mark `patched` true only after the replacement has
-been checked against both source and terminology.
+A live decision is provisional cross-session memory until its repository update
+has been committed and pushed to the canonical GitHub branch named in state.
+
+In file-backed mode, apply wording to the aligned draft and reassemble rather
+than hand-editing final output. In chat-first mode, chapter prose remains in
+chat unless the owner explicitly authorizes durable storage.
+
+Run every repository gate in `workflow.md`, review the diff, make one coherent
+commit, and push it.

@@ -11,9 +11,8 @@ character Han n-gram at or above term_min_count, prefers the longest match,
 and drops anything already in the effective glossary. In Latin mode it counts
 repeated capitalized token sequences instead.
 
-`add` writes to the latest owner-ruling TSV when one exists. This ensures a new
-owner ruling is loaded after and overrides the base terminology file rather than
-being silently shadowed by an older supplement.
+`add` writes only to the canonical terminology table. Forced changes replace
+the existing row in place so duplicate keys cannot become an override system.
 """
 
 from __future__ import annotations
@@ -157,13 +156,7 @@ def find_precedent(archive: list, term: str, width: int = 90) -> tuple[str, str]
 
 
 def active_write_path(root: Path) -> Path:
-    """Return the authoritative TSV to which new owner rulings are appended."""
-    supplements = [
-        path for path in common.glossary_paths(root)[1:]
-        if path.is_file()
-    ]
-    if supplements:
-        return supplements[-1]
+    """Return the sole hard terminology table."""
     return root / "glossary" / "terminology.tsv"
 
 
@@ -189,7 +182,17 @@ def cmd_candidates(args: argparse.Namespace) -> int:
     combined = Counter(counts)
     combined.update({g: c for g, c in archive_counts.items() if g in counts})
     text_all = "\n".join(texts + archive_texts)
-    candidates = pick_candidates(combined, list(glossary), text_all, min_count)
+    candidates = set(pick_candidates(combined, list(glossary), text_all, min_count))
+    if is_cjk_mode:
+        # Formal bracketed terms matter even when they occur only once.
+        for text in texts:
+            for term in re.findall(r"【([^】]+)】", text):
+                if term and term not in glossary:
+                    candidates.add(term)
+    candidates = sorted(
+        candidates,
+        key=lambda term: (-counts.get(term, 1), -len(term), term),
+    )
 
     if not candidates:
         print(f"no new candidates in {args.chapter} at term_min_count={min_count}")
@@ -239,11 +242,20 @@ def cmd_add(args: argparse.Namespace) -> int:
     path = active_write_path(root)
     if not path.is_file():
         path.write_text(GLOSSARY_HEADER + "\n", encoding="utf-8")
-    body = path.read_text(encoding="utf-8")
-    if body and not body.endswith("\n"):
-        body += "\n"
-    body += f"{source}\t{target}\t{note}\n"
-    path.write_text(body, encoding="utf-8")
+    lines = path.read_text(encoding="utf-8").splitlines()
+    replacement = f"{source}\t{target}\t{note}"
+    if existing:
+        replaced = False
+        for index, line in enumerate(lines):
+            if line.split("\t", 1)[0].strip() == source:
+                lines[index] = replacement
+                replaced = True
+                break
+        if not replaced:
+            raise SystemExit(f"error: canonical row for {source!r} disappeared")
+    else:
+        lines.append(replacement)
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     print(
         f"added to {path.name}: {source} -> {target}"
@@ -251,7 +263,7 @@ def cmd_add(args: argparse.Namespace) -> int:
     )
     if existing:
         print(
-            f"warning: overrode existing rendering '{existing['target']}'; "
+            f"replaced existing rendering '{existing['target']}'; "
             "earlier chapters may need re-checking against the new rendering"
         )
     return 0

@@ -1,93 +1,54 @@
 # Translation specification
 
-## Input and output contract
+## Source contract
 
-Source segments are JSON Lines objects containing `id` and `src`. The draft
-must contain exactly one JSON object per line:
+Translate from the exact Chinese source supplied for the current chapter. Keep
+the chapter title and preserve one target paragraph for every source paragraph,
+in the same order. Do not merge, split, omit, reorder, summarize, or invent.
+
+In file-backed mode, each source and target is a JSON Lines object:
 
 ```json
-{"id": "ch1211-0001", "tgt": "English translation."}
+{"id": "ch1282-0001", "src": "Chinese source paragraph."}
+{"id": "ch1282-0001", "tgt": "English target paragraph."}
 ```
 
-IDs, order, and count must match the source segments exactly. Never merge,
-split, reorder, skip, or invent segments. One source paragraph remains one
-target paragraph. Do not insert an extra paragraph break inside a target row or
-combine separate source rows into one paragraph. A target value contains prose
-only, with no notes, alternatives, brackets, or commentary.
-
-## Required repository context
-
-Before drafting, read in order:
-
-1. `chapters/state.json`;
-2. `config.json`;
-3. `glossary/terminology.tsv`;
-4. `reference/style-guide.md`;
-5. every terminology, style, world-reference, and continuity supplement named
-   in the state handoff;
-6. the immediately preceding relevant chapter material.
-
-Repository files outrank chat memory. The latest owner ruling wins.
+IDs, order, and row count must match exactly. A target row contains chapter
+prose only, with no notes, alternatives, or commentary.
 
 ## Translation priorities
 
-1. Transfer the complete source meaning. Do not summarize, compress,
-   embellish, or add causal links, images, motives, or facts.
-2. Obey `glossary/terminology.tsv` exactly. A listed source term must use one
-   of its listed variants, with the contextual exceptions recorded in notes.
-3. Follow `reference/style-guide.md` for xianxia register, tense, thought
-   formatting, dialogue, capitalization, titles, units, punctuation, idioms,
-   allusions, paragraph integrity, and rhythm.
-4. Use continuity and the preceding chapter to resolve pronouns and scene
-   logic, but never import content absent from the source.
-5. Preserve every number, date, sequence, measurement, contrast, negation,
-   uncertainty marker, speaker relationship, and cultivation distinction.
+1. Transfer complete meaning, logic, chronology, and rhetorical force.
+2. Apply canonical terms and identity facts.
+3. Write natural modern English under the macro style guide.
+4. Preserve the source's rhythm and each character's voice.
 
-Accuracy outranks elegance. Once meaning is secure, compose fluent,
-published-quality American English in the broad professional xianxia register
-associated with leading Wuxiaworld releases. Preserve Chinese cultural texture
-and cultivation logic without mirroring Chinese syntax or copying published
-wording.
+Keep all numbers, comparisons, uncertainty, negation, relationships,
+cultivation distinctions, imagery, jokes, and wordplay. Refine Chinese syntax
+into grammatical English without adding explanation.
 
-## Cultural and thought handling
+## Chapter authority sheet
 
-- Preserve the defining imagery of chengyu, classical allusions, Daoist and
-  Buddhist references, couplets, proclamations, and scripture lines inside
-  natural English.
-- Never flatten an image-bearing idiom into a generic conclusion. Retain the
-  donkey in `黔驴技穷`, the Heaven-and-Earth division in `绝地天通`, and
-  comparable load-bearing images.
-- Preserve deliberate character substitutions, homophone jokes, corrupted
-  idioms, and other wordplay. When the English cannot reproduce both the base
-  phrase and the altered character literally, retain the contextual double
-  meaning. `人尽其材` must preserve both the familiar promise of putting every
-  person to use and the joke that people are being treated as useful material.
-- Italicize direct and unmistakable implicit internal thought, including silent
-  questions, exclamations, reasoning, and conclusions. Do not italicize plain
-  focalized narration.
-- Refine unclear or literal source syntax into natural English while preserving
-  every meaning-bearing detail and keeping it in the same source paragraph.
+Before drafting, identify the paragraph count, scene breaks, recurring
+referents and pronouns, hard terms, numbers, time relationships, and allusions.
+Search phrase memory only for Chinese text or concepts present in the chapter.
+Raise unresolved material choices together in one question batch.
 
-## Self-review before lint
+## Drafting standard
 
-- Compare every target row directly against its own source row.
-- Confirm one target row and one target paragraph per source row, with identical
-  IDs and order.
-- Confirm glossary forms, articles, capitalization, and established divine
-  pronouns.
-- Expand every contraction ending in `'d` while retaining other natural
-  contractions.
-- Remove em dashes, en dashes, curly quotes, single-glyph ellipses, fullwidth
-  punctuation, and other banned forms.
-- Confirm spoken dialogue versus internal-thought formatting, including
-  implicit thoughts not explicitly marked in Chinese.
-- Check every idiom, allusion, verse, religious reference, and deliberate
-  wordplay for preserved imagery, double meaning, and rhetorical force.
-- Check combat geography, cause and effect, technique ownership, and the exact
-  distinction between cultivation, Dao Attainment, status, Mysteries, and
-  Fruition Attainments.
-- Check names where same-gender referents could make a pronoun ambiguous.
-- Read the English alone for professional xianxia flow, then recheck it against
-  the source so fluency has not hidden an omission or invention.
-- Confirm all new or changed terms and unresolved ambiguities were surfaced in
-  the approved terminology batch before drafting.
+- Compose English sentences directly instead of mapping Chinese clauses word
+  by word.
+- Keep action in clear causal order.
+- Use modern, readable narration. Reserve classical elevation for classical
+  source material.
+- Choose direct thought or free indirect narration before formatting. Direct
+  thought is anchored to the character's mental "now" in the story and is not
+  mechanically backshifted with past-tense narration; remembered, future, and
+  hypothetical content still takes its natural tense.
+- Preserve Chinese cultural texture without Westernizing or over-literalizing.
+- Preserve a live idiom or allusion inside normal contemporary English syntax.
+  Verify recognized quotations instead of reconstructing them from memory.
+- Check the actual identity behind every avatar, consciousness, divided self,
+  quotation, and disguised speaker.
+
+The complete macro policy is in `reference/style-guide.md`.

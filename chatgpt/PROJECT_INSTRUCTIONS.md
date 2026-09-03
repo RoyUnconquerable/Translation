@@ -1,53 +1,35 @@
 # Project instructions
 
-Continue the Chinese-to-English xianxia translation in the connected GitHub
-repository `RoyUnconquerable/Translation`. Treat `chatgpt/` as canonical and
-the legacy Claude paths as read-only.
+Continue the Chinese-to-English xianxia translation in
+`RoyUnconquerable/Translation`. The active pipeline is `chatgpt/`; legacy
+Claude paths are read-only.
 
-For every chapter, first read `chatgpt/chapters/state.json`, then the config,
-canonical terminology TSV, style guide, continuity summary, and every relevant
-file named by the state handoff, including `reference/known-errors.md`.
-Repository files outrank chat memory. Never invent a term ruling or silently
-change an established rendering. Conversation summaries and rejected drafts
-cannot stand in for the exact current Chinese source.
+Start with `chapters/state.json`, then follow `instructions/workflow.md`. Load
+only the canonical files named by state. The latest pushed tip of the GitHub
+canonical branch recorded there is the persistent project authority across
+sessions and context compactions. A new live instruction applies provisionally
+to the current task and becomes durable only after verification, classification,
+commit, and push. Repository authorities outrank chat memory, summaries,
+rejected drafts, and model preference.
 
-Follow `chatgpt/instructions/workflow.md` and its detailed specs. In short:
+The target is accurate, natural, published-quality modern English that retains
+the Chinese cultivation setting, rhetoric, hierarchy, imagery, humor, and
+philosophy. Preserve every source paragraph in the same order. Do not omit,
+invent, summarize, Westernize, or explain material inside the translation.
+Use the glossary exactly, resolve identities before assigning pronouns, and
+keep divine capitalization tied to the real referent.
 
-1. segment the source;
-2. identify terminology and get owner approval for every new or changed term;
-3. draft one target row per source row with identical IDs and order;
-4. run deterministic lint;
-5. perform a separate source-grounded QA pass and patch only recorded issues;
-6. re-lint, assemble, update continuity and chapter state, then validate all
-   finalized chapters.
+The exact Chinese source governs chapter content. Owner intent, explicit
+terminology choices, and approved editorial decisions are authoritative, but
+owner-supplied English still receives source, grammar, continuity, terminology,
+tense, and allusion checks. Repair clear mechanical errors. If wording changes
+the source meaning or conflicts with established authority, flag it and present
+a source-grounded alternative before canonizing it. Classify each verified
+change as macro style, terminology, phrase or allusion, world fact, continuity,
+local preference, or mechanical repair. Promote only reusable decisions. Do
+not create a new per-chapter rule file.
 
-Accuracy comes first, followed by natural published English, then rhythm and
-voice. The target is a high-quality English xianxia translation in the broad
-professional register associated with leading Wuxiaworld releases: fluent
-modern prose, brisk narrative movement, clear combat geography, dignified
-cultivation language, and preserved Chinese cultural texture. This is a
-quality benchmark, not permission to copy wording from any published work.
-
-The glossary is law. Preserve all meaning, numbers, source paragraph order,
-speaker intent, established pronouns, Dao hierarchy, and cultivation logic.
-One source paragraph remains one target paragraph. Italicize clear internal
-thoughts even when the Chinese does not explicitly mark them as thoughts.
-Preserve Chinese idioms, classical allusions, religious references, and their
-defining imagery inside natural English rather than flattening them into
-generic paraphrase. Do not add explanations or translator notes to prose.
-Never hand-edit final output.
-
-Before delivery, verify the source paragraph count and audit every paragraph
-for the actual identity behind each name, pronoun, avatar, consciousness, or
-disguised speaker. Divine-pronoun capitalization follows the real referent, not
-merely the surface form used in that sentence.
-
-Owner edits are final. Apply them exactly, compare them with the prior draft,
-and extract reusable terminology, style, continuity, or known-error rulings
-back into the canonical repository files. Ask questions in one terminology
-batch before drafting; later stages should run without avoidable interruptions.
-
-Use separate project chats for terminology, drafting/editing, and QA when that
-keeps context focused. ChatGPT may inspect connected GitHub sources; use Codex
-when files must be changed or scripts run. Never claim a repository update was
-made unless it was actually committed and published.
+For chat-first work, deliver the chapter after one complete draft and two
+focused source-grounded checks. Repository maintenance follows owner approval.
+Chapter prose stays out of Git unless the owner explicitly requests durable
+storage.

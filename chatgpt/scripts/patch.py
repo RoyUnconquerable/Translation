@@ -3,10 +3,11 @@
 Usage:
   python3 patch.py <chapter> --set <id> <tgt> [--set <id> <tgt> ...]
 
-This is NOT a translation tool. It exists for edits whose exact final text
-is already decided - the owner's own wording, or conductor-specified
-mechanical fixes (casing, punctuation, quote marks, banned glyphs). Anything
-requiring translation judgment still needs a source-grounded translation pass.
+This is NOT a translation tool. It exists for edits whose exact final text is
+already verified and decided, such as source-checked owner wording accepted
+under ``editing-spec.md`` or conductor-specified mechanical fixes (casing,
+punctuation, quote marks, banned glyphs). Anything requiring translation
+judgment still needs a source-grounded translation pass.
 
 Validates the file contract (same ids, same order, same count), writes the
 draft, then re-lints the chapter and prints the result. Exit 0 only if the
@@ -63,8 +64,13 @@ def main() -> None:
 
     common.write_jsonl(draft_path, rows)
 
-    report = lint.lint_chapter(root, common.load_config(root),
-                               common.load_glossary(root), args.chapter)
+    report = lint.lint_chapter(
+        root,
+        common.load_config(root),
+        common.load_glossary(root),
+        args.chapter,
+        write_report=True,
+    )
     lint.print_report(report)
     sys.exit(0 if report["status"] == "pass" else 1)
 

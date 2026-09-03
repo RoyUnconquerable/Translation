@@ -1,0 +1,74 @@
+chapter	source_status	translation_status	review_status	continuity_status	prose_storage	evidence
+1209	repo	repo_final	owner_final	archived	repo	405e611
+1210	repo	repo_final	owner_final	archived	repo	405e611
+1211	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1212	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1213	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1214	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1215	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1216	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1217	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1218	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1219	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1220	unknown	unknown	unknown	missing	unavailable	no durable evidence found
+1221	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1222	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1223	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1224	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1225	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1226	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1227	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1228	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1229	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1230	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1231	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1232	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1233	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1234	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1235	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1236	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1237	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1238	chat_only_observed	chat_draft_delivered	owner_reviewed	archived	chat_only	preconsolidation owner-reviewed range record
+1239	chat_only_observed	chat_draft_delivered	unknown	archived	chat_only	preconsolidation handoff or current project chat
+1240	chat_only_observed	chat_draft_delivered	unknown	archived	chat_only	preconsolidation handoff or current project chat
+1241	chat_only_observed	chat_draft_delivered	unknown	archived	chat_only	preconsolidation handoff or current project chat
+1242	chat_only_observed	chat_draft_delivered	unknown	archived	chat_only	preconsolidation handoff or current project chat
+1243	chat_only_observed	chat_draft_delivered	unknown	archived	chat_only	preconsolidation handoff or current project chat
+1244	chat_only_observed	chat_draft_delivered	unknown	archived	chat_only	preconsolidation handoff or current project chat
+1245	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	55d7057
+1246	chat_only_observed	chat_draft_delivered	owner_revision_recorded	archived	chat_only	preconsolidation owner-edit record
+1247	chat_only_observed	chat_draft_delivered	owner_corrections_recorded	archived	chat_only	preconsolidation owner-edit record
+1248	chat_only_observed	chat_draft_delivered	unknown	archived	chat_only	preconsolidation handoff or current project chat
+1249	chat_only_observed	chat_draft_delivered	owner_corrections_recorded	archived	chat_only	preconsolidation owner-edit record
+1250	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	ea9d161
+1251	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	567297e
+1252	chat_only_observed	chat_draft_delivered	pending	archived	chat_only	preconsolidation handoff or current project chat
+1253	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	26e8089
+1254	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	4866e42
+1255	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	dc94c8d
+1256	chat_only_observed	chat_draft_delivered	pending	archived	chat_only	preconsolidation handoff or current project chat
+1257	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	9a43e2d
+1258	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	5c82db8
+1259	chat_only_observed	chat_draft_delivered	pending	archived	chat_only	preconsolidation handoff or current project chat
+1260	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	63ef738
+1261	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	b30bdd0
+1262	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	d4dbf29
+1263	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	88ca8f0
+1264	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	0f77844
+1265	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	ce57588
+1266	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	d7ecf58
+1267	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	8b62275
+1268	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	2c92a36
+1269	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	ec30fd6
+1270	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	a42a31c
+1271	chat_only_observed	chat_redraft_delivered	rejected_redraft_pending	current	chat_only	d677a7d
+1272	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	78a6e0d
+1273	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	58ec1bd
+1274	chat_only_observed	chat_draft_delivered	pending	current	chat_only	preconsolidation handoff or current project chat
+1275	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	cc74b39
+1276	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	457086b
+1277	chat_only_observed	chat_draft_delivered	pending	current	chat_only	preconsolidation handoff or current project chat
+1278	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	1d00153
+1279	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	55bea01
+1280	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	7e62dba
+1281	chat_only_observed	source_received	not_started	current	chat_only	current project chat; translation not yet delivered

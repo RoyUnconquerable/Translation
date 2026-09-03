@@ -1,309 +1,198 @@
-# Style Guide
+# Macro style guide
 
-Target: a professional, published-quality English translation of a Chinese
-xianxia serial. Use the broad quality standard associated with leading
-Wuxiaworld releases: fluent modern English, brisk narrative momentum, clear
-combat logic, dignified cultivation language, and intact Chinese cultural
-texture. This is a quality benchmark, not permission to copy recognizable
-wording from any published translation.
+This is the sole authority for reusable prose policy. Exact names and terms
+belong in the glossary, contextual allusions and special lines belong in phrase
+memory, and plot facts belong in the world reference or continuity. A local
+owner edit is not a global rule unless it expresses one of the principles here.
 
-The owner-edited Chapters 1 to 1202 establish the series-wide prose baseline.
-Use them as evidence for voice, cadence, and narrative restraint, not as an
-authority for superseded terms or mechanical habits. The current glossary and
-later owner rulings always override older manuscript inconsistencies.
+When principles compete, use this order:
 
-When principles conflict, the order is:
+1. complete source meaning and logic;
+2. canonical terminology, identity, and continuity;
+3. natural modern English;
+4. rhythm, voice, and elegance.
 
-1. complete and exact source meaning;
-2. established terminology and continuity;
-3. natural published English;
-4. rhythm and voice.
+## Target register
 
-## Xianxia house style
+- Write fluent, published-quality American English that still feels rooted in
+  a Chinese xianxia world.
+- Modern and direct is the default. Formal means composed and precise, not
+  faux-Victorian, ceremonious, or needlessly archaic.
+- Prefer normal contemporary word order. Do not use literary inversion merely
+  to make ordinary narration sound dramatic.
+- Use elevated cadence only when the source is genuinely elevated, such as a
+  poem, scripture, edict, ritual declaration, classical maxim, or major Dao
+  pronouncement.
+- Keep Daoist and Buddhist concepts, cultivation hierarchy, sect culture,
+  karma, incense, cause and effect, and Heaven-and-Earth imagery intact. Do not
+  replace them with unrelated Western fantasy language.
+- Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
+  intensifiers, or decorative metaphors absent from the source.
 
-- The prose should feel written in English, never decoded from Chinese, while
-  still unmistakably belonging to a Chinese cultivation world.
-- Keep cultivation hierarchies, Daoist and Buddhist concepts, honorifics,
-  karma, incense, cause and effect, heaven-and-earth imagery, and sect culture
-  exact. Do not Westernize the setting or replace its conceptual framework
-  with generic fantasy language.
-- Action is spatially and causally clear. The reader should always understand
-  who acted, what power was used, what it struck, and what changed as a result.
-- Grand cultivation scenes may rise in register, but grandeur comes from
-  controlled syntax, strong images, and scale, not purple vocabulary.
-- Lü Yang's narration, dialogue, and thoughts may be modern, sardonic, blunt,
-  or mildly profane when the source is. Formal cultivators remain composed and
-  dignified. Do not make every speaker sound equally modern or equally archaic.
-- Preserve the Chinese storyteller's alternation between explanation,
-  revelation, short reaction beats, and sudden escalation. Smooth the English
-  without erasing that structure.
+## Fidelity and paragraph structure
 
-## Series cadence and restraint
+- One Chinese source paragraph becomes one English target paragraph in the
+  same order. Never merge or split source paragraphs for flow.
+- Sentence boundaries may change inside a paragraph when English grammar needs
+  it, provided every premise, contrast, causal link, uncertainty, and emphasis
+  remains.
+- Preserve every number, date, sequence, comparison, negation, title,
+  relationship, and degree of certainty.
+- Do not add motives, explanations, images, conclusions, emotional labels, or
+  connective logic that the source does not supply.
+- Match the size and function of the source beat. A short reaction or punch
+  line should remain short. Dense reasoning must retain every logical step.
+- Fragments are acceptable when the source deliberately isolates a dramatic
+  reaction, verdict, image, or punch line. Ordinary action and exposition need
+  complete English sentences.
 
-- The established voice is brisk, spare, and confident. Most paragraphs carry
-  one principal beat: a fact, action, reaction, deduction, question, or punch
-  line. Do not enlarge a short source beat merely to make it sound more
-  literary or complete.
-- Short questions, verdicts, reversals, and fragments are an important part of
-  the serial rhythm. Keep them short when the source gives them independent
-  emphasis. Do not fold *But to Dao Lords?*, *Not good.*, or an equivalent beat
-  into neighboring explanation.
-- Exposition should normally state the rule, then its immediate consequence.
-  Trust the reader to connect implications the source leaves implicit. Do not
-  add a summary, emotional gloss, or explanation after the point has landed.
-- Keep narrative transitions light. A new beat often needs only a plain time,
-  place, or viewpoint marker. Do not decorate routine movement between beats
-  with atmospheric language absent from the source.
-- Humor is usually dry, concrete, and embedded in the character's reasoning.
-  Preserve the slang, literal image, abrupt comparison, or self-satisfied
-  conclusion, then stop. Do not explain why the line is funny or add a second
-  joke.
-- Climactic scale comes from contrast: restrained setup, a clean image, then a
-  decisive change. Prefer exact nouns and forceful ordinary verbs over stacked
-  intensifiers. Let a short sound effect or consequence paragraph carry its
-  own impact.
-- Preserve deliberate recurrence in logical ladders and escalating sequences.
-  Repeating the same key term may be stronger and clearer than cycling through
-  synonyms, especially for cultivation concepts, comparisons, and successive
-  conclusions.
+## Sentence construction and pacing
 
-## Paragraph and sentence integrity
+- Give most narrative paragraphs one main beat: fact, action, reaction,
+  deduction, question, reversal, or punch line.
+- For action and cosmology, favor actor, action, target or direction, then
+  consequence. Keep combat geography and technique ownership explicit.
+- Split overburdened clauses. Avoid long chains of which-relatives, abstract
+  noun stacks, and repeated participial phrases.
+- Use names or explicit nouns when pronouns could refer to two plausible
+  characters. Clarity outranks avoiding repetition.
+- Vary or omit routine transition phrases. Translate the logical relationship,
+  not a fixed dictionary equivalent for each Chinese transition.
+- Let escalation come from the sequence of concrete changes. Do not announce
+  grandeur repeatedly or explain a reveal after it has landed.
+- Preserve deliberate lexical repetition in reasoning and parallel rhetoric.
+  Do not cycle through synonyms for a fixed cultivation concept.
 
-- Preserve source paragraph structure exactly. One source paragraph becomes
-  one target paragraph. Never split a multi-sentence source paragraph into
-  several English paragraphs for rhythm, and never merge separate source
-  paragraphs.
-- Sentence boundaries may flex inside the paragraph when natural English
-  requires it. A long Chinese sentence may become two English sentences, or
-  closely linked short clauses may be joined, provided every logical relation
-  and emphasis survives.
-- Write in clear beats rather than stacked structures. Prefer actor, action,
-  consequence. Split a compound sentence when both halves stand independently.
-- Match the source beat's size. A brief source paragraph should ordinarily
-  remain a brief English paragraph, while a dense explanatory paragraph should
-  not be compressed until a premise or causal step disappears.
-- Avoid excessive which-relatives and nominal stacks. Recast with a new
-  sentence, a participle, or a direct verb.
-- Subject first. Open with a connective such as However, Thus, or At that
-  moment only at a genuine logical turn, roughly one sentence in ten.
-- Restate a name rather than rely on a bare pronoun when two same-gender
-  referents share a paragraph.
+## Voice
 
-## Voice and register
+- Lü Yang may sound blunt, sardonic, contemporary, profane, or shameless when
+  the source does. Preserve the joke and let it land once.
+- Formal cultivators and Dao Lords speak with control and confidence, but their
+  English should remain contemporary and readable.
+- Do not give every character the same level of formality. Preserve each
+  speaker's status, temperament, and relationship to the listener.
+- Keep insults, threats, cruelty, slang, and comic reversals at their source
+  strength. Do not soften them or add extra vulgarity.
+- Narratorial judgment stays close to the viewpoint character. Avoid turning a
+  sharp reaction into detached literary commentary.
 
-- Third person limited, measured and lightly literary, never fussy or
-  Victorian. Prefer the exact plain word over a rarer synonym.
-- Contractions are preferred in narration, thoughts, and dialogue when they
-  sound natural, but contractions ending in `'d` are forbidden. Write `he had`,
-  `I would`, and similar forms in full.
-- Narration is direct and dignified. The protagonist's speech and inner voice
-  may keep slang, jokes, internet diction, and mild cursing from the source.
-  Never formalize or euphemize them.
-- Keep evaluation close to the viewpoint character. Plain lines such as *What
-  a joke.*, *Damn it.*, or *That was trouble.* are preferable to narratorial
-  paraphrases that distance the reader from the reaction.
-- Dao Lords and formal speakers use courteous, composed, complete sentences.
-  Their register is formal, but ordinary contractions remain available unless
-  they end in `'d`.
-- Couplets, proclamations, scripture lines, and wenyan may use a more elevated
-  or archaic cadence when the source does.
-- When the Dao Lords act collectively in narration, Their and Them are
-  capitalized.
-- Be blunt where the source is blunt. Do not soften a joke, insult, threat,
-  sexual implication, or cruel conclusion.
-- Generic persons take singular they. In scene-setting exposition, the implied
-  observer is `one`, not `you`.
+## Thought, viewpoint, and tense
 
-## Tense and internal thought
+- Narration is past tense unless the source deliberately shifts register.
+- Italicize unmistakable direct inner speech, including silent first-person
+  questions, decisions, rebuttals, and exclamations.
+- Keep free indirect narration in roman type. A rhetorical question reported
+  through a viewpoint is not automatically a quoted thought.
+- Italics identify direct thought; they do not determine tense. Choose the
+  thought mode and time reference before formatting it.
+- Direct thought is mental speech anchored to the character's "now" in the
+  story. Current perceptions, judgments, and reasoning normally use present
+  tense. Plans and predictions use future forms, hypotheticals use conditional
+  forms, and recalled or anterior events use past, present perfect, or past
+  perfect as the chronology requires.
+- Never backshift an immediate direct thought merely because the surrounding
+  narration is past tense. Free indirect narration remains roman and normally
+  follows the narrative past.
+- Determine direct thought from voice and context, not mechanically from the
+  source's quotation glyphs. When Chinese elides the subject, preserve the
+  thinker's immediate viewpoint instead of turning the thought into a
+  third-person report.
+- When history is rewritten, use tense to show the new established past and
+  any event anterior to it. Do not backshift mechanically.
+- Do not add thought tags or restate in narration what an italicized thought
+  has already established.
 
-- Narration is past tense. Choose tense deliberately because Chinese marks
-  aspect rather than English tense, and a careless choice changes chronology.
-- Direct internal monologue is unquoted and italicized with asterisks, with
-  punctuation inside the italics.
-- Italicize unmistakable internal thought even when the Chinese does not place
-  it inside explicit thought quotation marks. This includes first-person
-  reasoning, silent questions, private exclamations, conclusions, and mental
-  rebuttals. Keep it in the same paragraph position as the source.
-- Do not italicize ordinary exposition merely because it is focalized through a
-  character. Free indirect narration stays in roman type when it remains
-  narration rather than the character's direct mental voice.
-- Direct thought generally uses first person and present tense because it is
-  immediate mental speech. Use future tense naturally for plans and
-  predictions. Use past or past perfect only when the thought genuinely recalls
-  a completed event, distinguishes an earlier state, reports remembered facts,
-  expresses a counterfactual, or requires another anterior sequence. Do not
-  mechanically backshift immediate thought to match past-tense narration.
-- Preserve the compactness of thought. Do not turn a terse realization into a
-  fully explained argument, add a thought tag such as *he realized*, or repeat
-  in narration what the italicized thought has already established.
+## Idioms, allusions, and Chinese texture
 
-## Chinese idioms, allusions, and religious texture
-
-- Preserve Chinese idioms, classical allusions, Buddhist and Daoist references,
-  and their defining images inside natural English.
-- Never flatten a concrete chengyu into a generic paraphrase. Keep its essential
-  animal, object, action, or historical image when that image carries the
-  allusion. For example, `黔驴技穷` must retain the donkey and may render as
-  `the donkey had reached the end of its tricks`, not merely `it had no tricks
-  left`.
-- Preserve the Heaven-and-Earth image in `绝地天通`, the dream, illusion,
-  bubble, and shadow sequence in `梦幻泡影`, and comparable image chains.
-- Preserve linked metaphor chains across the entire paragraph or chapter. If
-  one idiom establishes an image that a later line develops, choose wording
-  that keeps the chain coherent rather than translating each phrase in
-  isolation.
-- Retain concrete later-book images when they carry the reasoning or joke:
-  the Jing and Wei Rivers in `泾渭分明`, the rat and vessel in `投鼠忌器`, the
-  snake and coiled rope in `一朝被蛇咬，十年怕井绳`, the tail in `尾大不掉`,
-  the wedding dress in `做嫁衣`, the ant swallowing a dragon in `蝼蚁吞龙`,
-  the pot of porridge in `乱成一锅粥`, the guest-and-host reversal in
-  `反客为主`, the wrathful Vajra paired with a heart blooming in laughter in
-  `金刚怒目` and `笑开了花`, and the broken ship in `跳船`.
-- Retain images introduced in later chapters when natural English permits it:
-  the stepping stones in `踏脚石`, the broad open road in `康庄大道`, the
-  ghost that refuses to disperse in `阴魂不散`, the body-and-bones transformation
-  in `脱胎换骨`, and a piece placed on the board in `一子`.
+- Classify the expression before translating it: an exact title, quotation,
+  verse, proverb, panel, formula, or other explicitly approved source-bound
+  line; a live image or linked image chain; or a lexicalized idiom whose image
+  is no longer doing narrative work.
+- Preserve an idiom's defining image when that image carries the argument,
+  joke, characterization, or a later metaphor chain.
+- Naturalize a lexicalized idiom when its original image is dormant and a
+  literal version would read as translationese. Preserve meaning and force.
+- Preserve the source image or cultural referent, not Chinese grammar. Build
+  normal contemporary English around a retained idiom or allusion. Its presence
+  does not license inversion, ceremonial filler, or inflated diction in the
+  surrounding sentence.
+- Keep linked images coherent across a paragraph or chapter. Translate the
+  chain as a whole rather than treating each phrase in isolation.
 - Preserve deliberate character substitutions, homophone jokes, corrupted
-  idioms, and altered quotations. When English cannot reproduce both the
-  familiar phrase and its altered character literally, preserve the contextual
-  double meaning. `人尽其材` must carry both putting everyone to use and the
-  exploitative joke that people themselves are material.
-- Use an established English name for a well-known allusion when one exists,
-  but do not replace a specifically Chinese image with an unrelated English
-  idiom.
-- Preserve parallelism in couplets, vows, proclamations, and scripture lines.
-  Natural English rhythm may change, but the paired concepts and rhetorical
-  force must remain.
-- Do not insert translator notes or explanations into the prose. The allusion
-  must work through the translated sentence itself.
+  quotations, and double meanings. If English cannot retain both literally,
+  preserve the contextual joke or contrast.
+- Use established English names for recognized Chinese allusions where
+  available. Do not swap a specifically Chinese image for an unrelated English
+  proverb.
+- Verify the subject, relationship, and logic of a recognized allusion. Do not
+  silently complete a clipped or altered quotation with a neighboring line
+  unless the source and context support it.
+- Preserve meaning, parallel relationships, and recurring images in verse,
+  vows, proclamations, maxims, and scripture. Cadence comes next. Archaic
+  diction is optional, not automatic, and elevated English must remain
+  intelligible.
+- When a retained image would be opaque on its own, make the implication clear
+  through natural sentence construction without adding a translator note or
+  an explanation absent from the source.
+- Do not insert translator notes or explanations into chapter prose.
 
-## Dialogue conventions
+## Dialogue and formatting
 
-- Use straight ASCII double quotes only. Nested or scare quotes inside speech
-  use straight single quotes. Terminal punctuation goes inside the closing
-  quote.
-- Spoken dialogue is never italicized. A quoted line in an exchange is speech
-  even without a tag. A solitary speaker's self-muttering may render as thought
-  only when the source and context clearly make it internal.
-- A hard scene change, meaning a different place, different people, or a jump
-  in time, is marked by a line containing only `---` before the new scene.
-- A source paragraph consisting entirely of a bracketed term renders as a plain
-  Title Case call-out with its terminal punctuation. Remove the brackets and do
-  not add bold. Inline bracketed terms likewise lose brackets and bold.
-- Prefer an action beat plus quote in one paragraph, or a bare quote paragraph.
-  Speech tags are rare and limited to said, asked, and replied.
-- Do not add a speech tag, adverb, facial expression, or emotional
-  interpretation merely to clarify a line whose speaker and force are already
-  clear from sequence and wording. The established manuscript often lets a
-  bare line carry the exchange.
-- Hesitation keeps a leading ellipsis inside the quote, such as `"...Hmph."`.
-  A silent response uses the fixed form `Name: "..."`.
-- Sound effects are uppercase, unquoted, and on their own source-aligned line:
-  `BOOM!`
-- Interrogative syntax takes a question mark even when the raw ends with a full
-  stop.
+- Use straight ASCII double quotes. Nested quotations and scare quotes use
+  straight ASCII single quotes.
+- Spoken dialogue is never italicized. Keep bare dialogue bare when sequence
+  already identifies the speaker.
+- Use speech tags sparingly and do not invent adverbs, expressions, or gestures
+  merely to explain tone.
+- A genuine hard change of place, people, or time may take a line containing
+  only `---`. Never add a break solely for visual pacing.
+- Sound effects are uppercase and unquoted on their own source-aligned line.
+- A bracketed source call-out becomes plain Title Case without brackets or
+  bold. Interface or panel text follows the established bold format only when
+  the source and local convention identify it as a panel.
+- Keep the source chapter title. A body-only owner edit never deletes it.
 
-## Honorifics and title policy
+## Names, ranks, and capitalization
 
-- Birth names use pinyin with diacritics intact, such as Lü Yang. Dao names,
-  titles, and epithets are translated into English.
-- Translate honorifics: Fellow Daoist, Senior, Junior, True Person, True
-  Monarch, and Dao Lord. Use Daoist, never Taoist. `本座` is `This Seat`.
-- `小友` is `little friend`, never `young friend`.
-- Capitalize He, His, Him, They, Them, and reflexives only when the referent is a
-  Dao Lord. A Dao Lord speaking of Himself capitalizes I, My, and Me, and You
-  and Your when addressing another Dao Lord under the established project rule.
-  A mortal's grand pronouncement remains lowercase.
-- Coined techniques, realms, artifacts, cosmology, and formal statuses use
-  roman Title Case in running prose, never italics or brackets.
-- Multi-word titles take attributive order, such as `Mountaintop Fire True
-  Monarch`, never `True Monarch of Mountaintop Fire`.
-- Do not promote generic words into proper nouns. Capitalize only what the
-  glossary and owner rulings capitalize.
-- `天妖` is `heavenly demon` in the False History context, never `celestial
-  demon`.
-- `命数` is `Fate`; `定数` is `Destiny`. Do not merge the two concepts.
-- Heavenly Stem and Earthly Branch elemental names use the established
-  hyphenated forms, including Jia-Wood, Yi-Wood, Xin-Metal, Gui-Water, Si-Fire,
-  and Chen-Earth.
-- The glossary is the sole term authority. Resolve disputes in the glossary,
-  never by improvising in a chapter.
+- Birth names use pinyin with established diacritics. Translate established Dao
+  names, ranks, techniques, artifacts, realms, and epithets.
+- Use the glossary's capitalization exactly. Do not promote generic nouns into
+  proper terms.
+- Dao Lord referents take capitalized divine pronouns under the project rule.
+  Resolve the actual identity first. A mortal shell, divided consciousness, or
+  quotation does not inherit capitalization merely from surface wording.
+- Collective Dao Lord pronouns are `They`, `Their`, and `Them`. Other people use
+  ordinary pronouns.
+- `status` is lowercase unless it begins a sentence or appears in an exact
+  owner-approved interface phrase.
+- Keep distinct concepts distinct, especially cultivation versus Dao
+  Attainment, Fate versus Destiny versus Fortune, Spell Dao versus Spiritual
+  Power Dao, and True History versus False History.
 
-## Number and unit policy
+## Numbers and house mechanics
 
-- Preserve every number, date, sequence, measurement, and comparison.
-- Convert Chinese numerals to natural English numbers. Spell casual magnitudes,
-  such as `ten thousand years`, and use digits with commas for exact figures,
-  such as `129,600 years`.
-- Convert ordinary physical units idiomatically to miles, feet, inches, and
-  pounds. Never retain li, zhang, jin, or mu in the English prose.
-- Use American spelling, `toward` rather than `towards`, `farther` for physical
-  distance, and the serial comma.
-- Capitalize Yin and Yang.
-- Breakthrough cascades and list beats join with commas rather than becoming a
-  sequence of clipped sentence fragments: `True Monarch, mid-stage True
-  Monarch, Great True Monarch!`
+- Convert Chinese numerals into natural English. Use digits with commas for
+  exact large values and words for loose or rhetorical magnitudes.
+- Convert ordinary physical measures into idiomatic English units under the
+  established series policy.
+- Use the serial comma, `toward`, and `farther` for physical distance.
+- Capitalize Yin and Yang. Use `Yin-Yang` only in established attributive
+  compounds.
+- Natural contractions are welcome, except contractions ending in `'d`, which
+  are prohibited because they obscure tense and mood in this project.
 
-## Refinement and owner-final policy
+## Prohibited habits
 
-- Owner-edited prose is final in substance and wording choice. Extract durable
-  rulings from it rather than reverting to an earlier draft.
-- Correct obvious mechanical slips in owner-edited prose, such as missing
-  possessive apostrophes, articles, duplicate words, or accidental punctuation,
-  without changing the owner's intended phrasing or meaning.
-- In administrative and territorial contexts, render `梳理` naturally as
-  `bring into order`, `systematically bring into order`, `regularize`, or a
-  contextually faithful equivalent, never the literal `comb`.
-- When `第一人` is an explicit ranking, prefer `the number one expert` over a
-  vaguer superlative.
-- When `证道根基`, `成道根基`, or a comparable construction becomes awkward,
-  use `the foundation upon which He proved the Dao` or `the foundation of His
-  Dao attainment`, according to context. Never write `the foundation of Him
-  proving the Dao`.
-- Named historical events use their established singular form and natural
-  possessives, such as `the Eastern Sovereign's March on Heaven`.
-- When `一面之词` emphasizes that all evidence comes from one interested party,
-  prefer a natural formulation such as `Everything we have heard has come from
-  Your side alone`.
-
-## Default renderings
-
-- `然而就在这时` = `However, at that very moment.`
-- `下一秒 / 下一瞬` = `The next instant,`
-- `霎时间 / 刹那间` = `In an instant,`
-- `与此同时 / 同时` = `At the same time,`
-- `就这样` = `just like that`, never bookish `thus`
-- `入目所见` = `Before his eyes,`, never a cleft construction
-
-Use these only where the source genuinely marks the beat. Do not create a chain
-of identical transition openers across consecutive paragraphs.
-
-## Banned habits
-
-- Em dashes, en dashes, curly quotes, the single-glyph ellipsis, and fullwidth
-  punctuation. Use commas, periods, colons, parentheses, or three periods.
-- Contractions ending in `'d`, including `he'd`, `I'd`, and `they'd`, without
-  exception.
-- `and yet`. Use bare `yet` or `but`.
-- Comma splices in narration.
-- Reflex fillers. Per chapter, use at most one each of `actually`, `instantly`,
-  and `at this moment`, and at most two each of `suddenly` and `simply`. Never
-  reflex-write `couldn't help but`.
-- Calqued Chinese sentence frames. Compose the English sentence first, then
-  check every detail against the source.
-- Invented English idioms where the source is plain and technical.
-- Flattened chengyu or allusions that discard the source image.
-- Wrong collocations chosen only for vividness. Risk is increased, a role is
-  decisive, and a stake is major.
-- Imperative conditional frames such as `Set her against X and she still...`.
-  Use a plain concessive or past counterfactual.
-- Translator notes, alternatives, explanations, or brackets inside translated
-  prose.
-- Repeating a distinctive phrase within a chapter, or a word within a
-  paragraph, when the source did not repeat it deliberately.
-- Bookish or compressed narration where plain English is wanted. Use `just like
-  that`, `everything became clear`, and `had their eyes fixed on`, not
-  `wandered thus`, `understanding crystallized`, or `trained their gaze`.
-- Verbless fragments for ordinary action or thought beats. A normal beat needs
-  a subject and verb. Reserve fragments for genuinely dramatic standalone
-  moments supported by the source paragraph.
+- No em dashes, en dashes, curly quotation marks, single-glyph ellipses, or
+  fullwidth punctuation in English prose.
+- No fixed default sentence for routine transitions such as `然而`, `下一秒`,
+  `与此同时`, or `入目所见`.
+- No faux-archaic connective language in ordinary narration.
+- No routine inversion such as `There stood...`, `Before him lay...`, or
+  `Only then did...` when direct contemporary syntax says the same thing more
+  clearly.
+- No calqued Chinese syntax, comma splices, or unclear dangling modifiers.
+- No ornamental synonym chosen at the expense of accuracy or collocation.
+- No repeated explanation, second punch line, or added emotional conclusion.
+- No phrase-level owner preference promoted into a universal template without
+  evidence that it recurs as a real principle.

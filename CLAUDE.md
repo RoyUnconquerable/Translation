@@ -1,16 +1,11 @@
-# Translation Pipeline
+# Translation project bootstrap
 
-This is a translation project (zh -> en xianxia web novel), driven end to end
-by the `translate-chapter` skill.
+This repository has one active translation pipeline: `chatgpt/`.
 
-- ALWAYS use the translate-chapter skill for anything translation-related:
-  segmenting, drafting, revising, reviewing, assembling, glossary work.
-  Never translate ad hoc in the main context.
-- Run every script from the project root:
-  `python3 .claude/skills/translate-chapter/scripts/<name>.py`
-- Commit conventions: `draft: <chapter>`, `review: <chapter>`,
-  `assemble: <chapter>` - one commit per stage so each stage's diff is one
-  git command away.
-- Respect the Stop-hook lint gate: never finish with lint failures, and use
-  `SKIP_LINT_GATE=1` only deliberately, with the user's consent.
-- Never hand-edit `output/`; it is assembled from `work/`.
+Read `AGENTS.md`, then `chatgpt/chapters/state.json` and
+`chatgpt/instructions/workflow.md`.
+
+Do not use the former `.claude/skills/translate-chapter` workflow or the legacy
+`project/`, `source/`, `work/`, and `output/` paths for active work. Their
+original state remains recoverable from `archive/claude-pipeline-2026-08-19` at
+commit `405e61125ba6abc935cbc56eaf1ccbf57c3fb091`.

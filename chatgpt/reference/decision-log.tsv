@@ -1,0 +1,21 @@
+date	chapter	category	decision	promoted_to	status
+2026-08-19	1209-1210	MIGRATION	File-backed owner-final chapters and initial ChatGPT pipeline imported without content changes.	chapters ledger and migration manifest	active
+2026-08-19	1210	TERM	Use lowercase status and wisdom light; keep cultivation distinct from Dao Attainment.	terminology.tsv	active
+2026-08-31	1271	QUALITY	Reject the first draft; require a 66-paragraph source-grounded redraft and correct Dao Lord referents.	known-errors.md and ledger.tsv	active
+2026-09-01	1272	MACRO	Preserve compact moral argument, explicit hypotheticals, and source paragraph alignment.	style-guide.md	consolidated
+2026-09-01	1273	TERM	Name Sanhe's sword Heaven-Slayer and keep direct causal action.	terminology.tsv and style-guide.md	active
+2026-09-02	1275	MACRO	Use clear burden transfer, physical metaphysical action, and intelligible formal verse.	style-guide.md	consolidated
+2026-09-02	1276	TERM	Use divine sense for 神念 and retain the literal Sea of Light stood up punch line.	terminology.tsv and phrase-memory.tsv	active
+2026-09-02	1277	TERM	Use hands forged from light for 光铸的双手.	terminology.tsv and phrase-memory.tsv	active
+2026-09-02	1278	MACRO	Favor explicit subjects, kinetic combat verbs, and blunt modern aggression where sourced.	style-guide.md	consolidated
+2026-09-02	1279	TERM	Use Sword Edge Metal without a hyphen; preserve modern direct threats and precise Heaven capitalization.	terminology.tsv and style-guide.md	active
+2026-09-03	1280	MACRO	Use modern direct English, lean action, explicit time-battle chronology, and restrained character judgment.	style-guide.md	consolidated
+2026-09-03	1239	TERM	Proposed Heaven-Mending Dao for 补天道 remains unapproved.	decision-log.tsv	pending
+2026-09-03	all	PIPELINE	Replace per-chapter override files with one authority hierarchy and read-only validation.	workflow.md	active
+2026-09-03	all	MACRO	Treat direct thought as mental speech anchored to the character's mental now in the story; italics do not mechanically assign tense.	style-guide.md	active
+2026-09-03	all	QUALITY	Source-check owner English before promotion while treating owner intent and explicit term approvals as authoritative.	editing-spec.md	active
+2026-09-03	all	PIPELINE	Use the latest pushed tip of the GitHub canonical branch as persistent cross-session authority.	AGENTS.md and state.json	active
+2026-09-03	all	PHRASE	Classify phrase memory as fixed wording, required imagery, or adaptive sense; remove tense-locked and local sentence templates.	phrase-memory.tsv	active
+2026-09-03	1266-1279	QUALITY	Correct misremembered allusions and overfitted owner phrases, including 圣人不仁, 万事莫贵于义, and 道德绑架.	phrase-memory.tsv	active
+2026-09-03	1266-1280	TERM	Add missing late-arc identities and technical terms, including 万宝, 识念, 重光, 三根基, and Sanhe's cultivation terms.	terminology.tsv and entities.tsv	active
+2026-09-03	all	PIPELINE	Remove executable legacy Claude triggers from the active branch and retain only compatibility pointers; the archive branch preserves the old implementation.	README.md and audit.py	active

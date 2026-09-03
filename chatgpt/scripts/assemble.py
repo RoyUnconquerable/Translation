@@ -35,7 +35,7 @@ def main() -> None:
     cfg = common.load_config(root)
     glossary = common.load_glossary(root)
 
-    report = lint.lint_chapter(root, cfg, glossary, chapter)
+    report = lint.lint_chapter(root, cfg, glossary, chapter, write_report=True)
     if report["fails"]:
         lint.print_report(report)
         raise SystemExit(

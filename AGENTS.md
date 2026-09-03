@@ -1,38 +1,41 @@
-# ChatGPT Translation Pipeline
+# Translation project bootstrap
 
-For translation work, `chatgpt/` is the only writable pipeline. The legacy
-Claude files (`.claude/`, `CLAUDE.md`, `project/`, `source/`, `work/`, and
-`output/`) are frozen migration evidence; do not change them unless the owner
-explicitly requests legacy maintenance.
+`chatgpt/` is the only active translation pipeline. Legacy Claude paths are
+read-only migration evidence unless the owner explicitly requests otherwise.
 
-Before working on a chapter, read:
+For every translation or owner-revision task:
 
-1. `chatgpt/chapters/state.json`
-2. `chatgpt/config.json`
-3. `chatgpt/glossary/terminology.tsv`
-4. `chatgpt/reference/style-guide.md`
-5. `chatgpt/reference/continuity.md`
-6. `chatgpt/reference/known-errors.md`
-7. the relevant source, segments, draft, issues, and final chapter files
+1. Read `chatgpt/chapters/state.json`.
+2. Follow `chatgpt/instructions/workflow.md`.
+3. Load only the canonical authorities named by state.
+4. Use the exact Chinese source, preserve one target paragraph per source
+   paragraph in the same order, and verify every recurring referent.
+5. Treat the source as the authority for chapter content. The owner's
+   editorial intent and explicit terminology decisions are authoritative, but
+   supplied English still receives source, grammar, continuity, terminology,
+   tense, and allusion checks.
+6. Repair clear mechanical errors. If wording materially changes the source or
+   conflicts with established authority, present the issue and a
+   source-grounded alternative before promoting it.
+7. Promote only verified, durable lessons to the appropriate canonical file.
 
-Follow `chatgpt/instructions/workflow.md`. The glossary is authoritative and
-new or changed renderings require owner approval before drafting. Translate
-every segment faithfully; never merge, split, reorder, omit, or invent content.
-QA must compare target text directly with source segments. Do not edit
-`chatgpt/chapters/final/` by hand; assemble it from the reviewed draft.
+The latest pushed tip of the GitHub canonical branch named in
+`chatgpt/chapters/state.json` is the persistent authority across sessions and
+context compactions. A new instruction in the live conversation applies to the
+current task, but becomes durable only after it is verified, classified,
+committed, and pushed. Repository authority outranks conversation memory,
+summaries, rejected drafts, and model preference. The canonical glossary is the
+only hard terminology source. Historical per-chapter supplements were removed
+from the active tree because they created contradictory precedence; their
+evidence remains recoverable in Git history.
 
-Conversation summaries and prior model drafts are never substitutes for the
-current Chinese source or repository authorities. When a source exists only in
-chat under the chat-only fast path, audit that exact pasted source paragraph by
-paragraph and establish the identity and pronoun of every recurring referent.
-
-After any translation change, run:
+Validation is read-only by default:
 
 ```text
+python chatgpt/scripts/audit.py
 python chatgpt/scripts/lint.py --all
 python chatgpt/scripts/state.py
 ```
 
-Do not finish with failures, unpatched review issues, stale final output, or a
-stale chapter state. Owner edits are final: adopt them exactly, then record any
-durable terminology, continuity, or style ruling in the repository.
+Do not stage or overwrite unrelated user changes. Never claim a repository
+update exists until it has been committed and pushed.

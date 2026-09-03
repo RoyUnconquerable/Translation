@@ -1,178 +1,85 @@
-# Known error traps
+# Active error register
 
-These are regressions already caught or owner-corrected. Check them explicitly
-before delivery.
+This file contains recurring traps that are not fully prevented by the style
+guide, glossary, entity registry, or mechanical checks. Remove an entry when a
+better canonical control makes it redundant.
 
-## Mechanical and structural traps
+## Source and alignment
 
-- Never use a contraction ending in `'d`. Expand `he'd`, `I'd`, `they'd`, and
-  similar forms, while retaining other natural contractions.
-- Never use em dashes, en dashes, curly quotes, or a single-glyph ellipsis.
-- Preserve source paragraph structure. One source paragraph remains one target
-  paragraph. Do not split a multi-sentence paragraph for rhythm.
-- Italicize direct and unmistakable implicit internal thought even when the
-  Chinese does not explicitly mark it as thought.
-- Direct internal thought generally uses present tense. Do not backshift an
-  immediate deduction merely because narration is past tense. Use past or past
-  perfect only for genuine recollection, an earlier state, a completed event,
-  a counterfactual, or another sequence requiring anteriority.
-- Spoken dialogue is never italicized. Hard scene changes use a line containing
-  only `---`.
-- Do not use verbless fragments for ordinary action or thought beats.
-- Do not omit or invent a chapter title. Translate the supplied title together
-  with the chapter.
-- Obvious mechanical slips in owner-edited prose may be corrected, but do not
-  use that permission to rewrite the owner's wording choices.
-- The owner explicitly flagged slight raw-format drift in the supplied Chapter
-  1272 final. Do not treat that drift as precedent. In particular, the source
-  paragraphs `He said:` and `I saw it. And I remember it.` remain two target
-  paragraphs in future source-aligned work.
-- Normalize only the evident Chapter 1272 paste slips: duplicated *two hundred
-  years*, curly quotation marks, singular agreement in *karma is rewritten*,
-  and the unmatched quotation mark after the sword inscription.
-- The Chapter 1273 owner final was supplied as body prose without its heading.
-  Retain the existing translated title. A body-only owner edit is never
-  permission to omit the source chapter title.
-- Normalize the evident Chapter 1273 mechanical slips: curly quotation marks
-  become straight ASCII quotation marks, and *furrow a brow* becomes *furrow
-  his brow* without reverting the owner's intended expression.
+- Always count source and target body paragraphs independently. Preserve one
+  target paragraph per source paragraph, in identical order.
+- A body-only owner edit retains the translated chapter title.
+- Do not infer a scene break from a change in visual scale alone. Confirm a
+  real change of place, people, or time.
+- Fluent English is not evidence of fidelity. Recheck every paragraph against
+  the Chinese after drafting.
 
-## Cultural and prose traps
+## Identity and terminology
 
-- Preserve Chinese idioms, classical allusions, and their defining imagery in
-  natural English. Do not flatten them into generic conclusions.
-- Preserve linked metaphor chains across the whole paragraph or chapter. Do not
-  translate each idiom in isolation if the source develops one image into the
-  next.
-- `黔驴技穷` must retain the donkey, for example `the donkey had reached the
-  end of its tricks`, not merely `it had no tricks left`.
-- `绝地天通` must retain the severing of communication or passage between
-  Heaven and Earth.
-- `梦幻泡影` must retain the dream, illusion, bubble, and shadow image chain.
-- `悬崖勒马` must retain the horse and cliff image.
-- `人尽其材` deliberately alters `人尽其才`; preserve both putting everyone to
-  use and treating people themselves as useful material.
-- `泾渭分明` must retain the Jing and Wei Rivers when the image is active.
-- `投鼠忌器` must retain both rat and vessel, as in `afraid to strike the rat
-  for fear of shattering the vessel`.
-- `一朝被蛇咬，十年怕井绳` must retain the snake and rope, as in `once bitten
-  by a snake and now feared even a coiled rope`.
-- When `照单全收` directly continues an eating image, preserve that chain with
-  wording such as `swallow it whole` rather than reverting to the isolated
-  dictionary sense `accept everything on the list`.
-- Preserve board-game imagery such as `落子` and `一子` with a piece placed on
-  the board.
-- Preserve `尾大不掉` through the tail image, `做嫁衣` through the wedding
-  dress, `蝼蚁吞龙` through the ant and dragon, `乱成一锅粥` through the pot
-  of porridge, `反客为主` through the guest-and-host reversal, and `跳船`
-  through the broken-ship image.
-- Preserve the contrast between the World-Honored One's wrathful Vajra glare
-  and His heart blooming with laughter.
-- `踏脚石` must retain stepping stones when the hierarchy is described as
-  Dao Lords standing on those below them.
-- `康庄大道` should retain the image of a broad, open road rather than becoming
-  only `a good option` or `a safe method`.
-- `阴魂不散` should retain the lingering-ghost image when used as an insult.
-- `脱胎换骨` should retain the body-and-bones transformation image when the
-  process is emphasized.
-- In administrative or territorial contexts, do not translate `梳理` literally
-  as `comb`. Use `bring into order`, `systematically bring into order`, or a
-  contextually faithful equivalent.
-- `浩如烟海` should retain its sea image when natural, such as `a vast sea of
-  historical memories and forbidden knowledge`.
-- The Chapter 1245 title is `Chongguang: What Suffering!`, not `Woe Is Me!`.
-  Its internal `苦也` is `What suffering...`, and the closing `噫` is `Alas!`
-  in that scene.
-- The target register is polished Wuxiaworld-quality xianxia prose: natural
-  modern English, clear combat causality, dignified cultivation language, and
-  preserved Chinese texture. Do not Westernize the setting or write literal
-  machine-translation syntax.
-- When a literal source frame is unclear, write a refined English sentence while
-  preserving every meaning-bearing detail, speaker intention, and paragraph
-  position.
-- Never write awkward constructions such as `the foundation of Him proving the
-  Dao`. Use `the foundation upon which He proved the Dao` or `the foundation of
-  His Dao attainment`.
+- Resolve the real referent before capitalizing pronouns. The Sword Sovereign
+  is She/Her. The Ancestral Dragon is He/His/Him as the Dao Lord, but a detached
+  guided consciousness may be it/its where continuity explicitly says so.
+- `神念` is `divine sense`. Do not replace the established faculty with
+  `divine thoughts` or overlook it because the glossary is large.
+- Do not conflate the Spell Dao, Spiritual Power Dao, and Dharma Body Dao.
+- Keep Fate, Destiny, Fortune, and Variables distinct.
+- Use `Sword Edge Metal`, without a hyphen.
+- Use `Yin-Yang Creation and Destruction Profound Light` for `两仪生灭玄光`.
+- Translate `光铸的双手` as `hands forged from light` when that construction
+  recurs.
+- `天下` normally needs the established plural cosmological form, `under the
+  heavens` or `beneath the heavens`, not bare `under heaven`.
 
-## Terminology traps
+## Prose regression traps
 
-- `位格` is lowercase `status` under the final owner ruling. A recorded Chapter
-  1210 exception folds one occurrence into `Treading the Heavens cultivation`.
-- `慧光` is lowercase `wisdom light`.
-- `法光` is `dharma light`, not `law-light`.
-- `法诀` is `hand seal`.
-- `混沌` is capitalized `Primordial Chaos`.
-- `天赋` is lowercase `talent`.
-- `道行` is `Dao Attainment`; `修为` is `cultivation`. They are distinct.
-- `无穷伟力` is `boundless power`; bare `伟力` is `mighty power`, subject to
-  context exceptions in the terminology TSV.
-- `流向` is `course` in the historical collocation, not `flow`.
-- `定数` is `Destiny`, never `Fixed Outcome`.
-- `命数` is `Fate`, distinct from `定数`.
-- `天妖` is `heavenly demon`, never `celestial demon`, in the current False
-  History context.
-- `听幽祖师` is `the Nether Whisper Ancestor`, with the article.
-- Named Dragon Monarch titles normally take `the` in running prose.
-- `荡魔真人` is bare `Demon-Purging True Person`, without `the`.
-- `不涸川` is `Never-Drying River`.
-- `东流尊` is `Lord of the Eastern Flow`.
-- `天地根` is `Foundation of Heaven and Earth`.
-- `资同饮` is `Shared Nourishment`.
-- `阳湖龙君` is `the Yanghu Dragon Monarch` in normal running prose.
-- `旁门阴阳` and `阴阳旁门` render as `the unorthodox path to Yin and Yang`
-  according to syntax.
-- `万众一心` is `the One Mind`, never `Myriad Hearts as One`.
-- Use `Saint`, never `Sage`, for Si Sui and related Sea of Light epithets.
-- `真我` is `True Self`, with both words capitalized.
-- `变数` is `Variable` for one individual and `Variables` for multiple
-  individuals or the general plural class.
-- `坎阳湖` is `Kan-Yang Lake`.
-- `小友` is `little friend`, never `young friend`.
-- `滴天髓` is `Drop of Heaven's Essence`, never `Dripping Heaven's Marrow`.
-- Use the hyphenated elemental forms `Jia-Wood`, `Yi-Wood`, `Xin-Metal`,
-  `Gui-Water`, `Si-Fire`, and `Chen-Earth`.
-- The Nameless Dao Lord is capitalized everywhere and takes He/Him.
-- The slipped consciousness in Chapter 1210 takes `it/its`.
-- Collective Dao Lord pronouns in narration are Their/Them.
-- Dao Lord dialogue is formal and complete. Do not turn it into clipped modern
-  speech.
+- Default to modern direct English. Do not use archaic sentence inversions,
+  ceremonial filler, or compressed bookish narration unless the Chinese is
+  genuinely classical or ritualized.
+- Preserve Chinese imagery selectively. A live image should survive; a dormant
+  lexicalized idiom should not be forced into awkward literal English.
+- Do not turn local owner phrases into reusable sentence templates. Translate
+  the current source relationship afresh.
+- Do not overuse transition openers, intensifiers, `suddenly`, `simply`, or
+  `couldn't help but`.
+- Distinguish direct thought from free indirect narration before applying
+  italics. Italics do not assign tense. Immediate mental speech normally uses
+  present tense; memories and anterior events use past or perfect forms, plans
+  use future forms, and hypotheticals use conditional forms.
+- Do not backshift a current italicized judgment merely because the surrounding
+  narration is past tense. Do not italicize a viewpoint-colored rhetorical
+  paragraph when it remains free indirect narration.
+- Preserve a live idiom or allusion, but keep ordinary surrounding syntax
+  modern. Recheck the allusion's actual subject and wording before accepting a
+  familiar-sounding English line.
+- Preserve humor and profanity at source strength, then stop. Do not explain
+  the joke or add another flourish.
 
-## Workflow traps
+## Pending rejected draft: Chapter 1271
 
-- Owner-edited prose is final. Extract reusable rulings instead of reverting to
-  an earlier model draft.
-- Never hand-edit an assembled final chapter. Patch its aligned draft and
-  reassemble.
-- A glossary override can invalidate earlier chapters. Always run all-chapter
-  lint after a forced change.
-- Do not claim a GitHub update unless the commit was actually published.
+- The first Chapter 1271 draft was rejected and must never be reused as prose
+  or precedent. A source-grounded redraft exists in chat but remains pending
+  owner review.
+- The chapter has 66 Chinese body paragraphs. Any reviewed target must have 66
+  body paragraphs in the same order, plus the title.
+- In the historical scene, the third divided Sanhe voice speaks for the
+  Ancestral Dragon Himself. Use the Dao Lord's divine pronouns and
+  self-reference.
+- Preserve the dry-weeds-and-rotten-wood image, the wolfish-ambition image,
+  the contrast between righteous appearance and beastly interior, and the
+  closing `all beasts` force. Avoid literal calques that make the Dao Heart
+  debate sound mechanical.
+- Do not mark Chapter 1271 owner-final until the owner approves or edits the
+  repaired draft.
 
-## Rejected-draft trap: Chapter 1271
+## Repository process
 
-- The first Chapter 1271 draft was rejected on 2026-08-31 and must never be
-  reused as prose or precedent. Its main process failure was translating from
-  remembered context and then checking fluency without a direct, paragraph-by-
-  paragraph comparison against the Chinese and current repository authorities.
-- Chapter 1271 has 66 Chinese body paragraphs. A valid target must have exactly
-  66 body paragraphs in the same order, in addition to the chapter title.
-- In this historical scene, the Ancestral Dragon is the Dao Lord Himself, not
-  the guided-out consciousness. Use `He/His/Him`. The third divided Sanhe voice
-  speaks for the Ancestral Dragon, so His self-reference takes `Me/My`, and a
-  collective reference to Dao Lords takes `They/Them`. The Sword Sovereign
-  takes `She/Her`.
-- `天下` must retain the article and plural cosmological form, normally `under
-  the heavens` or the contextually approved `beneath the heavens`, never bare
-  `under heaven` or `beneath heaven`.
-- Reuse the owner-locked `a full sixty-year cycle`, `sixty-year purge of
-  demons`, `the First-Generation Alchemy Cauldron Peak Lord`, `Grotto-Heaven
-  Method`, `Sanhe`, and `war between Dao Lords` where their Chinese terms recur.
-- Preserve the dry-weeds-and-rotten-wood image in `摧枯拉朽`, the wolf in
-  `狼子野心`, the solemn-righteous appearance in `道貌岸然`, the hidden-depth,
-  indecision, and fierce-face/faint-heart contrasts in the final insult list,
-  and the human-in-appearance versus beast-within punch line in `都是畜生`.
-- Avoid mechanical calques such as `the opening of its edge`, `excavates the
-  Dao roots`, and `an interrogation of his Dao Heart`. Compose natural English
-  while preserving the sharpening, digging-root, and Dao Heart trial images.
-- The Chapter 1271 title and corrected chat prose remain pending owner review.
-  Do not promote either into an owner ruling until the owner approves or edits
-  the redraft.
+- A draft, source-seen status, continuity capsule, and owner-final status are
+  separate facts. Never infer approval from later chapter progress.
+- Owner edits are source-checked before classification and promotion. Owner
+  intent and approved terms are authoritative, but typos, grammar slips,
+  mistranslated allusions, and source changes are not promoted as precedent.
+  Local wording and mechanical fixes remain local.
+- Validation must be read-only unless a write flag is explicit.
+- Do not claim GitHub was updated until the commit is present on the remote.
+- The canonical GitHub branch named in state, not conversation memory, is the
+  persistent cross-session guide.

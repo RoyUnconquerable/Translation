@@ -17,7 +17,7 @@
     "id": "ch1210-0011",
     "type": "tone",
     "severity": "minor",
-    "note": "Source \"不该这么快的。\" carries no ‘’ marks, so per the style guide only ‘’-marked interiority renders as italic direct thought; the draft wrongly italicizes it as *It shouldn't be this quick.* instead of rendering it as plain free-indirect narration.",
+    "note": "Source \"不该这么快的。\" functions as free indirect narration in context, so it remains roman. Source quotation glyphs alone do not determine thought mode.",
     "patched": true
   },
   {

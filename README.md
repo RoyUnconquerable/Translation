@@ -1,22 +1,26 @@
 # Translation
 
-This repository contains a Chinese-to-English xianxia translation project and
-two deliberately separate pipeline implementations.
+This repository contains a Chinese-to-English xianxia translation project with
+one active pipeline and one preserved legacy implementation.
 
-- `chatgpt/` is the active ChatGPT/Codex pipeline. It is self-contained,
-  cross-platform, and starts from the complete Claude state through Chapter
-  1210.
-- `.claude/`, `CLAUDE.md`, `project/`, `source/`, `work/`, and `output/` are the
-  unchanged Claude implementation and migration source. Do not edit them on
-  the ChatGPT branch.
+- `chatgpt/` is the active ChatGPT/Codex pipeline. It is self-contained and
+  cross-platform. It was initialized from the complete Claude state through
+  Chapter 1210 and has continued beyond that migration point.
+- `source/`, `work/`, `output/`, and the legacy data under `project/` preserve
+  migration evidence from the former Claude implementation. Its executable
+  skill, agents, and stop hook are not present on the active branch.
+- `CLAUDE.md`, `.claude/README.md`, and `project/style-guide.md` are
+  compatibility pointers to the active pipeline, not alternate instructions.
 - `archive/claude-pipeline-2026-08-19` preserves the exact pre-migration state
   at commit `405e61125ba6abc935cbc56eaf1ccbf57c3fb091`.
 
 ## Current state
 
-Chapters 1209 and 1210 are finalized, owner-edited, lint-clean, and copied into
-`chatgpt/` without content changes. The next expected chapter is 1211. The
-authoritative handoff is `chatgpt/chapters/state.json`.
+Current progress is recorded only in `chatgpt/chapters/state.json`; this README
+intentionally does not duplicate chapter numbers. The latest pushed tip of the
+GitHub canonical branch named there is the persistent project authority across
+sessions and context compactions. Exact Chinese source governs chapter content,
+and verified owner decisions become durable when committed and pushed.
 
 ## Use with a ChatGPT Project
 
@@ -36,6 +40,8 @@ https://learn.chatgpt.com/docs/projects
 From the repository root:
 
 ```text
+python -m unittest discover -s chatgpt/tests
+python chatgpt/scripts/audit.py
 python chatgpt/scripts/lint.py --all
 python chatgpt/scripts/state.py
 ```

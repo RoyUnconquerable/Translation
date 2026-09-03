@@ -3,11 +3,23 @@ name: ChatGPT pipeline QA
 on:
   push:
     paths:
+      - "AGENTS.md"
+      - "CLAUDE.md"
+      - "README.md"
+      - ".claude/**"
       - "chatgpt/**"
+      - "project/README.md"
+      - "project/style-guide.md"
       - ".github/workflows/chatgpt-pipeline-qa.yml"
   pull_request:
     paths:
+      - "AGENTS.md"
+      - "CLAUDE.md"
+      - "README.md"
+      - ".claude/**"
       - "chatgpt/**"
+      - "project/README.md"
+      - "project/style-guide.md"
       - ".github/workflows/chatgpt-pipeline-qa.yml"
   workflow_dispatch:
 
@@ -25,11 +37,17 @@ jobs:
         os: [ubuntu-latest, windows-latest]
     runs-on: ${{ matrix.os }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
-      - name: Lint every migrated chapter
+      - name: Run unit tests
+        run: python -m unittest discover -s chatgpt/tests
+      - name: Audit authority architecture
+        run: python chatgpt/scripts/audit.py
+      - name: Lint every file-backed chapter
         run: python chatgpt/scripts/lint.py --all
-      - name: Validate chapter state and assembled output
+      - name: Validate state, ledger, and assembled output
         run: python chatgpt/scripts/state.py
+      - name: Confirm validation is read-only
+        run: git diff --exit-code
