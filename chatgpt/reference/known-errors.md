@@ -46,6 +46,17 @@ better canonical control makes it redundant.
   the current source relationship afresh.
 - Do not overuse transition openers, intensifiers, `suddenly`, `simply`, or
   `couldn't help but`.
+- Do not leave dialogue or direct thought mechanically uncontracted. Review
+  expanded auxiliaries and negatives explicitly, use the natural contraction
+  by default, and retain the expanded form only when emphasis, contrast,
+  formality, or clarity requires it. Contractions ending in `'d` remain
+  forbidden.
+- Run a separate article, preposition, complement, and collocation pass. A
+  sentence can preserve the dictionary meaning of every word and still sound
+  unclean because its English relationships were assembled mechanically.
+- Do not preserve choppy sentence boundaries inside a source paragraph when a
+  premise and consequence or a comparison and explanation read more cleanly
+  as one linked sentence. Paragraph alignment remains unchanged.
 - Distinguish direct thought from free indirect narration before applying
   italics. Italics do not assign tense. Immediate mental speech normally uses
   present tense; memories and anterior events use past or perfect forms, plans

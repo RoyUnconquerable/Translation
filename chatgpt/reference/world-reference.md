@@ -21,6 +21,12 @@ source facts unless explicitly labeled as a character hypothesis.
   but its five root Mysteries still sustained its existence.
 - Heavenly Person's Remnant Consciousness realms are distinct protected spaces
   whose remaining consciousness cannot simply be commanded by Lü Yang.
+- According to Lü Yang and Vast Sky, the Ancestral Dragon's Detached Court is a
+  hidden realm in the Fathomless Void that may have been left by an upper-realm
+  cultivator. The Ancestral Dragon, Si Sui, and the Primordial Saint have
+  entered it, but the other Dao Lords cannot locate it even when Si Sui leads
+  the way. It is isolated by a power comparable to the protection around the
+  Heavenly Person's Remnant Consciousnesses.
 
 ## History and causality
 
@@ -128,6 +134,8 @@ source facts unless explicitly labeled as a character hypothesis.
   not automatically synchronize to the Heavenly Emperor.
 - The Heavenly Book created the False History and remains sealed at its source.
   Si Sui expects the seal to weaken as the Other Shore loses status.
+- The Primordial Saint obtained the Heavenly Book from the hidden realm in the
+  Fathomless Void now identified with the Ancestral Dragon's Detached Court.
 - Traversing the Mortal Dust reaches a Primordial Spirit through separated good
   and evil consciousnesses. Their abilities normally synchronize, and lasting
   unity requires one side to become dominant over time.
@@ -169,6 +177,8 @@ source facts unless explicitly labeled as a character hypothesis.
 - Vast Sky believes His inheritance and the Primordial Saint's came from the
   same Doctrine of Names lineage. He infers that Tai Yitian is an altered name
   supported by a core inheritance from Grand Ancestral Master, that the name
-  granted the Primordial Saint an unknown benefit, and that recovering His
-  original true name may create an avenue of attack. This remains Vast Sky's
+  granted the Primordial Saint an unknown benefit, and that a supporting ritual
+  is hidden inside Grand Ancestral Master. He believes recovering the original
+  true name or destroying that ritual may create an avenue of attack and cause
+  the benefit to turn against the Primordial Saint. This remains Vast Sky's
   deduction.

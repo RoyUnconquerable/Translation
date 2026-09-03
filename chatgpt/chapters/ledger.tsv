@@ -74,3 +74,4 @@ chapter	source_status	translation_status	review_status	continuity_status	prose_s
 1281	chat_only_observed	source_received	not_started	current	chat_only	current project chat; translation not yet delivered
 1282	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
 1283	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
+1284	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update

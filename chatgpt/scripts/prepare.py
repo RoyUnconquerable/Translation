@@ -22,6 +22,15 @@ NUMBER_RE = re.compile(
     r"(?:甲子|年|月|日|层|位|枚|道|次|人|个|分|成|里|丈|岁|州|章|世|座|条|种|轮|颗|片|根|名|件|处|部|路|口|步|眼|手|字|声|息|倍))"
 )
 
+PROSE_REVIEW_REMINDERS = (
+    "Use natural contractions by default; expand only for emphasis, contrast, "
+    "formal cadence, or clarity, and never use contractions ending in 'd.",
+    "Audit English articles, prepositions, complements, and collocations instead "
+    "of carrying over Chinese syntax.",
+    "Link tightly related clauses inside each source paragraph when separate "
+    "sentences create stop-start flow; never merge source paragraphs.",
+)
+
 
 def paragraphs(text: str) -> list[str]:
     normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
@@ -109,6 +118,10 @@ def main() -> None:
     for value in sorted(number_hits, key=lambda item: min(number_hits[item])):
         rows = ",".join(str(index) for index in sorted(number_hits[value]))
         print(f"  [{rows}] {value}")
+
+    print("\nmandatory English review:")
+    for reminder in PROSE_REVIEW_REMINDERS:
+        print(f"  - {reminder}")
 
 
 if __name__ == "__main__":

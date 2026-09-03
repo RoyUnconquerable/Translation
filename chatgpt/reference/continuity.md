@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1269 to 1283
+# Current continuity: Chapters 1269 to 1284
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -101,6 +101,20 @@ approval. Review status belongs in the chapter ledger.
   inferred that Tai Yitian is an altered name and began explaining that the
   Primordial Saint's original true name might provide leverage, but a
   thunderclap interrupted Him.
+- Chapter 1284: the thunder heralded a gaze from the Primordial Saint. Vast Sky
+  openly shattered it and completed His explanation: He believes the altered
+  true name is supported by a ritual hidden inside Grand Ancestral Master and
+  that destroying the ritual would make its benefits turn against the
+  Primordial Saint.
+- Lü Yang revealed that the Primordial Saint is likely inside the same hidden
+  Fathomless Void realm visited by the Ancestral Dragon and Si Sui, where the
+  Primordial Saint obtained the Heavenly Book. The other Dao Lords cannot
+  reach that realm even when Si Sui leads the way.
+- Every battle paused once the Dao Lords realized the Primordial Saint was
+  conserving His strength while waiting for Si Sui. Lü Yang proposed that the
+  seven peak Golden Core combatants stop weakening one another, gang up on the
+  Primordial Saint, and then let Him and Si Sui fight to the death. The
+  coalition has not yet answered.
 
 ## Current positions
 
@@ -112,13 +126,15 @@ approval. Review status belongs in the chapter ledger.
 | Sword Sovereign | Won Her exchange with Lü Yang but failed every strategic objective; finger wounded; blocked by Dao Tianqi. |
 | Du Xuan | Seriously wounded and displaced from the Sea of Light; Primordial Spirit authority unstable. |
 | Spell Dao Lord | Outside the Sea of Light; opposed by the World-Honored One. |
-| Vast Sky | Outside the Sea of Light; failed to erase Lü Yang's Fortune and paused the fight while revealing the Ancient Past. |
+| Vast Sky | Outside the Sea of Light; failed to erase Lü Yang's Fortune, shattered the Primordial Saint's projected gaze, and paused His fight with Lü Yang. |
 | Si Sui | At the source of the False History; recovery of 129,600 years and final escape remain pending. |
-| Primordial Saint | Missing after the Other Shore's fall; location and plan unknown. |
+| Primordial Saint | Likely inside the hidden realm in the Fathomless Void; conserving His strength and waiting to face Si Sui. |
 
 ## Live questions
 
-- Where is the Primordial Saint, and how far has His combined path progressed?
+- Will the seven peak Golden Core combatants accept Lü Yang's proposal to gang
+  up on the Primordial Saint?
+- How far has the Primordial Saint's combined path progressed?
 - Can Si Sui reclaim all 129,600 years and escape before the defenders fail?
 - Can the defenders delay until the four Dao Lords become lost in the
   Fathomless Void?
@@ -126,4 +142,5 @@ approval. Review status belongs in the chapter ledger.
 - How much of Lü Yang's collective authority survived the destruction of most
   of the Heavenly Palace?
 - What was the Primordial Saint's original true name, what did the altered name
-  Tai Yitian grant Him, and what caused the interrupting thunderclap?
+  Tai Yitian grant Him, and can the suspected ritual in Grand Ancestral Master
+  actually be found and destroyed?

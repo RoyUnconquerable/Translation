@@ -71,7 +71,10 @@ The reviews detect issues. They do not rewrite the chapter wholesale.
    allusions, their actual subjects and relationships, and alignment.
 2. English review: check grammar, clarity, modern register, character voice,
    pacing, action geography, thought mode and tense, repetition, archaic drift,
-   and translationese without changing source meaning.
+   and translationese without changing source meaning. Explicitly review
+   contractions, articles, prepositions, complements, collocations, and
+   sentence linkage inside each source paragraph rather than relying on the
+   mechanical checker to catch prose problems.
 
 When subagents are available, assign these as two independent detector tasks
 after the lead translator has produced one draft. Give both reviewers the

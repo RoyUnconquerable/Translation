@@ -12,6 +12,7 @@ sys.path.insert(0, str(SCRIPTS))
 import common
 import chat_check
 import lint
+import prepare
 
 
 class AuthorityTests(unittest.TestCase):
@@ -152,6 +153,12 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("not mechanically from the source's quotation glyphs", prose)
         self.assertIn("Free indirect narration remains roman", prose)
         self.assertIn("Archaic diction is optional, not automatic", prose)
+        self.assertIn("Natural contractions are the default", prose)
+        self.assertIn("Audit articles, prepositions, complements, and collocations", prose)
+        self.assertIn("join tightly linked premises", prose)
+        reminders = " ".join(prepare.PROSE_REVIEW_REMINDERS)
+        self.assertIn("natural contractions by default", reminders)
+        self.assertIn("articles, prepositions, complements, and collocations", reminders)
 
     def test_repository_authority_is_explicit(self):
         state = json.loads(

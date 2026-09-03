@@ -74,7 +74,7 @@ source	target	notes
 现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世]; provenance owner-rulings-ch1276.tsv
 仙桥	Immortal Bridge	provenance terminology.tsv
 改因易果	altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; provenance terminology.tsv
-伟力	mighty power	owner-approved 2026-08-19 [except: 无穷伟力|降世的伟力]; 降世的伟力 = 'the might of Their descent' (owner Ch. 1210); provenance terminology.tsv
+伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力]; 降世的伟力 = 'the might of Their descent' (owner Ch. 1210); provenance terminology.tsv
 洞天	Grotto-Heaven	CAPITALIZED, owner ruling 2026-08-19; provenance terminology.tsv
 仙枢	Immortal Pivot	usually takes 'the'; what this world / Boundary Heaven is called; provenance terminology.tsv
 成道隐玄府	Achieving Dao Hidden Profound Manor	Skyward's grotto-heaven manor; provenance terminology.tsv
@@ -157,7 +157,7 @@ source	target	notes
 甲子荡魔	sixty-year purge of demons|purging demons for sixty years	noun event or verbal syntax follows context; provenance owner-rulings-ch1279.tsv
 宝命全形经	Treasured Life Perfect Form Scripture	owner-final Ch.1279; provenance owner-rulings-ch1279.tsv
 命运长河	River of Fate	owner-final Ch.1279; provenance owner-rulings-ch1279.tsv
-道争	contest over the Dao|struggle over the Dao	contextual conflict or debate over the Dao; reserve Dao Struggle for the Chapter 1280 title; provenance Ch.1279-1280
+道争	Dao Struggle|contest over the Dao|struggle over the Dao	Use Dao Struggle for a specific treated-as-named confrontation, including the Chapter 1280 title and the Ch.1284 recollection; use contextual phrases for ordinary conflict or debate; provenance Ch.1279-1280 and owner-final Ch.1284
 神意	divine will	owner-final Ch.1279; replaces the looser "divine intent"; provenance owner-rulings-ch1279.tsv
 天意	Heaven's Will	owner-final Ch.1279; distinct from the physical heavens; provenance owner-rulings-ch1279.tsv
 诛天剑	Heaven-Slayer	Sanhe's sacrificed sword wielded by Lü Yang; owner-final Ch.1273 and reaffirmed Ch.1279; provenance terminology.tsv
@@ -321,3 +321,4 @@ source	target	notes
 符箓之法	talisman arts	Vast Sky's name- and writing-based method; provenance owner-final Ch.1282
 心剑	heart sword	Heaven-Slayer's actual nature after Sanhe's Primordial Spirit sacrifice; lowercase as a descriptive type; provenance owner-final Ch.1282
 文字	Written Word|written language|writing	use the Written Word for Vast Sky's bracketed Dao concept and written language for ordinary script; provenance owner-final Ch.1282
+法仪	ritual	A deliberately established ritual supporting the Primordial Saint's altered true name; do not expand to ritual array without source evidence; owner-final Ch.1284

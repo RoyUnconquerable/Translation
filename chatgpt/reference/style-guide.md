@@ -36,6 +36,9 @@ When principles compete, use this order:
 - Sentence boundaries may change inside a paragraph when English grammar needs
   it, provided every premise, contrast, causal link, uncertainty, and emphasis
   remains.
+- Within one source paragraph, join tightly linked premises, consequences, or
+  comparisons when separate English sentences create stop-start flow. This
+  never permits merging two source paragraphs.
 - Preserve every number, date, sequence, comparison, negation, title,
   relationship, and degree of certainty.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
@@ -54,6 +57,9 @@ When principles compete, use this order:
   consequence. Keep combat geography and technique ownership explicit.
 - Split overburdened clauses. Avoid long chains of which-relatives, abstract
   noun stacks, and repeated participial phrases.
+- Audit articles, prepositions, complements, and collocations as English
+  constructions rather than carrying over Chinese syntax. Restore the object
+  or relationship English needs, but do not add new source meaning.
 - Use names or explicit nouns when pronouns could refer to two plausible
   characters. Clarity outranks avoiding repetition.
 - Vary or omit routine transition phrases. Translate the logical relationship,
@@ -185,8 +191,11 @@ When principles compete, use this order:
 - Use the serial comma, `toward`, and `farther` for physical distance.
 - Capitalize Yin and Yang. Use `Yin-Yang` only in established attributive
   compounds.
-- Natural contractions are welcome, except contractions ending in `'d`, which
-  are prohibited because they obscure tense and mood in this project.
+- Natural contractions are the default in dialogue, direct thought, informal
+  narration, and free indirect voice whenever a contemporary speaker would
+  use them. Keep an expanded form only for deliberate emphasis, contrast,
+  measured formal cadence, or grammatical clarity. Contractions ending in
+  `'d` remain prohibited because they obscure tense and mood in this project.
 
 ## Prohibited habits
 
