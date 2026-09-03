@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1269 to 1282
+# Current continuity: Chapters 1269 to 1283
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -86,18 +86,33 @@ approval. Review status belongs in the chapter ledger.
   Fortune and began erasing Lü Yang's ability to affect the outside world. The
   effect cannot kill him directly, but it can leave him effectively lost in
   the Fathomless Void. Lü Yang is resisting it with his Primordial Spirit.
+- Chapter 1283: Vast Sky temporarily erased Lü Yang's influence, but the two
+  names began pulsing to the heartbeat of the Sea of Light. Lü Yang returned
+  because his great achievement remains rooted in the still-returning False
+  History, the God-Sealing Dao Lineage, and the Sea of Light's blockade. Vast
+  Sky cannot suppress all three at once.
+- The three battles eased as every side became wary of benefiting a rival.
+  Vast Sky then disclosed the era sequence from the Ancient Past through the
+  Medieval Antiquity Era. He stated that the Ancestral Dragon passed down
+  cultivation rather than creating it and that both the Other Shore and the
+  Heavenly Dao drew on Ancient Past Dao Lineages.
+- Vast Sky identified His own inheritance as part of the Doctrine of Names and
+  believes the Primordial Saint's inheritance came from the same school. He
+  inferred that Tai Yitian is an altered name and began explaining that the
+  Primordial Saint's original true name might provide leverage, but a
+  thunderclap interrupted Him.
 
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Primordial Spirit complete but internally unfinished; seriously wounded; much of the Heavenly Palace destroyed; facing Vast Sky while resisting the erasure of his Fortune. |
+| Lü Yang | Primordial Spirit complete but internally unfinished; seriously wounded; much of the Heavenly Palace destroyed; returned after Vast Sky's attempted erasure and still faces Vast Sky. |
 | Dao Tianqi | Underworld damaged but intact; currently the strongest defender in the Sea of Light; facing the Sword Sovereign. |
 | World-Honored One | Peak Golden Core and no longer a Dao Lord; comparatively rested; holding the Spell Dao Lord and Du Xuan. |
 | Sword Sovereign | Won Her exchange with Lü Yang but failed every strategic objective; finger wounded; blocked by Dao Tianqi. |
 | Du Xuan | Seriously wounded and displaced from the Sea of Light; Primordial Spirit authority unstable. |
 | Spell Dao Lord | Outside the Sea of Light; opposed by the World-Honored One. |
-| Vast Sky | Outside the Sea of Light; opposed by Lü Yang. |
+| Vast Sky | Outside the Sea of Light; failed to erase Lü Yang's Fortune and paused the fight while revealing the Ancient Past. |
 | Si Sui | At the source of the False History; recovery of 129,600 years and final escape remain pending. |
 | Primordial Saint | Missing after the Other Shore's fall; location and plan unknown. |
 
@@ -110,3 +125,5 @@ approval. Review status belongs in the chapter ledger.
 - Will Si Sui use the Heavenly Book as a retreat, and can He break its seal?
 - How much of Lü Yang's collective authority survived the destruction of most
   of the Heavenly Palace?
+- What was the Primordial Saint's original true name, what did the altered name
+  Tai Yitian grant Him, and what caused the interrupting thunderclap?

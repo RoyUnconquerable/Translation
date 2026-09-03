@@ -24,6 +24,19 @@ source facts unless explicitly labeled as a character hypothesis.
 
 ## History and causality
 
+- The Ancient Past predates the Primordial Era. Its history cannot be traced
+  because time was cut off at that boundary, but the seven Heavenly Person's
+  Remnant Consciousnesses remain as its greatest relics.
+- According to Vast Sky's historical account, the Ancestral Dragon passed down
+  cultivation during the Primordial Era but did not create it. Si Sui's proving
+  the Dao began the Ancient Era's golden age.
+- At the end of the Ancient Era, Si Sui and the other Dao Lords suppressed the
+  Ancestral Dragon and built the Other Shore. The Primordial Saint, the Sword
+  Sovereign, and Vast Sky later suppressed Si Sui and built the Heavenly Dao,
+  beginning the 129,600-year Medieval Antiquity Era.
+- Both the Other Shore and the Heavenly Dao drew inspiration from Dao Lineages
+  inherited from the Ancient Past. Vast Sky states that all six of Them
+  received such inheritances, although the Primordial Saint received the most.
 - The original first history ended after the war between Dao Lords. It was
   later replaced and became the basis of the False History.
 - The current True History and False History can converge, mix their chains of
@@ -71,6 +84,11 @@ source facts unless explicitly labeled as a character hypothesis.
   Fruition Attainments and its ten Great Daos. By linking those names to
   Fortune, He can suppress a named power or erase a person's ability to affect
   the world, producing a state like becoming lost in the Fathomless Void.
+- The Doctrine of Names is an Ancient Past Dao Lineage that treats names as
+  sources of power. Changing a thing's name can produce powerful imagery, a
+  true name can be used against its bearer, and an adopted honorific name can
+  provide protection. Vast Sky based His Written Word Mysteries on these
+  principles.
 - The Five Heavenly Numbers can be gathered through corresponding Mysteries.
   The Ancestral Dragon and Lü Yang both use personal Mysteries to contain them,
   but their systems and purposes are not identical.
@@ -92,6 +110,11 @@ source facts unless explicitly labeled as a character hypothesis.
   of False History and returned with deep roots in the Sea of Light. Cultivators
   could access their old powers through it, while rejecting it severed their
   practical connection to those paths.
+- Vast Sky cannot erase Lü Yang's Fortune by suppressing either of his names
+  alone. While the False History is still returning, Lü Yang's great
+  achievement is sustained together by the God-Sealing Dao Lineage, the Sea of
+  Light's blockade, and the False History; all three would have to be
+  suppressed at once.
 - Lü Yang can unite the Sea of Light's Boundary Heavens, living beings, gods,
   Great Daos, Heavenly Palace, and core Mysteries into one collective body. In
   that state, the Sea of Light itself supplies his power.
@@ -118,14 +141,20 @@ source facts unless explicitly labeled as a character hypothesis.
 
 ## Era outline
 
-1. The Ancestral Dragon dominated the earliest age and treated later beings as
-   harvestable material.
-2. Si Sui led the Dao Lords against the Ancestral Dragon.
-3. The Primordial Saint and other Dao Lords later moved against Si Sui, created
-   the False History, and built the Other Shore and Heavenly Dao systems.
-4. Dao Tianqi created the Underworld and opposed the destruction of ordinary
+1. The Ancient Past cannot be traced because time was cut off. Its surviving
+   relics include the seven Heavenly Person's Remnant Consciousnesses and the
+   Dao Lineages later inherited by the Dao Lords.
+2. During the Primordial Era, the Ancestral Dragon dominated the Sea of Light,
+   treated later beings as harvestable material, and passed down cultivation as
+   a hundred flowers bloomed.
+3. Si Sui proved the Dao and began the Ancient Era's golden age. At its end, He
+   led the Dao Lords against the Ancestral Dragon and built the Other Shore.
+4. The Primordial Saint, the Sword Sovereign, and Vast Sky later suppressed Si
+   Sui, created the False History, and built the Heavenly Dao, beginning the
+   129,600-year Medieval Antiquity Era.
+5. Dao Tianqi created the Underworld and opposed the destruction of ordinary
    lives caused by Dao Lord plans.
-5. Lü Yang developed the God-Sealing Method into a collective order capable of
+6. Lü Yang developed the God-Sealing Method into a collective order capable of
    separating the Sea of Light from Dao Lord control.
 
 ## Open character hypotheses
@@ -137,3 +166,9 @@ source facts unless explicitly labeled as a character hypothesis.
   external path of constructing Dao-attainment systems with Si Sui's inward
   self-cultivation. This is a strategic worst-case deduction, not confirmed
   fact.
+- Vast Sky believes His inheritance and the Primordial Saint's came from the
+  same Doctrine of Names lineage. He infers that Tai Yitian is an altered name
+  supported by a core inheritance from Grand Ancestral Master, that the name
+  granted the Primordial Saint an unknown benefit, and that recovering His
+  original true name may create an avenue of attack. This remains Vast Sky's
+  deduction.

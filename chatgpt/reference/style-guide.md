@@ -99,6 +99,11 @@ When principles compete, use this order:
   thought marks. When Chinese elides the subject, preserve the thinker's
   immediate viewpoint instead of turning the thought into a third-person
   report.
+- A short sequence of private rhetorical paragraphs may become first-person
+  direct thought even when the Chinese omits thought marks, provided the voice
+  is unmistakably the viewpoint character's mental speech. Preserve every
+  source paragraph separately and italicize each thought paragraph rather than
+  merging the sequence.
 - When history is rewritten, use tense to show the new established past and
   any event anterior to it. Do not backshift mechanically.
 - Do not add thought tags or restate in narration what an italicized thought

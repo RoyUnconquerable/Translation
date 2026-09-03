@@ -224,7 +224,7 @@ source	target	notes
 辰土	Chen-Earth	established Earthly Branch elemental rendering; hyphenated; provenance owner-rulings-ch1221-ch1243.tsv
 五行	Five Elements	capitalize as the named elemental system; provenance owner-rulings-ch1221-ch1243.tsv
 小友	little friend	owner correction after Ch. 1247; never young friend; provenance owner-rulings-ch1221-ch1243.tsv
-大宗师	Grand Ancestral Master	owner correction Ch. 1249; a place or realm among the seven Heavenly Person's Remnant Consciousnesses, named after the Zhuangzi chapter; never Grandmaster or a person/title; provenance owner-rulings-ch1221-ch1243.tsv
+大宗师	Grand Ancestral Master	bare proper name without the definite article; a place or realm among the seven Heavenly Person's Remnant Consciousnesses, named after the Zhuangzi chapter; never Grandmaster or a person/title; owner-final Ch.1283; provenance owner-rulings-ch1221-ch1243.tsv
 代掌教	Acting Sect Master	formal Saint Sect office held by Chongguang; capitalize as a title; owner final Ch. 1250; provenance owner-rulings-ch1250.tsv
 接天云海	Heaven-Connecting Sea of Clouds	takes the definite article; provenance owner-rulings-ch1250.tsv
 圣火崖	Sacred Fire Cliff	verified world reference and owner final Ch. 1251; never Sacred Flame Cliff; provenance owner-rulings-ch1251.tsv
@@ -263,7 +263,7 @@ source	target	notes
 紫青兜率真火	Purple-Azure Tushita Fire	owner-final Ch.1262; established alchemical flame surrounding the mountain range and pill furnace; provenance owner-rulings-ch1262.tsv
 幽冥府君殿	Underworld Sovereign's Hall	owner-final Ch.1262; established core of the Underworld; provenance owner-rulings-ch1262.tsv
 天外	Outer Heavens	owner-final Ch.1262 location phrase; capitalize both words; provenance owner-rulings-ch1262.tsv
-太易天	Tai Yitian	owner-final Ch.1262; the Primordial Saint's true name; provenance owner-rulings-ch1262.tsv
+太易天	Tai Yitian	the Primordial Saint's altered name, not His original true name; owner-final Ch.1283 supersedes the earlier Ch.1262 assumption; provenance owner-rulings-ch1262.tsv and Ch.1283
 冥府之主	Lord of the Underworld	owner-final Ch.1262 title for Dao Tianqi in this scene; provenance owner-rulings-ch1262.tsv
 光海暗面	Dark Side of the Sea of Light	owner-final Ch.1263 capitalization; supersedes lowercase use in running cosmological reference; provenance owner-rulings-ch1263.tsv
 天府	Celestial Court	owner-final Ch.1264; major Boundary Heaven listed beside the Immortal Pivot, Star Palace, and Mysterious Wall; provenance owner-rulings-ch1264.tsv
@@ -308,6 +308,12 @@ source	target	notes
 造化	Creation|creation	capitalize the named cosmological authority; lowercase ordinary creation; provenance Ch.1268 onward
 光铸的双手	hands forged from light	explicit owner correction after Ch.1277; never light-forged hands
 都玄	Du Xuan	Spiritual Power Dao Lord; divine pronouns He/His/Him; provenance consolidation
+前古	Ancient Past	fixed era label before the Primordial Era; normally takes the definite article; owner-final Ch.1283
+太古	Primordial Era	fixed era label after the Ancient Past and before the Ancient Era; normally takes the definite article; owner-final Ch.1283
+上古	Ancient Era	fixed era label beginning when Si Sui proved the Dao; normally takes the definite article; owner-final Ch.1283
+中古	Medieval Antiquity Era	fixed era label for the 129,600-year age of Dao Lords; normally takes the definite article; owner-final Ch.1283
+名教	Doctrine of Names	Ancient Past Dao Lineage concerning the power of names; normally takes the definite article; owner-final Ch.1283
+尊名	honorific name	an added protective name under the Doctrine of Names; owner-final Ch.1283
 爆丹	exploding pill	split from malformed combined source; provenance consolidation
 爆炸丹	exploding pill	split from malformed combined source; provenance consolidation
 道庭	Dao Court	Vast Sky's institution; provenance owner-final Ch.1282

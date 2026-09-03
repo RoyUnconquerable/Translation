@@ -23,3 +23,8 @@ date	chapter	category	decision	promoted_to	status
 2026-09-03	1282	PHRASE	Preserve the bolting-rabbit image, the circle-of-light chain, and Vast Sky's complete definition of Fortune.	phrase-memory.tsv	active
 2026-09-03	1282	FACT	Vast Sky governs Fortune through names and the Written Word; Heaven-Slayer cuts the Primordial Spirit in direct clashes.	world-reference.md and continuity.md	active
 2026-09-03	1282	MACRO	Treat third-person analytical conclusions as free indirect narration when they are not voiced mental speech, regardless of Chinese thought marks.	style-guide.md	active
+2026-09-03	1283	TERM	Use Ancient Past, Primordial Era, Ancient Era, and Medieval Antiquity Era for the revealed era sequence; use Doctrine of Names for 名教; treat Grand Ancestral Master as a bare proper name.	terminology.tsv	active
+2026-09-03	1283	PHRASE	Preserve the wedding-dress, riverbank-fire, eagle-and-landbound-beast, mouth-scraps, hundred-flowers, and three-part comic domination images.	phrase-memory.tsv	active
+2026-09-03	1283	FACT	Record the Ancient Past inheritance, the Doctrine of Names mechanics, Lü Yang's resistance to Fortune erasure, and Tai Yitian as an altered rather than original name.	world-reference.md and continuity.md	active
+2026-09-03	1283	MACRO	Allow clearly voiced private rhetorical sequences without Chinese thought marks to become separate italicized first-person thought paragraphs.	style-guide.md	active
+2026-09-03	1283	QUALITY	Repair the owner edit's missing title and thought markup, restore the source's raised-eyebrow reaction, correct the number mismatch in cultivation methods, and keep the combat sides explicit.	decision-log.tsv	active
