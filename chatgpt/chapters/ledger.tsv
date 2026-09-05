@@ -79,3 +79,5 @@ chapter	source_status	translation_status	review_status	continuity_status	prose_s
 1286	chat_only_observed	source_received	not_started	current	chat_only	current project chat; translation not yet delivered
 1287	chat_only_observed	source_received	not_started	current	chat_only	owner fixed 称心锁神决 as Heart-Naming Spirit-Locking Art; chapter translation not yet delivered
 1288	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
+1289	unknown	chat_draft_delivered	owner_revision_recorded	missing	chat_only	owner-edited English visible in live handoff; exact source and preceding draft reconciliation not completed; no canonical final promotion
+1290	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	live owner revision compared with exact Chinese and delivered draft; 76 body paragraphs plus retained title; mechanical errors excluded from reusable rulings

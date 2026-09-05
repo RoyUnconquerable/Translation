@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1269 to 1288
+# Current continuity: Chapters 1269 to 1290
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -147,26 +147,50 @@ approval. Review status belongs in the chapter ledger.
   Sui. Lü Yang and Dao Tianqi joined the attack, but the Primordial Saint broke
   Lü Yang's fist and targeted him with a lethal finger strike. Lü Yang answered
   by manifesting his Primordial Spirit and counterattacking.
+- Chapter 1289's owner revision is visible in the handoff, but its complete
+  source-grounded reconciliation is still pending. Do not infer completed
+  consolidation from the later Chapter 1290 approval.
+- Chapter 1290 opens above the River of Time, with the other combatants
+  isolated at different times. The Primordial Saint cuts Dao Tianqi off from
+  the Underworld and attempts to kill him. Dao Tianqi uses the Reincarnation
+  Wheel of Life and Death to clash with His status, loosening the temporal
+  confinement of the others.
+- The Primordial Saint changes tactics and banishes Dao Tianqi into the
+  Future. Dao Tianqi survives but cannot interfere with the Present for a
+  considerable time. The River of Time collapses, the six remaining
+  combatants emerge, and the Primordial Saint coughs blood qi as His aura
+  drops. Seven simultaneous opponents being His limit remains Dao Tianqi's
+  inference, not a confirmed absolute cap.
+- The Sword Sovereign and Vast Sky recall the Heavenly Heart Lock. Empowered
+  by Lü Yang's Five Elements Fruition Attainments, it stops the renewed River
+  of Time. The Primordial Saint uses a shadow from the Past to carry it away,
+  coughing more heavily in the process.
+- Myriad Spells reveals the already-prepared Dharma Extinction Scripture,
+  which destroys the Primordial Saint's protective imagery and Mysteries.
+  The World-Honored One appears behind Him; His tribulation qi reinforces the
+  scripture and His aura rises. His Buddhist palm pierces the Primordial
+  Saint from back to chest. The wound is confirmed, but death is not.
 
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Primordial Spirit complete but internally unfinished; the Heavenly Palace remains badly damaged; currently meeting the Primordial Saint's lethal finger strike with a Primordial Spirit counterattack. |
-| Dao Tianqi | Underworld damaged but intact; joined Lü Yang in suppressing the Primordial Saint's status. |
-| World-Honored One | Destroyed Karma through His past life body; has not yet confirmed a new Dao Lord position through Tribulation. |
-| Sword Sovereign | Allied with the former opposing side; attacked the Primordial Saint through Fate. |
+| Lü Yang | Free of the temporal confinement; empowered the Heavenly Heart Lock; remains with the six combatants opposing the Primordial Saint. |
+| Dao Tianqi | Alive but banished into the Future; temporarily unable to interfere with the Present or return to the Underworld. |
+| World-Honored One | Tribulation qi reinforced Myriad Spells' scripture; His aura rose and His palm pierced the Primordial Saint. A new Dao Lord position is not explicitly confirmed. |
+| Sword Sovereign | Recalled the Heavenly Heart Lock with Vast Sky; the Primordial Saint removed it through a shadow from the Past. |
 | Du Xuan | Primordial Spirit authority remains unstable; temporarily anchored in the Vajra Realm. |
-| Spell Dao Lord | Allied with the coalition and temporarily anchored in the Vajra Realm. |
-| Vast Sky | Traded the Heart-Naming Spirit-Locking Art to Lü Yang, obtained temporary shelter in the Vajra Realm, and attacked the Primordial Saint through Fortune. |
+| Spell Dao Lord | Circulating the Dharma Extinction Scripture; the World-Honored One's tribulation power reinforces its suppression of the Primordial Saint. |
+| Vast Sky | Recalled the Heavenly Heart Lock with the Sword Sovereign; remains with the six combatants after its removal. |
 | Cultivating Truth Dao Lord | Left the source of the False History at Si Sui's direction and is heading toward the confrontation. |
 | Si Sui | At the source of the False History; recovery of 129,600 years and final escape remain pending. |
-| Primordial Saint | Emerged from the Ancestral Dragon's Detached Court; resisted the coalition's opening attack and is now trying to kill Lü Yang first. |
+| Primordial Saint | Banished Dao Tianqi, lost blood qi through temporal exertion, and was pierced from back to chest after His protective imagery and Mysteries collapsed; survival outcome unresolved. |
 
 ## Live questions
 
-- Can Lü Yang survive the Primordial Saint's opening finger strike, and what
-  can his Primordial Spirit counterattack accomplish?
+- Can the Primordial Saint survive or reverse the combined scripture and palm
+  attack, and what power does He still have available?
+- When can Dao Tianqi return from the Future and rejoin the confrontation?
 - What did the Primordial Saint gain by changing both His name and appearance?
 - Can Si Sui reclaim all 129,600 years and escape before the defenders fail?
 - Can the World-Honored One replace Karma with Tribulation and recover His

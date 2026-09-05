@@ -114,6 +114,11 @@ The reviews detect issues. They do not rewrite the chapter wholesale.
    sentence linkage inside each source paragraph rather than relying on the
    mechanical checker to catch prose problems.
 
+The owner's Chapter 1290 direction permits fuller, clearer phrasing when it
+preserves source detail or makes a relationship explicit. Do not meet the
+performance budget by compressing away grammatical structure. Complete the
+article, preposition, complement, and contraction review before delivery.
+
 When subagents are available, launch these as two independent detector tasks
 at the same time after the lead translator has produced one draft. Give each
 reviewer an isolated context with no inherited conversation history, or the

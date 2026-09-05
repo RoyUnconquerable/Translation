@@ -62,6 +62,12 @@ source facts unless explicitly labeled as a character hypothesis.
   established course. Karma can call toward it as an unorthodox branch.
 - A Guest Rejected by Heaven and Earth makes Lü Yang's own history unique while
   active, preventing an external power from rewriting it.
+- The Primordial Saint can manifest a future action directly in reality and
+  separate a person from a nearby destination by placing them in different
+  times. He can also banish an opponent into the Future, temporarily removing
+  that opponent's ability to interfere with the Present without killing them.
+  Chapter 1290 shows costs and limits under combined opposition, not an
+  unlimited power to isolate any number of opponents.
 
 ## Cultivation and Dao Lord status
 
@@ -161,6 +167,21 @@ source facts unless explicitly labeled as a character hypothesis.
   revert to the River of Time, preventing the Primordial Saint from completing
   the same intended causal transformation by killing Him personally.
 - The Treasured Life Perfect Form Scripture is Si Sui's Dharma Body inheritance.
+- The Reincarnation Wheel of Life and Death is the Underworld's eighth
+  component. Dao Tianqi can use it to pit his status against the Primordial
+  Saint's, forcing Him to divert power into defending that foundation.
+- The Heavenly Heart Lock is a Dao Artifact refined by the Ancestral Dragon
+  and once served as the Heavenly Dao's foundation. The Sword Sovereign and
+  Vast Sky can recall it, and Lü Yang can empower it with the Five Elements
+  Fruition Attainments. It can suppress the River of Time, but the Primordial
+  Saint can remove it through a shadow from the Past at a visible cost.
+- Myriad Spells derived the Dharma Extinction Scripture from the deficiency
+  left in the Three Foundations after Si Sui's sealing shattered the Dharma
+  Body Dao. It destroys cultivators' Mysteries through their foundations;
+  cultivators cannot escape its influence while remaining within that
+  category. This establishes influence, not automatic death or equal damage
+  to every cultivator. As a form of Tribulation, the effect can reinforce and
+  be reinforced by the World-Honored One's tribulation power.
 - Heaven-Slayer combines the Sword Sovereign's long refinement of Sanhe's True
   History body with the False History Sanhe's temporary Primordial Spirit
   sacrifice and seizure of that sword.

@@ -19,6 +19,14 @@ better canonical control makes it redundant.
 
 ## Identity and terminology
 
+- `神通` is `divine ability` or `divine abilities`, including Divine Abilities
+  in a title, never Divine Powers. Check chapter titles against terminology.
+- A dated attachment is supporting evidence, not permission to reverse a later
+  canonical owner ruling. `道音` remains `Dao resonance`, reaffirmed in Chapter
+  1290; the older attachment's `Dao voice` is superseded.
+- Resolve grammar before promoting an ordinary adjective into a cultivation
+  term. The Chapter 1290 exception `步法玄妙` is `subtle footwork`; it does not
+  remove capitalization from actual Mysteries elsewhere.
 - Resolve the real referent before capitalizing pronouns. The Sword Sovereign
   is She/Her. The Ancestral Dragon is He/His/Him as the Dao Lord, but a detached
   guided consciousness may be it/its where continuity explicitly says so.

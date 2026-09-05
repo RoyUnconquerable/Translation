@@ -28,6 +28,10 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
+- Allow fuller, clearer English when a compressed rendering obscures an
+  action, participant, or causal relationship. Supply the grammatical detail
+  English needs, not new lore or commentary. Brevity is not a reason to omit
+  articles, prepositions, objects, or meaning-bearing source details.
 - When the narrator frames cultivation combat through modern system or matchup
   logic, preserve that register with clear contemporary language such as raw
   stats or mechanics. Do not automatically elevate it into ceremonial martial
@@ -64,6 +68,10 @@ When principles compete, use this order:
 - Audit articles, prepositions, complements, and collocations as English
   constructions rather than carrying over Chinese syntax. Restore the object
   or relationship English needs, but do not add new source meaning.
+- Read each sentence as English after the source comparison: check countable
+  nouns for articles, verbs and adjectives for required prepositions or
+  complements, and participial clauses for a clear subject. Prefer a complete
+  clause when compression leaves the actor or target ambiguous.
 - Use names or explicit nouns when pronouns could refer to two plausible
   characters. Clarity outranks avoiding repetition.
 - Vary or omit routine transition phrases. Translate the logical relationship,

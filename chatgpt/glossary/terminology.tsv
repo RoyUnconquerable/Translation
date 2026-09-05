@@ -68,7 +68,7 @@ source	target	notes
 踏天	Treading the Heavens	realm; provenance terminology.tsv
 大真君	Great True Monarch	踏天大真君 = Treading the Heavens Great True Monarch (word order per Ch. 1147); provenance terminology.tsv
 正史	True History	capitalized; pairs with the False History; usually takes 'the'; provenance terminology.tsv
-玄妙	Mystery|Mysteries	number follows the raw (Ch. 1174 ruling); provenance terminology.tsv
+玄妙	Mystery|Mysteries	number follows the raw for the cultivation concept; adjectival 步法玄妙 is subtle footwork in owner-final Ch.1290, not a named Mystery [except: 步法玄妙]; provenance terminology.tsv and owner-final Ch.1290
 天宫	Heavenly Palace	with 'the' (Ch. 1196 ruling); provenance terminology.tsv
 位格	status	lowercase except at sentence start; the legacy phrase 踏天境的高位格 was translated compositionally [except: 踏天境的高位格]; provenance terminology.tsv
 现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世]; provenance owner-rulings-ch1276.tsv
@@ -139,7 +139,7 @@ source	target	notes
 大海水	Great Ocean Water	owner-final Ch.1278; Supreme Water Element Fruition Attainment; provenance owner-rulings-ch1278.tsv
 滴天髓	Drop of Heaven's Essence	owner correction before Ch. 1248; supersedes the erroneous Dripping Heaven's Marrow rendering; provenance owner-rulings-ch1221-ch1243.tsv
 尘劫海	Sea of Dust and Tribulation	takes the definite article; provenance owner-rulings-ch1276.tsv
-道音	Dao resonance	owner-final Ch.1278; here it is beyond the hearing of ordinary ears; provenance owner-rulings-ch1278.tsv
+道音	Dao resonance	owner-final Ch.1278, reaffirmed by owner-final Ch.1290; supersedes Dao voice in the older attachment; provenance owner-rulings-ch1278.tsv and live Ch.1290 owner revision
 光铸	forged from light	material or construction phrasing; explicit owner correction after Ch.1277; prefer "hands forged from light" for 光铸的双手; provenance terminology.tsv
 法力道	Spiritual Power Dao	owner-final Ch.1278; Du Xuan's Great Dao; provenance owner-rulings-ch1278.tsv
 法术道	Spell Dao	owner-final Ch.1278; the Great Dao of Myriad Spells; provenance owner-rulings-ch1278.tsv
@@ -328,3 +328,8 @@ source	target	notes
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
 性命	nature and life	Paired Daoist cultivation concept; preserve both halves rather than reducing it to life, existence, or vitality; owner-final Ch.1288
+神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase in ordinary prose, Title Case in the chapter title or an established proper name
+转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
+法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
+道器	Dao Artifact	Capitalize this artifact class; owner-final Ch.1290
+血气	blood qi	Lowercase substance, not necessarily liquid blood; owner-final Ch.1290
