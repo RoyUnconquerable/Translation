@@ -13,6 +13,9 @@ better canonical control makes it redundant.
   real change of place, people, or time.
 - Fluent English is not evidence of fidelity. Recheck every paragraph against
   the Chinese after drafting.
+- Preserve the source's degree of certainty. In particular, words such as
+  `难得` and `不易` express difficulty and must not become categorical claims
+  that something has never happened or cannot happen.
 
 ## Identity and terminology
 

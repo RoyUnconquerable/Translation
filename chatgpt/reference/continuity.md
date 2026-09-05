@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1269 to 1284
+# Current continuity: Chapters 1269 to 1288
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -114,30 +114,65 @@ approval. Review status belongs in the chapter ledger.
   conserving His strength while waiting for Si Sui. Lü Yang proposed that the
   seven peak Golden Core combatants stop weakening one another, gang up on the
   Primordial Saint, and then let Him and Si Sui fight to the death. The
-  coalition has not yet answered.
+  coalition had not yet answered.
+- Chapter 1285: Lü Yang argued that the Other Shore's destruction had reduced
+  the gap between the Dao Lords enough to justify testing the Primordial
+  Saint. The Dao Lords accepted the risk. The World-Honored One proposed
+  destroying His own Karma so the Great Net of Karma would revert to the River
+  of Time, denying the Primordial Saint the chance to complete His plan by
+  killing Him personally. He intends to seek a new Dao Lord position through
+  the still-unclaimed Great Dao of Tribulation.
+- Chapter 1286: inside the Ancestral Dragon's Detached Court, the Primordial
+  Saint believed the other Dao Lords could neither reach Him nor remain safely
+  in the Fathomless Void. Outside, the seven combatants agreed to join forces
+  against Him. Si Sui sent the Cultivating Truth Dao Lord out of the weakening
+  seal, potentially bringing the confrontation to eight Primordial Spirit
+  cultivators.
+- Chapter 1287: Vast Sky traded the Heart-Naming Spirit-Locking Art to Lü Yang
+  in return for temporary shelter. Lü Yang detached the Vajra Realm from the
+  Sea of Light so the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan
+  could anchor themselves without entering the Sea of Light itself. Lü Yang
+  learned that an honorific name must agree with the heart, speech, conduct,
+  and Dao, but postponed choosing his own.
+- The World-Honored One then destroyed Karma through His past life body. The
+  Great Net of Karma collapsed back into the River of Time, provoking the
+  Primordial Saint into appearing before the coalition.
+- Chapter 1288: the Primordial Saint emerged with the bearing of a Heavenly
+  Being and retained traits once associated with standing upon the Other
+  Shore. Vast Sky identified both the Doctrine of Names and the Doctrine of
+  Appearances in His altered name and outward form.
+- Vast Sky and the Sword Sovereign combined Fortune and Fate against the
+  Primordial Saint. He remained unaffected because He commands Destiny, and
+  His nature and life have reached the same perfection once attained by Si
+  Sui. Lü Yang and Dao Tianqi joined the attack, but the Primordial Saint broke
+  Lü Yang's fist and targeted him with a lethal finger strike. Lü Yang answered
+  by manifesting his Primordial Spirit and counterattacking.
 
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Primordial Spirit complete but internally unfinished; seriously wounded; much of the Heavenly Palace destroyed; returned after Vast Sky's attempted erasure and still faces Vast Sky. |
-| Dao Tianqi | Underworld damaged but intact; currently the strongest defender in the Sea of Light; facing the Sword Sovereign. |
-| World-Honored One | Peak Golden Core and no longer a Dao Lord; comparatively rested; holding the Spell Dao Lord and Du Xuan. |
-| Sword Sovereign | Won Her exchange with Lü Yang but failed every strategic objective; finger wounded; blocked by Dao Tianqi. |
-| Du Xuan | Seriously wounded and displaced from the Sea of Light; Primordial Spirit authority unstable. |
-| Spell Dao Lord | Outside the Sea of Light; opposed by the World-Honored One. |
-| Vast Sky | Outside the Sea of Light; failed to erase Lü Yang's Fortune, shattered the Primordial Saint's projected gaze, and paused His fight with Lü Yang. |
+| Lü Yang | Primordial Spirit complete but internally unfinished; the Heavenly Palace remains badly damaged; currently meeting the Primordial Saint's lethal finger strike with a Primordial Spirit counterattack. |
+| Dao Tianqi | Underworld damaged but intact; joined Lü Yang in suppressing the Primordial Saint's status. |
+| World-Honored One | Destroyed Karma through His past life body; has not yet confirmed a new Dao Lord position through Tribulation. |
+| Sword Sovereign | Allied with the former opposing side; attacked the Primordial Saint through Fate. |
+| Du Xuan | Primordial Spirit authority remains unstable; temporarily anchored in the Vajra Realm. |
+| Spell Dao Lord | Allied with the coalition and temporarily anchored in the Vajra Realm. |
+| Vast Sky | Traded the Heart-Naming Spirit-Locking Art to Lü Yang, obtained temporary shelter in the Vajra Realm, and attacked the Primordial Saint through Fortune. |
+| Cultivating Truth Dao Lord | Left the source of the False History at Si Sui's direction and is heading toward the confrontation. |
 | Si Sui | At the source of the False History; recovery of 129,600 years and final escape remain pending. |
-| Primordial Saint | Likely inside the hidden realm in the Fathomless Void; conserving His strength and waiting to face Si Sui. |
+| Primordial Saint | Emerged from the Ancestral Dragon's Detached Court; resisted the coalition's opening attack and is now trying to kill Lü Yang first. |
 
 ## Live questions
 
-- Will the seven peak Golden Core combatants accept Lü Yang's proposal to gang
-  up on the Primordial Saint?
-- How far has the Primordial Saint's combined path progressed?
+- Can Lü Yang survive the Primordial Saint's opening finger strike, and what
+  can his Primordial Spirit counterattack accomplish?
+- What did the Primordial Saint gain by changing both His name and appearance?
 - Can Si Sui reclaim all 129,600 years and escape before the defenders fail?
-- Can the defenders delay until the four Dao Lords become lost in the
-  Fathomless Void?
+- Can the World-Honored One replace Karma with Tribulation and recover His
+  combat strength?
+- Can the eight Primordial Spirit cultivators expose or overcome the
+  Primordial Saint's actual limits before Si Sui escapes?
 - Will Si Sui use the Heavenly Book as a retreat, and can He break its seal?
 - How much of Lü Yang's collective authority survived the destruction of most
   of the Heavenly Palace?

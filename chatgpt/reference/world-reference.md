@@ -16,6 +16,10 @@ source facts unless explicitly labeled as a character hypothesis.
   Fathomless Void.
 - The Underworld is Dao Tianqi's Dao-attainment system. It can support the Sea
   of Light and survived the Other Shore's fall in damaged form.
+- The Vajra Realm can be detached from the Sea of Light and used as a temporary
+  anchor in the Fathomless Void. Lü Yang used it to shelter the Sword
+  Sovereign, Vast Sky, Myriad Spells, and Du Xuan without admitting Them into
+  the Sea of Light.
 - The Heavenly Palace is Lü Yang's Dao-attainment system and the governing
   center of the God-Sealing Method. Most of it was destroyed in Chapter 1281,
   but its five root Mysteries still sustained its existence.
@@ -95,6 +99,13 @@ source facts unless explicitly labeled as a character hypothesis.
   true name can be used against its bearer, and an adopted honorific name can
   provide protection. Vast Sky based His Written Word Mysteries on these
   principles.
+- According to Vast Sky, the Doctrine of Appearances is another Ancient Past
+  inheritance. The Primordial Saint used it to alter His outward form and
+  bearing in addition to changing His name through the Doctrine of Names.
+- The Primordial Saint commands Destiny. Because elapsed time cannot be
+  altered under Destiny, the Sword Sovereign's attempt to sever His past
+  through Fate remained unable to change Him in the present even after Vast
+  Sky weakened His Fortune.
 - The Five Heavenly Numbers can be gathered through corresponding Mysteries.
   The Ancestral Dragon and Lü Yang both use personal Mysteries to contain them,
   but their systems and purposes are not identical.
@@ -139,6 +150,16 @@ source facts unless explicitly labeled as a character hypothesis.
 - Traversing the Mortal Dust reaches a Primordial Spirit through separated good
   and evil consciousnesses. Their abilities normally synchronize, and lasting
   unity requires one side to become dominant over time.
+- The Heart-Naming Spirit-Locking Art is an Ancient Past method of the Doctrine
+  of Names. It treats a name as a mirror, key, signpost, and measure of the
+  cultivator's heart rather than power in itself. An honorific name must agree
+  with the cultivator's heart, speech, conduct, and Dao. Mistaking the name for
+  the power itself or becoming overly attached to it can instead ruin the
+  cultivation built upon it.
+- The World-Honored One's three life bodies link His past, present, and future.
+  Destroying Karma through His past life body caused the Great Net of Karma to
+  revert to the River of Time, preventing the Primordial Saint from completing
+  the same intended causal transformation by killing Him personally.
 - The Treasured Life Perfect Form Scripture is Si Sui's Dharma Body inheritance.
 - Heaven-Slayer combines the Sword Sovereign's long refinement of Sanhe's True
   History body with the False History Sanhe's temporary Primordial Spirit

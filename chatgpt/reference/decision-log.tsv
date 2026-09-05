@@ -32,3 +32,9 @@ date	chapter	category	decision	promoted_to	status
 2026-09-03	1284	QUALITY	Add an explicit English-construction review for articles, prepositions, complements, collocations, and causal sentence linkage inside each aligned source paragraph.	style-guide.md, known-errors.md, workflow.md, and prepare.py	active
 2026-09-03	1284	PHRASE	Preserve the fallen-tiger, wedding-dress, peach-plucking, riverbank-fire, and two-fists-four-hands images while keeping the surrounding English modern and direct.	phrase-memory.tsv	active
 2026-09-03	1284	FACT	Record the hidden Fathomless Void realm, the Heavenly Book's provenance, Vast Sky's ritual hypothesis, and the paused seven-way confrontation around the Primordial Saint.	world-reference.md and continuity.md	active
+2026-09-03	1285-1286	TERM	Use three life bodies for 三世身; restore True Monarch Radiant World Western Light and Tribulation to the consolidated glossary; exempt adverbial 一心逃遁 from the named One Mind check.	terminology.tsv	active
+2026-09-05	1287-1288	TERM	Use Heart-Naming Spirit-Locking Art for 称心锁神决, Doctrine of Appearances for 相教, and nature and life for 性命.	terminology.tsv	active
+2026-09-05	1288	MACRO	Retain modern system and matchup diction where the narration supports it, and shorten repeated attack labels only after the referent is clear.	style-guide.md	active
+2026-09-05	1288	PHRASE	Preserve the chapter title, the four-part cultivation verse, the banished-immortal image, and the context-sensitive raw-stats-over-mechanics phrasing.	phrase-memory.tsv	active
+2026-09-05	1285-1288	FACT	Advance continuity through the coalition, the Heart-Naming Spirit-Locking Art exchange, the destruction of Karma, and the Primordial Saint's first attack.	world-reference.md and continuity.md	active
+2026-09-05	1288	QUALITY	Source-check the owner revision; retain the omitted title, repair local article, punctuation, and pronoun slips, and keep 难得圆满 as difficulty rather than impossibility.	decision-log.tsv	active

@@ -28,6 +28,10 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
+- When the narrator frames cultivation combat through modern system or matchup
+  logic, preserve that register with clear contemporary language such as raw
+  stats or mechanics. Do not automatically elevate it into ceremonial martial
+  abstraction.
 
 ## Fidelity and paragraph structure
 
@@ -68,6 +72,9 @@ When principles compete, use this order:
   grandeur repeatedly or explain a reveal after it has landed.
 - Preserve deliberate lexical repetition in reasoning and parallel rhetoric.
   Do not cycle through synonyms for a fixed cultivation concept.
+- Once an attack or technique has been identified clearly, use the lightest
+  unambiguous referent in the following sentence. Do not keep repeating a long
+  compound label, but do not shorten it so far that the action becomes unclear.
 
 ## Voice
 
