@@ -68,6 +68,10 @@ source facts unless explicitly labeled as a character hypothesis.
   that opponent's ability to interfere with the Present without killing them.
   Chapter 1290 shows costs and limits under combined opposition, not an
   unlimited power to isolate any number of opponents.
+- By stepping forward in time, the Primordial Saint can leave an injured
+  version of Himself in the Past and retain an unharmed present body, though
+  His aura still decreases. Shedding a wound does not erase the cost of the
+  temporal method.
 
 ## Cultivation and Dao Lord status
 
@@ -112,6 +116,11 @@ source facts unless explicitly labeled as a character hypothesis.
   altered under Destiny, the Sword Sovereign's attempt to sever His past
   through Fate remained unable to change Him in the present even after Vast
   Sky weakened His Fortune.
+- Chapter 1291 distinguishes His use of Time from directly drawing upon
+  Destiny. Under sufficient pressure, the white light of Destiny loses its
+  perfection and develops imagery resembling Variables. Lü Yang recognizes
+  an attempt to use a battle to the death to comprehend and incorporate
+  Variables; successful integration is not yet established.
 - The Five Heavenly Numbers can be gathered through corresponding Mysteries.
   The Ancestral Dragon and Lü Yang both use personal Mysteries to contain them,
   but their systems and purposes are not identical.
@@ -166,6 +175,10 @@ source facts unless explicitly labeled as a character hypothesis.
   Destroying Karma through His past life body caused the Great Net of Karma to
   revert to the River of Time, preventing the Primordial Saint from completing
   the same intended causal transformation by killing Him personally.
+- Tribulation allows the World-Honored One to escape a lethal calamity that
+  His former cultivation of Karma could not have survived. Chapter 1291 shows
+  Him surviving with severe bodily damage, not enjoying universal immunity
+  from injury.
 - The Treasured Life Perfect Form Scripture is Si Sui's Dharma Body inheritance.
 - The Reincarnation Wheel of Life and Death is the Underworld's eighth
   component. Dao Tianqi can use it to pit his status against the Primordial

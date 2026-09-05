@@ -107,6 +107,9 @@ The reviews detect issues. They do not rewrite the chapter wholesale.
 1. Fidelity review: compare every paragraph to the source for omissions,
    additions, logic, chronology, numbers, terms, identities, pronouns,
    allusions, their actual subjects and relationships, and alignment.
+   Explicitly account for each isolated question or reaction. Check idiom
+   meaning as well as retained imagery; a matching paragraph count or a
+   familiar allusion label is not evidence that these checks passed.
 2. English review: check grammar, clarity, modern register, character voice,
    pacing, action geography, thought mode and tense, repetition, archaic drift,
    and translationese without changing source meaning. Explicitly review
@@ -149,6 +152,11 @@ sense`, paragraph alignment, title presence, punctuation, and numbers.
 If it reports a real hard failure, patch only the listed defect and rerun it.
 Do not start another general prose-polishing cycle after the two reviews have
 already passed.
+
+Adjudicate scanner findings against the actual source. Record a descriptive
+substring or an explicit shift into first-person thought as such; never insert
+an unrelated character or force self-naming just to clear a lexical match.
+Keep real name occurrences checked, and report unresolved findings honestly.
 
 ## 5. Chat-first delivery
 

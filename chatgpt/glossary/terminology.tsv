@@ -8,7 +8,7 @@ source	target	notes
 初圣	Primordial Saint	Dao Lord; usually takes "the"; provenance terminology.tsv
 昊天	Vast Sky	Dao Lord; divine pronouns; provenance terminology.tsv
 苍昊	Vast Sky	alternate name for the same Dao Lord; provenance terminology.tsv
-万法	Myriad Spells	the Spell Dao Lord; addressed as Fellow Daoist Myriad Spells; provenance terminology.tsv
+万法	Myriad Spells	the Spell Dao Lord; addressed as Fellow Daoist Myriad Spells; 万法不侵 describes immunity to spells, not this person [except: 万法不侵]; provenance terminology.tsv and Ch.1291 source review
 豢妖	Beast-Taming	Dao Lord; 豢妖前辈 = Senior Beast-Taming; provenance terminology.tsv
 无名道主	Nameless Dao Lord	capitalized Nameless Dao Lord everywhere; singular He/Him; owner ruling 2026-08-19; provenance terminology.tsv
 司祟	Si Sui	name, pinyin; provenance terminology.tsv
@@ -297,7 +297,7 @@ source	target	notes
 后天	Postnatal	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Innate; provenance owner-rulings-ch1276.tsv
 先天	Innate	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Postnatal; provenance owner-rulings-ch1276.tsv
 成道	prove the Dao	owner-final Ch.1278 default for the completed cultivation achievement; use "attain the Dao" only where an established construction or place of attainment requires it [except: 成道隐玄府|成道地|成道之地]; provenance owner-rulings-ch1278.tsv
-重光	Chongguang	Saint Sect Acting Sect Master; ordinary pronouns; provenance owner-final Ch.1268
+重光	Chongguang	Saint Sect Acting Sect Master; ordinary pronouns; do not match inside layered-radiance description 重重光彩 [except: 重重光彩]; provenance owner-final Ch.1268 and Ch.1291 source review
 三根基	Three Foundations	Spiritual Power, Spells, and Dharma Body; capitalized named triad; provenance Ch.1276-1279
 六龙君	six Dragon Monarchs	normally takes "the"; lowercase six except at sentence start; provenance Ch.1268 onward
 无缺元神	flawless Primordial Spirit	technical completed state; lowercase modifier; provenance Ch.1270

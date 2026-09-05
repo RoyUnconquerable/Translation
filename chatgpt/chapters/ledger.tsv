@@ -81,3 +81,4 @@ chapter	source_status	translation_status	review_status	continuity_status	prose_s
 1288	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
 1289	unknown	chat_draft_delivered	owner_revision_recorded	missing	chat_only	owner-edited English visible in live handoff; exact source and preceding draft reconciliation not completed; no canonical final promotion
 1290	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	live owner revision compared with exact Chinese and delivered draft; 76 body paragraphs plus retained title; mechanical errors excluded from reusable rulings
+1291	chat_only_observed	chat_draft_delivered	owner_revision_recorded	current	chat_only	owner requested source and prose repair; restored 70 body paragraphs plus title; corrected text and substantive idiom repairs returned for review, not assumed separately approved

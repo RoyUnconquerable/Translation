@@ -74,6 +74,17 @@ class AuthorityTests(unittest.TestCase):
         self.assertFalse(lint.target_has_variant("His Divine Sense spread.", ["divine sense"]))
         self.assertFalse(lint.target_has_variant("the sword sovereign", ["Sword Sovereign"]))
 
+    def test_descriptive_name_substrings_keep_real_names_checked(self):
+        glossary = common.load_glossary(self.root)
+        descriptions = "重重光彩之下，一开始还能做到万法不侵。"
+        names = {row["source"] for row in lint.glossary_matches(descriptions, glossary)}
+        self.assertNotIn("重光", names)
+        self.assertNotIn("万法", names)
+        actual_names = descriptions + "重光随后望向万法。"
+        names = {row["source"] for row in lint.glossary_matches(actual_names, glossary)}
+        self.assertIn("重光", names)
+        self.assertIn("万法", names)
+
     def test_duplicate_glossary_key_is_rejected(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

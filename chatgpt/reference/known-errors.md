@@ -13,6 +13,9 @@ better canonical control makes it redundant.
   real change of place, people, or time.
 - Fluent English is not evidence of fidelity. Recheck every paragraph against
   the Chinese after drafting.
+- Matching paragraph totals is necessary but insufficient. Check every source
+  paragraph against its corresponding target, especially around revisions
+  that split sentences, combine questions, or change thought mode.
 - Preserve the source's degree of certainty. In particular, words such as
   `难得` and `不易` express difficulty and must not become categorical claims
   that something has never happened or cannot happen.
@@ -80,6 +83,12 @@ better canonical control makes it redundant.
   familiar-sounding English line.
 - Preserve humor and profanity at source strength, then stop. Do not explain
   the joke or add another flourish.
+- Do not make a death-and-survival idiom imply literal rebirth or a metaphorical
+  decisive act imply a particular weapon. Check what the image actually does
+  in the scene before accepting either literal or naturalized wording.
+- Attribute review findings accurately: distinguish errors in the delivered
+  draft from changes introduced by a later revision. A previous reviewer PASS
+  does not override a subsequently demonstrated source or prose error.
 
 ## Pending rejected draft: Chapter 1271
 

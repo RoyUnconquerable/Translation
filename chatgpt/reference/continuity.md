@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1269 to 1290
+# Current continuity: Chapters 1269 to 1291
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -170,26 +170,45 @@ approval. Review status belongs in the chapter ledger.
   The World-Honored One appears behind Him; His tribulation qi reinforces the
   scripture and His aura rises. His Buddhist palm pierces the Primordial
   Saint from back to chest. The wound is confirmed, but death is not.
+- Chapter 1291: the Primordial Saint steps forward and leaves the pierced body
+  in the Past. His present body is unharmed, but His aura drops. His breath
+  shatters the World-Honored One, who escapes through Tribulation with half
+  His body destroyed. The Primordial Saint then coughs actual blood.
+- The coalition forces Him to draw directly on Destiny and lose His perfect
+  state. Their strategic aim is to probe and exhaust Him so Si Sui can settle
+  the confrontation, rather than realistically expecting to kill Him now.
+  He has been conserving strength for Si Sui, whom He expects to be watching.
+- As Destiny deteriorates, the Primordial Saint fights with increasing
+  ferocity across the Past, Present, and Future. Almost every opposing Dao
+  Lord suffers severe injuries. Lü Yang's Fate-Reforming then reacts to new
+  Variables-like imagery within the damaged light of Destiny.
+- Lü Yang realizes that the Primordial Saint deliberately uses the deadly
+  battle to temper His Great Dao and attempt to incorporate Variables. His
+  preparation rests on Himself, not unreliable external aids. The chapter
+  ends before this attempt's success or the battle's outcome is established.
+- Source count discrepancy: Chapter 1291 twice says seven Dao Lords despite
+  Dao Tianqi's banishment in Chapter 1290. Retain both source numbers and leave
+  the discrepancy unresolved; do not invent his return or another combatant.
 
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Free of the temporal confinement; empowered the Heavenly Heart Lock; remains with the six combatants opposing the Primordial Saint. |
+| Lü Yang | Leading the continued attack; Fate-Reforming detects Variables-like imagery in Destiny, revealing the Primordial Saint's deliberate self-tempering strategy. |
 | Dao Tianqi | Alive but banished into the Future; temporarily unable to interfere with the Present or return to the Underworld. |
-| World-Honored One | Tribulation qi reinforced Myriad Spells' scripture; His aura rose and His palm pierced the Primordial Saint. A new Dao Lord position is not explicitly confirmed. |
+| World-Honored One | Survived the Primordial Saint's breath through Tribulation with half His body shattered; remains in the fight. A new Dao Lord position is not explicitly confirmed. |
 | Sword Sovereign | Recalled the Heavenly Heart Lock with Vast Sky; the Primordial Saint removed it through a shadow from the Past. |
 | Du Xuan | Primordial Spirit authority remains unstable; temporarily anchored in the Vajra Realm. |
 | Spell Dao Lord | Circulating the Dharma Extinction Scripture; the World-Honored One's tribulation power reinforces its suppression of the Primordial Saint. |
 | Vast Sky | Recalled the Heavenly Heart Lock with the Sword Sovereign; remains with the six combatants after its removal. |
 | Cultivating Truth Dao Lord | Left the source of the False History at Si Sui's direction and is heading toward the confrontation. |
 | Si Sui | At the source of the False History; recovery of 129,600 years and final escape remain pending. |
-| Primordial Saint | Banished Dao Tianqi, lost blood qi through temporal exertion, and was pierced from back to chest after His protective imagery and Mysteries collapsed; survival outcome unresolved. |
+| Primordial Saint | Shed the piercing wound into the Past; Destiny is damaged by repeated use. He is using mortal combat to comprehend and incorporate Variables; success remains unresolved. |
 
 ## Live questions
 
-- Can the Primordial Saint survive or reverse the combined scripture and palm
-  attack, and what power does He still have available?
+- Can the Primordial Saint complete His integration of Variables before the
+  coalition or Si Sui stops Him?
 - When can Dao Tianqi return from the Future and rejoin the confrontation?
 - What did the Primordial Saint gain by changing both His name and appearance?
 - Can Si Sui reclaim all 129,600 years and escape before the defenders fail?

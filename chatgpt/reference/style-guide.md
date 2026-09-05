@@ -41,6 +41,9 @@ When principles compete, use this order:
 
 - One Chinese source paragraph becomes one English target paragraph in the
   same order. Never merge or split source paragraphs for flow.
+- Verify each paragraph's content and its boundary, not just the final count.
+  A split paragraph can conceal a merge or omission elsewhere. Owner edits
+  receive the same alignment check, including short questions and reactions.
 - Sentence boundaries may change inside a paragraph when English grammar needs
   it, provided every premise, contrast, causal link, uncertainty, and emphasis
   remains.
@@ -144,6 +147,10 @@ When principles compete, use this order:
   normal contemporary English around a retained idiom or allusion. Its presence
   does not license inversion, ceremonial filler, or inflated diction in the
   surrounding sentence.
+- Check an idiom's meaning and its English construction separately. Merely
+  mentioning its animal or object is not enough; the comparison must carry
+  the intended judgment naturally. Avoid geographical labels or explanatory
+  glosses that the passage does not need.
 - Keep linked images coherent across a paragraph or chapter. Translate the
   chain as a whole rather than treating each phrase in isolation.
 - Preserve deliberate character substitutions, homophone jokes, corrupted
