@@ -19,6 +19,12 @@ better canonical control makes it redundant.
 - Preserve the source's degree of certainty. In particular, words such as
   `难得` and `不易` express difficulty and must not become categorical claims
   that something has never happened or cannot happen.
+- Keep a conditional comparison conditional instead of turning it into an
+  accomplished result. Distinguish a newly developed weakness from an old
+  weakness that can no longer be concealed.
+- Triggering or stirring existing imagery is not creating it. In Chapter
+  1293, 触动 points toward an already existing mark; gave rise to changes the
+  causal relationship and must not become a reusable rendering.
 
 ## Identity and terminology
 

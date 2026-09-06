@@ -59,19 +59,19 @@ chapter	source_status	translation_status	review_status	continuity_status	prose_s
 1266	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	d7ecf58
 1267	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	8b62275
 1268	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	2c92a36
-1269	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	ec30fd6
-1270	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	a42a31c
-1271	chat_only_observed	chat_redraft_delivered	rejected_redraft_pending	current	chat_only	d677a7d
-1272	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	78a6e0d
-1273	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	58ec1bd
-1274	chat_only_observed	chat_draft_delivered	pending	current	chat_only	preconsolidation handoff or current project chat
-1275	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	cc74b39
-1276	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	457086b
-1277	chat_only_observed	chat_draft_delivered	pending	current	chat_only	preconsolidation handoff or current project chat
-1278	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	1d00153
-1279	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	55bea01
-1280	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	7e62dba
-1281	chat_only_observed	source_received	not_started	current	chat_only	current project chat; translation not yet delivered
+1269	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	ec30fd6
+1270	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	a42a31c
+1271	chat_only_observed	chat_redraft_delivered	rejected_redraft_pending	archived	chat_only	d677a7d
+1272	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	78a6e0d
+1273	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	58ec1bd
+1274	chat_only_observed	chat_draft_delivered	pending	archived	chat_only	preconsolidation handoff or current project chat
+1275	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	cc74b39
+1276	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	457086b
+1277	chat_only_observed	chat_draft_delivered	pending	archived	chat_only	preconsolidation handoff or current project chat
+1278	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	1d00153
+1279	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	55bea01
+1280	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	7e62dba
+1281	chat_only_observed	source_received	not_started	archived	chat_only	current project chat; translation not yet delivered
 1282	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
 1283	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
 1284	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
@@ -83,3 +83,4 @@ chapter	source_status	translation_status	review_status	continuity_status	prose_s
 1290	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	live owner revision compared with exact Chinese and delivered draft; 76 body paragraphs plus retained title; mechanical errors excluded from reusable rulings
 1291	chat_only_observed	chat_draft_delivered	owner_revision_recorded	current	chat_only	owner requested source and prose repair; restored 70 body paragraphs plus title; corrected text and substantive idiom repairs returned for review, not assumed separately approved
 1292	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision compared with exact Chinese and delivered draft; 73 body paragraphs plus retained title after restoring two merged pairs; mechanical slips repaired and knowing the method distinguished from knowing about it
+1293	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked against raw and delivered draft; 81 body paragraphs plus retained title with source correction; repaired imagery activation, new-weakness timing, conditional comparison, and mechanics

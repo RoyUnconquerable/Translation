@@ -203,6 +203,10 @@ When principles compete, use this order:
 - Keep distinct concepts distinct, especially cultivation versus Dao
   Attainment, Fate versus Destiny versus Fortune, Spell Dao versus Spiritual
   Power Dao, and True History versus False History.
+- Capitalize Spiritual Power when it names a cultivation foundation alongside
+  Spells and the Dharma Body. Keep spiritual power lowercase when it denotes
+  the resource a cultivator channels or expends; the source word alone does
+  not determine which meaning is present.
 - When 证 denotes establishing a Great Dao, prefer prove, proved, or proving,
   including prove Time and prove Destiny. Inflect by the actual time reference;
   a speaker reconstructing a cultivation sequence can use the schematic

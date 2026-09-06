@@ -128,6 +128,18 @@ source facts unless explicitly labeled as a character hypothesis.
 - The Five Heavenly Numbers can be gathered through corresponding Mysteries.
   The Ancestral Dragon and Lü Yang both use personal Mysteries to contain them,
   but their systems and purposes are not identical.
+- The core of Lü Yang's Heavenly Palace, the Heavenly Calendar Numbers, is
+  also the foundation of Divine Offerings, Drop of Heaven's Essence, the Sea of
+  Dust and Tribulation, Heaven in a Palm, and Fate-Reforming. It combines the
+  Five Elements with the Five Heavenly Numbers and is distinct from either
+  group alone.
+- Within this core, the five Mysteries represent the Five Heavenly Numbers.
+  Fate-Reforming's supremacy mirrors Variables ranking first and stirs
+  exceptionally high imagery. The hierarchy activates an existing connection;
+  it is not said to create the ancient mark itself.
+- Variables ranks first because it is the mark left in the Sea of Light by
+  the first and only being to reach the higher realm of Divine Transformation
+  since the Sea of Light's birth. Chapter 1293 does not identify that being.
 - The Three Foundations are Spiritual Power, Spells, and the Dharma Body. Their
   Dao Lords and Dao Lineages remain distinct even when their strength rises or
   falls together.
@@ -238,6 +250,13 @@ source facts unless explicitly labeled as a character hypothesis.
 
 ## Open character hypotheses
 
+- Lü Yang reconstructs the Primordial Saint's three plans in Chapter 1293:
+  Divine Transformation and Ascension; personally killing the World-Honored
+  One to command Variables through Karma and Destiny; and, as a last resort,
+  damaging Destiny in mortal combat to comprehend Variables imagery. He
+  infers that the last plan was meant for the fight with Si Sui and that
+  damage beyond a critical limit would severely weaken the Primordial Saint.
+  Keep this account as Lü Yang's deduction, not a universal numeric limit.
 - Lü Yang deduces in Chapter 1292 that the Primordial Saint's sequence is the
   four Empty Attainment Daos in the Past, Time in the Present, and Destiny in
   the Future. The four are Alchemy, Artifact Refinement, Dual Cultivation, and

@@ -1,4 +1,4 @@
-# Condensed continuity archive through Chapter 1268
+# Condensed continuity archive through Chapter 1281
 
 This file is searched only when an earlier event becomes relevant. Git history
 retains the former detailed chapter supplements.
@@ -50,3 +50,77 @@ made Lü Yang's history unique. The World-Honored One then called forth the
 Great Dao of Variables, compressing 129,600 years into one moment. The
 God-Sealing order developed through that entire span, and its altered karma
 began returning to the True History.
+
+## Chapters 1269 to 1273
+
+- As the False History returned, one hundred thousand years compressed into an
+  instant. Lü Yang used Supreme Dao Transformation and Divine Offerings to
+  overpower the Heavenly Emperor, became the dominant consciousness, and
+  completed his Primordial Spirit. Their deeper internal unification still
+  requires time.
+- The True History and False History converged like two currents. Si Sui must
+  wait until they diverge and causality becomes anchored before escaping. If He
+  breaks free by force too early, He will permanently lose 129,600 years of
+  cultivation.
+- Lü Yang recovered Sanhe's erased first history. The Sword Sovereign had
+  deliberately cultivated his compassion so She could bind him through duty.
+  After a sixty-year purge of the True Monarchs, his three spirits debated
+  survival, self-sacrifice, and releasing the Ancestral Dragon.
+- Sanhe chose sacrifice, defeated the Ancestral Dragon's temptation and his own
+  fear, and killed himself. Lü Yang carried the forgotten meaning of that act
+  back into the present.
+- Unable to attain a stable Primordial Spirit because of his three innate
+  spirits, Sanhe sacrificed his temporary Primordial Spirit and the Sword
+  Pavilion's mountain gate to create Heaven-Slayer for Lü Yang.
+
+## Chapters 1274 to 1281
+
+- Chapter 1274: the returning False History began overwriting the present. Si
+  Sui's power restored lifespan to Spiritual Power cultivators, while the
+  Heavenly Prefecture and its former Fruition Attainments faded. The
+  God-Sealing Method divided the Sea of Light into ninety-nine provinces and
+  severed its dependence on the Dao Lords. The Other Shore continued falling.
+- Chapter 1275: Dao Tianqi raised the Underworld to bear the impact. The
+  World-Honored One diverted part of it but could not carry enough at peak
+  Golden Core. Supported by the people and gods under the God-Sealing Method,
+  Lü Yang rose through the realms and took over the remaining defense.
+- Chapter 1276: Divine Offerings, Drop of Heaven's Essence, the Sea of Dust and
+  Tribulation, Heaven in a Palm, Fate-Reforming, the Heavenly Palace, and Lü
+  Yang's allies merged into a projection encompassing the Sea of Light. The Sea
+  of Light stood up against the falling Other Shore.
+- Chapter 1277: from the Fathomless Void, the Sea of Light appeared as a giant.
+  Its Boundary Heavens were cells, the Immortal Pivot was its heart, and the
+  God-Sealing Dao Lineage formed its veins. Its hands forged from light blocked
+  fragments of the Other Shore. Cultivators lost access to their old paths
+  unless they operated the God-Sealing Method. Du Xuan's defective Primordial
+  Spirit and authority over the Spiritual Power Dao began destabilizing, so the
+  Dao Lords sent Him down first.
+- Chapter 1278: Du Xuan tried to command every cultivator's spiritual power and
+  then Lü Yang's own. Lü Yang dissolved into the Sea of Light and used its
+  spiritual qi and Great Daos directly. His Five Elements fist shattered Du
+  Xuan's imagery, drew Dao Lord blood, and knocked Him out of the Sea of Light.
+- Chapter 1279: Vast Sky proposed recruiting Lü Yang. The Sword Sovereign
+  rejected the idea and attacked through the River of Fate, directing every
+  possible future toward Lü Yang's death. Lü Yang drew Heaven-Slayer, with
+  Sanhe willingly turning against his former teacher.
+- Chapter 1280: the Sword Sovereign attacked Lü Yang's foundation across past,
+  present, and future. She rewrote key events to kill Lü Yang and his allies
+  before the present could form. Lü Yang reversed each alteration. Their
+  apparent sword strike contained countless contests across time.
+- Chapter 1281: the Sword Sovereign ultimately won the direct exchange. Lü
+  Yang's Sea-of-Light body broke apart, much of the Heavenly Palace collapsed,
+  and earthquakes shook every Boundary Heaven. Lü Yang nevertheless forced Her
+  into one final direct clash and wounded Her finger.
+- The Sword Sovereign failed to kill Lü Yang, enter the Sea of Light, destroy
+  the Underworld, or cripple Dao Tianqi before the Other Shore shattered. She
+  won the exchange but failed strategically.
+- Dao Tianqi now blocks the Sword Sovereign. The World-Honored One blocks the
+  Spell Dao Lord and the injured Du Xuan. The wounded Lü Yang stands against
+  Vast Sky. The defenders are outnumbered and injured, but they need only delay
+  until the Dao Lords can no longer withstand the Fathomless Void.
+- At the source of the False History, Si Sui studies the Heavenly Book. As the
+  Other Shore's status collapses, its seal develops weaknesses. Si Sui sees the
+  book as a possible retreat if the Primordial Saint has combined an external
+  Dao-attainment system with Si Sui's inward cultivation path.
+- The Primordial Saint has not appeared among the descending Dao Lords. His
+  location and present level are unknown.

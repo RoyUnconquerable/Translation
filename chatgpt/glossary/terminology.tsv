@@ -59,7 +59,7 @@ source	target	notes
 剑君	Sword Sovereign	same being as 剑主/剑尊; provenance terminology.tsv
 法术道主	Spell Dao Lord	usually takes 'the'; provenance terminology.tsv
 法力道主	Spiritual Power Dao Lord	a distinct Dao Lord who aids the Spell Dao Lord; usually takes 'the'; provenance terminology.tsv
-法力	spiritual power	provenance terminology.tsv
+法力	spiritual power|Spiritual Power	Lowercase the cultivator's usable power; capitalize Spiritual Power when naming the cultivation foundation or Dao category. Owner-final Ch.1293 confirms the named Three Foundations context.
 因果大网	Great Net of Karma	normally takes the definite article; provenance owner-rulings-ch1260.tsv
 城头土	Rampart Earth	True Monarch; a bare 【城头土】 call-out renders plain per style guide; provenance terminology.tsv
 大剑宗	Grand Sword Patriarch	a person, not a sect; usually takes 'the'; provenance terminology.tsv
@@ -297,7 +297,7 @@ source	target	notes
 后天	Postnatal	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Innate; provenance owner-rulings-ch1276.tsv
 先天	Innate	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Postnatal; provenance owner-rulings-ch1276.tsv
 成道	prove the Dao	owner-final Ch.1278 default for the completed cultivation achievement; use "attain the Dao" only where an established construction or place of attainment requires it [except: 成道隐玄府|成道地|成道之地]; provenance owner-rulings-ch1278.tsv
-重光	Chongguang	Saint Sect Acting Sect Master; ordinary pronouns; do not match inside layered-radiance description 重重光彩 [except: 重重光彩]; provenance owner-final Ch.1268 and Ch.1291 source review
+重光	Chongguang	Saint Sect Acting Sect Master; ordinary pronouns; do not match inside descriptive 重重光彩 or 重重光景 [except: 重重光彩|重重光景]; provenance owner-final Ch.1268 and Ch.1291-1293 source review
 三根基	Three Foundations	Spiritual Power, Spells, and Dharma Body; capitalized named triad; provenance Ch.1276-1279
 六龙君	six Dragon Monarchs	normally takes "the"; lowercase six except at sentence start; provenance Ch.1268 onward
 无缺元神	flawless Primordial Spirit	technical completed state; lowercase modifier; provenance Ch.1270
@@ -335,3 +335,5 @@ source	target	notes
 血气	blood qi	Lowercase substance, not necessarily liquid blood; owner-final Ch.1290
 深乐净土	Blissful Pure Land	Owner-final Ch.1292 replaces provisional Profound Bliss Pure Land; use the full title the World-Honored One of the Blissful Pure Land.
 悟性	comprehension	Lowercase cultivation faculty; distinct from accumulated Dao Attainment and from talent. Owner-final Ch.1292 replaces insight here; do not apply to every word for understanding or realization.
+天历数	Heavenly Calendar Numbers	Normally takes the definite article; owner-final Ch.1293 replaces provisional Heavenly Reckoning. Name of the singular core of the Heavenly Palace and five Mysteries; the pronoun it can refer to that core. Distinct from the Five Heavenly Numbers.
+初一儿	Little Tianyi	Lü Yang's mocking nickname for the World-Honored One; retained in owner-final Ch.1293, confirming retrieved earlier owner evidence. Preserve His divine pronouns; do not reinterpret as a literal son or birth order.

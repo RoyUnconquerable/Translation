@@ -76,7 +76,7 @@ class AuthorityTests(unittest.TestCase):
 
     def test_descriptive_name_substrings_keep_real_names_checked(self):
         glossary = common.load_glossary(self.root)
-        descriptions = "重重光彩之下，一开始还能做到万法不侵。"
+        descriptions = "重重光彩之下，重重光景浮现，一开始还能做到万法不侵。"
         names = {row["source"] for row in lint.glossary_matches(descriptions, glossary)}
         self.assertNotIn("重光", names)
         self.assertNotIn("万法", names)
