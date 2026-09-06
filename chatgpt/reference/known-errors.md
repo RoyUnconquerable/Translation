@@ -36,6 +36,9 @@ better canonical control makes it redundant.
 - `神念` is `divine sense`. Do not replace the established faculty with
   `divine thoughts` or overlook it because the glossary is large.
 - Do not conflate the Spell Dao, Spiritual Power Dao, and Dharma Body Dao.
+- Knowing a method in the sense of understanding or using it must not become
+  merely knowing about its existence. Preserve the competence implied by
+  懂得 when the scene depends on the character employing the technique.
 - Keep Fate, Destiny, Fortune, and Variables distinct.
 - Use `Sword Edge Metal`, without a hyphen.
 - Use `Yin-Yang Creation and Destruction Profound Light` for `两仪生灭玄光`.

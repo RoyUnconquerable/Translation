@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1269 to 1291
+# Current continuity: Chapters 1269 to 1292
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -189,26 +189,46 @@ approval. Review status belongs in the chapter ledger.
 - Source count discrepancy: Chapter 1291 twice says seven Dao Lords despite
   Dao Tianqi's banishment in Chapter 1290. Retain both source numbers and leave
   the discrepancy unresolved; do not invent his return or another combatant.
+- Chapter 1292: the World-Honored One senses Variables still in the False
+  History and identifies the Primordial Saint's emerging imagery as a
+  construction within Destiny. Before He finishes explaining, the River of
+  Time sends Him into the distant Past and isolates Lü Yang in the Future.
+- The Primordial Saint confirms Lü Yang's recognition of the three life
+  bodies. His past body faces the World-Honored One; His present body faces
+  the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan together; His
+  bloodied but increasingly powerful future body faces Lü Yang. Dao Tianqi's
+  earlier banishment is separate; his presence with Lü Yang is not established.
+- Lü Yang reconstructs the sequence as four Empty Attainment Daos in the
+  Past, Time in the Present, and Destiny in the Future. A sequence beginning
+  with Time would require a Nascent Soul future body, whereas the one before
+  him remains at peak Golden Core.
+- He then links those four Daos, their transmission to the four original Peak
+  Lords, and the Tian in their names to Tai Yitian and the Doctrine of Names.
+  The Primordial Saint praises his talent for uncovering conspiracies. The
+  others cannot hear this exchange across the temporal isolation, and the
+  hidden mechanism has not yet been fully explained.
 
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Leading the continued attack; Fate-Reforming detects Variables-like imagery in Destiny, revealing the Primordial Saint's deliberate self-tempering strategy. |
+| Lü Yang | Isolated in the Future, facing the Primordial Saint's future life body; has deduced the connection between the four Daos and Time and the shared Tian in the founders' names. |
 | Dao Tianqi | Alive but banished into the Future; temporarily unable to interfere with the Present or return to the Underworld. |
-| World-Honored One | Survived the Primordial Saint's breath through Tribulation with half His body shattered; remains in the fight. A new Dao Lord position is not explicitly confirmed. |
-| Sword Sovereign | Recalled the Heavenly Heart Lock with Vast Sky; the Primordial Saint removed it through a shadow from the Past. |
-| Du Xuan | Primordial Spirit authority remains unstable; temporarily anchored in the Vajra Realm. |
-| Spell Dao Lord | Circulating the Dharma Extinction Scripture; the World-Honored One's tribulation power reinforces its suppression of the Primordial Saint. |
-| Vast Sky | Recalled the Heavenly Heart Lock with the Sword Sovereign; remains with the six combatants after its removal. |
+| World-Honored One | Sent into the distant Past to face the Primordial Saint's past life body after identifying the imagery constructed through Destiny; a new Dao Lord position is not explicitly confirmed. |
+| Sword Sovereign | With Vast Sky, Myriad Spells, and Du Xuan in the Present, facing one present life body of the Primordial Saint. |
+| Du Xuan | With the other three Dao Lords facing the present life body; Primordial Spirit authority remains unstable. |
+| Spell Dao Lord | With the Sword Sovereign, Vast Sky, and Du Xuan facing the present life body; cannot hear Lü Yang's exchange in the Future. |
+| Vast Sky | With the other three Dao Lords facing the present life body; cannot hear Lü Yang's deductions in the Future. |
 | Cultivating Truth Dao Lord | Left the source of the False History at Si Sui's direction and is heading toward the confrontation. |
 | Si Sui | At the source of the False History; recovery of 129,600 years and final escape remain pending. |
-| Primordial Saint | Shed the piercing wound into the Past; Destiny is damaged by repeated use. He is using mortal combat to comprehend and incorporate Variables; success remains unresolved. |
+| Primordial Saint | Fighting through three life bodies at once; His future body acknowledges Lü Yang's deductions while temporal isolation prevents the others from hearing them. |
 
 ## Live questions
 
-- Can the Primordial Saint complete His integration of Variables before the
-  coalition or Si Sui stops Him?
+- What can the Primordial Saint achieve with Variables imagery constructed
+  through Destiny while Variables itself remains in the False History?
+- What role do the first-generation Peak Lords' names play in His cultivation,
+  and can Lü Yang communicate the discovery to the others?
 - When can Dao Tianqi return from the Future and rejoin the confrontation?
 - What did the Primordial Saint gain by changing both His name and appearance?
 - Can Si Sui reclaim all 129,600 years and escape before the defenders fail?

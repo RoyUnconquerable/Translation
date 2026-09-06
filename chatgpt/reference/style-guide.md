@@ -203,6 +203,13 @@ When principles compete, use this order:
 - Keep distinct concepts distinct, especially cultivation versus Dao
   Attainment, Fate versus Destiny versus Fortune, Spell Dao versus Spiritual
   Power Dao, and True History versus False History.
+- When 证 denotes establishing a Great Dao, prefer prove, proved, or proving,
+  including prove Time and prove Destiny. Inflect by the actual time reference;
+  a speaker reconstructing a cultivation sequence can use the schematic
+  present. Do not replace unrelated attainment, evidence, or comprehension.
+- Prefer the compact attributive form Empty Attainment Dao where it fits.
+  Once mighty power has been identified within a paragraph, plain power can
+  refer back to it without losing the concept or repeating the full term.
 
 ## Numbers and house mechanics
 

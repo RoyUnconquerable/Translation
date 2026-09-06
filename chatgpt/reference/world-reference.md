@@ -121,6 +121,10 @@ source facts unless explicitly labeled as a character hypothesis.
   perfection and develops imagery resembling Variables. Lü Yang recognizes
   an attempt to use a battle to the death to comprehend and incorporate
   Variables; successful integration is not yet established.
+- Chapter 1292 refines that observation: the World-Honored One senses that
+  Variables itself still resides in the False History. He identifies the
+  Primordial Saint's apparent Variables as imagery constructed within the
+  framework of Destiny, not mastery of a second Great Dao from nothing.
 - The Five Heavenly Numbers can be gathered through corresponding Mysteries.
   The Ancestral Dragon and Lü Yang both use personal Mysteries to contain them,
   but their systems and purposes are not identical.
@@ -175,6 +179,18 @@ source facts unless explicitly labeled as a character hypothesis.
   Destroying Karma through His past life body caused the Great Net of Karma to
   revert to the River of Time, preventing the Primordial Saint from completing
   the same intended causal transformation by killing Him personally.
+- Their causal progression links the first-generation Myriad Treasures Peak
+  Lord proving Karma in the Past, True Monarch Radiant World Western Light
+  ascending the Other Shore in the Present, and the World-Honored One of the
+  Blissful Pure Land as a Nascent Soul Dao Lord in the Future. Each stage is
+  necessary; this method description does not restore His lost current status.
+- The Primordial Saint also uses three life bodies, allowing Him to oppose
+  different groups concurrently in the Past, Present, and Future. This differs
+  from isolating everyone in the River of Time while a single body deals with
+  one opponent. His acknowledgment does not explain how He learned the method.
+- Knowledge can manifest mighty power. The Primordial Saint nevertheless
+  withholds knowledge concerning the foundation of His cultivation because
+  disclosure risks outweigh the small increase in power.
 - Tribulation allows the World-Honored One to escape a lethal calamity that
   His former cultivation of Karma could not have survived. Chapter 1291 shows
   Him surviving with severe bodily damage, not enjoying universal immunity
@@ -222,6 +238,16 @@ source facts unless explicitly labeled as a character hypothesis.
 
 ## Open character hypotheses
 
+- Lü Yang deduces in Chapter 1292 that the Primordial Saint's sequence is the
+  four Empty Attainment Daos in the Past, Time in the Present, and Destiny in
+  the Future. The four are Alchemy, Artifact Refinement, Dual Cultivation, and
+  Beast-Taming. He rejects placing Time in the Past because that sequence
+  would require a Nascent Soul future body, unlike the peak Golden Core body
+  facing him.
+- From that causal link, Lü Yang connects the four first-generation Peak
+  Lords' names, Dao Tianqi, Bu Tianque, Lian Tiandou, and Shi Tianyi, to the
+  shared Tian, meaning Heaven, in Tai Yitian. The Primordial Saint praises the
+  deduction; the full mechanism and consequences remain undisclosed.
 - The World-Honored One suspects that the Other Shore may have usurped some of
   the Ancestral Dragon's broad immortality because the Dragon formed its
   foundation. This is not yet confirmed independently.

@@ -161,6 +161,10 @@ Keep real name occurrences checked, and report unresolved findings honestly.
 ## 5. Chat-first delivery
 
 For ordinary chat work, deliver the chapter before repository maintenance.
+Once the reviewed text passes the final check, return the complete chapter in
+the final response immediately. A temporary draft or a successful check is not
+delivery. If interrupted at this point, resume from the reviewed text instead
+of restarting preparation or leaving the chapter undelivered.
 Do not create provisional per-chapter supplements or commits. After the owner
 approves or supplies edited prose, compare it once against both the exact source
 and the draft. Verify fidelity, grammar, terminology, continuity, thought mode
