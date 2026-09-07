@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1282 to 1293
+# Current continuity: Chapters 1285 to 1295
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -18,48 +18,10 @@ approval. Review status belongs in the chapter ledger.
 - Si Sui must await the histories' divergence and anchored causality to recover
   129,600 years. He studies the weakening Heavenly Book seal as a possible
   retreat while the Primordial Saint's full cultivation remains uncertain.
-- Detailed events through Chapter 1281 are in continuity-archive.md; current
+- Detailed events through Chapter 1284 are in continuity-archive.md; current
   positions and unresolved questions below supersede those earlier snapshots.
 
 ## Current causal chain
-- Chapter 1282: Lü Yang blocked Vast Sky from joining the Sword Sovereign.
-  Vast Sky used the Written Word to dim Heaven-Slayer and the Five Elements
-  Fruition Attainments, revealing that He had named the Sea of Light's written
-  language, thirty Fruition Attainments, and ten Great Daos when He proved the
-  Dao of Fortune.
-- Vast Sky then linked both `True Monarch Sovereign of Fate` and `Lü Yang` to
-  Fortune and began erasing Lü Yang's ability to affect the outside world. The
-  effect cannot kill him directly, but it can leave him effectively lost in
-  the Fathomless Void. Lü Yang is resisting it with his Primordial Spirit.
-- Chapter 1283: Vast Sky temporarily erased Lü Yang's influence, but the two
-  names began pulsing to the heartbeat of the Sea of Light. Lü Yang returned
-  because his great achievement remains rooted in the still-returning False
-  History, the God-Sealing Dao Lineage, and the Sea of Light's blockade. Vast
-  Sky cannot suppress all three at once.
-- The three battles eased as every side became wary of benefiting a rival.
-  Vast Sky then disclosed the era sequence from the Ancient Past through the
-  Medieval Antiquity Era. He stated that the Ancestral Dragon passed down
-  cultivation rather than creating it and that both the Other Shore and the
-  Heavenly Dao drew on Ancient Past Dao Lineages.
-- Vast Sky identified His own inheritance as part of the Doctrine of Names and
-  believes the Primordial Saint's inheritance came from the same school. He
-  inferred that Tai Yitian is an altered name and began explaining that the
-  Primordial Saint's original true name might provide leverage, but a
-  thunderclap interrupted Him.
-- Chapter 1284: the thunder heralded a gaze from the Primordial Saint. Vast Sky
-  openly shattered it and completed His explanation: He believes the altered
-  true name is supported by a ritual hidden inside Grand Ancestral Master and
-  that destroying the ritual would make its benefits turn against the
-  Primordial Saint.
-- Lü Yang revealed that the Primordial Saint is likely inside the same hidden
-  Fathomless Void realm visited by the Ancestral Dragon and Si Sui, where the
-  Primordial Saint obtained the Heavenly Book. The other Dao Lords cannot
-  reach that realm even when Si Sui leads the way.
-- Every battle paused once the Dao Lords realized the Primordial Saint was
-  conserving His strength while waiting for Si Sui. Lü Yang proposed that the
-  seven peak Golden Core combatants stop weakening one another, gang up on the
-  Primordial Saint, and then let Him and Si Sui fight to the death. The
-  coalition had not yet answered.
 - Chapter 1285: Lü Yang argued that the Other Shore's destruction had reduced
   the gap between the Dao Lords enough to justify testing the Primordial
   Saint. The Dao Lords accepted the risk. The World-Honored One proposed
@@ -175,40 +137,71 @@ approval. Review status belongs in the chapter ledger.
   and only Divine Transformation being; the being's identity and Lü Yang's
   ultimate condition remain unresolved.
 
+- Chapter 1294: Lü Yang emerges in clear light and purple qi, leaving his
+  injuries and depletion in the ruined body and returning to his peak. The
+  Primordial Saint recognizes an unorthodox path to Transcendence, an Ancient
+  Past achievement rather than a Great Dao in itself. Lü Yang lacks the Five
+  Elements and cultivation needed to transcend outright.
+- The Primordial Saint persuades the four opponents of His present body to
+  ease off, then redirects that power into the Future to kill Lü Yang and
+  seize the path. He accepts the expected damage from their later attacks.
+- At Si Sui's chosen moment, the Cultivating Truth Dao Lord breaks the River
+  of Time from outside, where its defense is weak. He had not recognized the
+  Primordial Saint's method and thought the earlier factions were fighting.
+  The others emerge, and the Primordial Saint recognizes Si Sui's timing.
+- Chapter 1295: Lü Yang deduces that Si Sui had recognized his path during
+  their earlier discussion and God-Sealing Method exchange. Si Sui timed the
+  intervention to upset the balance after the Primordial Saint paid His cost.
+  The Sword Sovereign and the others immediately resume their full attacks.
+- The Primordial Saint loses the prize and suffers greater damage, yet His
+  aura and constructed Variables imagery become stronger. Lü Yang stresses
+  the simultaneous fall in health and approach to the critical limit. Healing
+  would remove the advantage, so he infers a breakthrough using a fragment.
+- Lü Yang identifies the Dharma Refining Secret Realm as the unblocked source
+  of 140 million carefully selected, pure living souls. The Primordial Saint
+  summons it; Lü Yang reinforces the blockade, and Skyward and the others try
+  to intercept it. Grand Ancestral Master provides a passage beyond Lü Yang's
+  control, allowing the realm to reach the Primordial Saint.
+- All 140 million seas of consciousness enter His Other Shore fragment and
+  are refined, precisely filling its remaining gap. The Primordial Saint
+  regains Dao Lord status, breaks the blockade, and invites Nian Yao, Vast Sky,
+  Myriad Spells, and Du Xuan to slaughter the Sea of Light and restore Their
+  own status through Their fragments. The coalition collapses.
+- The Sword Sovereign moves first, with almost no hesitation. The breakthrough
+  and broken blockade intensify Variables' backlash, completing the separation
+  of the False History and True History. Si Sui emerges, rebukes Nian Yao for
+  damaging Her Dao Path, and flicks Her forehead, sending Her back faster than
+  She attacked. The other Dao Lords halt as He walks out of the False History.
+
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Still isolated in the Future; summoned the Heavenly Calendar Numbers after Fate-Reforming failed. His Dharma Body shattered before impact, and clear light rose from it; survival outcome unresolved. |
-| Dao Tianqi | Alive but banished into the Future; temporarily unable to interfere with the Present or return to the Underworld. |
-| World-Honored One | Sent into the distant Past to face the Primordial Saint's past life body after identifying the imagery constructed through Destiny; a new Dao Lord position is not explicitly confirmed. |
-| Sword Sovereign | With Vast Sky, Myriad Spells, and Du Xuan in the Present, facing one present life body of the Primordial Saint. |
-| Du Xuan | With the other three Dao Lords facing the present life body; Primordial Spirit authority remains unstable. |
-| Spell Dao Lord | With the Sword Sovereign, Vast Sky, and Du Xuan facing the present life body; cannot hear Lü Yang's exchange in the Future. |
-| Vast Sky | With the other three Dao Lords facing the present life body; cannot hear Lü Yang's deductions in the Future. |
-| Cultivating Truth Dao Lord | Left the source of the False History at Si Sui's direction and is heading toward the confrontation. |
-| Si Sui | At the source of the False History; recovery of 129,600 years and final escape remain pending. |
-| Primordial Saint | His future body attacks Lü Yang through Destiny, turns Fate-Reforming against him, and recognizes the ancient significance of the Heavenly Calendar Numbers; His unstated conclusion remains unknown. |
+| Lü Yang | Alive and restored after the clear-light escape; his reinforced blockade has now been broken. He recognizes the sacrifice and the collapse of the coalition. |
+| Dao Tianqi | Previously banished into the Future; his return is still not explicitly confirmed. |
+| World-Honored One | Released from the River of Time with the others; restoration of His Dao Lord status is not established. |
+| Sword Sovereign | Tried to enter the Sea of Light after the Primordial Saint's invitation; Si Sui flicked Her forehead and sent Her crashing back into the Fathomless Void. |
+| Du Xuan | Halted with the others at Si Sui's arrival; holds an Other Shore fragment, but restored status is not confirmed. |
+| Spell Dao Lord | Halted with the others; the Primordial Saint has offered a way to restore status through slaughter and a fragment. |
+| Vast Sky | Halted with the others; suspects Tai Yitian's Yi helped prepare the Primordial Saint's comprehension of Variables. |
+| Cultivating Truth Dao Lord | Broke the River of Time at Si Sui's direction and became the target of the Primordial Saint's hostile gaze; no subsequent injury is established. |
+| Si Sui | Emerged when the histories finally separated; stopped the Sword Sovereign with one flick. Exact recovered cultivation is not quantified here. |
+| Primordial Saint | Sacrificed the realm's 140 million living souls through His fragment, regained Dao Lord status, broke the blockade, and dissolved the coalition by offering the same route to the other four. |
 
 ## Live questions
 
-- What will emerge from the clear light in Lü Yang's shattered Dharma Body?
-- Who left the Divine Transformation mark behind, and what has the Primordial
-  Saint deduced from the Heavenly Calendar Numbers?
-- What can the Primordial Saint achieve with Variables imagery constructed
-  through Destiny while Variables itself remains in the False History?
-- What role do the first-generation Peak Lords' names play in His cultivation,
-  and can Lü Yang communicate the discovery to the others?
+- How will Si Sui confront the Primordial Saint now that He has escaped and
+  the Primordial Saint has regained Dao Lord status?
+- Can the other Dao Lords exploit Their fragments, or can Si Sui and Lü Yang
+  stop Their attempt to sacrifice the Sea of Light's living beings?
+- What can the Primordial Saint now do with constructed Variables imagery
+  and restored status, and can He still seize Lü Yang's path to Transcendence?
+- Who achieved the Ancient Past Transcendence, and what can Lü Yang develop
+  from the Heavenly Calendar Numbers?
+- What role do the first-generation Peak Lords' names play in the Primordial
+  Saint's cultivation, and can Lü Yang communicate the discovery to others?
 - When can Dao Tianqi return from the Future and rejoin the confrontation?
-- What did the Primordial Saint gain by changing both His name and appearance?
-- Can Si Sui reclaim all 129,600 years and escape before the defenders fail?
-- Can the World-Honored One replace Karma with Tribulation and recover His
-  combat strength?
-- Can the eight Primordial Spirit cultivators expose or overcome the
-  Primordial Saint's actual limits before Si Sui escapes?
-- Will Si Sui use the Heavenly Book as a retreat, and can He break its seal?
-- How much of Lü Yang's collective authority survived the destruction of most
-  of the Heavenly Palace?
-- What was the Primordial Saint's original true name, what did the altered name
-  Tai Yitian grant Him, and can the suspected ritual in Grand Ancestral Master
-  actually be found and destroyed?
+- What was the Primordial Saint's original true name, what did Tai Yitian
+  grant Him, and can the suspected ritual in Grand Ancestral Master be found?
+- Can the World-Honored One fully recover His status through Tribulation?
+- Will Si Sui still need the Heavenly Book as a retreat, and can He break its seal?

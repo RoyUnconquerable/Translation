@@ -1,4 +1,4 @@
-# Condensed continuity archive through Chapter 1281
+# Condensed continuity archive through Chapter 1284
 
 This file is searched only when an earlier event becomes relevant. Git history
 retains the former detailed chapter supplements.
@@ -124,3 +124,44 @@ began returning to the True History.
   Dao-attainment system with Si Sui's inward cultivation path.
 - The Primordial Saint has not appeared among the descending Dao Lords. His
   location and present level are unknown.
+
+## Chapters 1282 to 1284: former active causal detail
+
+- Chapter 1282: Lü Yang blocked Vast Sky from joining the Sword Sovereign.
+  Vast Sky used the Written Word to dim Heaven-Slayer and the Five Elements
+  Fruition Attainments, revealing that He had named the Sea of Light's written
+  language, thirty Fruition Attainments, and ten Great Daos when He proved the
+  Dao of Fortune.
+- Vast Sky then linked both `True Monarch Sovereign of Fate` and `Lü Yang` to
+  Fortune and began erasing Lü Yang's ability to affect the outside world. The
+  effect cannot kill him directly, but it can leave him effectively lost in
+  the Fathomless Void. Lü Yang is resisting it with his Primordial Spirit.
+- Chapter 1283: Vast Sky temporarily erased Lü Yang's influence, but the two
+  names began pulsing to the heartbeat of the Sea of Light. Lü Yang returned
+  because his great achievement remains rooted in the still-returning False
+  History, the God-Sealing Dao Lineage, and the Sea of Light's blockade. Vast
+  Sky cannot suppress all three at once.
+- The three battles eased as every side became wary of benefiting a rival.
+  Vast Sky then disclosed the era sequence from the Ancient Past through the
+  Medieval Antiquity Era. He stated that the Ancestral Dragon passed down
+  cultivation rather than creating it and that both the Other Shore and the
+  Heavenly Dao drew on Ancient Past Dao Lineages.
+- Vast Sky identified His own inheritance as part of the Doctrine of Names and
+  believes the Primordial Saint's inheritance came from the same school. He
+  inferred that Tai Yitian is an altered name and began explaining that the
+  Primordial Saint's original true name might provide leverage, but a
+  thunderclap interrupted Him.
+- Chapter 1284: the thunder heralded a gaze from the Primordial Saint. Vast Sky
+  openly shattered it and completed His explanation: He believes the altered
+  true name is supported by a ritual hidden inside Grand Ancestral Master and
+  that destroying the ritual would make its benefits turn against the
+  Primordial Saint.
+- Lü Yang revealed that the Primordial Saint is likely inside the same hidden
+  Fathomless Void realm visited by the Ancestral Dragon and Si Sui, where the
+  Primordial Saint obtained the Heavenly Book. The other Dao Lords cannot
+  reach that realm even when Si Sui leads the way.
+- Every battle paused once the Dao Lords realized the Primordial Saint was
+  conserving His strength while waiting for Si Sui. Lü Yang proposed that the
+  seven peak Golden Core combatants stop weakening one another, gang up on the
+  Primordial Saint, and then let Him and Si Sui fight to the death. The
+  coalition had not yet answered.

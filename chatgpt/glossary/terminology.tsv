@@ -71,10 +71,10 @@ source	target	notes
 玄妙	Mystery|Mysteries	number follows the raw for the cultivation concept; adjectival 步法玄妙 is subtle footwork in owner-final Ch.1290, not a named Mystery [except: 步法玄妙]; provenance terminology.tsv and owner-final Ch.1290
 天宫	Heavenly Palace	with 'the' (Ch. 1196 ruling); provenance terminology.tsv
 位格	status	lowercase except at sentence start; the legacy phrase 踏天境的高位格 was translated compositionally [except: 踏天境的高位格]; provenance terminology.tsv
-现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世]; provenance owner-rulings-ch1276.tsv
+现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
 仙桥	Immortal Bridge	provenance terminology.tsv
 改因易果	altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; provenance terminology.tsv
-伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力]; 降世的伟力 = 'the might of Their descent' (owner Ch. 1210); provenance terminology.tsv
+伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力|排山倒海的伟力]; 降世的伟力 = 'the might of Their descent' (owner Ch.1210); 排山倒海的伟力 permits 'an overwhelming power' with the mountain-and-sea image retained (owner Ch.1295). Neither compound changes the default for bare 伟力.
 洞天	Grotto-Heaven	CAPITALIZED, owner ruling 2026-08-19; provenance terminology.tsv
 仙枢	Immortal Pivot	usually takes 'the'; what this world / Boundary Heaven is called; provenance terminology.tsv
 成道隐玄府	Achieving Dao Hidden Profound Manor	Skyward's grotto-heaven manor; provenance terminology.tsv
@@ -337,3 +337,5 @@ source	target	notes
 悟性	comprehension	Lowercase cultivation faculty; distinct from accumulated Dao Attainment and from talent. Owner-final Ch.1292 replaces insight here; do not apply to every word for understanding or realization.
 天历数	Heavenly Calendar Numbers	Normally takes the definite article; owner-final Ch.1293 replaces provisional Heavenly Reckoning. Name of the singular core of the Heavenly Palace and five Mysteries; the pronoun it can refer to that core. Distinct from the Five Heavenly Numbers.
 初一儿	Little Tianyi	Lü Yang's mocking nickname for the World-Honored One; retained in owner-final Ch.1293, confirming retrieved earlier owner evidence. Preserve His divine pronouns; do not reinterpret as a literal son or birth order.
+炼法秘境	Dharma Refining Secret Realm	Normally takes the definite article; explicit owner correction Ch.1295 replaces provisional Spell-Refining Secret Realm. Keep Dharma Refining unhyphenated; this proper name does not make every 法 Dharma.
+超脱	Transcendence|transcend|transcended|transcending	Use capitalized Transcendence for the named Ancient Past achievement retained in owner-final Ch.1295, not itself a Great Dao. Ordinary verbal uses take lowercase transcend with the appropriate tense; Ch.1209's 超脱了一半 is had transcended halfway, not the named achievement. An unorthodox path to Transcendence may be described as a Great Dao.

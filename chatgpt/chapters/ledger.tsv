@@ -72,9 +72,9 @@ chapter	source_status	translation_status	review_status	continuity_status	prose_s
 1279	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	55bea01
 1280	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	7e62dba
 1281	chat_only_observed	source_received	not_started	archived	chat_only	current project chat; translation not yet delivered
-1282	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
-1283	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
-1284	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked and consolidated in the current authority update
+1282	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	owner revision source-checked and consolidated in the current authority update
+1283	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	owner revision source-checked and consolidated in the current authority update
+1284	chat_only_observed	chat_draft_delivered	owner_final	archived	chat_only	owner revision source-checked and consolidated in the current authority update
 1285	chat_only_observed	source_received	not_started	current	chat_only	current project chat; translation not yet delivered
 1286	chat_only_observed	source_received	not_started	current	chat_only	current project chat; translation not yet delivered
 1287	chat_only_observed	source_received	not_started	current	chat_only	owner fixed 称心锁神决 as Heart-Naming Spirit-Locking Art; chapter translation not yet delivered
@@ -84,3 +84,5 @@ chapter	source_status	translation_status	review_status	continuity_status	prose_s
 1291	chat_only_observed	chat_draft_delivered	owner_revision_recorded	current	chat_only	owner requested source and prose repair; restored 70 body paragraphs plus title; corrected text and substantive idiom repairs returned for review, not assumed separately approved
 1292	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision compared with exact Chinese and delivered draft; 73 body paragraphs plus retained title after restoring two merged pairs; mechanical slips repaired and knowing the method distinguished from knowing about it
 1293	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	owner revision source-checked against raw and delivered draft; 81 body paragraphs plus retained title with source correction; repaired imagery activation, new-weakness timing, conditional comparison, and mechanics
+1294	chat_only_observed	chat_draft_delivered	pending	current	chat_only	exact source and delivered chat draft verified; 82 body paragraphs plus title; no owner approval inferred from later chapter progress
+1295	chat_only_observed	chat_draft_delivered	owner_final	current	chat_only	uploaded owner revision compared with exact source and delivered draft; 94 body paragraphs plus retained title; approved terms and idioms consolidated, mechanical slips and source degree/attempt wording repaired

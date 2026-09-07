@@ -77,6 +77,13 @@ When principles compete, use this order:
   clause when compression leaves the actor or target ambiguous.
 - Use names or explicit nouns when pronouns could refer to two plausible
   characters. Clarity outranks avoiding repetition.
+- Avoid stacked possessives when they obscure a resource's owner or source.
+  Attach quantities to the beings or objects actually counted and use an
+  of-phrase when it makes the relationship easier to follow.
+- Make forced movement clear in combat. When a blow sends someone flying,
+  preserve that external cause rather than leaving the motion open to being
+  read as a voluntary retreat. Connect the resulting change in the battle to
+  the action that caused it.
 - Vary or omit routine transition phrases. Translate the logical relationship,
   not a fixed dictionary equivalent for each Chinese transition.
 - Let escalation come from the sequence of concrete changes. Do not announce
@@ -143,6 +150,10 @@ When principles compete, use this order:
   joke, characterization, or a later metaphor chain.
 - Naturalize a lexicalized idiom when its original image is dormant and a
   literal version would read as translationese. Preserve meaning and force.
+- Apply this distinction within the same passage: a snake proverb may retain
+  its image while a figurative claim that someone is a spent force needs no
+  crossbow bolt. When applying a proverb to a person, natural phrasing can
+  carry its implication without repeating a literal anatomical image.
 - Preserve the source image or cultural referent, not Chinese grammar. Build
   normal contemporary English around a retained idiom or allusion. Its presence
   does not license inversion, ceremonial filler, or inflated diction in the

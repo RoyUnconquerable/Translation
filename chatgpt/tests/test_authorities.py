@@ -85,6 +85,17 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("重光", names)
         self.assertIn("万法", names)
 
+    def test_contextual_exceptions_preserve_unqualified_terms(self):
+        glossary = common.load_glossary(self.root)
+        contextual = "比他刚刚现世时还要强，一股排山倒海的伟力落下。"
+        names = {row["source"] for row in lint.glossary_matches(contextual, glossary)}
+        self.assertNotIn("现世", names)
+        self.assertNotIn("伟力", names)
+        actual_terms = contextual + "现世之中，伟力交织。"
+        names = {row["source"] for row in lint.glossary_matches(actual_terms, glossary)}
+        self.assertIn("现世", names)
+        self.assertIn("伟力", names)
+
     def test_duplicate_glossary_key_is_rejected(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

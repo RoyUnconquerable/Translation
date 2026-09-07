@@ -25,6 +25,9 @@ source facts unless explicitly labeled as a character hypothesis.
   but its five root Mysteries still sustained its existence.
 - Heavenly Person's Remnant Consciousness realms are distinct protected spaces
   whose remaining consciousness cannot simply be commanded by Lü Yang.
+- Grand Ancestral Master can serve as a passage through that gap in Lü Yang's
+  jurisdiction. In Chapter 1295 the Primordial Saint routes His Dharma
+  Refining Secret Realm through it to bypass the Sea of Light's blockade.
 - According to Lü Yang and Vast Sky, the Ancestral Dragon's Detached Court is a
   hidden realm in the Fathomless Void that may have been left by an upper-realm
   cultivator. The Ancestral Dragon, Si Sui, and the Primordial Saint have
@@ -85,6 +88,13 @@ source facts unless explicitly labeled as a character hypothesis.
   beyond the underlying realm.
 - Status and cultivation are related but distinct. Dao Attainment describes a
   cultivator's accumulated mastery, not the cultivation realm itself.
+- Other Shore fragments can be replenished with living beings' seas of
+  consciousness to restore Dao Lord status. In Chapter 1295 the Primordial
+  Saint's preselected 140 million pure living souls fill His remaining gap.
+  This is the amount needed in His particular condition, not a universal cost.
+  Lü Yang deduces that His greater personal power reduces the burden on the
+  fragment compared with two lives earlier, when He killed the World-Honored
+  One and used that sea of consciousness.
 - Sanhe reached half-step Dao Lord strength but his three innate spirits
   prevented a stable Primordial Spirit. A unified conviction could manifest one
   briefly, allowing him to sacrifice it to Heaven-Slayer.
@@ -140,6 +150,18 @@ source facts unless explicitly labeled as a character hypothesis.
 - Variables ranks first because it is the mark left in the Sea of Light by
   the first and only being to reach the higher realm of Divine Transformation
   since the Sea of Light's birth. Chapter 1293 does not identify that being.
+- Chapter 1294 identifies the corresponding Ancient Past achievement as
+  Transcendence. It is not itself a Great Dao; its achievement left imagery
+  in the Sea of Light and accounts for Variables ranking first. The
+  Primordial Saint calls Lü Yang's path an unorthodox path to Transcendence.
+  Without command of the Five Elements and sufficient cultivation, Lü Yang
+  escapes death and recovers rather than transcending outright.
+- Damaging Destiny can deepen the Primordial Saint's constructed Variables
+  imagery while making Him more vulnerable. Healing would restore Destiny's
+  perfection and erase that constructed imagery; the stronger aura is not
+  evidence that His wounds have disappeared or that He commands Variables.
+  Chapter 1295 distinguishes this tradeoff from the subsequent restoration
+  of Dao Lord status through an Other Shore fragment.
 - The Three Foundations are Spiritual Power, Spells, and the Dharma Body. Their
   Dao Lords and Dao Lineages remain distinct even when their strength rises or
   falls together.

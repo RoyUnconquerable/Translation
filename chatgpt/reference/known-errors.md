@@ -19,6 +19,12 @@ better canonical control makes it redundant.
 - Preserve the source's degree of certainty. In particular, words such as
   `难得` and `不易` express difficulty and must not become categorical claims
   that something has never happened or cannot happen.
+- Keep `几乎` in a near-absolute statement: almost no hesitation is not no
+  hesitation at all. Preserve `试图` and the action attempted; trying to
+  intercept a moving realm does not establish a sealing technique or success.
+  Do not add an intensity such as crushing when the source only states a
+  sense of oppression. These Ch.1295 issues arose in the owner revision,
+  not the delivered draft, and were repaired during consolidation.
 - Keep a conditional comparison conditional instead of turning it into an
   accomplished result. Distinguish a newly developed weakness from an old
   weakness that can no longer be concealed.
@@ -65,6 +71,9 @@ better canonical control makes it redundant.
   genuinely classical or ritualized.
 - Preserve Chinese imagery selectively. A live image should survive; a dormant
   lexicalized idiom should not be forced into awkward literal English.
+- Ch.1295's spent crossbow bolt was a delivered-draft over-literalism. Use
+  spent force for that figurative dismissal; retaining the separate snake and
+  brick/jade images does not justify literalizing every idiom nearby.
 - Do not turn local owner phrases into reusable sentence templates. Translate
   the current source relationship afresh.
 - Do not overuse transition openers, intensifiers, `suddenly`, `simply`, or
