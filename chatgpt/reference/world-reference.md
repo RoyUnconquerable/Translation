@@ -168,6 +168,37 @@ source facts unless explicitly labeled as a character hypothesis.
 - Dao Lords can carry the outward manifestation of a Great Dao into the Other
   Shore, but the underlying root remains in the Sea of Light.
 
+## Dao Heart and Transcendence
+
+- A foundation Dao can sustain a Dao Lord's Primordial Spirit after bodily
+  destruction. Killing Du Xuan ordinarily requires superior status or enough
+  power to sever and destroy His anchor in the Spiritual Power Dao over
+  hundreds or thousands of years. Dao Heart provides a third route by
+  reversing Primordial Spirit cultivation.
+- Si Sui's integration of Yin and Yang lets His blows damage both matter and
+  consciousness. Like Heaven-Slayer, they injure Primordial Spirits and
+  increase the opponent's risk of becoming lost. His Empty Attainment Dao of
+  Dao Heart complements the Dharma Body through Yin and Yang; Chapter 1297
+  demonstrates reversal to an ordinary soul, not annihilation of that soul.
+- In Chapter 1298 Si Sui gives Dao Heart to Lü Yang and returns the Dharma Body
+  and Yin and Yang to the Sea of Light. Relinquishing these Daos settles His
+  karmic debts and lets Him ascend through Himself, without the Other Shore.
+  The unity of matter and consciousness earns Him the title Taiji Dao Lord.
+- Chapter 1299 places Si Sui at first-layer Other Shore status. The Primordial
+  Saint once reached the seventh layer; despite His fall, external cultivation
+  had already transformed His essence. Si Sui calls Him a true Nascent Soul
+  cultivator, distinguishing essential change from borrowed status alone.
+- The Primordial Saint distinguishes the essence of Transcendence from its
+  power. He claims that Si Sui's path has no final bottleneck but would take
+  at least hundreds of millions of years to reach ninth-layer status; using
+  the Sea of Light together would permit a glimpse of the higher realm of
+  Divine Transformation within another 100,000 years. These are His estimates
+  and proposal.
+- He also states that sustaining the first transcender destroyed the Ancient
+  Past, and that this being transcended through Primordial Spirit and Dao
+  Heart. He calls the Ancestral Dragon's and Si Sui's methods imitations of
+  that achievement. Preserve attribution; the being's identity is unrevealed.
+
 ## Governing systems
 
 - The Heavenly Dao was built to command the False History and its causal

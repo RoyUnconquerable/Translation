@@ -50,6 +50,9 @@ When principles compete, use this order:
 - Within one source paragraph, join tightly linked premises, consequences, or
   comparisons when separate English sentences create stop-start flow. This
   never permits merging two source paragraphs.
+- When a resource enables an action, connect the means to the goal instead of
+  presenting them as unrelated items in a list. Preserve the source's actual
+  causal connection when simplifying a sentence.
 - Preserve every number, date, sequence, comparison, negation, title,
   relationship, and degree of certainty.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
@@ -204,6 +207,9 @@ When principles compete, use this order:
   names, ranks, techniques, artifacts, realms, and epithets.
 - Use the glossary's capitalization exactly. Do not promote generic nouns into
   proper terms.
+- Choose articles from the syntax and the specific referent. An owner-added
+  definite article in one construction does not make it mandatory before
+  every occurrence of that realm, Dao, or cosmological name.
 - Dao Lord referents take capitalized divine pronouns under the project rule.
   Resolve the actual identity first. A mortal shell, divided consciousness, or
   quotation does not inherit capitalization merely from surface wording.

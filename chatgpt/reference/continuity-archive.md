@@ -1,4 +1,4 @@
-# Condensed continuity archive through Chapter 1284
+# Condensed continuity archive through Chapter 1290
 
 This file is searched only when an earlier event becomes relevant. Git history
 retains the former detailed chapter supplements.
@@ -165,3 +165,61 @@ began returning to the True History.
   seven peak Golden Core combatants stop weakening one another, gang up on the
   Primordial Saint, and then let Him and Si Sui fight to the death. The
   coalition had not yet answered.
+
+## Chapters 1285 to 1290
+
+- Chapter 1285: Lü Yang argued that the Other Shore's destruction had reduced
+  the gap between the Dao Lords enough to justify testing the Primordial
+  Saint. The Dao Lords accepted the risk. The World-Honored One proposed
+  destroying His own Karma so the Great Net of Karma would revert to the River
+  of Time, denying the Primordial Saint the chance to complete His plan by
+  killing Him personally. He intends to seek a new Dao Lord position through
+  the still-unclaimed Great Dao of Tribulation.
+- Chapter 1286: inside the Ancestral Dragon's Detached Court, the Primordial
+  Saint believed the other Dao Lords could neither reach Him nor remain safely
+  in the Fathomless Void. Outside, the seven combatants agreed to join forces
+  against Him. Si Sui sent the Cultivating Truth Dao Lord out of the weakening
+  seal, potentially bringing the confrontation to eight Primordial Spirit
+  cultivators.
+- Chapter 1287: Vast Sky traded the Heart-Naming Spirit-Locking Art to Lü Yang
+  in return for temporary shelter. Lü Yang detached the Vajra Realm from the
+  Sea of Light so the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan
+  could anchor themselves without entering the Sea of Light itself. Lü Yang
+  learned that an honorific name must agree with the heart, speech, conduct,
+  and Dao, but postponed choosing his own.
+- The World-Honored One then destroyed Karma through His past life body. The
+  Great Net of Karma collapsed back into the River of Time, provoking the
+  Primordial Saint into appearing before the coalition.
+- Chapter 1288: the Primordial Saint emerged with the bearing of a Heavenly
+  Being and retained traits once associated with standing upon the Other
+  Shore. Vast Sky identified both the Doctrine of Names and the Doctrine of
+  Appearances in His altered name and outward form.
+- Vast Sky and the Sword Sovereign combined Fortune and Fate against the
+  Primordial Saint. He remained unaffected because He commands Destiny, and
+  His nature and life have reached the same perfection once attained by Si
+  Sui. Lü Yang and Dao Tianqi joined the attack, but the Primordial Saint broke
+  Lü Yang's fist and targeted him with a lethal finger strike. Lü Yang answered
+  by manifesting his Primordial Spirit and counterattacking.
+- Chapter 1289's owner revision is visible in the handoff, but its complete
+  source-grounded reconciliation is still pending. Do not infer completed
+  consolidation from the later Chapter 1290 approval.
+- Chapter 1290 opens above the River of Time, with the other combatants
+  isolated at different times. The Primordial Saint cuts Dao Tianqi off from
+  the Underworld and attempts to kill him. Dao Tianqi uses the Reincarnation
+  Wheel of Life and Death to clash with His status, loosening the temporal
+  confinement of the others.
+- The Primordial Saint changes tactics and banishes Dao Tianqi into the
+  Future. Dao Tianqi survives but cannot interfere with the Present for a
+  considerable time. The River of Time collapses, the six remaining
+  combatants emerge, and the Primordial Saint coughs blood qi as His aura
+  drops. Seven simultaneous opponents being His limit remains Dao Tianqi's
+  inference, not a confirmed absolute cap.
+- The Sword Sovereign and Vast Sky recall the Heavenly Heart Lock. Empowered
+  by Lü Yang's Five Elements Fruition Attainments, it stops the renewed River
+  of Time. The Primordial Saint uses a shadow from the Past to carry it away,
+  coughing more heavily in the process.
+- Myriad Spells reveals the already-prepared Dharma Extinction Scripture,
+  which destroys the Primordial Saint's protective imagery and Mysteries.
+  The World-Honored One appears behind Him; His tribulation qi reinforces the
+  scripture and His aura rises. His Buddhist palm pierces the Primordial
+  Saint from back to chest. The wound is confirmed, but death is not.

@@ -52,6 +52,9 @@ better canonical control makes it redundant.
   merely knowing about its existence. Preserve the competence implied by
   懂得 when the scene depends on the character employing the technique.
 - Keep Fate, Destiny, Fortune, and Variables distinct.
+- Check word boundaries in verb-plus-title constructions: 成道主 means become
+  a Dao Lord, not the separate achievement 成道, prove the Dao. The glossary
+  excludes this compound while retaining independent occurrences of 成道.
 - Use `Sword Edge Metal`, without a hyphen.
 - Use `Yin-Yang Creation and Destruction Profound Light` for `两仪生灭玄光`.
 - Translate `光铸的双手` as `hands forged from light` when that construction
