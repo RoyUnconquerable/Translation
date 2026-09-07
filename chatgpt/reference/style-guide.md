@@ -78,6 +78,11 @@ When principles compete, use this order:
   nouns for articles, verbs and adjectives for required prepositions or
   complements, and participial clauses for a clear subject. Prefer a complete
   clause when compression leaves the actor or target ambiguous.
+- Choose the clearest complete construction, not the one with the fewest
+  words. State ownership when it matters, link creation to deliberate control,
+  and name both objects in an overlap or comparison when pronouns obscure the
+  relationship. Avoid compressed noun phrases such as His Nascent Soul nature
+  when the meaning is the true nature of a Nascent Soul.
 - Use names or explicit nouns when pronouns could refer to two plausible
   characters. Clarity outranks avoiding repetition.
 - Avoid stacked possessives when they obscure a resource's owner or source.
@@ -195,7 +200,9 @@ When principles compete, use this order:
   merely to explain tone.
 - A genuine hard change of place, people, or time may take a line containing
   only `---`. Never add a break solely for visual pacing.
-- Sound effects are uppercase and unquoted on their own source-aligned line.
+- Environmental and impact sound effects are uppercase and unquoted on their
+  own source-aligned line. An owner's voiced breath such as "Haaah..." may
+  retain quoted vocalization; do not force it into an impersonal wind sound.
 - A bracketed source call-out becomes plain Title Case without brackets or
   bold. Interface or panel text follows the established bold format only when
   the source and local convention identify it as a panel.
@@ -210,6 +217,13 @@ When principles compete, use this order:
 - Choose articles from the syntax and the specific referent. An owner-added
   definite article in one construction does not make it mandatory before
   every occurrence of that realm, Dao, or cosmological name.
+- In definite references use the Dao Heart and, for the World-Honored One's
+  method, the One Mind as grammar requires. Capitalizing a concept does not
+  remove its article; distinguish these from attributive uses such as Dao Heart tiers.
+- Use nature for fundamental character or constitutive identity, including
+  differences expressed through cultivation realms. Retain essence for a
+  substance, refined essence, core, or another sense that warrants it. This
+  is a contextual distinction, not a global replacement.
 - Dao Lord referents take capitalized divine pronouns under the project rule.
   Resolve the actual identity first. A mortal shell, divided consciousness, or
   quotation does not inherit capitalization merely from surface wording.

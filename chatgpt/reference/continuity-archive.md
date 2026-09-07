@@ -223,3 +223,64 @@ began returning to the True History.
   The World-Honored One appears behind Him; His tribulation qi reinforces the
   scripture and His aura rises. His Buddhist palm pierces the Primordial
   Saint from back to chest. The wound is confirmed, but death is not.
+## Chapters 1291 to 1293
+
+- Chapter 1291: the Primordial Saint steps forward and leaves the pierced body
+  in the Past. His present body is unharmed, but His aura drops. His breath
+  shatters the World-Honored One, who escapes through Tribulation with half
+  His body destroyed. The Primordial Saint then coughs actual blood.
+- The coalition forces Him to draw directly on Destiny and lose His perfect
+  state. Their strategic aim is to probe and exhaust Him so Si Sui can settle
+  the confrontation, rather than realistically expecting to kill Him now.
+  He has been conserving strength for Si Sui, whom He expects to be watching.
+- As Destiny deteriorates, the Primordial Saint fights with increasing
+  ferocity across the Past, Present, and Future. Almost every opposing Dao
+  Lord suffers severe injuries. Lü Yang's Fate-Reforming then reacts to new
+  Variables-like imagery within the damaged light of Destiny.
+- Lü Yang realizes that the Primordial Saint deliberately uses the deadly
+  battle to temper His Great Dao and attempt to incorporate Variables. His
+  preparation rests on Himself, not unreliable external aids. The chapter
+  ends before this attempt's success or the battle's outcome is established.
+- Source count discrepancy: Chapter 1291 twice says seven Dao Lords despite
+  Dao Tianqi's banishment in Chapter 1290. Retain both source numbers and leave
+  the discrepancy unresolved; do not invent his return or another combatant.
+- Chapter 1292: the World-Honored One senses Variables still in the False
+  History and identifies the Primordial Saint's emerging imagery as a
+  construction within Destiny. Before He finishes explaining, the River of
+  Time sends Him into the distant Past and isolates Lü Yang in the Future.
+- The Primordial Saint confirms Lü Yang's recognition of the three life
+  bodies. His past body faces the World-Honored One; His present body faces
+  the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan together; His
+  bloodied but increasingly powerful future body faces Lü Yang. Dao Tianqi's
+  earlier banishment is separate; his presence with Lü Yang is not established.
+- Lü Yang reconstructs the sequence as four Empty Attainment Daos in the
+  Past, Time in the Present, and Destiny in the Future. A sequence beginning
+  with Time would require a Nascent Soul future body, whereas the one before
+  him remains at peak Golden Core.
+- He then links those four Daos, their transmission to the four original Peak
+  Lords, and the Tian in their names to Tai Yitian and the Doctrine of Names.
+  The Primordial Saint praises his talent for uncovering conspiracies. The
+  others cannot hear this exchange across the temporal isolation, and the
+  hidden mechanism has not yet been fully explained.
+- Chapter 1293: Lü Yang realizes that taking the World-Honored One's place
+  means dying in His stead. The World-Honored One's switch to Tribulation has
+  deprived the Primordial Saint of the intended Karma route to Variables.
+- Lü Yang reconstructs three plans and concludes that the Primordial Saint
+  is now relying on His riskiest fallback. Damage to Destiny below a critical
+  limit can benefit Him; crossing that limit would expose a severe weakness.
+  Lü Yang believes He originally intended to undergo this trial against Si
+  Sui, rather than in the coalition's earlier attack.
+- Destiny accelerates Lü Yang's isolated Future into a scene where all his
+  Mysteries are countered within ten moves and a finger kills him. Cracks
+  appear in his body, but Fate-Reforming now strengthens the strike instead
+  of breaking it. The Primordial Saint invokes the change/source maxim.
+- Lü Yang couples his five Mysteries and summons the Heavenly Calendar Numbers
+  from the Heavenly Palace. The Primordial Saint recognizes both the Five
+  Elements and the Five Heavenly Numbers within it and seems to reach a new
+  conclusion, but does not state that conclusion.
+- Before the descending finger lands, Lü Yang's body shatters and clear light
+  rises from his broken Dharma Body. Fate-Reforming's supremacy within the
+  five Mysteries stirs imagery connected to the rank of Variables. The final
+  revelation identifies Variables as the mark of the Sea of Light's first
+  and only Divine Transformation being; the being's identity and Lü Yang's
+  ultimate condition remain unresolved.

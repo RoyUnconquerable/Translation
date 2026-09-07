@@ -101,103 +101,100 @@ source facts unless explicitly labeled as a character hypothesis.
 
 ## Great Dao architecture
 
-- The setting distinguishes ten Great Daos. The currently important examples
-  include the Five Elements, Yin and Yang, Karma, Fate, Destiny, Fortune,
-  Spiritual Power, Spells, and the Dharma Body. Do not infer a complete mapping
-  where the source has not confirmed one.
-- Fate, Destiny, Fortune, and Variables are separate concepts and sources of
-  imagery.
-- Vast Sky defines Fortune as the power a phenomenon or living being possesses
-  to influence external things, fate, and the world. He proved the Dao of
-  Fortune through the Written Word.
-- Vast Sky created the Sea of Light's written language and named the thirty
-  Fruition Attainments and its ten Great Daos. By linking those names to
-  Fortune, He can suppress a named power or erase a person's ability to affect
-  the world, producing a state like becoming lost in the Fathomless Void.
-- The Doctrine of Names is an Ancient Past Dao Lineage that treats names as
-  sources of power. Changing a thing's name can produce powerful imagery, a
-  true name can be used against its bearer, and an adopted honorific name can
-  provide protection. Vast Sky based His Written Word Mysteries on these
-  principles.
-- According to Vast Sky, the Doctrine of Appearances is another Ancient Past
-  inheritance. The Primordial Saint used it to alter His outward form and
-  bearing in addition to changing His name through the Doctrine of Names.
-- The Primordial Saint commands Destiny. Because elapsed time cannot be
-  altered under Destiny, the Sword Sovereign's attempt to sever His past
-  through Fate remained unable to change Him in the present even after Vast
-  Sky weakened His Fortune.
-- Chapter 1291 distinguishes His use of Time from directly drawing upon
-  Destiny. Under sufficient pressure, the white light of Destiny loses its
-  perfection and develops imagery resembling Variables. Lü Yang recognizes
-  an attempt to use a battle to the death to comprehend and incorporate
-  Variables; successful integration is not yet established.
-- Chapter 1292 refines that observation: the World-Honored One senses that
-  Variables itself still resides in the False History. He identifies the
-  Primordial Saint's apparent Variables as imagery constructed within the
-  framework of Destiny, not mastery of a second Great Dao from nothing.
-- The Five Heavenly Numbers can be gathered through corresponding Mysteries.
-  The Ancestral Dragon and Lü Yang both use personal Mysteries to contain them,
-  but their systems and purposes are not identical.
-- The core of Lü Yang's Heavenly Palace, the Heavenly Calendar Numbers, is
-  also the foundation of Divine Offerings, Drop of Heaven's Essence, the Sea of
-  Dust and Tribulation, Heaven in a Palm, and Fate-Reforming. It combines the
-  Five Elements with the Five Heavenly Numbers and is distinct from either
-  group alone.
-- Within this core, the five Mysteries represent the Five Heavenly Numbers.
-  Fate-Reforming's supremacy mirrors Variables ranking first and stirs
-  exceptionally high imagery. The hierarchy activates an existing connection;
-  it is not said to create the ancient mark itself.
-- Variables ranks first because it is the mark left in the Sea of Light by
-  the first and only being to reach the higher realm of Divine Transformation
-  since the Sea of Light's birth. Chapter 1293 does not identify that being.
-- Chapter 1294 identifies the corresponding Ancient Past achievement as
-  Transcendence. It is not itself a Great Dao; its achievement left imagery
-  in the Sea of Light and accounts for Variables ranking first. The
-  Primordial Saint calls Lü Yang's path an unorthodox path to Transcendence.
-  Without command of the Five Elements and sufficient cultivation, Lü Yang
-  escapes death and recovers rather than transcending outright.
-- Damaging Destiny can deepen the Primordial Saint's constructed Variables
-  imagery while making Him more vulnerable. Healing would restore Destiny's
-  perfection and erase that constructed imagery; the stronger aura is not
-  evidence that His wounds have disappeared or that He commands Variables.
-  Chapter 1295 distinguishes this tradeoff from the subsequent restoration
-  of Dao Lord status through an Other Shore fragment.
-- The Three Foundations are Spiritual Power, Spells, and the Dharma Body. Their
-  Dao Lords and Dao Lineages remain distinct even when their strength rises or
-  falls together.
-- Dao Lords can carry the outward manifestation of a Great Dao into the Other
-  Shore, but the underlying root remains in the Sea of Light.
+- The setting distinguishes ten Great Daos; do not infer a complete mapping
+  from an incomplete list of examples. Fate, Destiny, Fortune, and Variables
+  are distinct. The Three Foundations are Spiritual Power, Spells, and the
+  Dharma Body, with separate Dao Lords and Dao Lineages.
+- Vast Sky defines Fortune as a being's or phenomenon's ability to influence
+  external things, fate, and the world. He proved it through the Written Word,
+  creating the Sea of Light's written language and naming its thirty Fruition
+  Attainments and ten Great Daos. Those names let Him suppress named powers or
+  erase influence, producing a state like becoming lost in the Fathomless Void.
+- The Ancient Past Doctrine of Names derives power from names. A true name can
+  be used against its bearer; changing a name or adopting an honorific can
+  provide imagery and protection. Vast Sky's Written Word draws on it.
+  According to Him, the Doctrine of Appearances is another Ancient Past
+  inheritance; the Primordial Saint used it to change His form and bearing.
+- The Primordial Saint commands Destiny. Its immutable elapsed time prevents
+  Fate from changing His present by severing His past, even with Fortune
+  weakened. Direct use of Destiny differs from employing Time. Battle damage
+  to Destiny produces apparent Variables imagery, but the World-Honored One
+  identifies it as a construction within Destiny; Variables itself remains
+  in the False History at that point. Mastery of Variables is not established.
+- Damaged Destiny deepens that imagery and increases power while exposing
+  vulnerability. Healing would restore Destiny's perfection and remove the
+  advantage. This differs from later restoring Dao Lord status with a fragment.
+- The Five Heavenly Numbers can be gathered through corresponding Mysteries;
+  the Ancestral Dragon's and Lü Yang's systems and purposes differ. The
+  Heavenly Calendar Numbers, core of Lü Yang's Heavenly Palace, grounds Divine
+  Offerings, Drop of Heaven's Essence, the Sea of Dust and Tribulation, Heaven
+  in a Palm, and Fate-Reforming. It combines the Five Elements and Five
+  Heavenly Numbers without being identical to either group.
+- These five Mysteries represent the Five Heavenly Numbers. Fate-Reforming's
+  supremacy mirrors Variables ranking first, stirring existing high imagery,
+  not creating its ancient mark. Variables is the mark of the first and only
+  being to reach the higher realm of Divine Transformation since the sea's
+  birth; that being's identity remains unrevealed.
+- Transcendence is an Ancient Past achievement, not itself a Great Dao. Its
+  imagery accounts for Variables ranking first. The Primordial Saint calls
+  Lü Yang's path an unorthodox path to Transcendence. Without command of the
+  Five Elements and sufficient cultivation, it lets him escape and recover
+  rather than transcend outright.
+- Dao Lords carry a Dao's outward manifestation into the Other Shore; its
+  underlying root remains in the Sea of Light.
 
-## Dao Heart and Transcendence
+## Dao Heart, Nascent Soul, and Transcendence
 
-- A foundation Dao can sustain a Dao Lord's Primordial Spirit after bodily
-  destruction. Killing Du Xuan ordinarily requires superior status or enough
-  power to sever and destroy His anchor in the Spiritual Power Dao over
-  hundreds or thousands of years. Dao Heart provides a third route by
-  reversing Primordial Spirit cultivation.
-- Si Sui's integration of Yin and Yang lets His blows damage both matter and
-  consciousness. Like Heaven-Slayer, they injure Primordial Spirits and
-  increase the opponent's risk of becoming lost. His Empty Attainment Dao of
-  Dao Heart complements the Dharma Body through Yin and Yang; Chapter 1297
-  demonstrates reversal to an ordinary soul, not annihilation of that soul.
-- In Chapter 1298 Si Sui gives Dao Heart to Lü Yang and returns the Dharma Body
-  and Yin and Yang to the Sea of Light. Relinquishing these Daos settles His
-  karmic debts and lets Him ascend through Himself, without the Other Shore.
-  The unity of matter and consciousness earns Him the title Taiji Dao Lord.
-- Chapter 1299 places Si Sui at first-layer Other Shore status. The Primordial
-  Saint once reached the seventh layer; despite His fall, external cultivation
-  had already transformed His essence. Si Sui calls Him a true Nascent Soul
-  cultivator, distinguishing essential change from borrowed status alone.
-- The Primordial Saint distinguishes the essence of Transcendence from its
-  power. He claims that Si Sui's path has no final bottleneck but would take
-  at least hundreds of millions of years to reach ninth-layer status; using
-  the Sea of Light together would permit a glimpse of the higher realm of
-  Divine Transformation within another 100,000 years. These are His estimates
-  and proposal.
-- He also states that sustaining the first transcender destroyed the Ancient
-  Past, and that this being transcended through Primordial Spirit and Dao
-  Heart. He calls the Ancestral Dragon's and Si Sui's methods imitations of
-  that achievement. Preserve attribution; the being's identity is unrevealed.
+- A foundation Dao sustains a Primordial Spirit after bodily destruction.
+  Ordinarily, killing Du Xuan requires superior status or enough power to
+  sever and destroy His anchor over hundreds or thousands of years. The Dao
+  Heart supplies a third route: reversing Primordial Spirit cultivation.
+- Through Yin and Yang, Si Sui's blows damage matter and consciousness. Like
+  Heaven-Slayer, they injure Primordial Spirits and increase the risk of
+  becoming lost. His Empty Attainment Dao, the Dao Heart, complements the
+  Dharma Body; Du Xuan's regression leaves an ordinary soul, not no soul.
+- Si Sui gives the Dao Heart to Lü Yang and returns the Dharma Body and Yin
+  and Yang to the sea. Settling these karmic debts lets Him transcend through
+  Himself without the Other Shore. Matter and consciousness united through
+  Yin and Yang give Him the title Taiji Dao Lord.
+- Si Sui's nature becomes a second Sea of Light, with Himself its Innate Dao
+  God. He endures like the sea and need not fear becoming lost. His status
+  equals the Other Shore's first layer, but His combat power surpasses what
+  the World-Honored One expects there; the latter says His own full strength
+  at His peak would be needed to suppress Si Sui. Victory is not established.
+- Nascent Soul's yuan refers to the Primordial Spirit and ying to the infant:
+  the Fathomless Void is the maternal body, the cultivator the unborn child,
+  and the Sea of Light the nourishment. Climbing the Other Shore develops the
+  infant until birth beyond the void means Transcendence. Chapter 1300 calls
+  this the fourth path, independently opened by the Primordial Saint.
+- The other Dao Lords understood yuan and used the Other Shore without
+  understanding ying. Their maximum was the fourth layer; the Sword Sovereign
+  reached the fifth through the Heavenly Dao. The Saint built the Other Shore
+  and reached the seventh; His changed nature survived the fall of His realm.
+  His true Nascent Soul anchors His Primordial Spirit in the Fathomless Void,
+  not the Other Shore. He survives while the void persists unless that Spirit
+  is forcibly separated from it.
+- Lü Yang can call on all three returned Daos, though less effectively than
+  Si Sui; he considers combining the Dao Heart with Heaven-Slayer. His own
+  anchor is the Heavenly Palace and its core. Like the former Karma path,
+  this leaves him easier to kill than Lords anchored in the sea's foundations.
+- In Chapter 1301 Si Sui creates a world with the same history, people, and
+  changes as the Sea of Light and superimposes them. Its Dao laws differ:
+  Destiny never existed there, so the Saint loses Destiny and Time. Si Sui
+  draws Him into His transcendent nature; following a different path, the
+  Saint becomes mortal and loses His mighty power. This is not a final defeat.
+- The Saint calls Si Sui's attainment false Transcendence: freedom without
+  equivalent power. He estimates at least hundreds of millions of years to
+  ninth-layer status despite no final bottleneck, versus another 100,000 years
+  to glimpse higher Divine Transformation by exploiting the sea together.
+  These are His estimates. He also attributes the Ancient Past's destruction
+  to sustaining the first transcender, who used Primordial Spirit and the Dao
+  Heart, and calls the Dragon's and Si Sui's paths imitations.
+- The Saint could have stopped Si Sui before His final breakthrough but wanted
+  a second transcender as material for the Other Shore, believing that would
+  ensure His next Divine Transformation and Ascension. Si Sui's open scheme
+  exploits that desire; it was not the Saint's long-prepared plan. The Saint
+  allowed Du Xuan's death and helped resolve Si Sui's remaining inner obstacle.
 
 ## Governing systems
 

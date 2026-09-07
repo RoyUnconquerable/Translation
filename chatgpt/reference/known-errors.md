@@ -89,6 +89,10 @@ better canonical control makes it redundant.
 - Run a separate article, preposition, complement, and collocation pass. A
   sentence can preserve the dictionary meaning of every word and still sound
   unclean because its English relationships were assembled mechanically.
+- Check what a possessive modifies: His teacher's ruler invents an owner when
+  the source identifies His disciplinary implement. Separate a being's
+  attainment from the action of using that being as material; compressed
+  infinitives can attach to the wrong verb even when the meaning is recoverable.
 - Do not preserve choppy sentence boundaries inside a source paragraph when a
   premise and consequence or a comparison and explanation read more cleanly
   as one linked sentence. Paragraph alignment remains unchanged.
