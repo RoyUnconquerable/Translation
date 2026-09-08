@@ -22,9 +22,10 @@ better canonical control makes it redundant.
 - Matching paragraph totals is necessary but insufficient. Check every source
   paragraph against its corresponding target, especially around revisions
   that split sentences, combine questions, or change thought mode.
-- Preserve the source's degree of certainty. In particular, words such as
-  `难得` and `不易` express difficulty and must not become categorical claims
-  that something has never happened or cannot happen.
+- Preserve degree: 难得, 不易, and 难度太高 express difficulty, not categorical
+  impossibility. Ch.1304's far beyond My reach overstates the last phrase.
+  Preserve unit values and qualifiers too: 十万里的高山 is lofty mountains
+  spanning 100,000 li (about 31,000 miles), not 100,000 miles.
 - Keep `几乎` in a near-absolute statement: almost no hesitation is not no
   hesitation at all. Preserve `试图` and the action attempted; trying to
   intercept a moving realm does not establish a sealing technique or success.
@@ -102,9 +103,10 @@ better canonical control makes it redundant.
   the source identifies His disciplinary implement. Separate a being's
   attainment from the action of using that being as material; compressed
   infinitives can attach to the wrong verb even when the meaning is recoverable.
-- Do not preserve choppy sentence boundaries inside a source paragraph when a
-  premise and consequence or a comparison and explanation read more cleanly
-  as one linked sentence. Paragraph alignment remains unchanged.
+- Link related premises and consequences within a source paragraph when this
+  improves flow. Keep the necessary condition explicit: Only when the two
+  were united could life arise is justified emphasis, not decorative inversion.
+  Paragraph alignment remains unchanged.
 - Preserve exact approved declarations and **【...】** formatting; the old
   blanket bracket-removal/punctuation rules conflicted with this requirement.
   Scene-break validation must compare reviewed positions, not merely check

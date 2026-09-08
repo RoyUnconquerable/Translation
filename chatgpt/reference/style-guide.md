@@ -78,15 +78,14 @@ When principles compete, use this order:
 - Audit articles, prepositions, complements, and collocations as English
   constructions rather than carrying over Chinese syntax. Restore the object
   or relationship English needs, but do not add new source meaning.
-- Read each sentence as English after the source comparison: check countable
-  nouns for articles, verbs and adjectives for required prepositions or
-  complements, and participial clauses for a clear subject. Prefer a complete
-  clause when compression leaves the actor or target ambiguous.
-- Choose the clearest complete construction, not the one with the fewest
-  words. State ownership when it matters, link creation to deliberate control,
-  and name both objects in an overlap or comparison when pronouns obscure the
-  relationship. Avoid compressed noun phrases such as His Nascent Soul nature
-  when the meaning is the true nature of a Nascent Soul.
+- Check countable nouns for articles, required complements and prepositions,
+  and participles for a clear subject. Complete English outranks brevity.
+  State ownership, connect actions to deliberate control, and name both
+  compared objects when pronouns obscure them. Prefer the true nature of a
+  Nascent Soul to an ambiguous compressed noun phrase.
+- Describe sensations through the character who feels them. Even with His
+  cultivation, He felt the weight pressing down keeps the experiencer clear;
+  making cultivation the agent that could not spare Him obscures the sensation.
 - Use names or explicit nouns when pronouns could refer to two plausible
   characters. Clarity outranks avoiding repetition.
 - Avoid stacked possessives when they obscure a resource's owner or source.
@@ -149,7 +148,7 @@ When principles compete, use this order:
   merging the sequence.
 - When history is rewritten, use tense to show the new established past and
   any event anterior to it. Do not backshift mechanically.
-- Read direct thoughts as something the character would actually think.
+- Write direct thoughts as natural mental speech.
   Connect the immediate observation, motive, and consequence inside the source
   paragraph. Prefer ordinary decency to abstract moral conviction in Si Sui's
   everyday ethical reasoning; do not impose that wording on unrelated philosophy.
@@ -231,9 +230,9 @@ When principles compete, use this order:
   names, ranks, techniques, artifacts, realms, and epithets.
 - Use the glossary's capitalization exactly. Do not promote generic nouns into
   proper terms.
-- Choose articles from the syntax and the specific referent. An owner-added
-  definite article in one construction does not make it mandatory before
-  every occurrence of that realm, Dao, or cosmological name.
+- Choose articles by syntax and referent, not capitalization. Symbolic One,
+  Two, and Three can stand bare in the creation formula; anaphoric the One
+  remains valid. Ordinary article rules still apply, including the Dao Heart.
 - In definite references use the Dao Heart and, for the World-Honored One's
   method, the One Mind as grammar requires. Capitalizing a concept does not
   remove its article; distinguish these from attributive uses such as Dao Heart tiers.
@@ -267,8 +266,8 @@ When principles compete, use this order:
 
 - Convert Chinese numerals into natural English. Use digits with commas for
   exact large values and words for loose or rhetorical magnitudes.
-- Convert ordinary physical measures into idiomatic English units under the
-  established series policy.
+- Convert ordinary physical measures with their values, not just unit labels.
+  Under the series policy, 100,000 li is about 31,000 miles, not 100,000 miles.
 - Use the serial comma, `toward`, and `farther` for physical distance.
 - Capitalize Yin and Yang. Use `Yin-Yang` only in established attributive
   compounds.
@@ -286,9 +285,9 @@ When principles compete, use this order:
 - No fixed default sentence for routine transitions such as `然而`, `下一秒`,
   `与此同时`, or `入目所见`.
 - No faux-archaic connective language in ordinary narration.
-- No routine inversion such as `There stood...`, `Before him lay...`, or
-  `Only then did...` when direct contemporary syntax says the same thing more
-  clearly.
+- Avoid decorative inversion when direct syntax is clearer. Keep grammatical
+  emphasis such as Only when...could... for a necessary condition, and a
+  source-supported scene-opening inversion when it reads naturally.
 - No calqued Chinese syntax, comma splices, or unclear dangling modifiers.
 - No ornamental synonym chosen at the expense of accuracy or collocation.
 - No repeated explanation, second punch line, or added emotional conclusion.

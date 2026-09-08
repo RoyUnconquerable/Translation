@@ -216,17 +216,35 @@ status belong elsewhere. Claims are source facts unless attributed to a characte
 
 - The Book of a Hundred Lives is bound to Lü Yang's true body. Its talents do
   not automatically synchronize to the Heavenly Emperor.
-- The Primordial Saint obtained the Heavenly Scripture from the hidden realm
-  identified as the Ancestral Dragon's Detached Court, used it to create the
-  False History, and later to seal Si Sui. Its seal was expected to weaken as
-  the Other Shore fell; Chapter 1303 confirms it is free and usable again.
-- Its title page is its core and the missing page of the Book of a Hundred
-  Lives. The equality declaration's exact approved English and display format
-  are in phrase memory. With Si Sui's full power, comparable to the sea, it
-  creates a genuinely real new world covering the original Sea of Light,
-  rather than substituting False and True Histories by altering causality.
-  Si Sui declares that the original sea will retain neither Great Daos nor
-  living beings. Their destination and the final combat outcome remain open.
+- The Primordial Saint obtained the Heavenly Scripture from the Ancestral
+  Dragon's Detached Court, used it to create the False History, and delivered
+  it to Si Sui to seal Him. That seal was expected to weaken with the Other
+  Shore's fall; Si Sui later unseals it. Its title page is its core and the
+  missing page of the Book of a Hundred Lives. The first transcender left that
+  original page; the Saint refined and added the surrounding book. He can seal
+  only its exterior, not affect the original Mysteries or plant a contingency.
+- The declaration's approved wording and format are in phrase memory. In
+  Chapter 1304 the cover and almost all pages dissolve, leaving the original
+  page, whose characters become a talisman. Peak Golden Core suffices to make
+  a False History, but a Dao Lord's status is needed to bear the weight of
+  reality and make it real. Si Sui anchors His Mysteries in the surviving page.
+- With this talisman, Si Sui opens a rift and gives up His transcendent body
+  to form a new Sea of Light. One produces Two, Two produces Three, and Three
+  produces all things. The Yin-Yang Creation and Destruction Profound Light
+  opens the world; His body becomes its geography, spiritual qi, and thunder.
+  The Saint warns that reentering tribulation delays true Transcendence.
+- This world is one continuous expanse, unlike the old sea's separate realms,
+  with thirty-six heavenly layers and seventy-two earthly regions. The Five
+  Elements precede Yin and Yang, then the Dharma Body and Dao Heart. Matter
+  and spirit form a unity of opposites; the Dharma Body supplies embodied life
+  and lifespan, the Dao Heart intelligence. Together they enable life, and
+  incoming beings retain their previous living environments. Spiritual Power
+  preserves cultivation; Tribulation supplies the hardship needed to advance.
+- Si Sui cannot take Destiny, Fortune, Fate, and Spells because four Dao Lords
+  retain them. Variables is uniquely beyond His interference and ceases to
+  favor Him as the situation changes. The five remain in the emptied old sea;
+  the Saint's power falls and Destiny appears gravely damaged. These events
+  qualify Si Sui's earlier declaration that no Daos would remain.
 - Traversing the Mortal Dust reaches a Primordial Spirit through separated good
   and evil consciousnesses. Their abilities normally synchronize, and lasting
   unity requires one side to become dominant over time.
@@ -296,38 +314,3 @@ status belong elsewhere. Claims are source facts unless attributed to a characte
    lives caused by Dao Lord plans.
 6. Lü Yang developed the God-Sealing Method into a collective order capable of
    separating the Sea of Light from Dao Lord control.
-
-## Open character hypotheses
-
-- Lü Yang reconstructs the Primordial Saint's three plans in Chapter 1293:
-  Divine Transformation and Ascension; personally killing the World-Honored
-  One to command Variables through Karma and Destiny; and, as a last resort,
-  damaging Destiny in mortal combat to comprehend Variables imagery. He
-  infers that the last plan was meant for the fight with Si Sui and that
-  damage beyond a critical limit would severely weaken the Primordial Saint.
-  Keep this account as Lü Yang's deduction, not a universal numeric limit.
-- Lü Yang deduces in Chapter 1292 that the Primordial Saint's sequence is the
-  four Empty Attainment Daos in the Past, Time in the Present, and Destiny in
-  the Future. The four are Alchemy, Artifact Refinement, Dual Cultivation, and
-  Beast-Taming. He rejects placing Time in the Past because that sequence
-  would require a Nascent Soul future body, unlike the peak Golden Core body
-  facing him.
-- From that causal link, Lü Yang connects the four first-generation Peak
-  Lords' names, Dao Tianqi, Bu Tianque, Lian Tiandou, and Shi Tianyi, to the
-  shared Tian, meaning Heaven, in Tai Yitian. The Primordial Saint praises the
-  deduction; the full mechanism and consequences remain undisclosed.
-- The World-Honored One suspects that the Other Shore may have usurped some of
-  the Ancestral Dragon's broad immortality because the Dragon formed its
-  foundation. This is not yet confirmed independently.
-- Si Sui considers it possible that the Primordial Saint has combined the
-  external path of constructing Dao-attainment systems with Si Sui's inward
-  self-cultivation. This is a strategic worst-case deduction, not confirmed
-  fact.
-- Vast Sky believes His inheritance and the Primordial Saint's came from the
-  same Doctrine of Names lineage. He infers that Tai Yitian is an altered name
-  supported by a core inheritance from Grand Ancestral Master, that the name
-  granted the Primordial Saint an unknown benefit, and that a supporting ritual
-  is hidden inside Grand Ancestral Master. He believes recovering the original
-  true name or destroying that ritual may create an avenue of attack and cause
-  the benefit to turn against the Primordial Saint. This remains Vast Sky's
-  deduction.

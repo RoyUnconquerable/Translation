@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1294 to 1303
+# Current continuity: Chapters 1298 to 1304
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -21,73 +21,10 @@ approval. Review status belongs in the chapter ledger.
 - Before the current battle, the World-Honored One destroyed Karma through
   His past life body and the Primordial Saint banished Dao Tianqi into the
   Future. Chapter 1301 explicitly confirms his return.
-- Detailed events through Chapter 1293 are in continuity-archive.md; current
+- Detailed events through Chapter 1297 are in continuity-archive.md; current
   positions and unresolved questions below supersede those earlier snapshots.
 
 ## Current causal chain
-- Chapter 1294: Lü Yang emerges in clear light and purple qi, leaving his
-  injuries and depletion in the ruined body and returning to his peak. The
-  Primordial Saint recognizes an unorthodox path to Transcendence, an Ancient
-  Past achievement rather than a Great Dao in itself. Lü Yang lacks the Five
-  Elements and cultivation needed to transcend outright.
-- The Primordial Saint persuades the four opponents of His present body to
-  ease off, then redirects that power into the Future to kill Lü Yang and
-  seize the path. He accepts the expected damage from their later attacks.
-- At Si Sui's chosen moment, the Cultivating Truth Dao Lord breaks the River
-  of Time from outside, where its defense is weak. He had not recognized the
-  Primordial Saint's method and thought the earlier factions were fighting.
-  The others emerge, and the Primordial Saint recognizes Si Sui's timing.
-- Chapter 1295: Lü Yang deduces that Si Sui had recognized his path during
-  their earlier discussion and God-Sealing Method exchange. Si Sui timed the
-  intervention to upset the balance after the Primordial Saint paid His cost.
-  The Sword Sovereign and the others immediately resume their full attacks.
-- The Primordial Saint loses the prize and suffers greater damage, yet His
-  aura and constructed Variables imagery become stronger. Lü Yang stresses
-  the simultaneous fall in health and approach to the critical limit. Healing
-  would remove the advantage, so he infers a breakthrough using a fragment.
-- Lü Yang identifies the Dharma Refining Secret Realm as the unblocked source
-  of 140 million carefully selected, pure living souls. The Primordial Saint
-  summons it; Lü Yang reinforces the blockade, and Skyward and the others try
-  to intercept it. Grand Ancestral Master provides a passage beyond Lü Yang's
-  control, allowing the realm to reach the Primordial Saint.
-- All 140 million seas of consciousness enter His Other Shore fragment and
-  are refined, precisely filling its remaining gap. The Primordial Saint
-  regains Dao Lord status, breaks the blockade, and invites Nian Yao, Vast Sky,
-  Myriad Spells, and Du Xuan to slaughter the Sea of Light and restore Their
-  own status through Their fragments. The coalition collapses.
-- The Sword Sovereign moves first, with almost no hesitation. The breakthrough
-  and broken blockade intensify Variables' backlash, completing the separation
-  of the False History and True History. Si Sui emerges, rebukes Nian Yao for
-  damaging Her Dao Path, and flicks Her forehead, sending Her back faster than
-  She attacked. The other Dao Lords halt as He walks out of the False History.
-
-- Chapter 1296: Si Sui's return restores the Dharma Body and Yin and Yang,
-  completing the Sea of Light's ten Daos. Lü Yang feels the sea's joy, not
-  merely his own. The Celestial Court and its inhabitants also reappear; Si
-  Sui's aura falls slightly as He preserves them, but He says He has strength
-  to spare. He is still at peak Golden Core when He emerges.
-- The Heavenly Dao's final collapse ruins the Sword Sovereign's and Vast
-  Sky's plans. Myriad Spells and Du Xuan also refuse Si Sui's side because
-  They want to sacrifice living beings to restore Their status and see no
-  chance of defeating the Primordial Saint. Si Sui rebukes Their unchanged
-  character; His blood qi then ignites the Fathomless Void as He attacks.
-- Chapter 1296 uses 129,600 years in the reproach and 129,000 in the closing
-  punch description. Preserve the source's differing numbers rather than
-  silently harmonizing them. His height's repeated nines are symbolic, but
-  the general measure-conversion policy still applies to ordinary description.
-- Chapter 1297: Si Sui's fists strike the physical world and consciousness.
-  The Sword Sovereign and Vast Sky combine Fate and Fortune, but He breaks
-  Their Mysteries and sends Them both crashing away. The Primordial Saint
-  remains apparently unaffected above the struggle.
-- Du Xuan expects leniency because of His former friendship with Si Sui and
-  chooses to wait for the winner. Instead, Si Sui seizes His Primordial Spirit;
-  a heart-shaped seal pulses three times and reverses it to an ordinary soul.
-  Du Xuan's claim that rewritten history absolves His harm is His own defense.
-- Si Sui privately acknowledges His fault in helping Du Xuan obtain His Dao
-  Lord position. He takes back that gift after Du Xuan abandoned other
-  Spiritual Power cultivators and harmed living beings. He sends the soul
-  through the Underworld to reincarnate, leaving the Spiritual Power Dao
-  unclaimed. Future guidance is conditional on genuine change.
 - Chapter 1298: the Dao Lords recognize Dao Heart as the third means of
   overcoming Primordial Spirit immortality. Si Sui recalls His projected
   future in the old Heavenly Scripture contest: after proving Dao Heart, all the
@@ -207,29 +144,93 @@ approval. Review status belongs in the chapter ledger.
   declaring it will contain neither Great Daos nor living beings after today.
   Their destination and the final battle outcome are not yet shown.
 
+
+- Chapter 1304: the Saint recognizes that He cannot stop the Heavenly Scripture.
+  Its original page was left by the first transcender; He refined the rest and
+  delivered it to Si Sui as part of the seal. He could seal only around the
+  page, never interfere with its Mysteries or leave an effective contingency.
+  He calmly begins planning His next move.
+- Si Sui rises amid unseparated Primordial Chaos. The cover and almost all pages
+  dissolve into the void; the original page survives and its characters become
+  a talisman. All His Mysteries are anchored in it. Peak Golden Core could make
+  a False History, but Dao Lord status is necessary to bear reality's weight.
+- The Saint warns that entering tribulation again will further delay true
+  Transcendence. Si Sui gives no answer and strikes 129,600 times, cleaving a
+  rift. One becomes Two as the Yin-Yang Creation and Destruction Profound Light
+  emerges. A new sea forms, compressing millions of years into an instant.
+- Si Sui relinquishes His transcendent body to widen the rift. His fall and
+  disintegration bring Two to Three, then all things. His hair becomes lofty
+  mountains extending 100,000 li, blood a boundless ocean, breath spiritual qi,
+  and voice thunder; all His numbered features, apertures, and organs transform.
+- He forms one continuous world without separate realms: thirty-six heavenly
+  layers and seventy-two earthly regions. Fruition Attainment stars establish
+  the Five Elements, followed by Yin and Yang. The Dharma Body and Dao Heart
+  together enable life. Trillions upon trillions of beings arrive with their
+  environments unchanged. Spiritual Power and finally Tribulation complete it.
+- Si Sui's Primordial Spirit remains above the new world. The old Sea of
+  Suffering is dry and living beings are gone, but five divine lights remain:
+  Destiny, Fortune, Fate, and Spells, retained by the four Dao Lords, plus
+  Variables, which He cannot affect. Its favor for Si Sui fades as the balance
+  changes. The Saint's power also falls, His figure shakes, and Destiny seems
+  grievously damaged after 129,600 years of rule. No final defeat is confirmed.
+
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Inside the Sea of Light, witnesses Si Sui's injured true body and the Heavenly Scripture's new world. Can call on the three returned Daos; their use in combat remains untested. |
-| Dao Tianqi | Returned from the Future; retreated into the sea with Lü Yang and the World-Honored One. |
-| World-Honored One | Inside the sea; rejects slaughter because He has the One Mind and abandoned the Other Shore. Status restoration remains unconfirmed. |
-| Sword Sovereign, Vast Sky, Myriad Spells | Chose to invade the sea and restore the Other Shore; Si Sui's protection intervened. No successful invasion or restoration is shown. |
+| Lü Yang | Last shown witnessing Si Sui's rescue. No individual action or location is newly specified during Chapter 1304's collective transfer; his further use of the returned Daos is untested. |
+| Dao Tianqi | Last individually located inside the old sea with Lü Yang and the World-Honored One; no separate action is shown during the transfer. |
+| World-Honored One | Rejected slaughter; His individual action and status restoration remain unconfirmed. Tribulation enters the new world, but its transfer is not narrated as His personal action. |
+| Sword Sovereign, Vast Sky, Myriad Spells | With the Saint, retain four Daos in the old sea. No successful slaughter or restoration of Their status is shown. |
 | Du Xuan | Regressed to an ordinary soul and reincarnated; the Spiritual Power Dao is unclaimed. |
 | Cultivating Truth Dao Lord | No new action, location, or injury established since witnessing Si Sui's breakthrough. |
-| Si Sui | Taiji Dao Lord, gravely injured while protecting the sea; uses the unsealed Heavenly Scripture to create a real new world over it. Declares the old sea an empty shell. |
-| Primordial Saint | True Nascent Soul with a Ring-formed Dao Body. Pressed the attack when Si Sui stopped fighting; His response to the new world is not shown. |
+| Si Sui | Gives up His transcendent body to form the new world; His Primordial Spirit remains above it. Variables no longer favors Him; further cost and cultivation status are unresolved. |
+| Primordial Saint | Cannot stop the original page. Retains Daos with the others, but His power falls and His form shakes as Destiny suffers an apparent grievous blow. His next plan is unrevealed. |
 
 ## Live questions
 
-- Where will the Great Daos and living beings go as the new world covers the
-  original sea? What cost will Si Sui ultimately pay, and how will the Saint
-  respond? Neither final suppression nor victory is established.
+- What cultivation status and costs remain for Si Sui after He gives up His
+  transcendent body? What will the Saint do after Destiny's apparent injury?
 - Can Lü Yang effectively combine the Dao Heart with Heaven-Slayer in battle?
-- Can the three invading Dao Lords still seize living beings to restore
-  Their status after Si Sui shelters the sea and creates the new world?
+- What will the four Dao Lords do with the five Daos left in the empty old
+  sea, and how will Variables act after withdrawing its favor from Si Sui?
 - Who was the first transcender, and how complete is the Primordial Saint's
   account of the Ancient Past and the paths to higher cultivation?
 - What role do the first-generation Peak Lords' names play in the Saint's
   cultivation, and can His original name or supporting ritual be exploited?
 - Can the World-Honored One fully recover His status through Tribulation?
+
+## Open character hypotheses
+
+- Lü Yang reconstructs the Primordial Saint's three plans in Chapter 1293:
+  Divine Transformation and Ascension; personally killing the World-Honored
+  One to command Variables through Karma and Destiny; and, as a last resort,
+  damaging Destiny in mortal combat to comprehend Variables imagery. He
+  infers that the last plan was meant for the fight with Si Sui and that
+  damage beyond a critical limit would severely weaken the Primordial Saint.
+  Keep this account as Lü Yang's deduction, not a universal numeric limit.
+- Lü Yang deduces in Chapter 1292 that the Primordial Saint's sequence is the
+  four Empty Attainment Daos in the Past, Time in the Present, and Destiny in
+  the Future. The four are Alchemy, Artifact Refinement, Dual Cultivation, and
+  Beast-Taming. He rejects placing Time in the Past because that sequence
+  would require a Nascent Soul future body, unlike the peak Golden Core body
+  facing him.
+- From that causal link, Lü Yang connects the four first-generation Peak
+  Lords' names, Dao Tianqi, Bu Tianque, Lian Tiandou, and Shi Tianyi, to the
+  shared Tian, meaning Heaven, in Tai Yitian. The Primordial Saint praises the
+  deduction; the full mechanism and consequences remain undisclosed.
+- The World-Honored One suspects that the Other Shore may have usurped some of
+  the Ancestral Dragon's broad immortality because the Dragon formed its
+  foundation. This is not yet confirmed independently.
+- Si Sui considers it possible that the Primordial Saint has combined the
+  external path of constructing Dao-attainment systems with Si Sui's inward
+  self-cultivation. This is a strategic worst-case deduction, not confirmed
+  fact.
+- Vast Sky believes His inheritance and the Primordial Saint's came from the
+  same Doctrine of Names lineage. He infers that Tai Yitian is an altered name
+  supported by a core inheritance from Grand Ancestral Master, that the name
+  granted the Primordial Saint an unknown benefit, and that a supporting ritual
+  is hidden inside Grand Ancestral Master. He believes recovering the original
+  true name or destroying that ritual may create an avenue of attack and cause
+  the benefit to turn against the Primordial Saint. This remains Vast Sky's
+  deduction.
