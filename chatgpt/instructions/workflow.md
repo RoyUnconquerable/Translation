@@ -62,10 +62,12 @@ have changed. A failure is a real blocker. The check must not mutate files.
 Before writing prose, record privately:
 
 - chapter number, title, source paragraph count, and hard scene changes;
+- reviewed scene-break positions, or an explicit decision that none are needed;
 - every named or recurring referent, identity, and required pronoun;
 - every glossary term that actually occurs;
 - all numbers, dates, rankings, and causal dependencies;
 - image-bearing idioms, allusions, poems, panels, jokes, and wordplay;
+- exact approved display wording and formatting for inscriptions and declarations;
 - each likely direct thought, its speaker, and its time reference;
 - whether each idiom or allusion is fixed wording, a live image, or an adaptive
   contextual sense;
@@ -110,6 +112,10 @@ The reviews detect issues. They do not rewrite the chapter wholesale.
    Explicitly account for each isolated question or reaction. Check idiom
    meaning as well as retained imagery; a matching paragraph count or a
    familiar allusion label is not evidence that these checks passed.
+   Account explicitly for small modifiers, gestures, intent, sequence, timing,
+   scale, and singular/plural references. Check all words of a displayed
+   declaration and its formatting. Do not equate a short natural paraphrase
+   with complete coverage.
 2. English review: check grammar, clarity, modern register, character voice,
    pacing, action geography, thought mode and tense, repetition, archaic drift,
    and translationese without changing source meaning. Explicitly review
@@ -143,12 +149,16 @@ untracked temporary file outside the repository, then run the mechanical check
 once before delivery:
 
 ```text
-python chatgpt/scripts/chat_check.py <source-file> <target-file>
+python chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-before <indices>
 ```
 
 When the scripts are available, this check is mandatory for every chat-first
 chapter. It is the enforcement path for hard terms such as `神念` to `divine
 sense`, paragraph alignment, title presence, punctuation, and numbers.
+Pass the reviewed one-based source paragraph indices after the scene-break
+option, or pass the option with no values when no breaks are needed. The
+checker verifies those positions and owner-approved fixed display wording;
+the reviewers still judge which boundaries and details the source requires.
 If it reports a real hard failure, patch only the listed defect and rerun it.
 Do not start another general prose-polishing cycle after the two reviews have
 already passed.

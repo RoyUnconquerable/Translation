@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1294 to 1301
+# Current continuity: Chapters 1294 to 1303
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -16,7 +16,7 @@ approval. Review status belongs in the chapter ledger.
   later broke Lü Yang's collective body and much of the Heavenly Palace, but
   failed to kill him or destroy the Underworld before the Other Shore shattered.
 - Si Sui had to await the histories' divergence to recover 129,600 years.
-  Their final separation occurs in Chapter 1295. The Heavenly Book seal had
+  Their final separation occurs in Chapter 1295. The Heavenly Scripture seal had
   been a possible retreat before His subsequent breakthrough.
 - Before the current battle, the World-Honored One destroyed Karma through
   His past life body and the Primordial Saint banished Dao Tianqi into the
@@ -90,7 +90,7 @@ approval. Review status belongs in the chapter ledger.
   unclaimed. Future guidance is conditional on genuine change.
 - Chapter 1298: the Dao Lords recognize Dao Heart as the third means of
   overcoming Primordial Spirit immortality. Si Sui recalls His projected
-  future in the old Heavenly Book contest: after proving Dao Heart, all the
+  future in the old Heavenly Scripture contest: after proving Dao Heart, all the
   Dao Lords killed Him before He could build His ideal future. This was a
   simulation in the contest, not His actual historical death.
 - The Sword Sovereign, Vast Sky, Myriad Spells, the World-Honored One, and the
@@ -162,28 +162,72 @@ approval. Review status belongs in the chapter ledger.
   accepting the dangerous opponent. This is Si Sui's open scheme exploiting
   His desire, not a long-prepared strategy of the Saint's. No outcome is given.
 
+- Chapter 1302: the Primordial Saint's Time and Destiny resonate with the
+  Fathomless Void, revealing its Ring and cradle nature. Past and Future
+  branch and return to their source. Si Sui recognizes that His false
+  Transcendence still depends on the void, but refuses the cruel faster path.
+- The Saint draws heavenly light from the Ring into nested, reflecting Rings
+  and a Nascent Soul Dao Body, connected to the void by His Primordial Spirit
+  like an umbilical cord. Si Sui withstands Him as a second Sea of Light.
+  Their aftershocks threaten even completed Primordial Spirits with becoming
+  lost outside the sea; the battle is no longer safe to watch from the void.
+- Lü Yang opens the God-Sealing Method's blockade and retreats into the sea
+  with the World-Honored One and Dao Tianqi. The Sword Sovereign, Vast Sky,
+  and Myriad Spells choose to invade and restore the Other Shore. Si Sui's
+  path is not one They can follow; Lü Yang's method needs time and may subject
+  Them to his control. The Saint strengthens the aftershocks and breaks the
+  blockade to force Their choice.
+- Lü Yang prepares to leave the sea and intercept Them despite the storm.
+  Their success would also lift the Saint from the first Other Shore layer
+  to the second or third. Before Lü Yang acts, a wounded skeletal hand reaches
+  down, stills the storm, and gently protects the Sea of Light.
+- Chapter 1303: in the shore-and-sea tableau, the Saint offers Si Sui a fragment
+  and position on the Other Shore, then exclusive protection for the hundreds
+  of millions He cares about. The Saint may conceal, scheme, or kill, but will
+  not lie to the only person He recognizes as a Fellow Daoist. Si Sui refuses
+  and mocks His failure to understand Him; the answer about love is fabricated.
+- Si Sui's actual motive is ordinary decency: He helps when He can afford the
+  cost. He deliberately abandons the duel and takes the Saint's repeated blows
+  while reaching for the sea. Only half His body remains, His face intact but
+  all flesh below the neck gone, with talismans inscribed on crystalline bones.
+  His transcendent true body does not harm the lesser cultivators who see it.
+- Si Sui says the Saint cannot truly kill Him. The hostage strategy instead
+  forces severe injuries during the rescue and creates an opening to suppress
+  Him. Even 129,600 years ago, He did not face a threat to His life; He thinks
+  He would probably abandon the sea if His life really were endangered.
+- The Heavenly Scripture is now unsealed and usable, making this rescue's cost
+  affordable without threatening His life. Si Sui reaches out and summons it,
+  then pours in His full power, comparable to the entire Sea of Light.
+- Its title page is its core and the missing page of the Book of a Hundred
+  Lives. The displayed equality declaration has fixed wording and bold corner
+  brackets in phrase memory. A boundless new world immediately expands from
+  the book and covers the original Sea of Light. It is real, not a False
+  History substituted through altered cause and effect: this remakes heaven
+  and earth. Si Sui offers the Saint the original sea as an empty shell,
+  declaring it will contain neither Great Daos nor living beings after today.
+  Their destination and the final battle outcome are not yet shown.
+
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Can call on all three returned Daos; expects the Dao Heart to strengthen Heaven-Slayer. Preparing to defend the Sea of Light with Dao Tianqi and the World-Honored One. |
-| Dao Tianqi | Explicitly returned from the Future in Chapter 1301; can now intervene. |
-| World-Honored One | Rejects slaughter because He has the One Mind and abandoned the Other Shore. Dao Lord status restoration remains unconfirmed. |
-| Sword Sovereign | Wants access to the Sea of Light to restore Her status; Her Heavenly Dao scheme has collapsed. |
+| Lü Yang | Inside the Sea of Light, witnesses Si Sui's injured true body and the Heavenly Scripture's new world. Can call on the three returned Daos; their use in combat remains untested. |
+| Dao Tianqi | Returned from the Future; retreated into the sea with Lü Yang and the World-Honored One. |
+| World-Honored One | Inside the sea; rejects slaughter because He has the One Mind and abandoned the Other Shore. Status restoration remains unconfirmed. |
+| Sword Sovereign, Vast Sky, Myriad Spells | Chose to invade the sea and restore the Other Shore; Si Sui's protection intervened. No successful invasion or restoration is shown. |
 | Du Xuan | Regressed to an ordinary soul and reincarnated; the Spiritual Power Dao is unclaimed. |
-| Spell Dao Lord | Watching the duel and seeking status restoration; no successful restoration established. |
-| Vast Sky | Wants access to the Sea of Light to restore His status; lost the Heavenly Dao plan. |
-| Cultivating Truth Dao Lord | No new action or injury established since witnessing Si Sui's breakthrough. |
-| Si Sui | Taiji Dao Lord, a second Sea of Light in nature. Draws the Saint into a different world and Transcendence during Their duel. |
-| Primordial Saint | True Nascent Soul anchored in the void. Temporarily reduced to mortality within Si Sui's world; killing intent rises and the battle continues. |
+| Cultivating Truth Dao Lord | No new action, location, or injury established since witnessing Si Sui's breakthrough. |
+| Si Sui | Taiji Dao Lord, gravely injured while protecting the sea; uses the unsealed Heavenly Scripture to create a real new world over it. Declares the old sea an empty shell. |
+| Primordial Saint | True Nascent Soul with a Ring-formed Dao Body. Pressed the attack when Si Sui stopped fighting; His response to the new world is not shown. |
 
 ## Live questions
 
-- How will the Primordial Saint counter Si Sui after losing His Daos within
-  the second world, and can either secure victory?
+- Where will the Great Daos and living beings go as the new world covers the
+  original sea? What cost will Si Sui ultimately pay, and how will the Saint
+  respond? Neither final suppression nor victory is established.
 - Can Lü Yang effectively combine the Dao Heart with Heaven-Slayer in battle?
-- How will the other Dao Lords respond, and can they still attempt to restore
-  Their status by sacrificing living beings through Other Shore fragments?
+- Can the three invading Dao Lords still seize living beings to restore
+  Their status after Si Sui shelters the sea and creates the new world?
 - Who was the first transcender, and how complete is the Primordial Saint's
   account of the Ancient Past and the paths to higher cultivation?
 - What role do the first-generation Peak Lords' names play in the Saint's

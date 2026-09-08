@@ -231,6 +231,41 @@ class AuthorityTests(unittest.TestCase):
             ["scene break cannot end the chapter"],
         )
 
+    def test_approved_scripture_display_cannot_be_flattened(self):
+        source = "【吾疾天地不仁，大道不均，今为尔等均之！】"
+        phrases = common.load_phrase_memory(self.root)
+        row = next(row for row in phrases if row["source"] in source)
+        approved = row["target"]
+        self.assertEqual(lint.fixed_display_errors(source, approved, phrases), [])
+        self.assertEqual(lint.punctuation_residue(source, approved), [])
+        plain = approved.removeprefix("**【").removesuffix("】**")
+        self.assertTrue(lint.fixed_display_errors(source, plain, phrases))
+        changed = approved.replace("resent", "abhor")
+        self.assertTrue(lint.fixed_display_errors(source, changed, phrases))
+
+    def test_display_brackets_do_not_allow_other_source_punctuation(self):
+        self.assertEqual(lint.punctuation_residue("【测试】", "**【Test】**"), [])
+        self.assertEqual(lint.punctuation_residue("【测试】", "**【Test。】**"), ["。"])
+        self.assertTrue(lint.punctuation_residue("【测试】", "【Test】"))
+        self.assertTrue(lint.punctuation_residue("测试", "**【Test】**"))
+        self.assertTrue(lint.punctuation_residue("【测试】", "**【Test**"))
+
+    def test_reviewed_scene_breaks_detect_omissions_and_additions(self):
+        plain = "Chapter 1: Test\n\nOutside.\n\nInside."
+        target = "Chapter 1: Test\n\nOutside.\n\n---\n\nInside."
+        self.assertEqual(chat_check.scene_break_positions(target), [3])
+        self.assertEqual(chat_check.scene_break_errors(target, [3]), [])
+        self.assertIn("missing reviewed scene break", chat_check.scene_break_errors(plain, [3])[0])
+        self.assertIn("unreviewed scene break", chat_check.scene_break_errors(target, [])[0])
+        self.assertEqual(chat_check.paragraphs(target, allow_scene_breaks=True),
+                         chat_check.paragraphs(plain))
+
+    def test_heavenly_scripture_replaces_previous_name(self):
+        glossary = common.load_glossary(self.root)
+        self.assertEqual(glossary["天书"]["target"], "Heavenly Scripture")
+        self.assertTrue(lint.target_has_variant("the Heavenly Scripture", glossary["天书"]["variants"]))
+        self.assertFalse(lint.target_has_variant("the Heavenly Book", glossary["天书"]["variants"]))
+
 
 if __name__ == "__main__":
     unittest.main()

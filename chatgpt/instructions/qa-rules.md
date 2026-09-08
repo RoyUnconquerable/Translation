@@ -15,6 +15,11 @@ source-grounded problems:
 - flattened idiom, allusion, verse, religious reference, joke, or wordplay;
 - merged, split, reordered, or missing paragraph;
 - unclear combat actor, technique, target, direction, or consequence.
+- omitted small details: purpose, immediate or earlier timing, gestures,
+  totality, scale, the force of an action, and singular/plural addressees;
+- missing or paraphrased words in an approved inscription, declaration, or
+  panel, including its **【...】** display formatting;
+- missing scene separators at reviewed changes of place, time, or viewpoint.
 
 ## Review B: English and style
 
@@ -31,6 +36,8 @@ Read the English as prose, then verify every proposed change against the source:
 - an idiom or allusion whose subject, relationship, defining image, or logic no
   longer matches the source;
 - a retained Chinese image surrounded by unnecessarily archaic English syntax.
+- direct thoughts that read as analytical summaries instead of the character's
+  mental speech, or causal links obscured by compressed phrasing.
 
 A correct alternate wording is not an issue merely because a reviewer prefers
 another phrase. Genre rhythm is not automatically translation friction. Owner
@@ -50,3 +57,7 @@ chat-first mode, keep a private paragraph-indexed issue list until delivery.
 After judgment-based review, verify title, paragraph count and order, scene
 breaks, hard terminology, numbers, straight punctuation, forbidden dashes,
 source-script residue, and contractions ending in `'d`.
+Use `--scene-break-before` with the reviewed source paragraph indices, or no
+values for an explicitly reviewed absence of breaks. Missing fixed displays
+and missing reviewed separators must fail the check. These controls support,
+but do not replace, paragraph-by-paragraph semantic coverage.

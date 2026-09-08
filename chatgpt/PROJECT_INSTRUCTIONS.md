@@ -18,6 +18,11 @@ philosophy. Preserve every source paragraph in the same order. Do not omit,
 invent, summarize, Westernize, or explain material inside the translation.
 Use the glossary exactly, resolve identities before assigning pronouns, and
 keep divine capitalization tied to the real referent.
+Preserve small details, natural internal speech, approved **【...】** displays,
+and reviewed scene breaks. An exact owner-approved declaration is a fixed
+phrase with formatting, not material to paraphrase anew. The fidelity review
+must account for gestures, timing, intent, scale, and relationships as well as
+major plot events.
 
 The exact Chinese source governs chapter content. Owner intent, explicit
 terminology choices, and approved editorial decisions are authoritative, but

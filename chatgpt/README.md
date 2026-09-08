@@ -72,3 +72,7 @@ explicit opt-in for refreshing a stored legacy lint report.
 For chat-first work, `scripts/prepare.py` builds the pre-draft authority sheet
 from a temporary source file, and `scripts/chat_check.py` checks a temporary
 source and target pair without storing chapter prose.
+Pass the reviewed scene positions with `--scene-break-before`, or pass the flag
+with no values when none are needed. The checker also enforces approved fixed
+display wording and formatting. Semantic coverage still requires the two
+source-grounded reviews; paragraph counts alone do not prove completeness.

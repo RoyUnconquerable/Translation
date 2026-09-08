@@ -118,7 +118,7 @@ began returning to the True History.
   Spell Dao Lord and the injured Du Xuan. The wounded Lü Yang stands against
   Vast Sky. The defenders are outnumbered and injured, but they need only delay
   until the Dao Lords can no longer withstand the Fathomless Void.
-- At the source of the False History, Si Sui studies the Heavenly Book. As the
+- At the source of the False History, Si Sui studies the Heavenly Scripture. As the
   Other Shore's status collapses, its seal develops weaknesses. Si Sui sees the
   book as a possible retreat if the Primordial Saint has combined an external
   Dao-attainment system with Si Sui's inward cultivation path.
@@ -158,7 +158,7 @@ began returning to the True History.
   Primordial Saint.
 - Lü Yang revealed that the Primordial Saint is likely inside the same hidden
   Fathomless Void realm visited by the Ancestral Dragon and Si Sui, where the
-  Primordial Saint obtained the Heavenly Book. The other Dao Lords cannot
+  Primordial Saint obtained the Heavenly Scripture. The other Dao Lords cannot
   reach that realm even when Si Sui leads the way.
 - Every battle paused once the Dao Lords realized the Primordial Saint was
   conserving His strength while waiting for Si Sui. Lü Yang proposed that the

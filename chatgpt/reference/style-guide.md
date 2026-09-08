@@ -55,6 +55,10 @@ When principles compete, use this order:
   causal connection when simplifying a sentence.
 - Preserve every number, date, sequence, comparison, negation, title,
   relationship, and degree of certainty.
+- Account for small meaning-bearing details as well as major events: intent
+  versus threat, immediate onset, long-ago timing, a hand gesture, a plural
+  addressee, totality, and bounded versus boundless scale. Naturalize their
+  English placement without silently deleting them to shorten the paragraph.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
   connective logic that the source does not supply.
 - Match the size and function of the source beat. A short reaction or punch
@@ -145,6 +149,12 @@ When principles compete, use this order:
   merging the sequence.
 - When history is rewritten, use tense to show the new established past and
   any event anterior to it. Do not backshift mechanically.
+- Read direct thoughts as something the character would actually think.
+  Connect the immediate observation, motive, and consequence inside the source
+  paragraph. Prefer ordinary decency to abstract moral conviction in Si Sui's
+  everyday ethical reasoning; do not impose that wording on unrelated philosophy.
+  Preserve sarcasm, such as Save your breath or Don't make Me laugh, when the
+  source supports it. Natural inner speech must still retain every premise.
 - Do not add thought tags or restate in narration what an italicized thought
   has already established.
 
@@ -198,14 +208,21 @@ When principles compete, use this order:
   already identifies the speaker.
 - Use speech tags sparingly and do not invent adverbs, expressions, or gestures
   merely to explain tone.
-- A genuine hard change of place, people, or time may take a line containing
-  only `---`. Never add a break solely for visual pacing.
+- Mark a genuine hard change of place, time, or viewpoint with a line containing
+  only `---`. Review the boundary deliberately rather than omitting all breaks
+  because the Chinese has no printed separator. Do not add breaks solely for
+  visual pacing, a larger visual scale, or a continuous action beat. Record
+  the chosen source paragraph indices and validate the actual separators.
 - Environmental and impact sound effects are uppercase and unquoted on their
   own source-aligned line. An owner's voiced breath such as "Haaah..." may
   retain quoted vocalization; do not force it into an impersonal wind sound.
-- A bracketed source call-out becomes plain Title Case without brackets or
-  bold. Interface or panel text follows the established bold format only when
-  the source and local convention identify it as a panel.
+- Preserve displayed inscriptions, proclamations, edicts, scripture passages,
+  and interface panels in **【translated text】** when the source or explicit
+  owner ruling presents them that way. Keep approved wording and formatting
+  together in phrase memory. Do not turn a displayed declaration into ordinary
+  quoted dialogue or paraphrase it from memory. Use normal sentence case for
+  sentences. Ordinary inline Dao names and brief concept call-outs still use
+  canonical capitalization without automatically gaining display brackets.
 - Keep the source chapter title. A body-only owner edit never deletes it.
 
 ## Names, ranks, and capitalization
@@ -264,7 +281,8 @@ When principles compete, use this order:
 ## Prohibited habits
 
 - No em dashes, en dashes, curly quotation marks, single-glyph ellipses, or
-  fullwidth punctuation in English prose.
+  fullwidth punctuation in English prose, except the paired corner brackets
+  in the approved **【...】** display format. ASCII apostrophes still apply.
 - No fixed default sentence for routine transitions such as `然而`, `下一秒`,
   `与此同时`, or `入目所见`.
 - No faux-archaic connective language in ordinary narration.

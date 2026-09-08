@@ -29,6 +29,12 @@ PROSE_REVIEW_REMINDERS = (
     "of carrying over Chinese syntax.",
     "Link tightly related clauses inside each source paragraph when separate "
     "sentences create stop-start flow; never merge source paragraphs.",
+    "Account for every source action, gesture, purpose, timing cue, degree, "
+    "and relationship; paragraph totals alone cannot detect small omissions.",
+    "Verify displayed inscriptions word for word, including bold corner "
+    "brackets; record reviewed scene-break positions, or explicitly none.",
+    "Read direct thoughts as natural mental speech with linked reasoning, "
+    "while preserving every premise and the source's time reference.",
 )
 
 
@@ -104,7 +110,7 @@ def main() -> None:
         )
 
     print("\nbracketed terms not in hard terminology:")
-    unknown = [term for term in bracketed if term not in hard]
+    unknown = [term for term in bracketed if term not in hard and f"【{term}】" not in hard]
     if unknown:
         for term in sorted(unknown, key=lambda value: min(bracketed[value])):
             rows = ",".join(str(value) for value in sorted(bracketed[term]))
@@ -122,6 +128,12 @@ def main() -> None:
     print("\nmandatory English review:")
     for reminder in PROSE_REVIEW_REMINDERS:
         print(f"  - {reminder}")
+
+    print("\nscene-break review candidates (judgment required):")
+    for index, paragraph in enumerate(source_paragraphs, 1):
+        if re.match(r"^(与此同时|另一边|光海内|睁开眼)", paragraph):
+            print(f"  before [{index}]: {paragraph[:80]}")
+    print("  Review all other changes of place, time, and viewpoint as well.")
 
 
 if __name__ == "__main__":

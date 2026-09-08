@@ -26,6 +26,7 @@ NUM_RE = re.compile(r"\d[\d,]*")
 D_CONTRACTION_RE = re.compile(r"\b[A-Za-z]+(?:['’])d\b", re.IGNORECASE)
 SCENE_BREAK_PREFIX = "---\n\n"
 SCENE_BREAK_SUFFIX = "\n\n---"
+DISPLAY_RE = re.compile(r"\*\*【([^【】\n]+)】\*\*")
 
 BANNED_STYLE_CHARS = {
     "—": "em dash",
@@ -40,6 +41,30 @@ BANNED_STYLE_CHARS = {
 
 def digit_seqs(text: str) -> list[str]:
     return [match.group(0).replace(",", "") for match in NUM_RE.finditer(text)]
+
+
+def punctuation_residue(source: str, target: str, allowed=()) -> list[str]:
+    """Allow paired bold display brackets, not arbitrary source punctuation."""
+    if "【" in source and "】" in source:
+        target = DISPLAY_RE.sub(lambda match: match.group(1), target)
+    return sorted({
+        char for char in target
+        if char in common.CJK_PUNCT
+        and char not in allowed
+        and char not in BANNED_STYLE_CHARS
+    })
+
+
+def fixed_display_errors(source: str, target: str, phrases: list[dict]) -> list[str]:
+    """Enforce owner-approved display wording and its visible formatting."""
+    return [
+        f"approved display must retain exact wording and formatting: {row['target']}"
+        for row in phrases
+        if row["scope"] == "fixed"
+        and DISPLAY_RE.fullmatch(row["target"])
+        and row["source"] in source
+        and row["target"] not in target
+    ]
 
 
 def paragraph_payload(text: str) -> str:
@@ -195,6 +220,8 @@ def lint_chapter(
     ]
 
     allowed = set(cfg.get("allowed_source_chars") or "")
+    phrase_path = root / "glossary" / "phrase-memory.tsv"
+    phrases = common.load_phrase_memory(root) if phrase_path.is_file() else []
     source_is_cjk = cfg.get("source_script", "cjk") == "cjk"
     for row_id, source, target in pairs:
         if source_is_cjk:
@@ -219,15 +246,12 @@ def lint_chapter(
             fail("d-contraction", row_id, "forbidden form: " + ", ".join(contractions))
 
         if source_is_cjk:
-            punctuation = sorted(
-                char
-                for char in set(target)
-                if char in common.CJK_PUNCT
-                and char not in allowed
-                and char not in BANNED_STYLE_CHARS
-            )
+            punctuation = punctuation_residue(source, target, allowed)
             if punctuation:
                 fail("cjk-punct", row_id, "CJK punctuation: " + "".join(punctuation))
+
+        for detail in fixed_display_errors(source, target, phrases):
+            fail("fixed-display", row_id, detail)
 
         for entry in glossary_matches(source, glossary):
             if (chapter, row_id, entry["source"]) in legacy_exceptions:

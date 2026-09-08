@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-07",
+  "updated_at": "2026-09-08",
   "mode": "chat_first",
   "repository_authority": {
     "remote": "origin",
@@ -14,11 +14,11 @@
     "archive_branch": "archive/claude-pipeline-2026-08-19"
   },
   "progress": {
-    "latest_source_seen": 1301,
-    "latest_draft_delivered": 1301,
-    "most_recent_owner_final": 1301,
+    "latest_source_seen": 1303,
+    "latest_draft_delivered": 1303,
+    "most_recent_owner_final": 1303,
     "next_translation_chapter": 1281,
-    "next_new_chapter": 1302
+    "next_new_chapter": 1304
   },
   "authorities": {
     "chapter_ledger": "chatgpt/chapters/ledger.tsv",

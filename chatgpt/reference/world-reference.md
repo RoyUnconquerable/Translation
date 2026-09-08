@@ -1,80 +1,68 @@
 # Consolidated world reference
 
-This file contains stable mechanics and relationships, not current wounds,
-positions, English term forms, or approval history. Statements are confirmed
-source facts unless explicitly labeled as a character hypothesis.
+Stable mechanics and relationships belong here; current positions and review
+status belong elsewhere. Claims are source facts unless attributed to a character.
 
 ## Cosmology and domains
 
 - The Sea of Light contains Boundary Heavens and the inhabited cultivation
-  world. Its central realm is the Immortal Pivot.
-- The Fathomless Void lies outside ordered worlds. Ordinary concepts of size,
-  distance, and time do not carry the same fixed meaning there. A Primordial
-  Spirit without a viable anchor can become lost in it.
-- The Other Shore was built as a layered Dao-attainment system for Dao Lords.
-  Its fall reduces Their control over the mortal world and exposes Them to the
-  Fathomless Void.
-- The Underworld is Dao Tianqi's Dao-attainment system. It can support the Sea
-  of Light and survived the Other Shore's fall in damaged form.
-- The Vajra Realm can be detached from the Sea of Light and used as a temporary
-  anchor in the Fathomless Void. Lü Yang used it to shelter the Sword
-  Sovereign, Vast Sky, Myriad Spells, and Du Xuan without admitting Them into
-  the Sea of Light.
-- The Heavenly Palace is Lü Yang's Dao-attainment system and the governing
-  center of the God-Sealing Method. Most of it was destroyed in Chapter 1281,
-  but its five root Mysteries still sustained its existence.
-- Heavenly Person's Remnant Consciousness realms are distinct protected spaces
-  whose remaining consciousness cannot simply be commanded by Lü Yang.
-- Grand Ancestral Master can serve as a passage through that gap in Lü Yang's
-  jurisdiction. In Chapter 1295 the Primordial Saint routes His Dharma
-  Refining Secret Realm through it to bypass the Sea of Light's blockade.
-- According to Lü Yang and Vast Sky, the Ancestral Dragon's Detached Court is a
-  hidden realm in the Fathomless Void that may have been left by an upper-realm
-  cultivator. The Ancestral Dragon, Si Sui, and the Primordial Saint have
-  entered it, but the other Dao Lords cannot locate it even when Si Sui leads
-  the way. It is isolated by a power comparable to the protection around the
-  Heavenly Person's Remnant Consciousnesses.
+  world; its central realm is the Immortal Pivot. Outside ordered worlds, the
+  Fathomless Void lacks ordinary fixed size, distance, and time. Primordial
+  Spirits without viable anchors can become lost there.
+- The Other Shore is a layered Dao-attainment system whose fall weakens Dao
+  Lords' control of the mortal world and exposes Them to the void. Dao Tianqi's
+  Underworld is his Dao-attainment system; it supports the sea and survived
+  that fall damaged. Lü Yang used the detachable Vajra Realm as a temporary
+  void anchor for the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan
+  without admitting Them into the sea.
+- The Heavenly Palace is Lü Yang's Dao-attainment system and governs the
+  God-Sealing Method. Most was destroyed
+  in Chapter 1281, but its five root Mysteries sustained it. Protected Heavenly
+  Person's Remnant Consciousness realms resist his command. Grand Ancestral
+  Master provides a passage through this gap; the Saint used it to bypass his
+  blockade with the Dharma Refining Secret Realm.
+- Lü Yang and Vast Sky identify the Ancestral Dragon's Detached Court as a
+  hidden void realm possibly left by an upper-realm cultivator. The Dragon,
+  Si Sui, and the Saint entered it; other Dao Lords cannot locate it even with
+  Si Sui guiding Them. Its isolation has power comparable to the remnant realms' protection.
+- The void is a Ring and cradle: branching Past and Future return to one
+  source. The Saint's true Nascent Soul draws its light into nested, reflecting
+  Rings and His light body. His Primordial Spirit forms an umbilical cord to
+  the void. The Ring's radiance makes its interior appear dark.
+- False Transcendence cannot survive the void's destruction. The Saint draws
+  endlessly on the void; Si Sui withstands Him as a second Sea of Light. Their
+  aftershocks can overwhelm unsheltered Primordial Spirits. Unlike the Nascent
+  Soul Dao Body, Si Sui's transcendent true body does not harm lesser viewers.
 
 ## History and causality
 
-- The Ancient Past predates the Primordial Era. Its history cannot be traced
-  because time was cut off at that boundary, but the seven Heavenly Person's
-  Remnant Consciousnesses remain as its greatest relics.
-- According to Vast Sky's historical account, the Ancestral Dragon passed down
-  cultivation during the Primordial Era but did not create it. Si Sui's proving
-  the Dao began the Ancient Era's golden age.
-- At the end of the Ancient Era, Si Sui and the other Dao Lords suppressed the
-  Ancestral Dragon and built the Other Shore. The Primordial Saint, the Sword
-  Sovereign, and Vast Sky later suppressed Si Sui and built the Heavenly Dao,
-  beginning the 129,600-year Medieval Antiquity Era.
-- Both the Other Shore and the Heavenly Dao drew inspiration from Dao Lineages
-  inherited from the Ancient Past. Vast Sky states that all six of Them
-  received such inheritances, although the Primordial Saint received the most.
-- The original first history ended after the war between Dao Lords. It was
-  later replaced and became the basis of the False History.
-- The current True History and False History can converge, mix their chains of
-  cause and effect, and later diverge. During convergence, incompatible events
-  may be simultaneously valid and invalid.
-- Once the histories diverge and causality is anchored, Si Sui can follow the
-  current downstream and recover the 129,600 years removed from Him. Escaping
-  earlier by force would leave that missing cultivation unrecovered.
-- Dao Lords who completed Primordial Spirits escaped the False History and
-  altered its later development. This is why the current False History differs
-  from the original first history.
-- Variables is the Great Dao most closely associated with departures from an
-  established course. Karma can call toward it as an unorthodox branch.
-- A Guest Rejected by Heaven and Earth makes Lü Yang's own history unique while
-  active, preventing an external power from rewriting it.
-- The Primordial Saint can manifest a future action directly in reality and
-  separate a person from a nearby destination by placing them in different
-  times. He can also banish an opponent into the Future, temporarily removing
-  that opponent's ability to interfere with the Present without killing them.
-  Chapter 1290 shows costs and limits under combined opposition, not an
-  unlimited power to isolate any number of opponents.
-- By stepping forward in time, the Primordial Saint can leave an injured
-  version of Himself in the Past and retain an unharmed present body, though
-  His aura still decreases. Shedding a wound does not erase the cost of the
-  temporal method.
+- The Ancient Past predates the Primordial Era; time is cut off there, making
+  its history untraceable. The seven Heavenly Person's Remnant Consciousnesses
+  survive as its greatest relics.
+  Vast Sky says the Ancestral Dragon transmitted, rather than invented,
+  cultivation in the Primordial Era. Si Sui's proving the Dao began the
+  Ancient Era's golden age.
+- At that era's end, Si Sui and the Dao Lords suppressed the Dragon and built the Other
+  Shore. The Saint, Sword Sovereign, and Vast Sky later suppressed Si Sui and
+  built the Heavenly Dao, beginning the 129,600-year Medieval Antiquity Era.
+  Both systems draw on Ancient Past Dao Lineages; Vast Sky says all six Dao
+  Lords received them, with the Saint receiving the most.
+- The first history ended after the Dao Lord war, was replaced, and became
+  the basis of the False History. True and False Histories can converge,
+  mixing causality so incompatible events are simultaneously valid and
+  invalid. Divergence anchors causality and lets Si Sui follow it downstream
+  to recover His removed
+  129,600 years; escaping earlier by force would forfeit that cultivation.
+- Dao Lords with completed Primordial Spirits escaped and changed the False
+  History, making it differ from the original. Variables governs departures
+  from an established course; Karma reaches it as an unorthodox branch. A
+  Guest Rejected by Heaven and Earth prevents rewriting Lü Yang's own history
+  while active.
+- The Saint manifests future actions in reality, separates people and nearby
+  destinations across time, and banishes opponents into the Future without
+  killing them, preventing intervention. Opposition costs rule out unlimited
+  capacity. He can leave an injured version in the Past and retain an unharmed
+  present body, but His aura falls: shedding a wound does not erase its cost.
 
 ## Cultivation and Dao Lord status
 
@@ -195,6 +183,10 @@ source facts unless explicitly labeled as a character hypothesis.
   ensure His next Divine Transformation and Ascension. Si Sui's open scheme
   exploits that desire; it was not the Saint's long-prepared plan. The Saint
   allowed Du Xuan's death and helped resolve Si Sui's remaining inner obstacle.
+- Si Sui can withstand severe damage without true death, yet can be suppressed.
+  He helps from ordinary decency when the cost is affordable; He thinks He would
+  probably abandon the sea if His life were truly at risk. Transcendence lets
+  Him make that choice. The Heavenly Scripture makes this rescue affordable.
 
 ## Governing systems
 
@@ -224,10 +216,17 @@ source facts unless explicitly labeled as a character hypothesis.
 
 - The Book of a Hundred Lives is bound to Lü Yang's true body. Its talents do
   not automatically synchronize to the Heavenly Emperor.
-- The Heavenly Book created the False History and remains sealed at its source.
-  Si Sui expects the seal to weaken as the Other Shore loses status.
-- The Primordial Saint obtained the Heavenly Book from the hidden realm in the
-  Fathomless Void now identified with the Ancestral Dragon's Detached Court.
+- The Primordial Saint obtained the Heavenly Scripture from the hidden realm
+  identified as the Ancestral Dragon's Detached Court, used it to create the
+  False History, and later to seal Si Sui. Its seal was expected to weaken as
+  the Other Shore fell; Chapter 1303 confirms it is free and usable again.
+- Its title page is its core and the missing page of the Book of a Hundred
+  Lives. The equality declaration's exact approved English and display format
+  are in phrase memory. With Si Sui's full power, comparable to the sea, it
+  creates a genuinely real new world covering the original Sea of Light,
+  rather than substituting False and True Histories by altering causality.
+  Si Sui declares that the original sea will retain neither Great Daos nor
+  living beings. Their destination and the final combat outcome remain open.
 - Traversing the Mortal Dust reaches a Primordial Spirit through separated good
   and evil consciousnesses. Their abilities normally synchronize, and lasting
   unity requires one side to become dominant over time.

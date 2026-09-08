@@ -25,13 +25,17 @@ prose only, with no notes, alternatives, or commentary.
 
 Keep all numbers, comparisons, uncertainty, negation, relationships,
 cultivation distinctions, imagery, jokes, and wordplay. Refine Chinese syntax
-into grammatical English without adding explanation.
+into grammatical English without adding explanation. Also account for intent,
+gestures, timing, degree, and plural references; none is expendable merely
+because the main event remains understandable.
 
 ## Chapter authority sheet
 
 Before drafting, identify the paragraph count, scene breaks, recurring
 referents and pronouns, hard terms, numbers, time relationships, and allusions.
 Search phrase memory only for Chinese text or concepts present in the chapter.
+Record exact approved display wording and formatting, and the reviewed source
+paragraph indices for scene breaks, including an explicit none when appropriate.
 Raise unresolved material choices together in one question batch.
 
 ## Drafting standard

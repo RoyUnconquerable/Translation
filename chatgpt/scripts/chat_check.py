@@ -26,7 +26,19 @@ def paragraphs(text: str, *, allow_scene_breaks: bool = False) -> list[str]:
     return parts
 
 
-def scene_break_errors(text: str) -> list[str]:
+def scene_break_positions(text: str) -> list[int]:
+    """Return one-based source paragraph indices following each separator."""
+    count = 0
+    positions = []
+    for part in paragraphs(text):
+        if part == "---":
+            positions.append(count + 1)
+        else:
+            count += 1
+    return positions
+
+
+def scene_break_errors(text: str, expected_before: list[int] | None = None) -> list[str]:
     normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
     parts = [part.strip() for part in re.split(r"\n\s*\n", normalized) if part.strip()]
     errors: list[str] = []
@@ -36,6 +48,15 @@ def scene_break_errors(text: str) -> list[str]:
         errors.append("scene break cannot end the chapter")
     if any(left == right == "---" for left, right in zip(parts, parts[1:])):
         errors.append("consecutive scene breaks")
+    if expected_before is not None:
+        actual = set(scene_break_positions(text))
+        expected = set(expected_before)
+        missing = sorted(expected - actual)
+        extra = sorted(actual - expected)
+        if missing:
+            errors.append(f"missing reviewed scene break before paragraph(s): {missing}")
+        if extra:
+            errors.append(f"unreviewed scene break before paragraph(s): {extra}")
     return errors
 
 
@@ -44,17 +65,26 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source", type=Path)
     parser.add_argument("target", type=Path)
+    parser.add_argument(
+        "--scene-break-before", type=int, nargs="*", default=None,
+        help="Reviewed one-based source paragraph indices; pass no values for none.",
+    )
     args = parser.parse_args()
     root = common.find_root()
     glossary = common.load_glossary(root)
+    phrases = common.load_phrase_memory(root)
     source_text = args.source.read_text(encoding="utf-8")
     target_text = args.target.read_text(encoding="utf-8")
-    source = paragraphs(source_text)
+    source = paragraphs(source_text, allow_scene_breaks=True)
     target = paragraphs(target_text, allow_scene_breaks=True)
     errors: list[str] = []
     warnings: list[str] = []
 
-    errors.extend(scene_break_errors(target_text))
+    required_breaks = args.scene_break_before
+    source_breaks = scene_break_positions(source_text)
+    if source_breaks:
+        required_breaks = sorted(set(source_breaks + (required_breaks or [])))
+    errors.extend(scene_break_errors(target_text, required_breaks))
 
     if len(source) != len(target):
         errors.append(f"paragraph count: source {len(source)}, target {len(target)}")
@@ -71,13 +101,11 @@ def main() -> None:
         banned = [char for char in lint.BANNED_STYLE_CHARS if char in tgt]
         if banned:
             errors.append(f"paragraph {index}: banned typography {''.join(banned)}")
-        cjk_punct = sorted(
-            char
-            for char in set(tgt)
-            if char in common.CJK_PUNCT and char not in lint.BANNED_STYLE_CHARS
-        )
+        cjk_punct = lint.punctuation_residue(src, tgt)
         if cjk_punct:
             errors.append(f"paragraph {index}: CJK punctuation {''.join(cjk_punct)}")
+        for detail in lint.fixed_display_errors(src, tgt, phrases):
+            errors.append(f"paragraph {index}: {detail}")
         if lint.D_CONTRACTION_RE.search(tgt):
             errors.append(f"paragraph {index}: contraction ending in 'd")
         for entry in lint.glossary_matches(src, glossary):

@@ -16,8 +16,13 @@ Align the owner version with both the exact source and the prior draft,
 paragraph by paragraph. First verify fidelity, grammar, terminology,
 continuity, thought mode and tense, allusions, and formatting. Then record what
 changed in word choice, tone, sentence structure, pacing, terminology, logic,
-and formatting. Do not treat a typo or an unverified mistranslation as stylistic
-evidence.
+and formatting. Account for every changed span, including punctuation,
+capitalization, paragraph merges, and omitted title/end framing in a body-only
+paste. Report unchanged passages as unchanged rather than inventing preferences.
+When requested, provide the complete paragraph-indexed comparison in chat;
+promote only its reusable lessons to canonical files. Attribute each defect to
+the delivered draft, the owner revision, or both. Do not treat a typo or an
+unverified mistranslation as stylistic evidence.
 
 ## Classify before promotion
 

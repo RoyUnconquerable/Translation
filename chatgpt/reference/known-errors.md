@@ -13,6 +13,12 @@ better canonical control makes it redundant.
   real change of place, people, or time.
 - Fluent English is not evidence of fidelity. Recheck every paragraph against
   the Chinese after drafting.
+- Do not classify every owner expansion as padding. The Ch.1303 comparison
+  restored deliberate purpose, long-ago timing, sequence, and a hand gesture;
+  the check also found inherited omissions of plural address, immediate onset,
+  and boundlessness. The owner edit weakened the already translated severity
+  of an injury. Track whether a detail is explicit,
+  adequately conveyed by the sentence, or actually absent.
 - Matching paragraph totals is necessary but insufficient. Check every source
   paragraph against its corresponding target, especially around revisions
   that split sentences, combine questions, or change thought mode.
@@ -39,6 +45,9 @@ better canonical control makes it redundant.
 - A dated attachment is supporting evidence, not permission to reverse a later
   canonical owner ruling. `道音` remains `Dao resonance`, reaffirmed in Chapter
   1290; the older attachment's `Dao voice` is superseded.
+- `天书` is now `Heavenly Scripture`, per the explicit Ch.1303 revision.
+  Historical references to Heavenly Book are superseded terminology, not a
+  second artifact or an allowed current variant.
 - Resolve grammar before promoting an ordinary adjective into a cultivation
   term. The Chapter 1290 exception `步法玄妙` is `subtle footwork`; it does not
   remove capitalization from actual Mysteries elsewhere.
@@ -96,6 +105,10 @@ better canonical control makes it redundant.
 - Do not preserve choppy sentence boundaries inside a source paragraph when a
   premise and consequence or a comparison and explanation read more cleanly
   as one linked sentence. Paragraph alignment remains unchanged.
+- Preserve exact approved declarations and **【...】** formatting; the old
+  blanket bracket-removal/punctuation rules conflicted with this requirement.
+  Scene-break validation must compare reviewed positions, not merely check
+  that any separators already present are well formed.
 - Distinguish direct thought from free indirect narration before applying
   italics. Italics do not assign tense. Immediate mental speech normally uses
   present tense; memories and anterior events use past or perfect forms, plans
