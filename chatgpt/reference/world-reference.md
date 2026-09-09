@@ -1,7 +1,7 @@
 # Consolidated world reference
 
-Stable mechanics and relationships belong here; current positions and review
-status belong elsewhere. Claims are source facts unless attributed to a character.
+Stable mechanics and relationships. See continuity for current positions and
+the ledger for reviews. Character claims are explicitly attributed.
 
 ## Cosmology and domains
 
@@ -174,10 +174,10 @@ status belong elsewhere. Claims are source facts unless attributed to a characte
 - The Saint calls Si Sui's attainment false Transcendence: freedom without
   equivalent power. He estimates at least hundreds of millions of years to
   ninth-layer status despite no final bottleneck, versus another 100,000 years
-  to glimpse higher Divine Transformation by exploiting the sea together.
-  These are His estimates. He also attributes the Ancient Past's destruction
-  to sustaining the first transcender, who used Primordial Spirit and the Dao
-  Heart, and calls the Dragon's and Si Sui's paths imitations.
+  to glimpse higher Divine Transformation by exploiting the sea together. He
+  attributes the Ancient Past's destruction to sustaining the first transcender,
+  who used Primordial Spirit and the Dao Heart, and calls the Dragon's and
+  Si Sui's paths imitations. These are His claims and estimates.
 - The Saint could have stopped Si Sui before His final breakthrough but wanted
   a second transcender as material for the Other Shore, believing that would
   ensure His next Divine Transformation and Ascension. Si Sui's open scheme
@@ -187,6 +187,19 @@ status belong elsewhere. Claims are source facts unless attributed to a characte
   He helps from ordinary decency when the cost is affordable; He thinks He would
   probably abandon the sea if His life were truly at risk. Transcendence lets
   Him make that choice. The Heavenly Scripture makes this rescue affordable.
+
+## The new world's separation from the old sea
+
+- Si Sui's relinquished body gives the new world a transcendent nature that,
+  while intact, prevents enemy entry. The Saint surrounds it with the old sea
+  to erode that nature and reclaim jurisdiction; the balance is fragile.
+  Escape proposals and times are character estimates; see continuity.
+- Variables is absent from the new world. Si Sui says the narrow chance of
+  survival may arise before danger and be missed. Destiny makes the Saint
+  unusually sensitive to it, but even He is not guaranteed to grasp it.
+- Si Sui loses His Dharma Body but retains self-cultivated Dao Lord status as
+  a Primordial Spirit thought. The Saint loses Nascent Soul status after the
+  sea's emptying damages Destiny. Enduring nature and current status differ.
 
 ## Governing systems
 
@@ -214,8 +227,10 @@ status belong elsewhere. Claims are source facts unless attributed to a characte
 
 ## Core artifacts and methods
 
-- The Book of a Hundred Lives is bound to Lü Yang's true body. Its talents do
-  not automatically synchronize to the Heavenly Emperor.
+- The Book of a Hundred Lives is bound to Lü Yang's true body; its talents do
+  not automatically synchronize to the Heavenly Emperor. After cultivating his
+  Primordial Spirit, Lü Yang can grip its panel and prevent page reclamation
+  during Si Sui's use. Greater access with status is his inference.
 - The Primordial Saint obtained the Heavenly Scripture from the Ancestral
   Dragon's Detached Court, used it to create the False History, and delivered
   it to Si Sui to seal Him. That seal was expected to weaken with the Other
@@ -240,11 +255,10 @@ status belong elsewhere. Claims are source facts unless attributed to a characte
   and lifespan, the Dao Heart intelligence. Together they enable life, and
   incoming beings retain their previous living environments. Spiritual Power
   preserves cultivation; Tribulation supplies the hardship needed to advance.
-- Si Sui cannot take Destiny, Fortune, Fate, and Spells because four Dao Lords
-  retain them. Variables is uniquely beyond His interference and ceases to
-  favor Him as the situation changes. The five remain in the emptied old sea;
-  the Saint's power falls and Destiny appears gravely damaged. These events
-  qualify Si Sui's earlier declaration that no Daos would remain.
+- Four Dao Lords retain Destiny, Fortune, Fate, and Spells. Variables lies
+  beyond Si Sui's interference and withdraws its favor as the balance changes.
+  These five remain in the emptied sea, qualifying His no-Daos declaration.
+  The Saint's power falls as Destiny suffers grave damage.
 - Traversing the Mortal Dust reaches a Primordial Spirit through separated good
   and evil consciousnesses. Their abilities normally synchronize, and lasting
   unity requires one side to become dominant over time.

@@ -1,4 +1,4 @@
-# Condensed continuity archive through Chapter 1290
+# Condensed continuity archive through Chapter 1299
 
 This file is searched only when an earlier event becomes relevant. Git history
 retains the former detailed chapter supplements.
@@ -352,3 +352,59 @@ began returning to the True History.
   Spiritual Power cultivators and harmed living beings. He sends the soul
   through the Underworld to reincarnate, leaving the Spiritual Power Dao
   unclaimed. Future guidance is conditional on genuine change.
+
+## Chapters 1298 to 1299
+
+- Chapter 1298: the Dao Lords recognize Dao Heart as the third means of
+  overcoming Primordial Spirit immortality. Si Sui recalls His projected
+  future in the old Heavenly Scripture contest: after proving Dao Heart, all the
+  Dao Lords killed Him before He could build His ideal future. This was a
+  simulation in the contest, not His actual historical death.
+- The Sword Sovereign, Vast Sky, Myriad Spells, the World-Honored One, and the
+  Cultivating Truth Dao Lord fear His new power. Lü Yang privately trusts the
+  Book of a Hundred Lives and publicly declares his clear conscience. The
+  Primordial Saint's comments are heard only by Si Sui. Si Sui gives Dao Heart
+  to Lü Yang and relinquishes the Dharma Body and Yin and Yang to the sea.
+- Si Sui then ascends through His own Self without relying on the Other Shore
+  or Great Daos. The Primordial Saint greets Him above; the text calls Him the
+  second person to transcend and names Him the Taiji Dao Lord. Taiji is the
+  owner's explicit correction to the provisional Supreme Ultimate.
+- Chapter 1299: Si Sui's status equals the Other Shore's first layer, while
+  the Primordial Saint once stood on the seventh. Si Sui recognizes that the
+  Saint's nature had already changed through His external path; the Saint
+  insists that name and body are incidental if the Self remains unchanged.
+  Do not flatten this explanation and the previous chapter's transcendence
+  count into an invented uniform ranking.
+- The Primordial Saint calls Si Sui's attainment false Transcendence: its
+  nature permits freedom, but its power is only comparable to the former
+  Ancestral Dragon's. He estimates at least hundreds of millions of years to
+  reach ninth-layer status, despite the absence of a final bottleneck.
+- Their meeting restarts the Heaven portion of the old Dao Struggle. The
+  Primordial Saint says that the Ancient Past was destroyed by nourishing
+  the first transcender, who used Primordial Spirit and Dao Heart. He calls
+  the Ancestral Dragon's and Si Sui's methods imitations of that achievement.
+  He also identifies Lü Yang's unorthodox path as a possible false
+  Transcendence, limited by the remnant-consciousness gaps in his jurisdiction.
+- The Primordial Saint proposes treating the Sea of Light as Their pasture
+  and claims They could glimpse the higher realm of Divine Transformation
+  within another 100,000 years. Si Sui refuses, rejecting the premise that
+  tyrants can represent the human heart. Both Selves remain firm; Their
+  incompatible Daos end the talks.
+  The chapter stops before a renewed physical exchange or a battle outcome.
+
+## Pending rejected draft: Chapter 1271
+
+- The first Chapter 1271 draft was rejected and must never be reused as prose
+  or precedent. A source-grounded redraft exists in chat but remains pending
+  owner review.
+- The chapter has 66 Chinese body paragraphs. Any reviewed target must have 66
+  body paragraphs in the same order, plus the title.
+- In the historical scene, the third divided Sanhe voice speaks for the
+  Ancestral Dragon Himself. Use the Dao Lord's divine pronouns and
+  self-reference.
+- Preserve the dry-weeds-and-rotten-wood image, the wolfish-ambition image,
+  the contrast between righteous appearance and beastly interior, and the
+  closing `all beasts` force. Avoid literal calques that make the Dao Heart
+  debate sound mechanical.
+- Do not mark Chapter 1271 owner-final until the owner approves or edits the
+  repaired draft.

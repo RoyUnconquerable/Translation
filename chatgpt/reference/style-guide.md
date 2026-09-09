@@ -1,9 +1,8 @@
 # Macro style guide
 
-This is the sole authority for reusable prose policy. Exact names and terms
-belong in the glossary, contextual allusions and special lines belong in phrase
-memory, and plot facts belong in the world reference or continuity. A local
-owner edit is not a global rule unless it expresses one of the principles here.
+This is the reusable prose authority. Names and terms belong in the glossary,
+allusions in phrase memory, and facts in world reference or continuity.
+Local edits become global only when they express a reusable principle.
 
 When principles compete, use this order:
 
@@ -28,14 +27,14 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
-- Allow fuller, clearer English when a compressed rendering obscures an
-  action, participant, or causal relationship. Supply the grammatical detail
-  English needs, not new lore or commentary. Brevity is not a reason to omit
-  articles, prepositions, objects, or meaning-bearing source details.
+- Use fuller English when compression obscures an action, participant, or
+  cause. Supply needed articles, prepositions, objects, and source details,
+  without adding lore or commentary.
 - When the narrator frames cultivation combat through modern system or matchup
   logic, preserve that register with clear contemporary language such as raw
-  stats or mechanics. Do not automatically elevate it into ceremonial martial
-  abstraction.
+  stats or mechanics. Describe ease of use naturally, rather than calling a
+  system mindless. Preserve an accompanying idiot joke when the source has it;
+  do not elevate modern humor into ceremonial martial abstraction.
 
 ## Fidelity and paragraph structure
 
@@ -47,18 +46,18 @@ When principles compete, use this order:
 - Sentence boundaries may change inside a paragraph when English grammar needs
   it, provided every premise, contrast, causal link, uncertainty, and emphasis
   remains.
-- Within one source paragraph, join tightly linked premises, consequences, or
-  comparisons when separate English sentences create stop-start flow. This
-  never permits merging two source paragraphs.
+- Within one source paragraph, join tightly linked premises and consequences
+  when this improves flow; make conditions and concessions explicit. Choose
+  joined clauses, separate sentences, or compact parallels by the reasoning
+  and cadence. Never merge source paragraphs or delete a causal punch line.
 - When a resource enables an action, connect the means to the goal instead of
   presenting them as unrelated items in a list. Preserve the source's actual
   causal connection when simplifying a sentence.
 - Preserve every number, date, sequence, comparison, negation, title,
   relationship, and degree of certainty.
-- Account for small meaning-bearing details as well as major events: intent
-  versus threat, immediate onset, long-ago timing, a hand gesture, a plural
-  addressee, totality, and bounded versus boundless scale. Naturalize their
-  English placement without silently deleting them to shorten the paragraph.
+- Preserve small details: intent versus threat, immediate or long-ago timing,
+  gestures, plural addressees, totality, and bounded versus boundless scale.
+  Place them naturally; do not delete them for brevity.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
   connective logic that the source does not supply.
 - Match the size and function of the source beat. A short reaction or punch
@@ -78,16 +77,15 @@ When principles compete, use this order:
 - Audit articles, prepositions, complements, and collocations as English
   constructions rather than carrying over Chinese syntax. Restore the object
   or relationship English needs, but do not add new source meaning.
-- Check countable nouns for articles, required complements and prepositions,
-  and participles for a clear subject. Complete English outranks brevity.
-  State ownership, connect actions to deliberate control, and name both
-  compared objects when pronouns obscure them. Prefer the true nature of a
-  Nascent Soul to an ambiguous compressed noun phrase.
-- Describe sensations through the character who feels them. Even with His
-  cultivation, He felt the weight pressing down keeps the experiencer clear;
-  making cultivation the agent that could not spare Him obscures the sensation.
-- Use names or explicit nouns when pronouns could refer to two plausible
-  characters. Clarity outranks avoiding repetition.
+- Check countable-noun articles, complements, prepositions, and participle
+  subjects. State ownership and deliberate control; name compared objects
+  when pronouns obscure them. Prefer the true nature of a Nascent Soul to
+  an ambiguous compressed phrase.
+- Describe sensations through their experiencer: even with His cultivation,
+  He felt the weight pressing down. Do not make cultivation the agent that
+  could not spare Him the sensation.
+- Name a referent when pronouns are ambiguous. Specify what a character
+  understands: what happens versus why a method works, not a vague why.
 - Avoid stacked possessives when they obscure a resource's owner or source.
   Attach quantities to the beings or objects actually counted and use an
   of-phrase when it makes the relationship easier to follow.
@@ -286,8 +284,10 @@ When principles compete, use this order:
   `与此同时`, or `入目所见`.
 - No faux-archaic connective language in ordinary narration.
 - Avoid decorative inversion when direct syntax is clearer. Keep grammatical
-  emphasis such as Only when...could... for a necessary condition, and a
-  source-supported scene-opening inversion when it reads naturally.
+  emphasis such as Only when...could... for a necessary condition. A natural
+  locative opening, such as Within it surged..., may connect an established
+  place to a newly introduced phenomenon; it need not start a scene. This is
+  an option for information flow, not a default marker of grandeur.
 - No calqued Chinese syntax, comma splices, or unclear dangling modifiers.
 - No ornamental synonym chosen at the expense of accuracy or collocation.
 - No repeated explanation, second punch line, or added emotional conclusion.

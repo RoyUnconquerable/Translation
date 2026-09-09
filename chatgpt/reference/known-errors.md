@@ -1,8 +1,7 @@
 # Active error register
 
-This file contains recurring traps that are not fully prevented by the style
-guide, glossary, entity registry, or mechanical checks. Remove an entry when a
-better canonical control makes it redundant.
+Recurring traps beyond the style guide, glossary, entities, and checks.
+Remove entries made redundant by stronger canonical controls.
 
 ## Source and alignment
 
@@ -13,19 +12,22 @@ better canonical control makes it redundant.
   real change of place, people, or time.
 - Fluent English is not evidence of fidelity. Recheck every paragraph against
   the Chinese after drafting.
-- Do not classify every owner expansion as padding. The Ch.1303 comparison
-  restored deliberate purpose, long-ago timing, sequence, and a hand gesture;
-  the check also found inherited omissions of plural address, immediate onset,
-  and boundlessness. The owner edit weakened the already translated severity
-  of an injury. Track whether a detail is explicit,
-  adequately conveyed by the sentence, or actually absent.
+- Owner expansions can restore purpose, position, timing, sequence, and
+  gesture. Ch.1303 also exposed shared omissions of plural address, immediate
+  onset, boundlessness, and causal cues, plus weakened injury severity. Track
+  explicit, conveyed, and missing details rather than treating fluency as proof.
 - Matching paragraph totals is necessary but insufficient. Check every source
   paragraph against its corresponding target, especially around revisions
-  that split sentences, combine questions, or change thought mode.
-- Preserve degree: 难得, 不易, and 难度太高 express difficulty, not categorical
-  impossibility. Ch.1304's far beyond My reach overstates the last phrase.
-  Preserve unit values and qualifiers too: 十万里的高山 is lofty mountains
-  spanning 100,000 li (about 31,000 miles), not 100,000 miles.
+  that split sentences, combine questions, or change thought mode. Preserve
+  the final causal verdict inside a paragraph: Ch.1306's explanation of why
+  They are Dao Lords is source content, not a disposable repeated conclusion.
+- Preserve degree and the dimension being described: difficulty is not
+  impossibility; certainty is not magnitude; deadly is not unmistakable.
+  Ch.1306 loses further repair, weakens actual success to achieving something,
+  and substitutes unharmed for fine despite existing injuries. Restore the
+  source distinction before promoting the edit. Ch.1304's far beyond reach
+  overstates 难度太高; 100,000 li of lofty mountains is about 31,000 miles,
+  not 100,000 miles.
 - Keep `几乎` in a near-absolute statement: almost no hesitation is not no
   hesitation at all. Preserve `试图` and the action attempted; trying to
   intercept a moving realm does not establish a sealing technique or success.
@@ -34,7 +36,9 @@ better canonical control makes it redundant.
   not the delivered draft, and were repaired during consolidation.
 - Keep a conditional comparison conditional instead of turning it into an
   accomplished result. Distinguish a newly developed weakness from an old
-  weakness that can no longer be concealed.
+  weakness that can no longer be concealed. Preserve entry when inside/outside
+  changes the available Daos: Ch.1306 means attacking into the new world, not
+  merely attacking it. Retain escalation when introducing a worse contingency.
 - Triggering or stirring existing imagery is not creating it. In Chapter
   1293, 触动 points toward an already existing mark; gave rise to changes the
   causal relationship and must not become a reusable rendering.
@@ -53,8 +57,11 @@ better canonical control makes it redundant.
   term. The Chapter 1290 exception `步法玄妙` is `subtle footwork`; it does not
   remove capitalization from actual Mysteries elsewhere.
 - Resolve the real referent before capitalizing pronouns. The Sword Sovereign
-  is She/Her. The Ancestral Dragon is He/His/Him as the Dao Lord, but a detached
-  guided consciousness may be it/its where continuity explicitly says so.
+  is She/Her. Divine addressees also take You/Your, and groups of Dao Lords
+  take Us/They/Them as applicable. A Dao's radiance instead takes its or their.
+  The named Dao Variables takes singular agreement despite its spelling.
+  The Ancestral Dragon is He/His/Him as the Dao Lord, but a detached guided
+  consciousness may be it/its where continuity explicitly says so.
 - `神念` is `divine sense`. Do not replace the established faculty with
   `divine thoughts` or overlook it because the glossary is large.
 - Do not conflate the Spell Dao, Spiritual Power Dao, and Dharma Body Dao.
@@ -65,10 +72,8 @@ better canonical control makes it redundant.
 - Check word boundaries in verb-plus-title constructions: 成道主 means become
   a Dao Lord, not the separate achievement 成道, prove the Dao. The glossary
   excludes this compound while retaining independent occurrences of 成道.
-- Use `Sword Edge Metal`, without a hyphen.
-- Use `Yin-Yang Creation and Destruction Profound Light` for `两仪生灭玄光`.
-- Translate `光铸的双手` as `hands forged from light` when that construction
-  recurs.
+- Keep `Sword Edge Metal` unhyphenated, `两仪生灭玄光` as `Yin-Yang Creation
+  and Destruction Profound Light`, and `光铸的双手` as `hands forged from light`.
 - Resolve `现世` grammatically before enforcing terminology. As a noun it is
   `the mortal world`; as a verb, including `再度现世`, it means to manifest or
   appear.
@@ -91,11 +96,9 @@ better canonical control makes it redundant.
   the current source relationship afresh.
 - Do not overuse transition openers, intensifiers, `suddenly`, `simply`, or
   `couldn't help but`.
-- Do not leave dialogue or direct thought mechanically uncontracted. Review
-  expanded auxiliaries and negatives explicitly, use the natural contraction
-  by default, and retain the expanded form only when emphasis, contrast,
-  formality, or clarity requires it. Contractions ending in `'d` remain
-  forbidden.
+- Use natural contractions unless emphasis, contrast, formality, or clarity
+  requires expansion; never use forms ending in 'd. Check this manually,
+  rather than relying on the mechanical checker.
 - Run a separate article, preposition, complement, and collocation pass. A
   sentence can preserve the dictionary meaning of every word and still sound
   unclean because its English relationships were assembled mechanically.
@@ -122,7 +125,9 @@ better canonical control makes it redundant.
   modern. Recheck the allusion's actual subject and wording before accepting a
   familiar-sounding English line.
 - Preserve humor and profanity at source strength, then stop. Do not explain
-  the joke or add another flourish.
+  the joke or add another flourish. Contempt does not necessarily mean spoken
+  cursing; use natural two-faced or double-dealing for treachery rather than
+  the calque double-faced. Keep a live rat image when the source supplies it.
 - Do not make a death-and-survival idiom imply literal rebirth or a metaphorical
   decisive act imply a particular weapon. Check what the image actually does
   in the scene before accepting either literal or naturalized wording.
@@ -132,20 +137,9 @@ better canonical control makes it redundant.
 
 ## Pending rejected draft: Chapter 1271
 
-- The first Chapter 1271 draft was rejected and must never be reused as prose
-  or precedent. A source-grounded redraft exists in chat but remains pending
-  owner review.
-- The chapter has 66 Chinese body paragraphs. Any reviewed target must have 66
-  body paragraphs in the same order, plus the title.
-- In the historical scene, the third divided Sanhe voice speaks for the
-  Ancestral Dragon Himself. Use the Dao Lord's divine pronouns and
-  self-reference.
-- Preserve the dry-weeds-and-rotten-wood image, the wolfish-ambition image,
-  the contrast between righteous appearance and beastly interior, and the
-  closing `all beasts` force. Avoid literal calques that make the Dao Heart
-  debate sound mechanical.
-- Do not mark Chapter 1271 owner-final until the owner approves or edits the
-  repaired draft.
+- Never reuse its rejected first draft or treat the later chat redraft as
+  approved. For Chapter 1271 work, retrieve the complete source, pronoun,
+  paragraph, and allusion checks in continuity-archive.md under this heading.
 
 ## Repository process
 
