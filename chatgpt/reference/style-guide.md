@@ -53,9 +53,10 @@ When principles compete, use this order:
   source paragraph boundaries.
 - Preserve every number, date, sequence, comparison, negation, title,
   relationship, and degree of certainty.
-- Preserve small details: intent versus threat, immediate or long-ago timing,
-  gestures, plural addressees, totality, and bounded versus boundless scale.
-  Place them naturally; do not delete them for brevity.
+- Preserve small details: intent, timing, posture, gestures, addressees,
+  degree, totality, and bounded scale. A broad category can lose a concrete
+  action or object: study may omit reading, and cultivation may omit problems.
+  Convey these naturally; neither fluency nor fewer words proves completeness.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
   connective logic that the source does not supply.
 - Match the size and function of the source beat. A short reaction or punch
@@ -69,7 +70,8 @@ When principles compete, use this order:
 - Give most narrative paragraphs one main beat: fact, action, reaction,
   deduction, question, reversal, or punch line.
 - For action and cosmology, favor actor, action, target or direction, then
-  consequence. Keep combat geography and technique ownership explicit.
+  consequence. Front a prerequisite when this avoids nested ability/use/result
+  clauses. Keep geography, ownership, certainty, and causal links explicit.
 - Split overburdened clauses; avoid abstract noun stacks and trailing chains
   of relative or participial clauses. Keep lists in dialogue within spoken
   syntax, without editorial parentheses. Sentence length itself is not a flaw.
@@ -108,8 +110,9 @@ When principles compete, use this order:
   the source does. Preserve the joke and let it land once.
 - Formal cultivators and Dao Lords speak with control and confidence, but their
   English should remain contemporary and readable.
-- Do not give every character the same level of formality. Preserve each
-  speaker's status, temperament, and relationship to the listener.
+- Preserve each speaker's formality, temperament, and relationship. Honorific
+  replies can acknowledge an elder's judgment without evaluating the elder.
+  Modern prose must not erase this deference or the title carrying it.
 - Keep insults, threats, cruelty, slang, and comic reversals at source strength.
   Let context carry implied exploitation; do not routinely label people human
   material. Preserve explicit harvesting or sacrifice when the source states it.

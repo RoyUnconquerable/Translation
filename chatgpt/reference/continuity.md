@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1304 to 1308
+# Current continuity: Chapters 1304 to 1309
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -149,25 +149,52 @@ approval. Review status belongs in the chapter ledger.
   autonomy, and the Underworld conceals itself below. Lü Yang wonders about
   the Saint outside. No new enemy action or repair is shown.
 
+- Chapter 1309: the old Sea of Light contains only the Dao Lords and seething
+  Yin-Yang Creation and Destruction Profound Light. If the Lords vanish, Three
+  will return to Two, then One, and the sea will perish.
+- The Saint estimates nearly ten thousand years to recover the flawed-Destiny
+  balance and regain Dao Lord status. Surrounded by the three Lords, He expects
+  Them to attack unless He can restore Their status too.
+- They invite His divine-sense projection to a nascent Heavenly Dao: the Dragon's
+  Heavenly Heart Lock remains its root, leftover Other Shore fragments replace
+  the living pillar temporarily, and Spells participates. He willingly places
+  Destiny imagery inside. Fate, Fortune, and Destiny complete the Sword
+  Sovereign's design qualitatively, but its scale is still insufficient.
+- In a private void meeting, the three plan outward pressure but secret ease.
+  They believe His contribution lets Them plant Their auras and ensures He
+  becomes the living pillar; His recovery would then raise Their Heavenly Dao
+  beyond its Si Sui-era peak. No capture or restored cultivation occurs yet.
+- Separately, the Saint detects the conspiracy through Their behavior, infers
+  hidden Heavenly Dao knowledge could make Him a pillar, and rejects waiting
+  tens of thousands of years while Si Sui's people advance. He wants a decision
+  within a hundred years and resolves to seek a dependable ally, not yet named.
+- In Miluo Palace atop the Heavenly Palace, Lü Yang meditates on the Dharma
+  Body, Yin and Yang, Dao Heart, Spiritual Power, Tribulation, and Five Elements.
+  The last consists only of thirty Immortal Pivot Fruition Attainments carved
+  from the full Dao; together their power is no less than other Dao Mysteries.
+  God-Sealing jurisdiction still leaves his comprehension foggy and cultivation
+  at peak Golden Core. Si Sui arrives with a teacher's ruler and invites him to
+  read with Him, offering guidance on minor cultivation problems.
+
 ## Current positions
 
 | Actor | State |
 | --- | --- |
-| Lü Yang | Above the Heavenly Wilderness sun; extends the God-Sealing Method, distributes cultivation and governing methods, and preserves the missing page as the world foundation instead of restarting. |
+| Lü Yang | Meditating on the Dao platform in Miluo Palace atop the Heavenly Palace; governs six Daos but remains at peak Golden Core. Si Sui invites him to read and receive guidance. |
 | Dao Tianqi | With Lü Yang above the sun as a peak Golden Core Dao Lord; prioritizes repairing the Underworld, which now hides below with its Ghost Gate intact. |
 | World-Honored One | At peak Golden Core; agrees to share western rule with Cultivating Truth under a modified God-Sealing Method. No return to Nascent Soul status is shown. |
-| Sword Sovereign, Vast Sky, Myriad Spells | Retreat from trying to make the Saint a living pillar after His Alchemy recovery and Time demonstration. Their Dao Lord status is not restored. |
+| Sword Sovereign, Vast Sky, Myriad Spells | Rebuild the Heavenly Dao with Destiny and secretly intend the Saint as its living pillar. Plan to let Him recover while feigning pressure; no restored Dao Lord status. |
 | Du Xuan | Regressed to an ordinary soul and reincarnated; the Spiritual Power Dao is unclaimed. |
 | Cultivating Truth Dao Lord | Survives, arrives above the sun at peak Golden Core, and joins the World-Honored One in western rule. Requests recognition for His intervention. |
-| Si Sui | Within the new world as one Primordial Spirit thought, with Dao Lord status intact. Can fight but declines the risk of favoring the Saint through Variables; proposes a second transcender. |
-| Primordial Saint | Has lost Nascent Soul status and cannot safely enter the new world. Consumes Alchemy for partial recovery and deters the three assailants. Considers the Heavenly Dao because Other Shore reconstruction requires 84,000 years; no restored status is shown. |
+| Si Sui | Retains Dao Lord status as one Primordial Spirit thought in the new world. At Miluo Palace, offers Lü Yang reading and cultivation guidance toward further progress. |
+| Primordial Saint | Contributes Destiny to the rebuilt Heavenly Dao, suspects the trap, and seeks an unnamed dependable ally. Estimates nearly ten thousand years for recovery but demands resolution within a hundred. No restored status. |
 
 ## Live questions
 
 - Can Lü Yang transcend before the Saint recovers, and how would he take that
   step? Can another transcender secure the new world's escape as Si Sui proposes?
-- Can the Saint overcome the living-pillar impasse or find another route to
-  restore His allies before the projected Other Shore reconstruction?
+- Who will the Saint recruit, and can He escape the Heavenly Dao pillar plot
+  while resolving the conflict within His hundred-year deadline?
 - Can Lü Yang effectively combine the Dao Heart with Heaven-Slayer in battle?
 - How will Variables act if the balance changes again? A chance of survival
   is not automatic victory, and the Saint's ability to grasp it is not certain.

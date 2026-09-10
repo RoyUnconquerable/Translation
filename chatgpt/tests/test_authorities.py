@@ -120,6 +120,25 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("性命", hits)
         self.assertIn("现世", hits)
 
+    def test_signing_away_life_keeps_paired_cultivation_checked(self):
+        glossary = common.load_glossary(self.root)
+        source = "如同签下性命一般。"
+        hits = {r["source"] for r in lint.glossary_matches(source, glossary)}
+        self.assertNotIn("性命", hits)
+        hits = {r["source"] for r in lint.glossary_matches(source + "性命圆满。", glossary)}
+        self.assertIn("性命", hits)
+
+    def test_named_five_elements_dao_keeps_generic_dao_checked(self):
+        glossary = common.load_glossary(self.root)
+        for named in ("五行大道", "【五行】大道"):
+            hits = {r["source"]: r for r in lint.glossary_matches(named, glossary)}
+            self.assertIn(named, hits)
+            self.assertNotIn("大道", hits)
+            self.assertTrue(lint.target_has_variant("the Five Elements Dao", hits[named]["variants"]))
+            self.assertFalse(lint.target_has_variant("the Five Elements", hits[named]["variants"]))
+            hits = {r["source"] for r in lint.glossary_matches(named + "和另一条大道。", glossary)}
+            self.assertIn("大道", hits)
+
     def test_beast_taming_dao_is_not_the_person(self):
         glossary = common.load_glossary(self.root)
         hits = {row["source"] for row in lint.glossary_matches("豢妖道奴役祖龙。", glossary)}

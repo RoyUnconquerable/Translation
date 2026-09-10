@@ -234,7 +234,7 @@ the ledger for reviews. Character claims are explicitly attributed.
   transcender left its core title page, missing from the Book of a Hundred
   Lives. The Saint added the surrounding book and can seal only the page's
   exterior, not alter its Mysteries or plant a contingency.
-- The approved declaration is in phrase memory. In Chapter 1304, the external
+- In Chapter 1304, the external
   book dissolves and the original page becomes a talisman anchoring Si Sui's
   Mysteries. Peak Golden Core can make False History; Dao Lord status bears
   reality's weight. His body and the talisman create the new world through
@@ -251,15 +251,18 @@ the ledger for reviews. Character claims are explicitly attributed.
   Refinement builds the Other Shore; Beast-Taming enslaves the Dragon; Dual
   Cultivation links the void and grounds His true Nascent Soul. Sacrificing
   Alchemy and its arts replenishes vitality, without fully restoring Destiny.
-- A rebuilt Heavenly Dao needs a living pillar. Si Sui judges only the Saint
-  qualified to sustain one incorporating Destiny, yet He will not submit.
-  A restoration surpassing its former peak could support a Dao Lord; it has
-  not happened. Current recovery constraints and forecasts are in continuity.
+- A rebuilt Heavenly Dao needs a living pillar; Si Sui judges only the Saint
+  qualified for one incorporating Destiny. Chapter 1309 substitutes Other Shore
+  fragments, retains the Heavenly Heart Lock, and adds Spells. Adding Destiny
+  to Fate and Fortune completes the design qualitatively, not its needed scale.
+  Its creators plan to make Him its pillar and benefit from His recovery;
+  neither capture nor restored Dao Lord status occurs yet. See continuity.
 - Chapter 1304 shows five lights: Destiny, Fortune, Fate, and Spells retained
   by four Dao Lords, plus uncontrollable Variables, whose favor shifts. This
   is not an exhaustive inventory of surviving roots. Chapter 1307 confirms
-  the Five Elements Dao remains linked to the Ancestral Dragon; Si Sui takes
-  the Immortal Pivot's Fruition Attainments, not that material foundation.
+  the Five Elements Dao remains linked to the Ancestral Dragon. Si Sui takes
+  only the Immortal Pivot's thirty Fruition Attainments; together they rival
+  other Dao Mysteries. Governing the Daos does not confer comprehension.
 - Traversing the Mortal Dust reaches a Primordial Spirit through separated good
   and evil consciousnesses. Their abilities normally synchronize, and lasting
   unity requires one side to become dominant over time.
@@ -311,18 +314,13 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## Era outline
 
-1. The Ancient Past cannot be traced because time was cut off. Its surviving
-   relics include the seven Heavenly Person's Remnant Consciousnesses and the
-   Dao Lineages later inherited by the Dao Lords.
-2. During the Primordial Era, the Ancestral Dragon dominated the Sea of Light,
-   treated later beings as harvestable material, and passed down cultivation as
-   a hundred flowers bloomed.
-3. Si Sui proved the Dao and began the Ancient Era's golden age. At its end, He
-   led the Dao Lords against the Ancestral Dragon and built the Other Shore.
-4. The Primordial Saint, the Sword Sovereign, and Vast Sky later suppressed Si
-   Sui, created the False History, and built the Heavenly Dao, beginning the
-   129,600-year Medieval Antiquity Era.
-5. Dao Tianqi created the Underworld and opposed the destruction of ordinary
-   lives caused by Dao Lord plans.
-6. Lü Yang developed the God-Sealing Method into a collective order capable of
-   separating the Sea of Light from Dao Lord control.
+1. The Ancient Past is untraceable because time was cut off. Its relics include
+   seven Heavenly Person's Remnant Consciousnesses and Dao Lineages inherited by Dao Lords.
+2. In the Primordial Era, the Ancestral Dragon ruled the Sea of Light, saw later beings as
+   harvestable material, and spread cultivation as a hundred flowers bloomed.
+3. Si Sui proved the Dao, opening the Ancient Era's golden age; at its end He
+   led the Dao Lords against the Dragon and built the Other Shore.
+4. The Saint, Sword Sovereign, and Vast Sky suppressed Si Sui, created the
+   False History and Heavenly Dao, beginning the 129,600-year Medieval Antiquity Era.
+5. Dao Tianqi built the Underworld and opposed Dao Lord plans destroying ordinary lives.
+6. Lü Yang's God-Sealing collective order could separate the sea from Their rule.

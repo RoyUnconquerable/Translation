@@ -119,7 +119,9 @@ The reviews detect issues. They do not rewrite the chapter wholesale.
    Account explicitly for small modifiers, gestures, intent, sequence, timing,
    scale, and singular/plural references. Check all words of a displayed
    declaration and its formatting. Do not equate a short natural paraphrase
-   with complete coverage.
+   with complete coverage. Check concrete verbs and their objects even in
+   unchanged English: a broader category can silently omit reading, posture,
+   or the specific problem being addressed.
 2. English review: check grammar, clarity, modern register, character voice,
    pacing, action geography, thought mode and tense, repetition, archaic drift,
    and translationese without changing source meaning. Explicitly review
@@ -174,6 +176,10 @@ Adjudicate scanner findings against the actual source. Record a descriptive
 substring or an explicit shift into first-person thought as such; never insert
 an unrelated character or force self-naming just to clear a lexical match.
 Keep real name occurrences checked, and report unresolved findings honestly.
+Record a source-grounded lexical exception explicitly; do not present a
+modified checker run as an unqualified PASS. At the owner-update stage, fix
+verified contextual matching in the glossary with a regression check, then
+rerun the ordinary checker without temporary overrides.
 
 ## 5. Chat-first delivery
 

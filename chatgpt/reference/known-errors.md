@@ -20,7 +20,9 @@ Remove entries made redundant by stronger canonical controls.
   impossibility; certainty is not magnitude; deadly is not unmistakable.
   Ch.1306 loses further repair, weakens actual success to achieving something,
   and substitutes unharmed for fine despite existing injuries. Restore the
-  source distinction before promoting the edit. Ch.1304's far beyond reach
+  source distinction before promoting the edit. Refusing to tolerate recovery
+  is not impatience; an inevitable outcome is not merely almost certain.
+  Limited does not by itself preserve insufficient. Ch.1304's far beyond reach
   overstates 难度太高; 100,000 li of lofty mountains is about 31,000 miles,
   not 100,000 miles.
 - Keep `几乎` in a near-absolute statement: almost no hesitation is not no
@@ -40,14 +42,9 @@ Remove entries made redundant by stronger canonical controls.
 
 ## Identity and terminology
 
-- `神通` is `divine ability` or `divine abilities`, including Divine Abilities
-  in a title, never Divine Powers. Check chapter titles against terminology.
 - A dated attachment is supporting evidence, not permission to reverse a later
   canonical owner ruling. `道音` remains `Dao resonance`, reaffirmed in Chapter
   1290; the older attachment's `Dao voice` is superseded.
-- `天书` is now `Heavenly Scripture`, per the explicit Ch.1303 revision.
-  Historical references to Heavenly Book are superseded terminology, not a
-  second artifact or an allowed current variant.
 - Resolve grammar before promoting an ordinary adjective into a cultivation
   term. The Chapter 1290 exception `步法玄妙` is `subtle footwork`; it does not
   remove capitalization from actual Mysteries elsewhere.
@@ -60,7 +57,6 @@ Remove entries made redundant by stronger canonical controls.
 - Knowing a method in the sense of understanding or using it must not become
   merely knowing about its existence. Preserve the competence implied by
   懂得 when the scene depends on the character employing the technique.
-- Keep Fate, Destiny, Fortune, and Variables distinct.
 - Check word boundaries in verb-plus-title constructions: 成道主 means become
   a Dao Lord, not the separate achievement 成道, prove the Dao. The glossary
   excludes this compound while retaining independent occurrences of 成道.
@@ -75,6 +71,11 @@ Remove entries made redundant by stronger canonical controls.
   heavens` or `beneath the heavens`, not bare `under heaven`.
 
 ## Prose regression traps
+
+- Ch.1309 shared omissions: upright posture, sudden or immediate changes,
+  explicit reasoning links, reading, and minor cultivation problems. Preserve
+  concrete content without forcing repetitive transition words. A balance
+  characterized by a causal process is not necessarily between two quantities.
 
 - Default to modern direct English. Do not use archaic sentence inversions,
   ceremonial filler, or compressed bookish narration unless the Chinese is
