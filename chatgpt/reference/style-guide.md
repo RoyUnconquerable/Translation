@@ -94,8 +94,8 @@ When principles compete, use this order:
   preserve that external cause rather than leaving the motion open to being
   read as a voluntary retreat. Connect the resulting change in the battle to
   the action that caused it.
-- Vary or omit routine transition phrases. Translate the logical relationship,
-  not a fixed dictionary equivalent for each Chinese transition.
+- Translate logical relationships; vary routine transitions. Prefer the person
+  acting to an abstract teaching process when the source supports both.
 - Let escalation come from the sequence of concrete changes. Do not announce
   grandeur repeatedly or explain a reveal after it has landed.
 - Preserve deliberate lexical repetition in reasoning and parallel rhetoric.
@@ -207,7 +207,8 @@ When principles compete, use this order:
   only `---`. Review the boundary deliberately rather than omitting all breaks
   because the Chinese has no printed separator. Do not add breaks solely for
   visual pacing, a larger visual scale, or a continuous action beat. Record
-  the chosen source paragraph indices and validate the actual separators.
+  the source indices and validate separators. A time-jump sentence can open the
+  new scene; place its break before that transition, not after it.
 - Environmental and impact sounds are uppercase, unquoted, and source-aligned.
   Voiced breaths and coughs may stay quoted: "Haaah..." or "Ahem, ahem, ahem!"
   Preserve meaningful repetitions and delivery, without treating vocalization

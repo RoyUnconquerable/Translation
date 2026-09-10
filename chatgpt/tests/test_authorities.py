@@ -172,6 +172,13 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("现世", names)
         self.assertIn("伟力", names)
 
+    def test_mental_absence_is_not_the_outer_heavens(self):
+        glossary = common.load_glossary(self.root)
+        figurative = "他魂游天外，开始流口水。"
+        self.assertNotIn("天外", {r["source"] for r in lint.glossary_matches(figurative, glossary)})
+        both = figurative + "随后前往天外。"
+        self.assertIn("天外", {r["source"] for r in lint.glossary_matches(both, glossary)})
+
     def test_duplicate_glossary_key_is_rejected(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

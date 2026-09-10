@@ -1,9 +1,10 @@
-# Current continuity: Chapters 1310 to 1320
+# Current continuity: Chapters 1312 to 1321
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
 under Archived active window through Chapter 1309. This window supersedes its
-positions and hypotheses where the source now answers them.
+positions and hypotheses where the source now answers them. Detailed Chapters
+1310-1311 are also preserved verbatim in that archive.
 
 ## Prerequisites
 
@@ -31,40 +32,6 @@ positions and hypotheses where the source now answers them.
   84,000 years. The enemy trio rebuilt the Heavenly Dao with the Heavenly Heart
   Lock, Other Shore fragments, Spells, Fate, Fortune, and the Saint's Destiny.
   They intend His recovery to make Him its living pillar. He suspects the trap.
-
-## Chapters 1310-1311: repairing cultivation foundations
-
-- At Miluo Palace, Lü Yang says he has cultivated for less than a thousand
-  years. Si Sui judges his Dao exceptional but his skills and foundations poor.
-  God-Sealing supplies quantity of power, not the quality of mastery. Si Sui
-  attributes this to rapid Grotto-Heaven cultivation and reliance on status.
-- Si Sui distinguishes imparting the Dao, teaching skills, and resolving
-  doubts. Pan Huang was an outstanding personal disciple who required all
-  three; Zhifa already had a path and needed limited guidance. These are
-  pedagogical categories, not new cultivation realms.
-- Ancient Qi Refinement proceeds from unified concentration, to sensing qi
-  with mind rather than senses, to unity of spirit and qi, then unity of
-  essence, qi, and spirit: the Three Treasures complete, cultivation continuous.
-  Lü Yang understands the explanation yet fails after three days.
-- After another month, Si Sui diagnoses an inherent incompatibility between
-  Lü Yang's spirit and his essence/qi. Such a fault resembles low-level body
-  possession, but repeated Dharma Body and power transformations should have
-  removed it. Lü Yang privately suspects his transmigrator hardware; this is
-  not confirmed to Si Sui. The Grotto-Heaven method had allowed his progress.
-- Ancient clan languages and scripts interpret different aspects of the Dao.
-  Hundreds of thousands of varieties, including over 100,000 Dharma Body
-  tribes, form foundational knowledge. Before the Foundation Establishment
-  Realm existed, knowledge suspended cultivators under the Dao like a rope;
-  failure meant falling and annihilation, ascent led into the Dao as True
-  Monarchs. The World-Honored One later supplied a resting place, easing danger
-  while allowing later cultivators to neglect those foundations.
-- The Treasured Life Perfect Form Scripture assumes this basic knowledge.
-  Lü Yang masters one slip in a day, only to learn it is the index to a mountain
-  of slips. Governing all Daos requires all their languages. Si Sui estimates
-  300 years for rough understanding, 500 to learn, and mastery within 1,000.
-- Lü Yang proposes borrowing Dao Tianqi's wisdom light as he did in an earlier
-  life. Si Sui says wisdom light is a gift left by the first transcender,
-  enabling beings to approach the Dao, and should be nontransferable in theory.
 
 ## Chapters 1312-1314: names, the One Mind, and borrowed wisdom
 
@@ -206,14 +173,14 @@ positions and hypotheses where the source now answers them.
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Reading the ancient corpus in the Underworld with Dao Tianqi's borrowed wisdom light; One Mind gives him the needed karmic identity. Omen interrupted him. |
+| Lü Yang | After ten years of training, senses the enemy trio approaching through Fate. Still borrowing wisdom light; no completed Transcendence or new Dao Lord status shown. |
 | Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Lowercase pronouns remain owner-established. |
-| Si Sui | Back in the Underworld; accelerates Lü Yang's training after devising the three-Dao-Lord plan. Still a Primordial Spirit thought with Dao Lord status. |
+| Si Sui | Has trained Lü Yang for ten years and shared Transcendence insights; now senses the trio. Still retains Dao Lord status. |
 | World-Honored One and Cultivating Truth | In the west; the scripture pitch was interrupted by Lü Yang joining the One Mind. No new Nascent Soul breakthrough. |
 | Primordial Saint | With the manifested End Tiger in the old sea; Destiny imagery partly restored, hostile gazes delayed, negotiating against Si Sui. |
 | End Tiger | Male yellow-robed Daoist, awakened limited counterpart of the ultimate final deity; has dispersed the Dragon projection and remembers Jun. |
 | Ancestral Dragon | Speaking future projection dispersed; full resurrection not accomplished. |
-| Sword Sovereign, Vast Sky, Myriad Spells | Investigation finds no traces of the Tiger; They leave the Saint. Heavenly Dao pillar plot unresolved. |
+| Sword Sovereign, Vast Sky, Myriad Spells | After ten years, approach the Heavenly Wilderness through the River of Fate without the Saint. Motive only suspected at Chapter 1321 close. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
@@ -232,3 +199,10 @@ positions and hypotheses where the source now answers them.
 - Si Sui teaches through Primordial Spirit combat: blows transfer knowledge and correct gaps. The first punch equals three days of reading. He matches Lü Yang's status and uses less power; this is a teaching restriction, not loss of His true cultivation.
 - Lü Yang invokes the thirty Five Elements Fruition Attainments and Boundless Dao; Si Sui breaks the combined attack and deflects Heaven-Slayer. Knowledge and Dao Tianqi's wisdom light reveal how the Great Dao answers to the cultivator.
 - The Dharma Body Dao originally lacked lifespan extension. That Mystery arose when Si Sui proved the Dao. This explains its later established life-sustaining role.
+
+## Chapter 1321: understanding, loss, and ten years of practice
+
+- Lü Yang understands what happens but not why. Si Sui lets his saturated Spirit rest. Dao construction is already his strength; other foundations were deficient. The claim that all ancient Dao Lords mastered the Great Dao answering to them is encouragement: only Si Sui and the Saint did; the Sword Sovereign stopped short.
+- Dao Tianqi continues lending wisdom light while doing repairs requiring little thought. Lü Yang examines the Heavenly Calendar Numbers independently. He infers that status was created by the first Divine Transformation transcender because Ancient Past methods do not depend on it. Attribute this conclusion to Lü Yang.
+- Daily combat keeps his understanding on course; Si Sui needs longer to defeat him. Shared Transcendence teaching links nonaction to loss, including the Saint's plan to damage the Other Shore. Preserve the source's distinct acts of relinquishing, reducing and diminishing.
+- Ten years pass. A faint sword light approaches along Fate rather than materially entering the new world; it bears the Sword Sovereign, Vast Sky and Myriad Spells, without the Saint. Lü Yang suspects allegiance; Chapter 1321 does not confirm it.

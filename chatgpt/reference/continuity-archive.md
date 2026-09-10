@@ -844,3 +844,39 @@ approval. Review status belongs in the chapter ledger.
    False History and Heavenly Dao, beginning the 129,600-year Medieval Antiquity Era.
 5. Dao Tianqi built the Underworld and opposed Dao Lord plans destroying ordinary lives.
 6. Lü Yang's God-Sealing collective order could separate the sea from Their rule.
+
+## Archived active detail: Chapters 1310-1311 (moved after Chapter 1321)
+
+## Chapters 1310-1311: repairing cultivation foundations
+
+- At Miluo Palace, Lü Yang says he has cultivated for less than a thousand
+  years. Si Sui judges his Dao exceptional but his skills and foundations poor.
+  God-Sealing supplies quantity of power, not the quality of mastery. Si Sui
+  attributes this to rapid Grotto-Heaven cultivation and reliance on status.
+- Si Sui distinguishes imparting the Dao, teaching skills, and resolving
+  doubts. Pan Huang was an outstanding personal disciple who required all
+  three; Zhifa already had a path and needed limited guidance. These are
+  pedagogical categories, not new cultivation realms.
+- Ancient Qi Refinement proceeds from unified concentration, to sensing qi
+  with mind rather than senses, to unity of spirit and qi, then unity of
+  essence, qi, and spirit: the Three Treasures complete, cultivation continuous.
+  Lü Yang understands the explanation yet fails after three days.
+- After another month, Si Sui diagnoses an inherent incompatibility between
+  Lü Yang's spirit and his essence/qi. Such a fault resembles low-level body
+  possession, but repeated Dharma Body and power transformations should have
+  removed it. Lü Yang privately suspects his transmigrator hardware; this is
+  not confirmed to Si Sui. The Grotto-Heaven method had allowed his progress.
+- Ancient clan languages and scripts interpret different aspects of the Dao.
+  Hundreds of thousands of varieties, including over 100,000 Dharma Body
+  tribes, form foundational knowledge. Before the Foundation Establishment
+  Realm existed, knowledge suspended cultivators under the Dao like a rope;
+  failure meant falling and annihilation, ascent led into the Dao as True
+  Monarchs. The World-Honored One later supplied a resting place, easing danger
+  while allowing later cultivators to neglect those foundations.
+- The Treasured Life Perfect Form Scripture assumes this basic knowledge.
+  Lü Yang masters one slip in a day, only to learn it is the index to a mountain
+  of slips. Governing all Daos requires all their languages. Si Sui estimates
+  300 years for rough understanding, 500 to learn, and mastery within 1,000.
+- Lü Yang proposes borrowing Dao Tianqi's wisdom light as he did in an earlier
+  life. Si Sui says wisdom light is a gift left by the first transcender,
+  enabling beings to approach the Dao, and should be nontransferable in theory.
