@@ -107,6 +107,42 @@ class AuthorityTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "duplicate source key"):
                 common.load_glossary(root)
 
+    def test_ch1307_contexts_do_not_mask_real_terms(self):
+        glossary = common.load_glossary(self.root)
+        contexts = "光海诞生性命，五行重现世间，足以危及他性命。"
+        hits = {row["source"] for row in lint.glossary_matches(contexts, glossary)}
+        self.assertNotIn("性命", hits)
+        self.assertNotIn("现世", hits)
+        hits = {row["source"] for row in lint.glossary_matches(
+            contexts + "性命圆满，现世之中。", glossary
+        )}
+        self.assertIn("性命", hits)
+        self.assertIn("现世", hits)
+
+    def test_beast_taming_dao_is_not_the_person(self):
+        glossary = common.load_glossary(self.root)
+        hits = {row["source"] for row in lint.glossary_matches("豢妖道奴役祖龙。", glossary)}
+        self.assertIn("豢妖道", hits)
+        self.assertNotIn("豢妖", hits)
+        hits = {row["source"] for row in lint.glossary_matches("豢妖道与豢妖前辈。", glossary)}
+        self.assertIn("豢妖道", hits)
+        self.assertIn("豢妖", hits)
+
+    def test_fraction_inventory_does_not_truncate(self):
+        self.assertEqual(prepare.NUMBER_RE.findall("世上九成九的人，八万四千年后。"),
+                         ["九成九", "八万四千年"])
+
+    def test_chat_rejects_empty_and_mismatched_chapters(self):
+        self.assertEqual(chat_check.chapter_input_errors([], []),
+                         ["source is empty", "target is empty"])
+        self.assertTrue(chat_check.chapter_input_errors(["第1307章 测试"], []))
+        self.assertTrue(chat_check.chapter_input_errors(["第1307章 测试"], ["Test"]))
+        self.assertEqual(chat_check.chapter_input_errors(["第1307章 测试"],
+                                                        ["Chapter 1308: Test"]),
+                         ["target chapter number does not match source"])
+        self.assertEqual(chat_check.chapter_input_errors(["第1307章 测试"],
+                                                        ["Chapter 1307: Test"]), [])
+
     def test_lint_is_read_only_without_write_flag(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

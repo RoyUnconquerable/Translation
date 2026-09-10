@@ -60,6 +60,24 @@ def scene_break_errors(text: str, expected_before: list[int] | None = None) -> l
     return errors
 
 
+def chapter_input_errors(source: list[str], target: list[str]) -> list[str]:
+    """Reject empty inputs and a missing or mismatched chapter number."""
+    errors = []
+    if not source:
+        errors.append("source is empty")
+    if not target:
+        errors.append("target is empty")
+    if source and target:
+        source_title = re.search(r"第\s*(\d+)\s*章", source[0])
+        if source_title:
+            target_title = re.match(r"^Chapter\s+(\d+)\b", target[0])
+            if not target_title:
+                errors.append("target title is missing or malformed")
+            elif int(source_title[1]) != int(target_title[1]):
+                errors.append("target chapter number does not match source")
+    return errors
+
+
 def main() -> None:
     common.configure_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
@@ -77,7 +95,7 @@ def main() -> None:
     target_text = args.target.read_text(encoding="utf-8")
     source = paragraphs(source_text, allow_scene_breaks=True)
     target = paragraphs(target_text, allow_scene_breaks=True)
-    errors: list[str] = []
+    errors = chapter_input_errors(source, target)
     warnings: list[str] = []
 
     required_breaks = args.scene_break_before
@@ -88,12 +106,6 @@ def main() -> None:
 
     if len(source) != len(target):
         errors.append(f"paragraph count: source {len(source)}, target {len(target)}")
-    if source and target:
-        if re.search(r"第\s*\d+\s*章", source[0]) and not re.search(
-            r"\bChapter\s+\d+\b", target[0]
-        ):
-            errors.append("target title is missing or malformed")
-
     for index, (src, tgt) in enumerate(zip(source, target), 1):
         residue = sorted({char for char in tgt if common.is_cjk(char)})
         if residue:

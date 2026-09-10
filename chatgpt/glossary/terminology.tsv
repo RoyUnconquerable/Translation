@@ -71,7 +71,7 @@ source	target	notes
 玄妙	Mystery|Mysteries	number follows the raw for the cultivation concept; adjectival 步法玄妙 is subtle footwork in owner-final Ch.1290, not a named Mystery [except: 步法玄妙]; provenance terminology.tsv and owner-final Ch.1290
 天宫	Heavenly Palace	with 'the' (Ch. 1196 ruling); provenance terminology.tsv
 位格	status	lowercase except at sentence start; the legacy phrase 踏天境的高位格 was translated compositionally [except: 踏天境的高位格]; provenance terminology.tsv
-现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
+现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世|重现世间]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
 仙桥	Immortal Bridge	provenance terminology.tsv
 改因易果	altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; provenance terminology.tsv
 伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力|排山倒海的伟力]; 降世的伟力 = 'the might of Their descent' (owner Ch.1210); 排山倒海的伟力 permits 'an overwhelming power' with the mountain-and-sea image retained (owner Ch.1295). Neither compound changes the default for bare 伟力.
@@ -222,7 +222,7 @@ source	target	notes
 癸水	Gui-Water	established Heavenly Stem elemental rendering; hyphenated; provenance owner-rulings-ch1221-ch1243.tsv
 巳火	Si-Fire	established Earthly Branch elemental rendering; hyphenated; provenance owner-rulings-ch1221-ch1243.tsv
 辰土	Chen-Earth	established Earthly Branch elemental rendering; hyphenated; provenance owner-rulings-ch1221-ch1243.tsv
-五行	Five Elements	capitalize as the named elemental system; provenance owner-rulings-ch1221-ch1243.tsv
+五行	Five Elements	Capitalize the elemental system. When syntax names its Dao explicitly, prefer Five Elements Dao, not Dao of the Five Elements; owner Ch.1307. Do not append Dao to every occurrence.
 小友	little friend	owner correction after Ch. 1247; never young friend; provenance owner-rulings-ch1221-ch1243.tsv
 大宗师	Grand Ancestral Master	bare proper name without the definite article; a place or realm among the seven Heavenly Person's Remnant Consciousnesses, named after the Zhuangzi chapter; never Grandmaster or a person/title; owner-final Ch.1283; provenance owner-rulings-ch1221-ch1243.tsv
 代掌教	Acting Sect Master	formal Saint Sect office held by Chongguang; capitalize as a title; owner final Ch. 1250; provenance owner-rulings-ch1250.tsv
@@ -327,7 +327,7 @@ source	target	notes
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. 危及性命 and 危及他性命 mean endanger life, not this paired cultivation state [except: 危及性命|危及他性命]; Ch.1288, Ch.1303 and Ch.1306 context checks
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. 危及性命 and 危及他性命 mean endanger life, not this paired cultivation state [except: 危及性命|危及他性命|诞生性命]; 诞生性命 means produce life; Ch.1288, Ch.1303, Ch.1306 and Ch.1307 context checks
 神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase in ordinary prose, Title Case in the chapter title or an established proper name
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
@@ -343,3 +343,9 @@ source	target	notes
 太极道主	Taiji Dao Lord	Si Sui's title after relinquishing His Daos and transcending in Ch.1298; explicit owner Taiji correction. Normally takes the definite article; retain His divine pronouns.
 【环】	Ring	The named manifestation of the Fathomless Void as cradle in Ch.1302-1303; owner Ch.1303 retains Ring. Does not prescribe the ordinary noun 环.
 元婴道身	Nascent Soul Dao Body	Owner Ch.1303 retains the Ch.1302 compound; distinct from the Dharma Body and Si Sui's transcendent true body.
+炼丹道	Alchemy Dao	Named Dao; expands the already approved four-Dao phrase in Ch.1292. Distinct from a person, especially Senior Beast-Taming.
+炼器道	Artifact Refinement Dao	Named Dao; expands the already approved four-Dao phrase in Ch.1292. Distinct from a person, especially Senior Beast-Taming.
+双修道	Dual Cultivation Dao	Named Dao; expands the already approved four-Dao phrase in Ch.1292. Distinct from a person, especially Senior Beast-Taming.
+豢妖道	Beast-Taming Dao	Named Dao; expands the already approved four-Dao phrase in Ch.1292. Distinct from a person, especially Senior Beast-Taming.
+活桩	living pillar	Owner Ch.1307 replaces provisional living anchor for a living being sustaining the Heavenly Dao; not a global replacement for anchors.
+五行道	Five Elements Dao	Owner Ch.1307; use the compact named-Dao form.

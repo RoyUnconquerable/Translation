@@ -27,9 +27,10 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
-- Use fuller English when compression obscures an action, participant, or
-  cause. Supply needed articles, prepositions, objects, and source details,
-  without adding lore or commentary.
+- Choose length by meaning and cadence, not a preference for either brevity or
+  expansion. Use fuller English to clarify participants, causes, and grammar;
+  cut abstract padding that adds no detail. A surge of recovered power need
+  not become an infusion of nourishment. Preserve every source qualification.
 - When the narrator frames cultivation combat through modern system or matchup
   logic, preserve that register with clear contemporary language such as raw
   stats or mechanics. Describe ease of use naturally, rather than calling a
@@ -72,15 +73,14 @@ When principles compete, use this order:
   deduction, question, reversal, or punch line.
 - For action and cosmology, favor actor, action, target or direction, then
   consequence. Keep combat geography and technique ownership explicit.
-- Split overburdened clauses. Avoid long chains of which-relatives, abstract
-  noun stacks, and repeated participial phrases.
-- Audit articles, prepositions, complements, and collocations as English
-  constructions rather than carrying over Chinese syntax. Restore the object
-  or relationship English needs, but do not add new source meaning.
-- Check countable-noun articles, complements, prepositions, and participle
-  subjects. State ownership and deliberate control; name compared objects
-  when pronouns obscure them. Prefer the true nature of a Nascent Soul to
-  an ambiguous compressed phrase.
+- Split overburdened clauses; avoid abstract noun stacks and trailing chains
+  of relative or participial clauses. Keep lists in dialogue within spoken
+  syntax, without editorial parentheses. Sentence length itself is not a flaw.
+- Audit articles, prepositions, complements, and collocations, alongside
+  countability, verb parallelism, and participle subjects. Use English grammar.
+  Keep ownership and deliberate control explicit. Use natural collocations:
+  fight to a stalemate, not hold someone to a stalemate. A correct dictionary
+  meaning does not guarantee a natural sentence.
 - Describe sensations through their experiencer: even with His cultivation,
   He felt the weight pressing down. Do not make cultivation the agent that
   could not spare Him the sensation.
@@ -111,8 +111,9 @@ When principles compete, use this order:
   English should remain contemporary and readable.
 - Do not give every character the same level of formality. Preserve each
   speaker's status, temperament, and relationship to the listener.
-- Keep insults, threats, cruelty, slang, and comic reversals at their source
-  strength. Do not soften them or add extra vulgarity.
+- Keep insults, threats, cruelty, slang, and comic reversals at source strength.
+  Let context carry implied exploitation; do not routinely label people human
+  material. Preserve explicit harvesting or sacrifice when the source states it.
 - Narratorial judgment stays close to the viewpoint character. Avoid turning a
   sharp reaction into detached literary commentary.
 
@@ -123,16 +124,12 @@ When principles compete, use this order:
   questions, decisions, rebuttals, and exclamations.
 - Keep free indirect narration in roman type. A rhetorical question reported
   through a viewpoint is not automatically a quoted thought.
-- Italics identify direct thought; they do not determine tense. Choose the
-  thought mode and time reference before formatting it.
-- Direct thought is mental speech anchored to the character's "now" in the
-  story. Current perceptions, judgments, and reasoning normally use present
-  tense. Plans and predictions use future forms, hypotheticals use conditional
-  forms, and recalled or anterior events use past, present perfect, or past
-  perfect as the chronology requires.
-- Never backshift an immediate direct thought merely because the surrounding
-  narration is past tense. Free indirect narration remains roman and normally
-  follows the narrative past.
+- Choose thought mode and time reference before formatting.
+  Italics identify direct thought; they do not determine tense. Direct thought speaks from the character's now: present
+  for current perceptions, future for plans, conditional for hypotheticals,
+  and past or perfect for memories as chronology requires. Never backshift an
+  immediate thought to match past narration. Free indirect narration remains roman
+  and normally follows the narrative past.
 - Determine direct thought from voice and context, not mechanically from the
   source's quotation glyphs. A third-person analytical conclusion may remain
   free indirect narration in roman type even when Chinese encloses it in
@@ -163,8 +160,9 @@ When principles compete, use this order:
   is no longer doing narrative work.
 - Preserve an idiom's defining image when that image carries the argument,
   joke, characterization, or a later metaphor chain.
-- Naturalize a lexicalized idiom when its original image is dormant and a
-  literal version would read as translationese. Preserve meaning and force.
+- Naturalize a lexicalized idiom when its image is dormant and literal wording
+  would sound translated. Do not unpack every implication. Preserve meaning
+  and force; a retained live image still needs idiomatic surrounding English.
 - Apply this distinction within the same passage: a snake proverb may retain
   its image while a figurative claim that someone is a spent force needs no
   crossbow bolt. When applying a proverb to a person, natural phrasing can
@@ -226,14 +224,10 @@ When principles compete, use this order:
 
 - Birth names use pinyin with established diacritics. Translate established Dao
   names, ranks, techniques, artifacts, realms, and epithets.
-- Use the glossary's capitalization exactly. Do not promote generic nouns into
-  proper terms.
-- Choose articles by syntax and referent, not capitalization. Symbolic One,
-  Two, and Three can stand bare in the creation formula; anaphoric the One
-  remains valid. Ordinary article rules still apply, including the Dao Heart.
-- In definite references use the Dao Heart and, for the World-Honored One's
-  method, the One Mind as grammar requires. Capitalizing a concept does not
-  remove its article; distinguish these from attributive uses such as Dao Heart tiers.
+- Follow glossary capitalization without promoting generic nouns. Articles
+  depend on syntax: the Dao Heart, His Dao Heart, or attributive Dao Heart
+  tiers; the One Mind for the World-Honored One's method. Symbolic One, Two,
+  and Three may stand bare in creation formulas; anaphoric the One is valid.
 - Use nature for fundamental character or constitutive identity, including
   differences expressed through cultivation realms. Retain essence for a
   substance, refined essence, core, or another sense that warrants it. This

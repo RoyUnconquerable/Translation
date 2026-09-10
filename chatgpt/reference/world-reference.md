@@ -9,12 +9,10 @@ the ledger for reviews. Character claims are explicitly attributed.
   world; its central realm is the Immortal Pivot. Outside ordered worlds, the
   Fathomless Void lacks ordinary fixed size, distance, and time. Primordial
   Spirits without viable anchors can become lost there.
-- The Other Shore is a layered Dao-attainment system whose fall weakens Dao
-  Lords' control of the mortal world and exposes Them to the void. Dao Tianqi's
-  Underworld is his Dao-attainment system; it supports the sea and survived
-  that fall damaged. Lü Yang used the detachable Vajra Realm as a temporary
-  void anchor for the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan
-  without admitting Them into the sea.
+- The Other Shore's fall weakens Dao Lord control and exposes Them to the
+  void. Dao Tianqi's Underworld, his own Dao-attainment system, supports the
+  sea and survives damaged. The detachable Vajra Realm temporarily anchors
+  the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan outside the sea.
 - The Heavenly Palace is Lü Yang's Dao-attainment system and governs the
   God-Sealing Method. Most was destroyed
   in Chapter 1281, but its five root Mysteries sustained it. Protected Heavenly
@@ -47,12 +45,10 @@ the ledger for reviews. Character claims are explicitly attributed.
   built the Heavenly Dao, beginning the 129,600-year Medieval Antiquity Era.
   Both systems draw on Ancient Past Dao Lineages; Vast Sky says all six Dao
   Lords received them, with the Saint receiving the most.
-- The first history ended after the Dao Lord war, was replaced, and became
-  the basis of the False History. True and False Histories can converge,
-  mixing causality so incompatible events are simultaneously valid and
-  invalid. Divergence anchors causality and lets Si Sui follow it downstream
-  to recover His removed
-  129,600 years; escaping earlier by force would forfeit that cultivation.
+- The first history, replaced after the Dao Lord war, underlies False History.
+  Convergence mixes causality: incompatible events become simultaneously valid
+  and invalid. Divergence anchors causality, letting Si Sui follow it to
+  recover 129,600 removed years; early forced escape would forfeit them.
 - Dao Lords with completed Primordial Spirits escaped and changed the False
   History, making it differ from the original. Variables governs departures
   from an established course; Karma reaches it as an unorthodox branch. A
@@ -89,10 +85,10 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## Great Dao architecture
 
-- The setting distinguishes ten Great Daos; do not infer a complete mapping
-  from an incomplete list of examples. Fate, Destiny, Fortune, and Variables
-  are distinct. The Three Foundations are Spiritual Power, Spells, and the
-  Dharma Body, with separate Dao Lords and Dao Lineages.
+- The ten Great Daos distinguish Fate, Destiny, Fortune, and Variables.
+  Partial examples are not a complete inventory. The Three Foundations are
+  Spiritual Power, Spells, and the Dharma Body, each with its Dao Lord and
+  Dao Lineage.
 - Vast Sky defines Fortune as a being's or phenomenon's ability to influence
   external things, fate, and the world. He proved it through the Written Word,
   creating the Sea of Light's written language and naming its thirty Fruition
@@ -231,34 +227,38 @@ the ledger for reviews. Character claims are explicitly attributed.
   not automatically synchronize to the Heavenly Emperor. After cultivating his
   Primordial Spirit, Lü Yang can grip its panel and prevent page reclamation
   during Si Sui's use. Greater access with status is his inference.
-- The Primordial Saint obtained the Heavenly Scripture from the Ancestral
-  Dragon's Detached Court, used it to create the False History, and delivered
-  it to Si Sui to seal Him. That seal was expected to weaken with the Other
-  Shore's fall; Si Sui later unseals it. Its title page is its core and the
-  missing page of the Book of a Hundred Lives. The first transcender left that
-  original page; the Saint refined and added the surrounding book. He can seal
-  only its exterior, not affect the original Mysteries or plant a contingency.
-- The declaration's approved wording and format are in phrase memory. In
-  Chapter 1304 the cover and almost all pages dissolve, leaving the original
-  page, whose characters become a talisman. Peak Golden Core suffices to make
-  a False History, but a Dao Lord's status is needed to bear the weight of
-  reality and make it real. Si Sui anchors His Mysteries in the surviving page.
-- With this talisman, Si Sui opens a rift and gives up His transcendent body
-  to form a new Sea of Light. One produces Two, Two produces Three, and Three
-  produces all things. The Yin-Yang Creation and Destruction Profound Light
-  opens the world; His body becomes its geography, spiritual qi, and thunder.
-  The Saint warns that reentering tribulation delays true Transcendence.
-- This world is one continuous expanse, unlike the old sea's separate realms,
-  with thirty-six heavenly layers and seventy-two earthly regions. The Five
-  Elements precede Yin and Yang, then the Dharma Body and Dao Heart. Matter
-  and spirit form a unity of opposites; the Dharma Body supplies embodied life
-  and lifespan, the Dao Heart intelligence. Together they enable life, and
-  incoming beings retain their previous living environments. Spiritual Power
-  preserves cultivation; Tribulation supplies the hardship needed to advance.
-- Four Dao Lords retain Destiny, Fortune, Fate, and Spells. Variables lies
-  beyond Si Sui's interference and withdraws its favor as the balance changes.
-  These five remain in the emptied sea, qualifying His no-Daos declaration.
-  The Saint's power falls as Destiny suffers grave damage.
+- The Saint obtained the Heavenly Scripture from the Dragon's Detached Court
+  and used it to create False History and seal Si Sui. Its seal was expected
+  to weaken with the Other Shore's fall; Si Sui unseals it. The first
+  transcender left its core title page, missing from the Book of a Hundred
+  Lives. The Saint added the surrounding book and can seal only the page's
+  exterior, not alter its Mysteries or plant a contingency.
+- The approved declaration is in phrase memory. In Chapter 1304, the external
+  book dissolves and the original page becomes a talisman anchoring Si Sui's
+  Mysteries. Peak Golden Core can make False History; Dao Lord status bears
+  reality's weight. His body and the talisman create the new world through
+  One, Two, Three, and all things. Event details are in continuity.
+- The new world has thirty-six heavenly layers, seventy-two earthly regions,
+  and no separate realms. Five Elements and Yin and Yang establish matter and
+  spirit; the Dharma Body supplies embodied life and lifespan, the Dao Heart
+  intelligence. Spiritual Power sustains cultivation, Tribulation advancement.
+- Removing the Dharma Body and Dao Heart prevents both embodied and conscious
+  life from arising for harvest in the old sea. The damaged Five Elements Dao
+  can support the Other Shore again when the Dragon's sea of consciousness
+  naturally regathers: the Saint calculates 84,000 years.
+- His four original Empty Attainment Daos have distinct uses: Artifact
+  Refinement builds the Other Shore; Beast-Taming enslaves the Dragon; Dual
+  Cultivation links the void and grounds His true Nascent Soul. Sacrificing
+  Alchemy and its arts replenishes vitality, without fully restoring Destiny.
+- A rebuilt Heavenly Dao needs a living pillar. Si Sui judges only the Saint
+  qualified to sustain one incorporating Destiny, yet He will not submit.
+  A restoration surpassing its former peak could support a Dao Lord; it has
+  not happened. Current recovery constraints and forecasts are in continuity.
+- Chapter 1304 shows five lights: Destiny, Fortune, Fate, and Spells retained
+  by four Dao Lords, plus uncontrollable Variables, whose favor shifts. This
+  is not an exhaustive inventory of surviving roots. Chapter 1307 confirms
+  the Five Elements Dao remains linked to the Ancestral Dragon; Si Sui takes
+  the Immortal Pivot's Fruition Attainments, not that material foundation.
 - Traversing the Mortal Dust reaches a Primordial Spirit through separated good
   and evil consciousnesses. Their abilities normally synchronize, and lasting
   unity requires one side to become dominant over time.

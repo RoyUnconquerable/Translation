@@ -5,13 +5,8 @@ Remove entries made redundant by stronger canonical controls.
 
 ## Source and alignment
 
-- Always count source and target body paragraphs independently. Preserve one
-  target paragraph per source paragraph, in identical order.
-- A body-only owner edit retains the translated chapter title.
-- Do not infer a scene break from a change in visual scale alone. Confirm a
-  real change of place, people, or time.
-- Fluent English is not evidence of fidelity. Recheck every paragraph against
-  the Chinese after drafting.
+- Alignment, framing, and scene boundaries follow the style guide and checker;
+  fluent English or matching paragraph totals do not establish fidelity.
 - Owner expansions can restore purpose, position, timing, sequence, and
   gesture. Ch.1303 also exposed shared omissions of plural address, immediate
   onset, boundlessness, and causal cues, plus weakened injury severity. Track
@@ -99,9 +94,11 @@ Remove entries made redundant by stronger canonical controls.
 - Use natural contractions unless emphasis, contrast, formality, or clarity
   requires expansion; never use forms ending in 'd. Check this manually,
   rather than relying on the mechanical checker.
-- Run a separate article, preposition, complement, and collocation pass. A
-  sentence can preserve the dictionary meaning of every word and still sound
-  unclean because its English relationships were assembled mechanically.
+- A glossary PASS does not certify prose. Ch.1307 exposed abstract padding,
+  overexplicit human-material wording, awkward collocations, and parenthetical
+  dialogue lists. Fix the construction, not isolated synonyms. In the owner
+  edit, few talent, missing you in direct address, and to establish...and laid
+  are grammar slips, not preferences.
 - Check what a possessive modifies: His teacher's ruler invents an owner when
   the source identifies His disciplinary implement. Separate a being's
   attainment from the action of using that being as material; compressed

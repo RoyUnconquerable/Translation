@@ -141,7 +141,10 @@ same two passes sequentially.
 
 Continue the lead translator's local review while both detector tasks run.
 Avoid repeated short polling. Collect their findings once the local pass is
-complete, then adjudicate them together.
+complete, then adjudicate them together. If a detector has not returned after
+about 90 seconds, notify the owner, stop that task, and complete its remaining
+pass locally against the same draft. Record the fallback honestly; do not
+skip a review, spawn replacement drafts, or restart preparation.
 
 The lead translator decides each finding and applies all accepted corrections
 in one surgical patch whenever possible. Save the patched target to an
@@ -174,7 +177,10 @@ For ordinary chat work, deliver the chapter before repository maintenance.
 Once the reviewed text passes the final check, return the complete chapter in
 the final response immediately. A temporary draft or a successful check is not
 delivery. If interrupted at this point, resume from the reviewed text instead
-of restarting preparation or leaving the chapter undelivered.
+of restarting preparation or leaving the chapter undelivered. If the owner
+reports missing output, immediately resend the existing checked chapter in
+full before investigating workflow issues. File timestamps measure only local
+stages, not the owner's total wait; do not present them as delivery timings.
 Do not create provisional per-chapter supplements or commits. After the owner
 approves or supplies edited prose, compare it once against both the exact source
 and the draft. Verify fidelity, grammar, terminology, continuity, thought mode

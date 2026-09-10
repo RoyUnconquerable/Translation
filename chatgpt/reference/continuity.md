@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1300 to 1306
+# Current continuity: Chapters 1302 to 1307
 
 This is the active causal window for the next translation. It records source
 facts independently of whether a chapter's English draft has received owner
@@ -21,47 +21,10 @@ approval. Review status belongs in the chapter ledger.
 - Before the current battle, the World-Honored One destroyed Karma through
   His past life body and the Primordial Saint banished Dao Tianqi into the
   Future. Chapter 1301 explicitly confirms his return.
-- Detailed events through Chapter 1299 are in continuity-archive.md; current
+- Detailed events through Chapter 1301 are in continuity-archive.md; current
   positions and unresolved questions below supersede those earlier snapshots.
 
 ## Current causal chain
-- Chapter 1300: Lü Yang can use the Dharma Body, Yin and Yang, and the Dao
-  Heart through his control of the Sea of Light. He considers combining the
-  Dao Heart with Heaven-Slayer; defeating the Sword Sovereign still seems
-  unlikely, though he expects to inflict greater injuries. His Heavenly Palace
-  and core are less secure anchors than the sea's foundations.
-- Si Sui reveals a Taiji world and His nature as a second Sea of Light, with
-  Himself its Innate Dao God. The World-Honored One says suppressing Him would
-  require His own full strength at His peak. Lü Yang sees a possible chance
-  of victory, not a confirmed advantage over the Primordial Saint.
-- The Primordial Saint reveals Nascent Soul cultivation as growth within the
-  Fathomless Void, nourished by the Sea of Light, until birth means
-  Transcendence. Only He understood the infant aspect and changed His nature.
-  He formerly reached the seventh layer; others reached the fourth, with the
-  Sword Sovereign reaching the fifth through the Heavenly Dao.
-- His Primordial Spirit is anchored in the void itself and can survive the
-  Other Shore's destruction unless forcibly stripped from that anchor. Si
-  Sui likewise endures through His nature as a second Sea of Light.
-- Chapter 1301: the duel's immortal music becomes a destructive storm below.
-  The watching Dao Lords cannot look directly at the battle and crave a return
-  to the Sea of Light to restore Their status. The World-Honored One rejects
-  slaughter because He abandoned the Other Shore and has the One Mind, not
-  because He is fundamentally unlike the other self-interested Dao Lords.
-- The aftershocks couple the Past and Future, ending Dao Tianqi's exile. He
-  had sensed events but could not intervene. Lü Yang assesses a three-against-
-  three defense: Dao Tianqi can hold at least one of Vast Sky and the Sword
-  Sovereign, he can try to hold the other, and the World-Honored One can handle
-  the Spell Dao Lord. This is his assessment, not a new status promotion.
-- Si Sui creates a second world with identical history, people, and changes,
-  then superimposes it on the Sea of Light. Its different Dao laws lack
-  Destiny from inception. The Saint loses Destiny and Time and becomes mortal
-  when drawn into Si Sui's Transcendence, a path He does not follow.
-- The Saint's killing intent follows. He could have killed Si Sui before the
-  final breakthrough but wanted the second transcender for the Other Shore.
-  He allowed Du Xuan's death and helped Si Sui resolve His inner obstacle,
-  accepting the dangerous opponent. This is Si Sui's open scheme exploiting
-  His desire, not a long-prepared strategy of the Saint's. No outcome is given.
-
 - Chapter 1302: the Primordial Saint's Time and Destiny resonate with the
   Fathomless Void, revealing its Ring and cradle nature. Past and Future
   branch and return to their source. Si Sui recognizes that His false
@@ -177,6 +140,31 @@ approval. Review status belongs in the chapter ledger.
   attacking and claims to be fine for now, not uninjured. Their radiance closes
   like a noose; no strike or outcome is shown.
 
+- Chapter 1307: the three Dao Lords want the undying Saint as a living pillar
+  for a rebuilt Heavenly Dao incorporating Destiny. He consumes the Alchemy
+  Dao, sacrificing its arts to replenish part of His vitality. Artifact
+  Refinement built the Other Shore; Beast-Taming enslaved the Dragon; Dual
+  Cultivation linked the void and grounded His true Nascent Soul.
+- The enemies remain suspicious until He separates Them through Time. They
+  immediately back down, calling Their own threat a joke. He spares Them
+  because useful people are scarce, not because They have earned His trust.
+- Losing the Dharma Body and Dao Heart rules out both fleshly and conscious
+  life in the old sea. The Five Elements Dao remains linked to the Dragon;
+  only the Immortal Pivot's Fruition Attainments could be taken. Its weak
+  material foundation is not destroyed. The Saint calculates 84,000 years
+  for the Dragon's sea of consciousness and Five Elements to regather,
+  permitting the Other Shore's reconstruction. Earlier five-light reports
+  describe visible manifestations, not the absence of this surviving root.
+- Until then, the Saint alone can regain Dao Lord status by damaging Destiny;
+  the others lack His method. He turns toward the Heavenly Dao instead.
+  Si Sui explains its impasse: only the Saint qualifies as its living pillar,
+  but He will not consent. Surpassing its former peak could nurture a Dao Lord.
+- Even a restored Saint alone cannot enter the new world, only sustain a
+  stalemate. One of Nian Yao, Vast Sky, or Myriad Spells must also regain Dao
+  Lord status through a stronger Heavenly Dao or further Other Shore repairs.
+  Si Sui rules out the former and says the latter takes a long time. Lü Yang
+  finally realizes he may not need to restart this life. No restart occurs.
+
 ## Current positions
 
 | Actor | State |
@@ -184,18 +172,18 @@ approval. Review status belongs in the chapter ledger.
 | Lü Yang | On a cliff in the new world with Si Sui. Can grip the Book panel and suppress its reaction; has not transcended and doubts he understands how. |
 | Dao Tianqi | Last individually located inside the old sea with Lü Yang and the World-Honored One; no separate action is shown during the transfer. |
 | World-Honored One | Rejected slaughter; His individual action and status restoration remain unconfirmed. Tribulation enters the new world, but its transfer is not narrated as His personal action. |
-| Sword Sovereign, Vast Sky, Myriad Spells | Surround the injured Saint in the old sea, pressing Him with Their Daos and probing His condition. No attack or restoration of Their status is shown. |
+| Sword Sovereign, Vast Sky, Myriad Spells | Retreat from trying to make the Saint a living pillar after His Alchemy recovery and Time demonstration. Their Dao Lord status is not restored. |
 | Du Xuan | Regressed to an ordinary soul and reincarnated; the Spiritual Power Dao is unclaimed. |
 | Cultivating Truth Dao Lord | No new action, location, or injury established since witnessing Si Sui's breakthrough. |
 | Si Sui | Within the new world as one Primordial Spirit thought, with Dao Lord status intact. Can fight but declines the risk of favoring the Saint through Variables; proposes a second transcender. |
-| Primordial Saint | Has lost Nascent Soul status and cannot safely enter the new world. His hoped-for counterattack did not arise; three former allies now encircle Him. His claim to be fine is not recovery. |
+| Primordial Saint | Has lost Nascent Soul status and cannot safely enter the new world. Consumes Alchemy for partial recovery and deters the three assailants. Considers the Heavenly Dao because Other Shore reconstruction requires 84,000 years; no restored status is shown. |
 
 ## Live questions
 
 - Can Lü Yang transcend before the Saint recovers, and how would he take that
   step? Can another transcender secure the new world's escape as Si Sui proposes?
-- How will the Saint respond to the three Dao Lords' encirclement, and can He
-  repair Destiny or the Other Shore? No outcome is yet established.
+- Can the Saint overcome the living-pillar impasse or find another route to
+  restore His allies before the projected Other Shore reconstruction?
 - Can Lü Yang effectively combine the Dao Heart with Heaven-Slayer in battle?
 - How will Variables act if the balance changes again? A chance of survival
   is not automatic victory, and the Saint's ability to grasp it is not certain.

@@ -408,3 +408,42 @@ began returning to the True History.
   debate sound mechanical.
 - Do not mark Chapter 1271 owner-final until the owner approves or edits the
   repaired draft.
+
+## Archived causal chain: Chapters 1300 to 1301
+
+- Chapter 1300: Lü Yang can use the Dharma Body, Yin and Yang, and the Dao
+  Heart through his control of the Sea of Light. He considers combining the
+  Dao Heart with Heaven-Slayer; defeating the Sword Sovereign still seems
+  unlikely, though he expects to inflict greater injuries. His Heavenly Palace
+  and core are less secure anchors than the sea's foundations.
+- Si Sui reveals a Taiji world and His nature as a second Sea of Light, with
+  Himself its Innate Dao God. The World-Honored One says suppressing Him would
+  require His own full strength at His peak. Lü Yang sees a possible chance
+  of victory, not a confirmed advantage over the Primordial Saint.
+- The Primordial Saint reveals Nascent Soul cultivation as growth within the
+  Fathomless Void, nourished by the Sea of Light, until birth means
+  Transcendence. Only He understood the infant aspect and changed His nature.
+  He formerly reached the seventh layer; others reached the fourth, with the
+  Sword Sovereign reaching the fifth through the Heavenly Dao.
+- His Primordial Spirit is anchored in the void itself and can survive the
+  Other Shore's destruction unless forcibly stripped from that anchor. Si
+  Sui likewise endures through His nature as a second Sea of Light.
+- Chapter 1301: the duel's immortal music becomes a destructive storm below.
+  The watching Dao Lords cannot look directly at the battle and crave a return
+  to the Sea of Light to restore Their status. The World-Honored One rejects
+  slaughter because He abandoned the Other Shore and has the One Mind, not
+  because He is fundamentally unlike the other self-interested Dao Lords.
+- The aftershocks couple the Past and Future, ending Dao Tianqi's exile. He
+  had sensed events but could not intervene. Lü Yang assesses a three-against-
+  three defense: Dao Tianqi can hold at least one of Vast Sky and the Sword
+  Sovereign, he can try to hold the other, and the World-Honored One can handle
+  the Spell Dao Lord. This is his assessment, not a new status promotion.
+- Si Sui creates a second world with identical history, people, and changes,
+  then superimposes it on the Sea of Light. Its different Dao laws lack
+  Destiny from inception. The Saint loses Destiny and Time and becomes mortal
+  when drawn into Si Sui's Transcendence, a path He does not follow.
+- The Saint's killing intent follows. He could have killed Si Sui before the
+  final breakthrough but wanted the second transcender for the Other Shore.
+  He allowed Du Xuan's death and helped Si Sui resolve His inner obstacle,
+  accepting the dangerous opponent. This is Si Sui's open scheme exploiting
+  His desire, not a long-prepared strategy of the Saint's. No outcome is given.
