@@ -940,3 +940,108 @@ approval. Review status belongs in the chapter ledger.
   the World-Honored One resist each other while the karmic link still gives
   access to Dao Tianqi's wisdom. The borrowed light temporarily repairs Lü
   Yang's spirit/essence/qi mismatch and dulls its donor. Permanence is unproved.
+
+## Archived detailed Chapters 1315-1318 at the Chapter 1329 update
+
+## Chapters 1315-1316: the Saint awakens the End Tiger
+
+- The enemy trio uses the Heavenly Dao and surviving Five Elements to make
+  small Boundary Heavens, but without the Dao Heart and manifested Yin and
+  Yang they cannot create living beings, only flesh. They suspect the Saint
+  immediately when the omen appears.
+- Their gazes remain in the Past, approaching His Present. He uses Time and
+  the Heavenly Dao's command of the sea to send a future body toward its end.
+  Forbidden Dragon-Tiger Mountain knowledge stirs the dormant concept there.
+- The End Tiger is the Innate Dao God of the sea's final destruction. Before
+  manifestation it is a position, not a fixed person or shape: whoever destroys
+  the sea becomes the End Tiger. The Saint witnesses the uncertain future and
+  awakens consciousness/humanity in this concept. The Other Shore's purpose
+  alone could not do this. Time still prevents its full arrival.
+- The End Tiger mistakes the Saint's Heavenly Being face for Jun, then recognizes
+  the Doctrine of Appearances. The Saint knows its first fabricated immortal
+  face was destroyed; Jun's once-despised face became its highest inheritance.
+- The End Tiger claims access to the sea's entire history. He says the Ancient
+  Past was civilization on an Outer Heavens divine mountain that collided and
+  merged with the sea's origin point. The Dragon gestated through this merger;
+  after the mountain shattered and that civilization fell, the sea and Dragon
+  were born. The Tiger says intertwined Past/Present/Future let Him inspect
+  those records. The Saint privately finds this insufficient to explain why
+  erased records of a transcender remain accessible.
+- Tai denotes the highest, Yi change, Tian the supreme. Tai Yi evokes the
+  Primordial; Yi Tian evokes remaking heaven and earth, a Saint's deed. The
+  End Tiger deduces the title Primordial Saint from these overlapping pairs.
+- The first immortal name and face devised by the two Doctrines were shattered
+  when Jun reached the higher realm of Divine Transformation and transcended.
+  Tai Yitian belongs to a reconstructed second generation. Both speakers know
+  these inheritances; neither explanation establishes that the Saint is Jun.
+- With hostile gazes nearing, the Saint offers the Tiger a chance to live in
+  the world instead of merely waiting to die at the Final Kalpa.
+
+## Chapters 1317-1318: agreement and the memory contradiction
+
+- The Dragon's nearly eternal lifespan accompanies an infant Dao God state.
+  The ultimate End Tiger is far stronger but lasts only a moment at the sea's
+  end. The awakened individual quickly matures and questions the Saint's need.
+- The Saint proposes suppressing Si Sui and destroying the new world. Si Sui's
+  emptying/replacing the sea could make Him the actual End Tiger, displacing
+  this awakened individual. The Tiger points out that He can wait almost an
+  eternity, while the Saint urgently needs help, and demands a meeting with
+  the conscious Dragon rather than the Saint's puppet.
+- The Saint estimates the ultimate Innate Dao God's status might equal the
+  ninth Other Shore layer, above His former peak. His awakened counterpart
+  has at most the Saint's current status and is a distinct but connected being
+  who wants to reclaim the cosmic position. Do not conflate their strengths.
+- Destiny gives the Tiger a male Daoist form in yellow robes. He steps from
+  the Future into the Present. Final destruction is a destined future, so His
+  manifestation restores much of the Saint's depleted Destiny imagery. The
+  Saint steadies the River of Time and delays the approaching gazes again.
+  No explicit return to Nascent Soul status is stated.
+- The Saint uses Time on His partially repaired Other Shore fragment and its
+  supporting Dragon consciousness. One breath simulates thousands to tens of
+  thousands of years, producing a golden-robed speaking future projection.
+  It contains only the Dragon's consciousness, no mighty power or status.
+  This does not resurrect the Dragon or bypass the 84,000-year recovery.
+- The Dragon recognizes a newly awakened Tiger, distinct from the earlier one,
+  revealing an earlier awakening unknown to the Saint. Both Innate Dao Gods
+  reject merely accepting cosmic death. The Dragon says the immortal's equal
+  treatment let even Them seek escape; He proved Five Elements toward that end.
+- The Saint claims Si Sui alone attacked the Dragon. The Dragon rejects this,
+  recalling unexplained weakening: once He could beat Si Sui in one move, later
+  it required a hundred. The End Tiger identifies the Doctrine of Names and
+  Tai Yitian's usurpation of the Dragon's Primordial imagery as the mechanism.
+- The End Tiger confirms the Dragon truly forgot the immortal, then disperses
+  the projection. He says Jun almost single-handedly raised the still-gestating
+  Dragon. This is His account; conception is not the developmental stage named.
+- The Saint explains true Transcendence as severing karma and worldly ties and
+  escaping the void's cage, leaving neither memories nor records. The Tiger
+  nevertheless remembers Jun. The Saint had not found that name in either
+  Doctrine's inheritance. Whether the Tiger is a special exception or the first
+  Transcendence conceals another mystery remains unanswered.
+
+## Expanded foundations and cosmic-end mechanics retained at the Chapter 1329 update
+
+## Cultivation foundations, names, and the cosmic end
+
+- Ancient foundations rely on essence/qi/spirit unity and Dao knowledge;
+  high status cannot replace them. Names bind nature/life, and changing a
+  name or overpowering Ancient Past methods does not safely undo the binding.
+- Dao Tianqi lends wisdom light within the four Peak Lords' name-linked circle.
+  Lü Yang's resisted One Mind assimilation supplies the required karmic identity.
+  The light temporarily repairs his incompatibility and dulls its donor.
+  Expanded mechanics remain in continuity-archive.md.
+- Heavenly Dao command plus Time lets the Saint witness the uncertain final
+  deity and awaken an individual consciousness. The ultimate End Tiger is
+  stronger but short-lived; the new individual is distinct, connected, and
+  limited by the awakener's status. Destiny can anchor Him in the Present:
+  the Final Kalpa is a destined future, so its imagery reinforces Destiny.
+- Time can project a conscious Dragon from a fragment without power/status.
+  It cannot simply accelerate full resurrection past the 84,000-year wait.
+- Ch.1316-1318 attribute the Ancient Past to an Outer Heavens mountain merging
+  with the sea's origin point while the Dragon gestated. Jun is the named first
+  transcender; the Saint copied His face, not His identity. The End Tiger says
+  Jun raised the gestating Dragon and identifies Tai Yitian's usurpation of
+  Primordial imagery. The Dragon recalls an earlier awakened Tiger.
+- True Transcendence is said to erase karma, worldly traces, and memories while
+  escaping the void. The Tiger's memory contradicts that account. Neither His
+  explanation of access to all history nor a hidden flaw in Transcendence is
+  established as the solution. Current claims and uncertainties are in continuity.

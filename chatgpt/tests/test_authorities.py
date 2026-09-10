@@ -51,6 +51,7 @@ class AuthorityTests(unittest.TestCase):
             "变数": "Variable|Variables", "冥府": "Underworld",
             "慧极必伤": "Supreme Wisdom Must Bring Harm", "剑种": "Sword Seed",
             "情关": "Gate of Feeling",
+            "道侣": "Dao Companion|Dao Companions",
             "情劫": "Tribulation of Feeling|Tribulations of Feeling",
         }
         for source, target in expected.items():
@@ -85,7 +86,7 @@ class AuthorityTests(unittest.TestCase):
             "盛时": "全盛时期的他", "神念": "心神念头完全符合自身",
             "先天": "先天就和精炁不合，先天资质有缺",
             "入道": "只求入道的岁月", "中古": "吕阳心中古怪",
-            "变数": "一套变数少，另一套变数多，会不会有变数",
+            "变数": "一套变数少，另一套变数多，会不会有变数，平白多出一个变数",
         }
         for source, context in examples.items():
             with self.subTest(source=source):
@@ -195,7 +196,7 @@ class AuthorityTests(unittest.TestCase):
 
     def test_ch1307_contexts_do_not_mask_real_terms(self):
         glossary = common.load_glossary(self.root)
-        contexts = "光海诞生性命，五行重现世间，足以危及他性命，一招就要了他性命，亿万众生的性命被摆上赌桌。"
+        contexts = "光海诞生性命，五行重现世间，足以危及他性命，一招就要了他性命，亿万众生的性命被摆上赌桌，你损失的只是性命修为。"
         hits = {row["source"] for row in lint.glossary_matches(contexts, glossary)}
         self.assertNotIn("性命", hits)
         self.assertNotIn("现世", hits)

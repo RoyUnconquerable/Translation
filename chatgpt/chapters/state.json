@@ -14,11 +14,11 @@
     "archive_branch": "archive/claude-pipeline-2026-08-19"
   },
   "progress": {
-    "latest_source_seen": 1328,
-    "latest_draft_delivered": 1328,
+    "latest_source_seen": 1329,
+    "latest_draft_delivered": 1329,
     "most_recent_owner_final": 1304,
     "next_translation_chapter": 1281,
-    "next_new_chapter": 1329
+    "next_new_chapter": 1330
   },
   "authorities": {
     "chapter_ledger": "chatgpt/chapters/ledger.tsv",

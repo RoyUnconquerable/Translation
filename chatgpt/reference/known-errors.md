@@ -86,8 +86,8 @@ Remove entries made redundant by stronger canonical controls.
 - Ch.1295's spent crossbow bolt was a delivered-draft over-literalism. Use
   spent force for that figurative dismissal; retaining the separate snake and
   brick/jade images does not justify literalizing every idiom nearby.
-- Do not turn local owner phrases into reusable sentence templates. Translate
-  the current source relationship afresh.
+- Do not turn local owner synonyms into templates. Keep source relationships:
+  overlap is not fusion; a domain is not the surrounding void.
 - Do not overuse transition openers, intensifiers, `suddenly`, `simply`, or
   `couldn't help but`.
 - Use natural contractions unless emphasis, contrast, formality, or clarity
@@ -142,8 +142,8 @@ Remove entries made redundant by stronger canonical controls.
 
 ## Repository process
 
-- A draft, source-seen status, continuity capsule, and owner-final status are
-  separate facts. Never infer approval from later chapter progress.
+- Source seen, draft delivered, correction recorded and final approval differ.
+  Later progress never establishes approval.
 - Owner edits are source-checked before classification and promotion. Owner
   intent and approved terms are authoritative, but typos, grammar slips,
   mistranslated allusions, and source changes are not promoted as precedent.

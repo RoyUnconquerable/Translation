@@ -70,9 +70,10 @@ When principles compete, use this order:
 
 - Give most narrative paragraphs one main beat: fact, action, reaction,
   deduction, question, reversal, or punch line.
-- In action and cosmology, link actor, means, movement and consequence with
-  complete verbs. Prefer clear causation over detached reports; preserve
-  geography, ownership and uncertainty without inventing mechanisms.
+- In action and cosmology, connect actor, means, movement and consequence.
+  Use concrete verbs and parallel actions; make contrasts and causes explicit.
+  Keep geography, ownership and uncertainty. Do not make an abstract result
+  unleash an attack or add a visible movement merely to enliven emotion.
 - Split overloaded clauses and trailing modifiers; connect related premises.
   Separate a proposal from its stakes when clearer. Keep dialogue lists in
   spoken syntax. Sentence length itself is not a flaw.
@@ -259,18 +260,17 @@ When principles compete, use this order:
 
 ## Numbers and house mechanics
 
-- Convert Chinese numerals into natural English. Use digits with commas for
-  exact large values and words for loose or rhetorical magnitudes.
+- Use digits with commas for exact large values and words for rhetorical
+  magnitudes. A rise from thirty to fifty percent is twenty percentage points,
+  not twenty percent better odds. Keep the quantity and its dimension clear.
 - Convert ordinary physical measures with their values, not just unit labels.
   Under the series policy, 100,000 li is about 31,000 miles, not 100,000 miles.
 - Use the serial comma, `toward`, and `farther` for physical distance.
 - Capitalize Yin and Yang. Use `Yin-Yang` only in established attributive
   compounds.
-- Natural contractions are the default in dialogue, direct thought, informal
-  narration, and free indirect voice whenever a contemporary speaker would
-  use them. Keep an expanded form only for deliberate emphasis, contrast,
-  measured formal cadence, or grammatical clarity. Contractions ending in
-  `'d` remain prohibited because they obscure tense and mood in this project.
+- Use natural contractions in speech, thoughts and contemporary narration.
+  Expand for emphasis, contrast, formal cadence or clarity. Never use forms
+  ending in `'d`, which obscure tense and mood.
 
 ## Prohibited habits
 

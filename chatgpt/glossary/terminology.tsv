@@ -33,7 +33,7 @@ source	target	notes
 冥府	Underworld	usually takes "the"; provenance terminology.tsv
 伪史	False History	usually takes "the"; provenance terminology.tsv
 光海	Sea of Light	usually takes "the"; provenance terminology.tsv
-变数	Variable|Variables	Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in His favor. Ordinary variable(s) follow the source number. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数]
+变数	Variable|Variables	Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in His favor. Ordinary variable(s) follow the source number. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数]
 百世书	Book of a Hundred Lives	normally takes the definite article; provenance owner-rulings-ch1221-ch1243.tsv
 天道	Heavenly Dao	usually takes "the"; provenance terminology.tsv
 大道	Great Dao	usually takes "the"; provenance terminology.tsv
@@ -238,7 +238,6 @@ source	target	notes
 仙国道律	Immortal Kingdom Daoist Law	takes the definite article; provenance owner-rulings-ch1253.tsv
 符箓文字	seal script	owner final Ch. 1253 in Emperor Cang's Immortal Kingdom Daoist Law manifestation; prefer this over talismanic script in this context; provenance owner-rulings-ch1253.tsv
 斩立决	Beheading, Immediate Execution	owner-final Ch.1254; formal displayed penalty under Inscribing the Heavenly Chapter, retain bold corner brackets; provenance owner-rulings-ch1254.tsv
-炸鱼	smurf|smurfing	form follows syntax; provenance owner-rulings-ch1254.tsv
 降维打击	dimensional suppression	owner-final Ch.1254 contextual rendering; preserve the gaming/meta register when paired with 炸鱼; provenance owner-rulings-ch1254.tsv
 释天意	Shi Tianyi	owner-final Ch.1255 personal name of the World-Honored One / first-generation Myriad Treasures Peak Lord in this scene; provenance owner-rulings-ch1255.tsv
 生死轮	Wheel of Life and Death	standalone call-out takes the definite article; provenance owner-rulings-ch1255.tsv
@@ -327,7 +326,7 @@ source	target	notes
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命]. Ch.1288 and Ch.1303-1309 source checks; independent paired occurrences remain enforced.
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为]. Ch.1288 and Ch.1303-1309 source checks; independent paired occurrences remain enforced.
 神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase in ordinary prose, Title Case in the chapter title or an established proper name
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
@@ -374,3 +373,4 @@ source	target	notes
 人劫	Human Tribulation|Human Tribulations	Owner Ch.1326; singular/plural by context, capitalized named tribulation category.
 剑种	Sword Seed	Explicit owner Ch.1326 replaces bastard with a sword. Retain the terse sarcastic appraisal; do not add a rank, ancestry claim, profanity, or explanation to compensate for the Chinese homophone.
 双修奇才	Dual Cultivation Prodigy	Owner Ch.1326 retains the named talent; this establishes current authority, not verification of an unavailable older attachment.
+道侣	Dao Companion|Dao Companions	Owner Ch.1329 consistently capitalizes the cultivation relationship. Select number and article by syntax; do not imply romantic sincerity where the source describes exploitation.

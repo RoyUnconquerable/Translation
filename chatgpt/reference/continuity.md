@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1315 to 1326
+# Current continuity: Chapters 1319 to 1329
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -41,80 +41,13 @@ continuity-archive.md under Archived detailed Chapters 1312-1314 at the Chapter
 light without surrendering himself; the temporary repair to his incompatibility
 does not establish a permanent cure. The End Tiger's omen interrupted study.
 
-## Chapters 1315-1316: the Saint awakens the End Tiger
+## Earlier End Tiger and Transcendence revelations
 
-- The enemy trio uses the Heavenly Dao and surviving Five Elements to make
-  small Boundary Heavens, but without the Dao Heart and manifested Yin and
-  Yang they cannot create living beings, only flesh. They suspect the Saint
-  immediately when the omen appears.
-- Their gazes remain in the Past, approaching His Present. He uses Time and
-  the Heavenly Dao's command of the sea to send a future body toward its end.
-  Forbidden Dragon-Tiger Mountain knowledge stirs the dormant concept there.
-- The End Tiger is the Innate Dao God of the sea's final destruction. Before
-  manifestation it is a position, not a fixed person or shape: whoever destroys
-  the sea becomes the End Tiger. The Saint witnesses the uncertain future and
-  awakens consciousness/humanity in this concept. The Other Shore's purpose
-  alone could not do this. Time still prevents its full arrival.
-- The End Tiger mistakes the Saint's Heavenly Being face for Jun, then recognizes
-  the Doctrine of Appearances. The Saint knows its first fabricated immortal
-  face was destroyed; Jun's once-despised face became its highest inheritance.
-- The End Tiger claims access to the sea's entire history. He says the Ancient
-  Past was civilization on an Outer Heavens divine mountain that collided and
-  merged with the sea's origin point. The Dragon gestated through this merger;
-  after the mountain shattered and that civilization fell, the sea and Dragon
-  were born. The Tiger says intertwined Past/Present/Future let Him inspect
-  those records. The Saint privately finds this insufficient to explain why
-  erased records of a transcender remain accessible.
-- Tai denotes the highest, Yi change, Tian the supreme. Tai Yi evokes the
-  Primordial; Yi Tian evokes remaking heaven and earth, a Saint's deed. The
-  End Tiger deduces the title Primordial Saint from these overlapping pairs.
-- The first immortal name and face devised by the two Doctrines were shattered
-  when Jun reached the higher realm of Divine Transformation and transcended.
-  Tai Yitian belongs to a reconstructed second generation. Both speakers know
-  these inheritances; neither explanation establishes that the Saint is Jun.
-- With hostile gazes nearing, the Saint offers the Tiger a chance to live in
-  the world instead of merely waiting to die at the Final Kalpa.
-
-## Chapters 1317-1318: agreement and the memory contradiction
-
-- The Dragon's nearly eternal lifespan accompanies an infant Dao God state.
-  The ultimate End Tiger is far stronger but lasts only a moment at the sea's
-  end. The awakened individual quickly matures and questions the Saint's need.
-- The Saint proposes suppressing Si Sui and destroying the new world. Si Sui's
-  emptying/replacing the sea could make Him the actual End Tiger, displacing
-  this awakened individual. The Tiger points out that He can wait almost an
-  eternity, while the Saint urgently needs help, and demands a meeting with
-  the conscious Dragon rather than the Saint's puppet.
-- The Saint estimates the ultimate Innate Dao God's status might equal the
-  ninth Other Shore layer, above His former peak. His awakened counterpart
-  has at most the Saint's current status and is a distinct but connected being
-  who wants to reclaim the cosmic position. Do not conflate their strengths.
-- Destiny gives the Tiger a male Daoist form in yellow robes. He steps from
-  the Future into the Present. Final destruction is a destined future, so His
-  manifestation restores much of the Saint's depleted Destiny imagery. The
-  Saint steadies the River of Time and delays the approaching gazes again.
-  No explicit return to Nascent Soul status is stated.
-- The Saint uses Time on His partially repaired Other Shore fragment and its
-  supporting Dragon consciousness. One breath simulates thousands to tens of
-  thousands of years, producing a golden-robed speaking future projection.
-  It contains only the Dragon's consciousness, no mighty power or status.
-  This does not resurrect the Dragon or bypass the 84,000-year recovery.
-- The Dragon recognizes a newly awakened Tiger, distinct from the earlier one,
-  revealing an earlier awakening unknown to the Saint. Both Innate Dao Gods
-  reject merely accepting cosmic death. The Dragon says the immortal's equal
-  treatment let even Them seek escape; He proved Five Elements toward that end.
-- The Saint claims Si Sui alone attacked the Dragon. The Dragon rejects this,
-  recalling unexplained weakening: once He could beat Si Sui in one move, later
-  it required a hundred. The End Tiger identifies the Doctrine of Names and
-  Tai Yitian's usurpation of the Dragon's Primordial imagery as the mechanism.
-- The End Tiger confirms the Dragon truly forgot the immortal, then disperses
-  the projection. He says Jun almost single-handedly raised the still-gestating
-  Dragon. This is His account; conception is not the developmental stage named.
-- The Saint explains true Transcendence as severing karma and worldly ties and
-  escaping the void's cage, leaving neither memories nor records. The Tiger
-  nevertheless remembers Jun. The Saint had not found that name in either
-  Doctrine's inheritance. Whether the Tiger is a special exception or the first
-  Transcendence conceals another mystery remains unanswered.
+Detailed Chapters 1315-1318 remain verbatim in continuity-archive.md under
+Archived detailed Chapters 1315-1318 at the Chapter 1329 update. The awakened
+End Tiger is distinct from the ultimate final deity and limited by the Saint's
+status. His memory of Jun remains unexplained, despite the claim that true
+Transcendence erases all worldly traces. No resolved answer is established.
 
 ## Chapter 1319: a hundred-year contingency
 
@@ -146,7 +79,7 @@ does not establish a permanent cure. The End Tiger's omen interrupted study.
 | Primordial Saint | Has retrieved the spent reset treasure through an enslaved Dragon projection; searches for its missing power. His dismissal of Lü Yang as its holder is an inference. |
 | End Tiger | Male yellow-robed Daoist, awakened limited counterpart of the ultimate final deity; has dispersed the Dragon projection and remembers Jun. |
 | Ancestral Dragon | Enslaved-personality future projection fetched the treasure and was then dispersed. Full resurrection remains unaccomplished. |
-| Sword Sovereign, Vast Sky, Myriad Spells | The Sword Sovereign is dueling Lü Yang; Vast Sky's betrayal idea is exposed but no ambush has occurred. No Heavenly Dao transfer or restored status shown. |
+| Sword Sovereign, Vast Sky, Myriad Spells | Vast Sky has cast off Her threads through the Seven Emotions method; She suffers backlash and attacks Lü Yang desperately. No winner, Heavenly Dao transfer or restored status shown. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
@@ -199,7 +132,7 @@ does not establish a permanent cure. The End Tiger's omen interrupted study.
 - The Sword Sovereign exposes Vast Sky's idea of killing Her after the duel
   to fill His fragment. He admits the idea. She warns Him She is prepared,
   but would yield Her life if He overcame that preparation and Her Dao Path
-  were lost. Neither a successful betrayal nor insincere affection is established.
+  were lost. At that point neither a successful betrayal nor insincere affection was established; Chapters 1328-1329 reveal the coercion and escape below.
 - Three days later the duel oath takes effect. If Lü Yang loses, the
   World-Honored One supplies living beings' seas of consciousness from His
   kingdom; if Lü Yang wins, She hands over the Heavenly Dao. Breaking the oath
@@ -223,3 +156,34 @@ does not establish a permanent cure. The End Tiger's omen interrupted study.
   not anticipate this particular method. He learns one trump card, not every
   secret. The duel continues; Sword Seed is his sarcastic closing appraisal,
   not evidence of a new rank or a biological relationship.
+
+## Chapters 1327-1329: severed ties and the desperate strike
+
+- In Chapter 1327, six Metal Element Fruition Attainments, including Sword
+  Edge Metal, and their Dao Attainment are taken as repayment for severed
+  threads. Fate-Reforming and Heaven in a Palm recover them and seize a
+  fingertip of Her Dharma Body. She keeps draining him and borrows Vast Sky's
+  Fortune to write his name and reduce his power.
+- Chapter 1328 reveals that She transfers Her injuries to Vast Sky. Their
+  earlier conversation was coercion, and Her promise of sacrifice strengthened
+  the threads. Vast Sky switches to the Seven Emotions Heaven-Fathoming Art;
+  without emotions, the threads lose their target. Lü Yang relied on the
+  Saint having provided a way out, not on mere willingness to betray Her.
+- In Chapter 1329, the Saint senses this change but cannot see through the
+  Heavenly Dao's lock without restored Dao Lord cultivation. He confirms His
+  intervention on both sides, wants a stalemate, and does not want Her death
+  to restore Vast Sky. His preparations for Her are not yet revealed.
+- The pair originally were genuine Dao Companions. Before Vast Sky proved
+  the Dao, She schemed against Him; initially the threads benefited His Spirit,
+  but accumulating roots trapped Him. His escape returns and doubles Her
+  transferred injuries; borrowed Fortune now harms Her.
+- She becomes a crystalline sword. Lü Yang lowers Her status slightly with
+  the Heavenly Calendar Numbers, raising his chance from thirty to fifty
+  percent. This is a twenty-percentage-point increase, not a victory.
+- She forces threads and Fate together, interpreting fate through feeling.
+  Lü Yang sees that the brief brilliance relies on Her long connection with
+  Fate, not genuine mastery of the Great Dao answering to Her. Both sides
+  would suffer. Her missed survival chance was declining the wager earlier.
+- Lü Yang manifests his own response as a Great Dao pierces the domain and
+  lights the surrounding Fathomless Void. The chapter ends before impact;
+  no winner, sacrifice, completed transfer or restored Dao Lord is shown.

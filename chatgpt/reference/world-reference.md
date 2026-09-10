@@ -289,36 +289,20 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## Cultivation foundations, names, and the cosmic end
 
-- Ancient foundations rely on essence/qi/spirit unity and Dao knowledge;
-  high status cannot replace them. Names bind nature/life, and changing a
-  name or overpowering Ancient Past methods does not safely undo the binding.
-- Dao Tianqi lends wisdom light within the four Peak Lords' name-linked circle.
-  Lü Yang's resisted One Mind assimilation supplies the required karmic identity.
-  The light temporarily repairs his incompatibility and dulls its donor.
-  Expanded mechanics remain in continuity-archive.md.
-- Heavenly Dao command plus Time lets the Saint witness the uncertain final
-  deity and awaken an individual consciousness. The ultimate End Tiger is
-  stronger but short-lived; the new individual is distinct, connected, and
-  limited by the awakener's status. Destiny can anchor Him in the Present:
-  the Final Kalpa is a destined future, so its imagery reinforces Destiny.
-- Time can project a conscious Dragon from a fragment without power/status.
-  It cannot simply accelerate full resurrection past the 84,000-year wait.
-- Ch.1316-1318 attribute the Ancient Past to an Outer Heavens mountain merging
-  with the sea's origin point while the Dragon gestated. Jun is the named first
-  transcender; the Saint copied His face, not His identity. The End Tiger says
-  Jun raised the gestating Dragon and identifies Tai Yitian's usurpation of
-  Primordial imagery. The Dragon recalls an earlier awakened Tiger.
-- True Transcendence is said to erase karma, worldly traces, and memories while
-  escaping the void. The Tiger's memory contradicts that account. Neither His
-  explanation of access to all history nor a hidden flaw in Transcendence is
-  established as the solution. Current claims and uncertainties are in continuity.
+Expanded foundations and cosmic-end mechanics remain verbatim in
+continuity-archive.md under the Chapter 1329 update. Names bind nature and
+life; changing a name alone is insufficient. Borrowed wisdom light temporarily
+repairs Lü Yang's incompatibility. Heavenly Dao command plus Time awakens an
+individual End Tiger; it does not grant the ultimate deity's full status.
+Time cannot accelerate full Dragon resurrection beyond its stated limits.
+Jun's erased history and the Tiger's memory remain an unresolved contradiction.
 
 ## Era outline
 
 Ancient Past precedes Primordial, Ancient, and Medieval Antiquity eras. The
 earlier six-stage outline remains in continuity-archive.md.
 
-## Feeling and internal backlash (Chapter 1326)
+## Feeling, status and internal backlash (Chapters 1326-1329)
 
 - Love Too Deep Shortens Life induces voluntary power transfer. Realization
   does not safely release the victim: Supreme Wisdom Must Bring Harm weaponizes
@@ -327,3 +311,16 @@ earlier six-stage outline remains in continuity-archive.md.
   lower-status techniques. Internal attacks using his own power bypass this
   defense. Neither this evasion nor the Sword Sovereign's recognition establishes
   completed Transcendence. Preserve these limits in later combat.
+
+- Threads can bind a Dao Companion over long cultivation, transfer injuries,
+  and lend access to His powers. The Seven Emotions Heaven-Fathoming Art's
+  forgetting of all feeling removes their emotional target; injury and power
+  transfers then rebound. This is not proof that an ordinary victim can safely
+  cut the threads or that every Primordial Spirit method counters them.
+- The Heavenly Calendar Numbers can lower an opponent's status in addition
+  to raising Lü Yang's own. Chapter 1329 succeeds slightly while She is at
+  Her weakest; do not generalize this to effortless universal suppression.
+- The Sword Sovereign's forced interpretation through long familiarity with
+  Fate imitates the Great Dao answering to Her for one costly strike. It is
+  not the genuine attainment of Si Sui or the Saint. The apparent claim and
+  Lü Yang's subsequent diagnosis belong to successive revelations.
