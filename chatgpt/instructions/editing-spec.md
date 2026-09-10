@@ -5,10 +5,10 @@ decisions are authoritative. Supplied English is not exempt from source,
 grammar, continuity, terminology, tense, formatting, or allusion review.
 
 Repair clear mechanical errors directly. If owner wording appears to change
-meaning, weaken or substitute an idiom, contradict a hard term or identity, or
-create unnatural English, do not canonize it silently and do not silently
-override it. Present the issue and a source-grounded alternative for
-confirmation.
+meaning, weaken or substitute an idiom, or contradict an established identity,
+do not canonize it silently. Record and present the source-grounded distinction;
+unresolved wording does not block verified updates. A new explicit terminology
+decision supersedes an older glossary choice without renewed confirmation.
 
 ## Compare once
 
@@ -43,6 +43,7 @@ Every difference receives one classification:
 - `MECHANICAL`: spelling, punctuation, agreement, duplicated text, or paste
   damage.
 
+Check matching records across older chapters as well as active continuity.
 Amend the existing matching rule before adding one. Consolidate redundant or
 superseded wording without removing its valid exceptions. One local synonym
 does not establish a universal preference. Separate accepted terms from an
@@ -51,7 +52,9 @@ do not block the verified updates.
 
 ## Repository update
 
-Update the chapter ledger and compact state. Do not create chapter-specific
+Publish explicit owner corrections without waiting for approval of the whole
+chapter. Update observed source/delivery evidence separately from review status
+in the chapter ledger and compact state. Do not create chapter-specific
 style, glossary, continuity, world, or owner-edit files. Record concise
 provenance in `reference/decision-log.tsv` only when useful.
 

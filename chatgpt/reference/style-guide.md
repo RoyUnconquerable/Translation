@@ -27,9 +27,9 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
-- Choose length by meaning and cadence, not brevity alone. Fuller descriptions
-  and emphasis can be natural; remove padding only when it adds nothing.
-  Preserve every source qualification and use ordinary, vivid phrasing.
+- Choose length by meaning and cadence. Use direct, vivid verbs and connect
+  related clauses; fuller wording is preferable when it clarifies a relation.
+  Compress cumbersome abstractions, never source content or qualifications.
 - When the narrator frames cultivation combat through modern system or matchup
   logic, preserve that register with clear contemporary language such as raw
   stats or mechanics. Describe ease of use naturally, rather than calling a
@@ -110,9 +110,9 @@ When principles compete, use this order:
   the source does. Preserve the joke and let it land once.
 - Formal cultivators and Dao Lords speak with control and confidence, but their
   English should remain contemporary and readable.
-- Preserve each speaker's formality, temperament, and relationship. Honorific
-  replies can acknowledge an elder's judgment without evaluating the elder.
-  Modern prose must not erase this deference or the title carrying it.
+- Preserve formality, temperament, and relationships. Honorific replies may
+  acknowledge an elder without evaluating the elder. Use measured rhetorical
+  emphasis when sourced; direct prose must retain deference and actual titles.
 - Keep insults, threats, cruelty, slang, and comic reversals at source strength.
   Let context carry implied exploitation; do not routinely label people human
   material. Preserve explicit harvesting or sacrifice when the source states it.
@@ -233,9 +233,9 @@ When principles compete, use this order:
   differences expressed through cultivation realms. Retain essence for a
   substance, refined essence, core, or another sense that warrants it. This
   is a contextual distinction, not a global replacement.
-- Dao Lord referents take capitalized divine pronouns under the project rule.
-  Resolve the actual identity first. A mortal shell, divided consciousness, or
-  quotation does not inherit capitalization merely from surface wording.
+- Dao Lords take divine capitals; resolve identity and entity exceptions first.
+  Autonomous projections retain them; shells or guided consciousnesses need not.
+  Preserve bare names versus explicit titles.
 - Collective Dao Lord pronouns are `They`, `Their`, and `Them`. Other people use
   ordinary pronouns.
 - `status` is lowercase unless it begins a sentence or appears in an exact

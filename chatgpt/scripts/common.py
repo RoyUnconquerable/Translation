@@ -166,6 +166,11 @@ def load_glossary(root: Path | None = None) -> dict[str, dict]:
             "variants": variants,
             "notes": row["notes"],
             "exceptions": exceptions,
+            "rejected_expansions": [
+                value.strip()
+                for group in re.findall(r"\[reject expansion:\s*([^\]]+)\]", row["notes"])
+                for value in group.split("|") if value.strip()
+            ],
             "file": path.name,
         }
     return entries

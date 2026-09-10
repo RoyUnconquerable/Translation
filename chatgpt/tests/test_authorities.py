@@ -14,6 +14,7 @@ import common
 import chat_check
 import lint
 import prepare
+import state
 
 
 class AuthorityTests(unittest.TestCase):
@@ -38,6 +39,80 @@ class AuthorityTests(unittest.TestCase):
         entities = common.load_entities(self.root)
         row = next(item for item in entities if item["entity_id"] == "sword_sovereign")
         self.assertEqual(row["pronouns"], "She/Her")
+
+    def test_owner_terms_preserve_older_and_newer_rulings(self):
+        glossary = common.load_glossary(self.root)
+        expected = {
+            "终虎": "End Tiger", "末劫": "Final Kalpa",
+            "真仙人": "True Immortal", "真仙": "True Immortal",
+            "修真": "Cultivating Truth", "修真道主": "Cultivating Truth Dao Lord",
+            "【均】": "Jun", "灵性": "spirituality",
+            "定数": "Destiny", "命数": "Fate", "气数": "Fortune",
+            "变数": "Variable|Variables", "冥府": "Underworld",
+        }
+        for source, target in expected.items():
+            with self.subTest(source=source):
+                self.assertEqual(glossary[source]["target"], target)
+        phrases = {r["source"]: r for r in common.load_phrase_memory(self.root)}
+        self.assertEqual(phrases["一线生机"]["target"], "a sliver of survival")
+
+    def test_explicit_title_required_without_masking_supplied_title(self):
+        glossary = common.load_glossary(self.root)
+        self.assertEqual(lint.expansion_errors(
+            "修真微笑。", "Cultivating Truth smiled.", glossary), [])
+        self.assertTrue(lint.expansion_errors(
+            "修真微笑。", "The Cultivating Truth Dao Lord smiled.", glossary))
+        self.assertEqual(lint.expansion_errors(
+            "修真道主微笑。", "The Cultivating Truth Dao Lord smiled.", glossary), [])
+        self.assertEqual(lint.expansion_errors(
+            "修真道主微笑，修真开口。",
+            "The Cultivating Truth Dao Lord smiled. Cultivating Truth spoke.", glossary), [])
+
+    def test_sentence_initial_common_term_case_inside_paragraph(self):
+        for text in ['He looked up. Wisdom light shone.',
+                     'He said: "Wisdom light shone."', '*Wisdom light shone.*']:
+            with self.subTest(text=text):
+                self.assertTrue(lint.target_has_variant(text, ["wisdom light"]))
+        for text in ['His Wisdom light shone.', 'His Wisdom Light shone.']:
+            self.assertFalse(lint.target_has_variant(text, ["wisdom light"]))
+
+    def test_recovered_substring_contexts_keep_real_terms_checked(self):
+        glossary = common.load_glossary(self.root)
+        examples = {
+            "盛时": "全盛时期的他", "神念": "心神念头完全符合自身",
+            "先天": "先天就和精炁不合，先天资质有缺",
+            "入道": "只求入道的岁月",
+            "变数": "一套变数少，另一套变数多，会不会有变数",
+        }
+        for source, context in examples.items():
+            with self.subTest(source=source):
+                hits = {r["source"] for r in lint.glossary_matches(context, glossary)}
+                self.assertNotIn(source, hits)
+                hits = {r["source"] for r in lint.glossary_matches(
+                    context + "。" + source + "。", glossary)}
+                self.assertIn(source, hits)
+
+    def test_incoming_chapter_detects_jointly_stale_state_and_ledger(self):
+        routing = {"progress": {"latest_source_seen": 1309}}
+        self.assertEqual(state.incoming_chapter_errors(1310, routing), [])
+        self.assertEqual(state.incoming_chapter_errors(1309, routing), [])
+        self.assertIn("reconcile verified", state.incoming_chapter_errors(1311, routing)[0])
+        self.assertEqual(routing, {"progress": {"latest_source_seen": 1309}})
+
+    def test_prepare_rejects_unreconciled_source_gap_read_only(self):
+        path = self.root / "chapters" / "state.json"
+        before = path.read_bytes()
+        frontier = json.loads(before)["progress"]["latest_source_seen"]
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source.txt"
+            source.write_text(f"第{frontier + 2}章 测试\n\n正文。\n", encoding="utf-8")
+            result = subprocess.run(
+                [sys.executable, str(SCRIPTS / "prepare.py"), str(source)],
+                capture_output=True, text=True,
+            )
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("skips the recorded source frontier", result.stdout + result.stderr)
+        self.assertEqual(path.read_bytes(), before)
 
     def test_hard_terms_and_phrase_memory_do_not_overlap(self):
         hard = set(common.load_glossary(self.root))

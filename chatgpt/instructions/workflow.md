@@ -28,7 +28,12 @@ the process.
 Read `chapters/state.json`, then load the canonical paths it names. Do not load
 historical Git versions, the full decision log, or all phrase memory by
 default. Search the phrase memory, decision log, and registered project source
-only for material that appears in the current Chinese chapter.
+only for material that appears in the current Chinese chapter. Search across
+the full age range of those authorities and the continuity archive, not just
+the latest chapter window. For recurring people, powers, artifacts, or allusions,
+check their older identity, prerequisites, limitations, and approved wording.
+Where later revelations change earlier understanding, date and attribute both;
+do not erase history or leave an outdated belief stated as a current fact.
 
 Within the same active conversation, first verify the repository tip. If the
 tip and relevant authority files are unchanged and their contents remain in
@@ -47,15 +52,21 @@ archive, or world reference into context for a routine chapter. Use
 The latest pushed tip of the GitHub canonical branch recorded in state is the
 persistent authority across sessions. If the checkout may be stale and remote
 access is available, verify that it contains that tip before relying on it. A
-new live instruction governs the current task provisionally and becomes durable
-only after verification, classification, commit, and push.
+new explicit owner instruction supersedes the corresponding older rule and
+becomes durable after verification, classification, commit, and push. At turn
+entry, reconcile verified earlier source/delivery evidence and explicit owner
+corrections not yet published. These facts do not require approval of chapter
+prose. Do not defer approved corrections with unapproved translations.
 
 The exact Chinese paste or source file is mandatory. A conversation summary,
 continuity capsule, prior model draft, or English owner edit cannot substitute
 for it.
 
-Run `python chatgpt/scripts/state.py` before drafting if repository state may
-have changed. A failure is a real blocker. The check must not mutate files.
+Run `python chatgpt/scripts/state.py --incoming-chapter <number>` before drafting
+if state may have changed. `prepare.py` also checks the incoming source frontier:
+a gap requires reconciling verified intermediate evidence, not inventing approval
+or silently advancing a counter. Both checks are read-only. Ordinary state/ledger
+agreement alone cannot establish that no live correction has been missed.
 
 ## 2. Build a short chapter authority sheet
 
@@ -183,7 +194,8 @@ rerun the ordinary checker without temporary overrides.
 
 ## 5. Chat-first delivery
 
-For ordinary chat work, deliver the chapter before repository maintenance.
+For ordinary chat work, deliver the chapter before broader chapter maintenance;
+prior approved corrections are reconciled during authority loading above.
 Once the reviewed text passes the final check, return the complete chapter in
 the final response immediately. A temporary draft or a successful check is not
 delivery. If interrupted at this point, resume from the reviewed text instead
@@ -191,7 +203,10 @@ of restarting preparation or leaving the chapter undelivered. If the owner
 reports missing output, immediately resend the existing checked chapter in
 full before investigating workflow issues. File timestamps measure only local
 stages, not the owner's total wait; do not present them as delivery timings.
-Do not create provisional per-chapter supplements or commits. After the owner
+Do not create provisional per-chapter supplements or commit unreviewed prose.
+Explicit terminology corrections can be published on their own; an owner-edit
+or maintenance task must finish that publication before claiming persistence.
+After the owner
 approves or supplies edited prose, compare it once against both the exact source
 and the draft. Verify fidelity, grammar, terminology, continuity, thought mode
 and tense, allusions, and formatting before classifying each change:
@@ -205,7 +220,8 @@ and tense, allusions, and formatting before classifying each change:
 - `LOCAL`: useful only in that passage, decision log or Git history only;
 - `MECHANICAL`: typo or formatting repair, no stylistic promotion.
 
-Update state and ledger in the same atomic commit. Before adding reference
+Update state and ledger in the same atomic commit, distinguishing source seen,
+draft delivered, correction recorded, and owner-final approval. Before adding reference
 text, check existing size budgets, consolidate overlaps, and archive completed
 plot detail in the existing archive with a pointer. Do not cycle through full
 gates after every sentence edit or raise caps to make an oversized file pass.

@@ -35,6 +35,10 @@ local preference, or mechanical repair. Promote only reusable decisions. Do
 not create a new per-chapter rule file.
 
 For chat-first work, deliver the chapter after one complete draft and two
-focused source-grounded checks. Repository maintenance follows owner approval.
+focused source-grounded checks. Explicit owner corrections are approved authority
+updates; publish them without waiting for whole-chapter approval. Reconcile
+observed source/delivery metadata without marking drafts approved. Check relevant
+older glossary, phrase, decision, and archived continuity records as well as
+recent chapters. Replace only superseded rules, preserving valid older detail.
 Chapter prose stays out of Git unless the owner explicitly requests durable
 storage.

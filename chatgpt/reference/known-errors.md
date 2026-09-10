@@ -72,10 +72,11 @@ Remove entries made redundant by stronger canonical controls.
 
 ## Prose regression traps
 
-- Ch.1309 shared omissions: upright posture, sudden or immediate changes,
-  explicit reasoning links, reading, and minor cultivation problems. Preserve
-  concrete content without forcing repetitive transition words. A balance
-  characterized by a causal process is not necessarily between two quantities.
+- Preserve concrete posture, timing, reasoning, reading, and minor problems
+  even in unchanged prose (Ch.1309). Ch.1318 almost felt weakens actually felt;
+  conception is not gestation, and the first Transcendence is an event, not a
+  person. Do not move an expression into a voice or expand disbelief into never.
+  A balance formed by a causal process need not be between two quantities.
 
 - Default to modern direct English. Do not use archaic sentence inversions,
   ceremonial filler, or compressed bookish narration unless the Chinese is

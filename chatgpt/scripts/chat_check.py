@@ -118,6 +118,8 @@ def main() -> None:
             errors.append(f"paragraph {index}: CJK punctuation {''.join(cjk_punct)}")
         for detail in lint.fixed_display_errors(src, tgt, phrases):
             errors.append(f"paragraph {index}: {detail}")
+        for detail in lint.expansion_errors(src, tgt, glossary):
+            errors.append(f"paragraph {index}: {detail}")
         if lint.D_CONTRACTION_RE.search(tgt):
             errors.append(f"paragraph {index}: contraction ending in 'd")
         for entry in lint.glossary_matches(src, glossary):

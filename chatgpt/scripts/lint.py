@@ -129,10 +129,28 @@ def target_has_variant(target: str, variants: list[str]) -> bool:
                 return True
         if variant and variant[0].islower():
             sentence_form = variant[0].upper() + variant[1:]
-            start_pattern = r"^\s*[\"'*]*(?:" + re.escape(sentence_form) + r")(?![A-Za-z0-9_])"
+            start_pattern = (
+                r"(?:^|[.!?][\"']?\s+|:\s+[\"'])[\s\"'*]*"
+                + re.escape(sentence_form) + r"(?![A-Za-z0-9_])"
+            )
             if re.search(start_pattern, target):
                 return True
     return False
+
+
+def expansion_errors(source: str, target: str, glossary: dict[str, dict]) -> list[str]:
+    """Reject added titles unless an independently matched source supplies them."""
+    matches = glossary_matches(source, glossary)
+    errors = []
+    for entry in matches:
+        for expanded in entry.get("rejected_expansions", []):
+            supplied = any(
+                other["source"] != entry["source"] and expanded in other["variants"]
+                for other in matches
+            )
+            if not supplied and target_has_variant(target, [expanded]):
+                errors.append(f"{entry['source']!r} does not supply {expanded!r}")
+    return errors
 
 
 def lint_chapter(
@@ -252,6 +270,9 @@ def lint_chapter(
 
         for detail in fixed_display_errors(source, target, phrases):
             fail("fixed-display", row_id, detail)
+
+        for detail in expansion_errors(source, target, glossary):
+            fail("glossary", row_id, detail)
 
         for entry in glossary_matches(source, glossary):
             if (chapter, row_id, entry["source"]) in legacy_exceptions:

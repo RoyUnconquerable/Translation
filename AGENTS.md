@@ -17,14 +17,18 @@ For every translation or owner-revision task:
 6. Repair clear mechanical errors. If wording materially changes the source or
    conflicts with established authority, present the issue and a
    source-grounded alternative before promoting it.
-7. Promote only verified, durable lessons to the appropriate canonical file.
+7. Promote verified lessons to the canonical file, replacing superseded rules.
+   An explicit owner correction is already authorized; persist it independently
+   of whole-chapter approval. Reconcile observed source/delivery metadata too.
 
 The latest pushed tip of the GitHub canonical branch named in
 `chatgpt/chapters/state.json` is the persistent authority across sessions and
 context compactions. A new instruction in the live conversation applies to the
 current task, but becomes durable only after it is verified, classified,
 committed, and pushed. Repository authority outranks conversation memory,
-summaries, rejected drafts, and model preference. The canonical glossary is the
+summaries, rejected drafts, and model preference; a newer explicit owner ruling
+supersedes the corresponding older rule. Check matching older glossary, phrase,
+decision, and archived continuity records, not just recent chapters. The canonical glossary is the
 only hard terminology source. Historical per-chapter supplements were removed
 from the active tree because they created contradictory precedence; their
 evidence remains recoverable in Git history.

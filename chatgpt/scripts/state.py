@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import argparse
 import sys
 from pathlib import Path
 
@@ -30,6 +31,18 @@ REVIEW_STATUSES = {
 }
 CONTINUITY_STATUSES = {"current", "archived", "missing"}
 STORAGE_STATUSES = {"repo", "chat_only", "unavailable"}
+
+
+def incoming_chapter_errors(chapter: int, state: dict) -> list[str]:
+    """Catch an omitted handoff even when ledger and state are equally stale."""
+    last_seen = state.get("progress", {}).get("latest_source_seen")
+    if isinstance(last_seen, int) and chapter > last_seen + 1:
+        return [
+            f"incoming chapter {chapter} skips the recorded source frontier {last_seen}; "
+            "reconcile verified intermediate source/delivery evidence and explicit "
+            "owner rulings before drafting; do not infer approval of chapter prose"
+        ]
+    return []
 
 
 def load_json(path: Path):
@@ -94,6 +107,9 @@ def validate_file_final(
 
 def main() -> None:
     common.configure_stdio()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--incoming-chapter", type=int)
+    args = parser.parse_args()
     root = common.find_root()
     errors: list[str] = []
     try:
@@ -103,6 +119,8 @@ def main() -> None:
 
     if state.get("schema_version") != 2:
         errors.append("state schema_version must be 2")
+    if args.incoming_chapter is not None:
+        errors.extend(incoming_chapter_errors(args.incoming_chapter, state))
     if state.get("mode") not in {"chat_first", "file_backed"}:
         errors.append("state mode must be chat_first or file_backed")
 

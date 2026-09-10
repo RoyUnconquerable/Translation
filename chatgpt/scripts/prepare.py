@@ -14,6 +14,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common
 import lint
+import state
 
 BRACKET_RE = re.compile(r"【([^】]+)】")
 NUMBER_RE = re.compile(
@@ -54,6 +55,13 @@ def main() -> None:
     phrases = common.load_phrase_memory(root)
     entities = common.load_entities(root)
     source_paragraphs = paragraphs(args.source.read_text(encoding="utf-8"))
+    if source_paragraphs:
+        chapter = re.search(r"第\s*(\d+)\s*章", source_paragraphs[0])
+        if chapter:
+            routing = state.load_json(root / "chapters" / "state.json")
+            errors = state.incoming_chapter_errors(int(chapter[1]), routing)
+            if errors:
+                raise SystemExit("prepare: FAIL\n  " + "\n  ".join(errors))
 
     hard_hits: dict[str, set[int]] = defaultdict(set)
     phrase_hits: dict[str, set[int]] = defaultdict(set)

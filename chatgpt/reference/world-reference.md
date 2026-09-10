@@ -118,7 +118,8 @@ the ledger for reviews. Character claims are explicitly attributed.
   supremacy mirrors Variables ranking first, stirring existing high imagery,
   not creating its ancient mark. Variables is the mark of the first and only
   being to reach the higher realm of Divine Transformation since the sea's
-  birth; that being's identity remains unrevealed.
+  birth. The name is revealed as Jun in Chapter 1315; the mystery of His
+  Transcendence remains unresolved in Chapter 1318.
 - Transcendence is an Ancient Past achievement, not itself a Great Dao. Its
   imagery accounts for Variables ranking first. The Primordial Saint calls
   Lü Yang's path an unorthodox path to Transcendence. Without command of the
@@ -224,103 +225,101 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## Core artifacts and methods
 
-- The Book of a Hundred Lives is bound to Lü Yang's true body; its talents do
-  not automatically synchronize to the Heavenly Emperor. After cultivating his
-  Primordial Spirit, Lü Yang can grip its panel and prevent page reclamation
-  during Si Sui's use. Greater access with status is his inference.
-- The Saint obtained the Heavenly Scripture from the Dragon's Detached Court
-  and used it to create False History and seal Si Sui. Its seal was expected
-  to weaken with the Other Shore's fall; Si Sui unseals it. The first
-  transcender left its core title page, missing from the Book of a Hundred
-  Lives. The Saint added the surrounding book and can seal only the page's
-  exterior, not alter its Mysteries or plant a contingency.
-- In Chapter 1304, the external
-  book dissolves and the original page becomes a talisman anchoring Si Sui's
-  Mysteries. Peak Golden Core can make False History; Dao Lord status bears
-  reality's weight. His body and the talisman create the new world through
-  One, Two, Three, and all things. Event details are in continuity.
-- The new world has thirty-six heavenly layers, seventy-two earthly regions,
-  and no separate realms. Five Elements and Yin and Yang establish matter and
-  spirit; the Dharma Body supplies embodied life and lifespan, the Dao Heart
-  intelligence. Spiritual Power sustains cultivation, Tribulation advancement.
-- Removing the Dharma Body and Dao Heart prevents both embodied and conscious
-  life from arising for harvest in the old sea. The damaged Five Elements Dao
-  can support the Other Shore again when the Dragon's sea of consciousness
-  naturally regathers: the Saint calculates 84,000 years.
-- His four original Empty Attainment Daos have distinct uses: Artifact
-  Refinement builds the Other Shore; Beast-Taming enslaves the Dragon; Dual
-  Cultivation links the void and grounds His true Nascent Soul. Sacrificing
-  Alchemy and its arts replenishes vitality, without fully restoring Destiny.
-- A rebuilt Heavenly Dao needs a living pillar; Si Sui judges only the Saint
-  qualified for one incorporating Destiny. Chapter 1309 substitutes Other Shore
-  fragments, retains the Heavenly Heart Lock, and adds Spells. Adding Destiny
-  to Fate and Fortune completes the design qualitatively, not its needed scale.
-  Its creators plan to make Him its pillar and benefit from His recovery;
-  neither capture nor restored Dao Lord status occurs yet. See continuity.
-- Chapter 1304 shows five lights: Destiny, Fortune, Fate, and Spells retained
-  by four Dao Lords, plus uncontrollable Variables, whose favor shifts. This
-  is not an exhaustive inventory of surviving roots. Chapter 1307 confirms
-  the Five Elements Dao remains linked to the Ancestral Dragon. Si Sui takes
-  only the Immortal Pivot's thirty Fruition Attainments; together they rival
-  other Dao Mysteries. Governing the Daos does not confer comprehension.
-- Traversing the Mortal Dust reaches a Primordial Spirit through separated good
-  and evil consciousnesses. Their abilities normally synchronize, and lasting
-  unity requires one side to become dominant over time.
-- The Heart-Naming Spirit-Locking Art is an Ancient Past method of the Doctrine
-  of Names. It treats a name as a mirror, key, signpost, and measure of the
-  cultivator's heart rather than power in itself. An honorific name must agree
-  with the cultivator's heart, speech, conduct, and Dao. Mistaking the name for
-  the power itself or becoming overly attached to it can instead ruin the
-  cultivation built upon it.
-- The World-Honored One's three life bodies require a causal progression:
-  the first Myriad Treasures Peak Lord proves Karma in the Past; True Monarch
-  Radiant World Western Light ascends the Other Shore in the Present; the
-  World-Honored One of the Blissful Pure Land becomes a Nascent Soul Dao Lord
-  in the Future. This does not restore His current status. Destroying Karma
-  through His past body reverts its Great Net to the River of Time, defeating
-  the Saint's plan to cause that transformation by personally killing Him.
-- The Saint's three life bodies fight different groups concurrently across
-  Past, Present, and Future, unlike one body isolating opponents across time.
-  He acknowledges the method without explaining how He learned it.
-- Knowledge manifests mighty power, but the Saint withholds His cultivation
-  foundations: disclosure risks outweigh the small power gain.
-- Tribulation lets the World-Honored One survive a calamity lethal to His
-  former Karma path, with severe bodily damage, not immunity (Chapter 1291).
-- The Treasured Life Perfect Form Scripture is Si Sui's Dharma Body inheritance.
-- The Reincarnation Wheel of Life and Death, the Underworld's eighth part,
-  pits Dao Tianqi's status against the Saint's, forcing Him to defend His
-  foundation. After the war, the surviving Ghost Gate still enables rebirth.
-  Normal Underworld repair takes tens of thousands of years of refinement;
-  rapid repair requires vast amounts of source jade, also called Void Stone.
-  Other treasures cannot meet its scale. Current allocations are in continuity.
-- The Heavenly Heart Lock is a Dao Artifact refined by the Ancestral Dragon
-  and once served as the Heavenly Dao's foundation. The Sword Sovereign and
-  Vast Sky can recall it, and Lü Yang can empower it with the Five Elements
-  Fruition Attainments. It can suppress the River of Time, but the Primordial
-  Saint can remove it through a shadow from the Past at a visible cost.
-- Myriad Spells derived the Dharma Extinction Scripture from the deficiency
-  left in the Three Foundations after Si Sui's sealing shattered the Dharma
-  Body Dao. It destroys cultivators' Mysteries through their foundations;
-  cultivators cannot escape its influence while remaining within that
-  category. This establishes influence, not automatic death or equal damage
-  to every cultivator. As a form of Tribulation, the effect can reinforce and
-  be reinforced by the World-Honored One's tribulation power.
-- Heaven-Slayer combines the Sword Sovereign's long refinement of Sanhe's True
-  History body with the False History Sanhe's temporary Primordial Spirit
-  sacrifice and seizure of that sword.
-- Heaven-Slayer is a heart sword. Any opponent who clashes with its edge has a
-  portion of the Primordial Spirit cut away, so a prolonged battle increases
-  the risk of becoming lost in the Fathomless Void.
+- The Book of a Hundred Lives belongs to Lü Yang's true body; its talents do
+  not automatically synchronize to the Heavenly Emperor. His Primordial Spirit
+  lets him grip the panel and block page reclamation. More access with higher
+  status is his inference. The missing page now anchors the new world's sun.
+- The Saint found the Heavenly Scripture in the Dragon's Detached Court and
+  used it for False History and Si Sui's seal. Only its original title page came
+  from the first transcender; the Saint added the rest. He can seal around the
+  page but cannot alter its Mysteries or leave an internal countermeasure.
+- The external book dissolves in Ch.1304. Its talisman page anchors Si Sui's
+  Mysteries as His body creates the world through One, Two, Three, and all things.
+  Peak Golden Core can create False History; Dao Lord status bears reality.
+- The world has thirty-six heavenly layers, seventy-two earthly regions, no
+  separate realms. Five Elements/Yin and Yang ground matter/spirit; Dharma Body
+  grounds embodied life/lifespan, Dao Heart intelligence, Spiritual Power
+  cultivation, and Tribulation advancement. Removing body and heart prevents
+  the old sea from producing either embodied or conscious life for harvest.
+- The Dragon retains the full Five Elements root; the thirty transferred
+  Fruition Attainments rival other Dao Mysteries. Five visible lights in Ch.1304
+  are not a complete root inventory. Governance does not grant comprehension.
+  The Saint estimates 84,000 years for the Dragon's consciousness to regather
+  and let Five Elements support the Other Shore again.
+- His four Empty Attainment Daos serve distinct purposes: Artifact Refinement
+  builds the Other Shore; Beast-Taming enslaves the Dragon; Dual Cultivation
+  links the void and grounds true Nascent Soul; sacrificing Alchemy replenishes
+  vitality without fully restoring Destiny.
+- Heavenly Dao requires a living pillar. Its Ch.1309 rebuild uses the Heavenly
+  Heart Lock, Other Shore fragments, Spells, Fate, Fortune, and Destiny. The
+  design is qualitatively complete but undersized; its creators plan to make
+  the Saint its pillar. No successful capture is established. See continuity.
+- Traversing the Mortal Dust separates good/evil consciousnesses, whose skills
+  normally synchronize. Lasting union requires one side's eventual dominance.
+  The Treasured Life Perfect Form Scripture is Si Sui's Dharma Body inheritance.
+- The Heart-Naming Spirit-Locking Art uses names as mirror, key, signpost, and
+  measure of the heart, not power itself. Name, heart, speech, conduct, and Dao
+  must agree; confusing or overvaluing the name can ruin cultivation.
+- The World-Honored One's three life bodies progress from Shi Tianyi proving
+  Karma in the Past, through True Monarch Radiant World Western Light ascending
+  in the Present, to the Blissful Pure Land's Nascent Soul in the Future.
+  Destroying past Karma reverts its Great Net to the River of Time; this does
+  not restore His current status. The Saint likewise uses three concurrent
+  bodies; He does not explain how He learned the method.
+- Knowledge manifests power, but the Saint withholds His foundations because
+  disclosure risk exceeds the gain. Tribulation saves the World-Honored One
+  from a calamity lethal to His former Karma path, with injuries, not immunity.
+- The eighth Underworld part, Reincarnation Wheel of Life and Death, contests
+  the Saint's status and foundation. The surviving Ghost Gate permits rebirth.
+  Ordinary repairs take tens of thousands of years; fast repairs require huge
+  amounts of source jade (Void Stone). Other materials cannot meet its scale.
+- The Dragon refined the Heavenly Heart Lock as a Dao Artifact. The Sword
+  Sovereign/Vast Sky can recall it; Lü Yang can empower it through Five Elements.
+  It suppresses Time, but the Saint removes it via a past shadow at visible cost.
+- Myriad Spells derived the Dharma Extinction Scripture from the Three
+  Foundations' deficiency after Si Sui's sealing shattered the Dharma Body Dao.
+  It attacks cultivators' Mysteries through those foundations. Category-wide
+  influence is not automatic death or equal damage. It and the World-Honored
+  One's Tribulation can reinforce each other.
+- Heaven-Slayer joins the Sword Sovereign's long refinement of True History
+  Sanhe with False History Sanhe's temporary Spirit sacrifice and sword seizure.
+  Its heart-sword edge cuts Primordial Spirits, increasing the risk of becoming
+  lost during prolonged combat. Expanded historical method detail is retained
+  in continuity-archive.md under Expanded artifact and method notes.
+
+## Cultivation foundations, names, and the cosmic end
+
+- Ancient Qi Refinement unites essence, qi, and spirit; ancient clan scripts
+  and languages express aspects of the Dao. Knowledge anchored early Foundation
+  Establishment cultivators before the World-Honored One opened its Realm.
+  Rapid cultivation can omit this groundwork; high status does not replace it.
+- Si Sui says wisdom light should not transfer. Dao Tianqi shares it within the
+  four Peak Lords' name-linked circle; the Saint's ritual exploits their names.
+  Names inscribe nature/life, so arbitrary renaming risks damage and superior
+  present cultivation cannot simply undo this Ancient Past method.
+- A completed Primordial Spirit can resist One Mind assimilation. Lü Yang and
+  the World-Honored One resist each other while the karmic link still gives
+  access to Dao Tianqi's wisdom. The borrowed light temporarily repairs Lü
+  Yang's spirit/essence/qi mismatch and dulls its donor. Permanence is unproved.
+- Heavenly Dao command plus Time lets the Saint witness the uncertain final
+  deity and awaken an individual consciousness. The ultimate End Tiger is
+  stronger but short-lived; the new individual is distinct, connected, and
+  limited by the awakener's status. Destiny can anchor Him in the Present:
+  the Final Kalpa is a destined future, so its imagery reinforces Destiny.
+- Time can project a conscious Dragon from a fragment without power/status.
+  It cannot simply accelerate full resurrection past the 84,000-year wait.
+- Ch.1316-1318 attribute the Ancient Past to an Outer Heavens mountain merging
+  with the sea's origin point while the Dragon gestated. Jun is the named first
+  transcender; the Saint copied His face, not His identity. The End Tiger says
+  Jun raised the gestating Dragon and identifies Tai Yitian's usurpation of
+  Primordial imagery. The Dragon recalls an earlier awakened Tiger.
+- True Transcendence is said to erase karma, worldly traces, and memories while
+  escaping the void. The Tiger's memory contradicts that account. Neither His
+  explanation of access to all history nor a hidden flaw in Transcendence is
+  established as the solution. Current claims and uncertainties are in continuity.
 
 ## Era outline
 
-1. The Ancient Past is untraceable because time was cut off. Its relics include
-   seven Heavenly Person's Remnant Consciousnesses and Dao Lineages inherited by Dao Lords.
-2. In the Primordial Era, the Ancestral Dragon ruled the Sea of Light, saw later beings as
-   harvestable material, and spread cultivation as a hundred flowers bloomed.
-3. Si Sui proved the Dao, opening the Ancient Era's golden age; at its end He
-   led the Dao Lords against the Dragon and built the Other Shore.
-4. The Saint, Sword Sovereign, and Vast Sky suppressed Si Sui, created the
-   False History and Heavenly Dao, beginning the 129,600-year Medieval Antiquity Era.
-5. Dao Tianqi built the Underworld and opposed Dao Lord plans destroying ordinary lives.
-6. Lü Yang's God-Sealing collective order could separate the sea from Their rule.
+Ancient Past precedes Primordial, Ancient, and Medieval Antiquity eras. See
+History and causality above; the earlier six-stage outline is preserved in
+continuity-archive.md, with its original historical context.
