@@ -50,8 +50,12 @@ def configure_stdio() -> None:
 
 
 def find_root(start: Path | None = None) -> Path:
-    """Return the chatgpt pipeline directory."""
-    here = (Path(start) if start else Path.cwd()).resolve()
+    """Locate this script's pipeline, or search from an explicit location.
+
+    The caller's working directory still resolves relative input paths, but
+    must not select a different checkout's authorities or hide this pipeline.
+    """
+    here = (Path(start) if start is not None else Path(__file__).parent).resolve()
     for candidate in (here, *here.parents):
         if (candidate / "config.json").is_file() and (candidate / "chapters").is_dir():
             return candidate

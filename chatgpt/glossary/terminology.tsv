@@ -54,7 +54,7 @@ source	target	notes
 灵气	qi|spiritual qi	lowercase; provenance terminology.tsv
 灵石	spirit stone	provenance terminology.tsv
 遁光	escape light	一道遁光 = "a streak of escape light"; provenance terminology.tsv
-一心	One Mind|One Heart	"the One Mind" only for the World-Honored One / Pure Land concept; the Outer Path Alliance's 一心 is "One Heart"; ordinary adverbial 一心 means wholeheartedly or with one's full attention [except: 一心逃遁]; provenance terminology.tsv
+一心	One Mind|One Heart	"the One Mind" only for the World-Honored One / Pure Land concept; the Outer Path Alliance's 一心 is "One Heart"; ordinary adverbial 一心 means wholeheartedly or with one's full attention [except: 一心逃遁|一心只想着]; provenance terminology.tsv
 妙乐	Sublime Bliss	the Spell Dao Lord's eldest disciple; true body is Taiyi; locked Ch. 1186; provenance terminology.tsv
 剑君	Sword Sovereign	same being as 剑主/剑尊; provenance terminology.tsv
 法术道主	Spell Dao Lord	usually takes 'the'; provenance terminology.tsv
@@ -349,3 +349,7 @@ source	target	notes
 豢妖道	Beast-Taming Dao	Named Dao; expands the already approved four-Dao phrase in Ch.1292. Distinct from a person, especially Senior Beast-Taming.
 活桩	living pillar	Owner Ch.1307 replaces provisional living anchor for a living being sustaining the Heavenly Dao; not a global replacement for anchors.
 五行道	Five Elements Dao	Owner Ch.1307; use the compact named-Dao form.
+源玉	source jade	Owner Ch.1308 replaces provisional Origin Jade; lowercase material name except sentence-initial capitalization. Same material as Void Stone.
+虚空石	Void Stone	Owner Ch.1308 retains this capitalized alternative name for source jade.
+天荒	Heavenly Wilderness	Owner Ch.1308 retains the Nether Whisper Ancestor's name for the new world; normally takes the definite article.
+鬼门关	Ghost Gate	Owner Ch.1308 retains the surviving Underworld gate; normally takes the definite article.

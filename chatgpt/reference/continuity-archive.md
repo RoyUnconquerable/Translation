@@ -447,3 +447,50 @@ began returning to the True History.
   He allowed Du Xuan's death and helped Si Sui resolve His inner obstacle,
   accepting the dangerous opponent. This is Si Sui's open scheme exploiting
   His desire, not a long-prepared strategy of the Saint's. No outcome is given.
+
+## Archived causal chain: Chapters 1302 to 1303
+
+- Chapter 1302: the Primordial Saint's Time and Destiny resonate with the
+  Fathomless Void, revealing its Ring and cradle nature. Past and Future
+  branch and return to their source. Si Sui recognizes that His false
+  Transcendence still depends on the void, but refuses the cruel faster path.
+- The Saint draws heavenly light from the Ring into nested, reflecting Rings
+  and a Nascent Soul Dao Body, connected to the void by His Primordial Spirit
+  like an umbilical cord. Si Sui withstands Him as a second Sea of Light.
+  Their aftershocks threaten even completed Primordial Spirits with becoming
+  lost outside the sea; the battle is no longer safe to watch from the void.
+- Lü Yang opens the God-Sealing Method's blockade and retreats into the sea
+  with the World-Honored One and Dao Tianqi. The Sword Sovereign, Vast Sky,
+  and Myriad Spells choose to invade and restore the Other Shore. Si Sui's
+  path is not one They can follow; Lü Yang's method needs time and may subject
+  Them to his control. The Saint strengthens the aftershocks and breaks the
+  blockade to force Their choice.
+- Lü Yang prepares to leave the sea and intercept Them despite the storm.
+  Their success would also lift the Saint from the first Other Shore layer
+  to the second or third. Before Lü Yang acts, a wounded skeletal hand reaches
+  down, stills the storm, and gently protects the Sea of Light.
+- Chapter 1303: in the shore-and-sea tableau, the Saint offers Si Sui a fragment
+  and position on the Other Shore, then exclusive protection for the hundreds
+  of millions He cares about. The Saint may conceal, scheme, or kill, but will
+  not lie to the only person He recognizes as a Fellow Daoist. Si Sui refuses
+  and mocks His failure to understand Him; the answer about love is fabricated.
+- Si Sui's actual motive is ordinary decency: He helps when He can afford the
+  cost. He deliberately abandons the duel and takes the Saint's repeated blows
+  while reaching for the sea. Only half His body remains, His face intact but
+  all flesh below the neck gone, with talismans inscribed on crystalline bones.
+  His transcendent true body does not harm the lesser cultivators who see it.
+- Si Sui says the Saint cannot truly kill Him. The hostage strategy instead
+  forces severe injuries during the rescue and creates an opening to suppress
+  Him. Even 129,600 years ago, He did not face a threat to His life; He thinks
+  He would probably abandon the sea if His life really were endangered.
+- The Heavenly Scripture is now unsealed and usable, making this rescue's cost
+  affordable without threatening His life. Si Sui reaches out and summons it,
+  then pours in His full power, comparable to the entire Sea of Light.
+- Its title page is its core and the missing page of the Book of a Hundred
+  Lives. The displayed equality declaration has fixed wording and bold corner
+  brackets in phrase memory. A boundless new world immediately expands from
+  the book and covers the original Sea of Light. It is real, not a False
+  History substituted through altered cause and effect: this remakes heaven
+  and earth. Si Sui offers the Saint the original sea as an empty shell,
+  declaring it will contain neither Great Daos nor living beings after today.
+  Their destination and the final battle outcome are not yet shown.

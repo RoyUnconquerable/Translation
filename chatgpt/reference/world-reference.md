@@ -203,12 +203,13 @@ the ledger for reviews. Character claims are explicitly attributed.
   development. The World-Honored One's position once served as an anchor that
   limited this control.
 - The God-Sealing Method joins gods and people through incense, Divine Ranks,
-  territory, and reciprocal support. Prosperous people strengthen the gods who
-  protect them.
-- By Chapter 1277, the God-Sealing Dao Lineage had spread through 129,600 years
-  of False History and returned with deep roots in the Sea of Light. Cultivators
-  could access their old powers through it, while rejecting it severed their
-  practical connection to those paths.
+  territory, and reciprocal support. Prosperous people strengthen their gods;
+  advancing gods raise the Heavenly Palace. Modified methods retain this
+  effect. Western leaders answer operational calls but need not attend court.
+  Lü Yang models the Palace's upward path for all life on the Underworld.
+- Returning through 129,600 years of False History rooted the God-Sealing
+  Dao Lineage in the sea. Cultivators access their old powers through it;
+  rejecting it severs that practical connection (Chapter 1277).
 - Vast Sky cannot erase Lü Yang's Fortune by suppressing either of his names
   alone. While the False History is still returning, Lü Yang's great
   achievement is sustained together by the God-Sealing Dao Lineage, the Sea of
@@ -268,30 +269,27 @@ the ledger for reviews. Character claims are explicitly attributed.
   with the cultivator's heart, speech, conduct, and Dao. Mistaking the name for
   the power itself or becoming overly attached to it can instead ruin the
   cultivation built upon it.
-- The World-Honored One's three life bodies link His past, present, and future.
-  Destroying Karma through His past life body caused the Great Net of Karma to
-  revert to the River of Time, preventing the Primordial Saint from completing
-  the same intended causal transformation by killing Him personally.
-- Their causal progression links the first-generation Myriad Treasures Peak
-  Lord proving Karma in the Past, True Monarch Radiant World Western Light
-  ascending the Other Shore in the Present, and the World-Honored One of the
-  Blissful Pure Land as a Nascent Soul Dao Lord in the Future. Each stage is
-  necessary; this method description does not restore His lost current status.
-- The Primordial Saint also uses three life bodies, allowing Him to oppose
-  different groups concurrently in the Past, Present, and Future. This differs
-  from isolating everyone in the River of Time while a single body deals with
-  one opponent. His acknowledgment does not explain how He learned the method.
-- Knowledge can manifest mighty power. The Primordial Saint nevertheless
-  withholds knowledge concerning the foundation of His cultivation because
-  disclosure risks outweigh the small increase in power.
-- Tribulation allows the World-Honored One to escape a lethal calamity that
-  His former cultivation of Karma could not have survived. Chapter 1291 shows
-  Him surviving with severe bodily damage, not enjoying universal immunity
-  from injury.
+- The World-Honored One's three life bodies require a causal progression:
+  the first Myriad Treasures Peak Lord proves Karma in the Past; True Monarch
+  Radiant World Western Light ascends the Other Shore in the Present; the
+  World-Honored One of the Blissful Pure Land becomes a Nascent Soul Dao Lord
+  in the Future. This does not restore His current status. Destroying Karma
+  through His past body reverts its Great Net to the River of Time, defeating
+  the Saint's plan to cause that transformation by personally killing Him.
+- The Saint's three life bodies fight different groups concurrently across
+  Past, Present, and Future, unlike one body isolating opponents across time.
+  He acknowledges the method without explaining how He learned it.
+- Knowledge manifests mighty power, but the Saint withholds His cultivation
+  foundations: disclosure risks outweigh the small power gain.
+- Tribulation lets the World-Honored One survive a calamity lethal to His
+  former Karma path, with severe bodily damage, not immunity (Chapter 1291).
 - The Treasured Life Perfect Form Scripture is Si Sui's Dharma Body inheritance.
-- The Reincarnation Wheel of Life and Death is the Underworld's eighth
-  component. Dao Tianqi can use it to pit his status against the Primordial
-  Saint's, forcing Him to divert power into defending that foundation.
+- The Reincarnation Wheel of Life and Death, the Underworld's eighth part,
+  pits Dao Tianqi's status against the Saint's, forcing Him to defend His
+  foundation. After the war, the surviving Ghost Gate still enables rebirth.
+  Normal Underworld repair takes tens of thousands of years of refinement;
+  rapid repair requires vast amounts of source jade, also called Void Stone.
+  Other treasures cannot meet its scale. Current allocations are in continuity.
 - The Heavenly Heart Lock is a Dao Artifact refined by the Ancestral Dragon
   and once served as the Heavenly Dao's foundation. The Sword Sovereign and
   Vast Sky can recall it, and Lü Yang can empower it with the Five Elements

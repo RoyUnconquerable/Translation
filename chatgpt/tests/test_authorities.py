@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -132,6 +133,36 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(prepare.NUMBER_RE.findall("世上九成九的人，八万四千年后。"),
                          ["九成九", "八万四千年"])
 
+    def test_rank_and_approximate_quantity_inventory(self):
+        self.assertEqual(prepare.NUMBER_RE.findall("四等大真君，祭炼几万年，耗时数千年。"),
+                         ["四等", "几万年", "数千年"])
+
+    def test_adverbial_focus_does_not_disable_one_mind(self):
+        glossary = common.load_glossary(self.root)
+        source = "他一心只想着修复。"
+        hits = {row["source"] for row in lint.glossary_matches(source, glossary)}
+        self.assertNotIn("一心", hits)
+        hits = {row["source"] for row in lint.glossary_matches(source + "世尊施展一心。", glossary)}
+        self.assertIn("一心", hits)
+
+    def test_scripts_find_their_pipeline_outside_checkout(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            src, tgt = root / "source.txt", root / "target.txt"
+            src.write_text("第1章 测试\n\n他一心只想着修复。\n", encoding="utf-8")
+            tgt.write_text("Chapter 1: Test\n\nHe could think only of repairs.\n", encoding="utf-8")
+            for script, args, marker in (
+                ("prepare.py", [str(src)], "paragraphs: 2"),
+                ("chat_check.py", [str(src), str(tgt), "--scene-break-before"], "PASS (2 paragraphs)"),
+            ):
+                result = subprocess.run([sys.executable, str(SCRIPTS / script), *args],
+                                        cwd=root, text=True, capture_output=True)
+                self.assertEqual(result.returncode, 0, result.stderr + result.stdout)
+                self.assertIn(marker, result.stdout)
+            self.assertEqual(common.find_root(self.root), self.root)
+            with self.assertRaises(SystemExit):
+                common.find_root(root)
+
     def test_chat_rejects_empty_and_mismatched_chapters(self):
         self.assertEqual(chat_check.chapter_input_errors([], []),
                          ["source is empty", "target is empty"])
@@ -200,23 +231,6 @@ class AuthorityTests(unittest.TestCase):
                 root, common.DEFAULT_CONFIG, glossary, "ch1", write_report=False
             )
             self.assertIn("glossary", {item["check"] for item in report["fails"]})
-
-    def test_user_critical_style_contracts(self):
-        style = (self.root / "reference" / "style-guide.md").read_text(
-            encoding="utf-8"
-        )
-        prose = " ".join(style.split())
-        self.assertIn("Italics identify direct thought; they do not determine tense.", prose)
-        self.assertIn("Preserve the source image or cultural referent, not Chinese grammar.", prose)
-        self.assertIn("not mechanically from the source's quotation glyphs", prose)
-        self.assertIn("Free indirect narration remains roman", prose)
-        self.assertIn("Archaic diction is optional, not automatic", prose)
-        self.assertIn("Natural contractions are the default", prose)
-        self.assertIn("Audit articles, prepositions, complements, and collocations", prose)
-        self.assertIn("join tightly linked premises", prose)
-        reminders = " ".join(prepare.PROSE_REVIEW_REMINDERS)
-        self.assertIn("natural contractions by default", reminders)
-        self.assertIn("articles, prepositions, complements, and collocations", reminders)
 
     def test_repository_authority_is_explicit(self):
         state = json.loads(

@@ -80,6 +80,10 @@ and generate this inventory with:
 python chatgpt/scripts/prepare.py <source-file>
 ```
 
+Scripts locate their own pipeline regardless of working directory; relative
+source/target paths still resolve from the caller's directory. Inventory is
+a prompt for review, not proof of complete numerical or semantic coverage.
+
 When the scripts are available, this pre-draft check is mandatory. If execution
 is unavailable, reproduce its terminology, identity, number, and phrase checks
 manually and disclose the limitation.
@@ -195,8 +199,12 @@ and tense, allusions, and formatting before classifying each change:
 - `LOCAL`: useful only in that passage, decision log or Git history only;
 - `MECHANICAL`: typo or formatting repair, no stylistic promotion.
 
-Update state and ledger in the same atomic commit. Never create a new
-chapter-specific glossary, style, continuity, world, or edit-summary file.
+Update state and ledger in the same atomic commit. Before adding reference
+text, check existing size budgets, consolidate overlaps, and archive completed
+plot detail in the existing archive with a pointer. Do not cycle through full
+gates after every sentence edit or raise caps to make an oversized file pass.
+Never create chapter-specific glossary, style, continuity, world, or edit-summary
+files. Full source, draft, and comparison scratch files stay outside Git.
 
 ## 6. File-backed path
 
@@ -215,7 +223,10 @@ python chatgpt/scripts/lint.py --all
 python chatgpt/scripts/state.py
 ```
 
-Review `git diff` and `git status`. Preserve unrelated worktree changes. Make
+Review `git diff` and `git status`. Preserve unrelated worktree changes.
+When a tool transports file content for publishing, use bounded reads and
+verify the resulting Git tree against the reviewed local tree. A truncated
+combined dump is not valid file content; do not repeatedly resend it. Make
 one coherent forward commit for the owner-final update or maintenance task,
 then push it to the working branch and ensure the canonical GitHub branch named
 in state contains it. Do not claim cross-session persistence before both are

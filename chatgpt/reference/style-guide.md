@@ -27,10 +27,9 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
-- Choose length by meaning and cadence, not a preference for either brevity or
-  expansion. Use fuller English to clarify participants, causes, and grammar;
-  cut abstract padding that adds no detail. A surge of recovered power need
-  not become an infusion of nourishment. Preserve every source qualification.
+- Choose length by meaning and cadence, not brevity alone. Fuller descriptions
+  and emphasis can be natural; remove padding only when it adds nothing.
+  Preserve every source qualification and use ordinary, vivid phrasing.
 - When the narrator frames cultivation combat through modern system or matchup
   logic, preserve that register with clear contemporary language such as raw
   stats or mechanics. Describe ease of use naturally, rather than calling a
@@ -47,13 +46,11 @@ When principles compete, use this order:
 - Sentence boundaries may change inside a paragraph when English grammar needs
   it, provided every premise, contrast, causal link, uncertainty, and emphasis
   remains.
-- Within one source paragraph, join tightly linked premises and consequences
-  when this improves flow; make conditions and concessions explicit. Choose
-  joined clauses, separate sentences, or compact parallels by the reasoning
-  and cadence. Never merge source paragraphs or delete a causal punch line.
-- When a resource enables an action, connect the means to the goal instead of
-  presenting them as unrelated items in a list. Preserve the source's actual
-  causal connection when simplifying a sentence.
+- Within each source paragraph, connect premises, means, and consequences.
+  Join or separate sentences by the reasoning and cadence. If a later clause
+  gives an exception, qualify the earlier rule: ordinary repair takes time,
+  but rapid repair requires a rare resource. Preserve causal punch lines and
+  source paragraph boundaries.
 - Preserve every number, date, sequence, comparison, negation, title,
   relationship, and degree of certainty.
 - Preserve small details: intent versus threat, immediate or long-ago timing,
@@ -84,11 +81,13 @@ When principles compete, use this order:
 - Describe sensations through their experiencer: even with His cultivation,
   He felt the weight pressing down. Do not make cultivation the agent that
   could not spare Him the sensation.
-- Name a referent when pronouns are ambiguous. Specify what a character
-  understands: what happens versus why a method works, not a vague why.
-- Avoid stacked possessives when they obscure a resource's owner or source.
-  Attach quantities to the beings or objects actually counted and use an
-  of-phrase when it makes the relationship easier to follow.
+- Resolve repeated pronouns and possessives when their owners differ: His
+  intervention and His injuries may concern two people. Name the needed
+  referent, not every participant. Keep appositions clear when several labels
+  identify one object; adding and must not suggest a second artifact.
+- Attach quantities to their actual referents. Explain what is understood
+  versus why it works, and authority exercised versus direct rule; do not
+  replace an unstated subject with a narrower group without source support.
 - Make forced movement clear in combat. When a blow sends someone flying,
   preserve that external cause rather than leaving the motion open to being
   read as a voluntary retreat. Connect the resulting change in the battle to
@@ -124,12 +123,10 @@ When principles compete, use this order:
   questions, decisions, rebuttals, and exclamations.
 - Keep free indirect narration in roman type. A rhetorical question reported
   through a viewpoint is not automatically a quoted thought.
-- Choose thought mode and time reference before formatting.
-  Italics identify direct thought; they do not determine tense. Direct thought speaks from the character's now: present
+- Italics mark direct thought, not tense. From the character's now, use present
   for current perceptions, future for plans, conditional for hypotheticals,
-  and past or perfect for memories as chronology requires. Never backshift an
-  immediate thought to match past narration. Free indirect narration remains roman
-  and normally follows the narrative past.
+  and past or perfect for memories. Do not backshift immediate thoughts to
+  match narration. Free indirect narration stays roman and normally past.
 - Determine direct thought from voice and context, not mechanically from the
   source's quotation glyphs. A third-person analytical conclusion may remain
   free indirect narration in roman type even when Chinese encloses it in
@@ -208,9 +205,10 @@ When principles compete, use this order:
   because the Chinese has no printed separator. Do not add breaks solely for
   visual pacing, a larger visual scale, or a continuous action beat. Record
   the chosen source paragraph indices and validate the actual separators.
-- Environmental and impact sound effects are uppercase and unquoted on their
-  own source-aligned line. An owner's voiced breath such as "Haaah..." may
-  retain quoted vocalization; do not force it into an impersonal wind sound.
+- Environmental and impact sounds are uppercase, unquoted, and source-aligned.
+  Voiced breaths and coughs may stay quoted: "Haaah..." or "Ahem, ahem, ahem!"
+  Preserve meaningful repetitions and delivery, without treating vocalization
+  as an environmental effect.
 - Preserve displayed inscriptions, proclamations, edicts, scripture passages,
   and interface panels in **【translated text】** when the source or explicit
   owner ruling presents them that way. Keep approved wording and formatting
@@ -250,9 +248,10 @@ When principles compete, use this order:
   including prove Time and prove Destiny. Inflect by the actual time reference;
   a speaker reconstructing a cultivation sequence can use the schematic
   present. Do not replace unrelated attainment, evidence, or comprehension.
-- Prefer the compact attributive form Empty Attainment Dao where it fits.
-  Once mighty power has been identified within a paragraph, plain power can
-  refer back to it without losing the concept or repeating the full term.
+- Prefer Empty Attainment Dao where it fits. Rank syntax can expand naturally:
+  a Treading the Heavens Great True Monarch or a Great True Monarch of that
+  realm. Fixed terminology does not fix every surrounding construction.
+- Once mighty power is identified, plain power can refer back to it.
 
 ## Numbers and house mechanics
 

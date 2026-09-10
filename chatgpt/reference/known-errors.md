@@ -57,9 +57,6 @@ Remove entries made redundant by stronger canonical controls.
   The named Dao Variables takes singular agreement despite its spelling.
   The Ancestral Dragon is He/His/Him as the Dao Lord, but a detached guided
   consciousness may be it/its where continuity explicitly says so.
-- `神念` is `divine sense`. Do not replace the established faculty with
-  `divine thoughts` or overlook it because the glossary is large.
-- Do not conflate the Spell Dao, Spiritual Power Dao, and Dharma Body Dao.
 - Knowing a method in the sense of understanding or using it must not become
   merely knowing about its existence. Preserve the competence implied by
   懂得 when the scene depends on the character employing the technique.
@@ -94,11 +91,14 @@ Remove entries made redundant by stronger canonical controls.
 - Use natural contractions unless emphasis, contrast, formality, or clarity
   requires expansion; never use forms ending in 'd. Check this manually,
   rather than relying on the mechanical checker.
-- A glossary PASS does not certify prose. Ch.1307 exposed abstract padding,
-  overexplicit human-material wording, awkward collocations, and parenthetical
-  dialogue lists. Fix the construction, not isolated synonyms. In the owner
-  edit, few talent, missing you in direct address, and to establish...and laid
-  are grammar slips, not preferences.
+- A glossary PASS does not certify prose. Fix padded constructions, awkward
+  collocations, and parenthetical dialogue lists, not isolated synonyms.
+  Owner grammar slips are not preferences: few talent, an Treading, and no
+  division of Boundary Heavens need contextual correction. A conditional
+  fast repair is an exception to ordinary repair, not a contradiction.
+- Ch.1308's grade list is unresolved: 四等 may be a count or a fourth-class
+  label. Neither the draft's four-grade reading nor the owner's six-item
+  sequence has a verified mapping. Do not canonize either as a full ladder.
 - Check what a possessive modifies: His teacher's ruler invents an owner when
   the source identifies His disciplinary implement. Separate a being's
   attainment from the action of using that being as material; compressed

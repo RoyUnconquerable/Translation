@@ -12,6 +12,12 @@ confirmation.
 
 ## Compare once
 
+Use the delivered draft already on hand; an owner edit does not trigger a new
+translation. Build one indexed comparison of source, draft, and owner text,
+then give those same inputs to the two detector reviews in workflow.md. For a
+body-only paste, align its first paragraph with the source body, recording
+omitted title/end framing separately. Do not offset every paragraph by one.
+
 Align the owner version with both the exact source and the prior draft,
 paragraph by paragraph. First verify fidelity, grammar, terminology,
 continuity, thought mode and tense, allusions, and formatting. Then record what
@@ -37,9 +43,11 @@ Every difference receives one classification:
 - `MECHANICAL`: spelling, punctuation, agreement, duplicated text, or paste
   damage.
 
-Promote each item only to its matching canonical file. One edit may support an
-existing rule without creating a new one. Local and mechanical items do not
-become global rules.
+Amend the existing matching rule before adding one. Consolidate redundant or
+superseded wording without removing its valid exceptions. One local synonym
+does not establish a universal preference. Separate accepted terms from an
+unverified change to a rank list, referent, or source fact; unresolved details
+do not block the verified updates.
 
 ## Repository update
 
