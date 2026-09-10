@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1310 to 1319
+# Current continuity: Chapters 1310 to 1320
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -225,3 +225,10 @@ positions and hypotheses where the source now answers them.
 - The Saint's original mortal name and the supporting ritual remain unknown.
   Sharing wisdom light through the four Peak Lords is now evidenced; ordinary
   unrestricted transfer remains unestablished.
+
+## Chapter 1320: the Great Dao answers to the cultivator
+
+- Three ruler taps awaken wisdom, open intellect, and bring Lü Yang closer to the Dao; they are not a third-watch summons or a wisdom-light transfer. His Primordial Spirit follows Si Sui while his body remains still.
+- Si Sui teaches through Primordial Spirit combat: blows transfer knowledge and correct gaps. The first punch equals three days of reading. He matches Lü Yang's status and uses less power; this is a teaching restriction, not loss of His true cultivation.
+- Lü Yang invokes the thirty Five Elements Fruition Attainments and Boundless Dao; Si Sui breaks the combined attack and deflects Heaven-Slayer. Knowledge and Dao Tianqi's wisdom light reveal how the Great Dao answers to the cultivator.
+- The Dharma Body Dao originally lacked lifespan extension. That Mystery arose when Si Sui proved the Dao. This explains its later established life-sustaining role.

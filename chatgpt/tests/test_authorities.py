@@ -185,7 +185,7 @@ class AuthorityTests(unittest.TestCase):
 
     def test_ch1307_contexts_do_not_mask_real_terms(self):
         glossary = common.load_glossary(self.root)
-        contexts = "光海诞生性命，五行重现世间，足以危及他性命。"
+        contexts = "光海诞生性命，五行重现世间，足以危及他性命，一招就要了他性命。"
         hits = {row["source"] for row in lint.glossary_matches(contexts, glossary)}
         self.assertNotIn("性命", hits)
         self.assertNotIn("现世", hits)
