@@ -72,14 +72,14 @@ When principles compete, use this order:
 - For action and cosmology, favor actor, action, target or direction, then
   consequence. Front a prerequisite when this avoids nested ability/use/result
   clauses. Keep geography, ownership, certainty, and causal links explicit.
-- Split overburdened clauses; avoid abstract noun stacks and trailing chains
-  of relative or participial clauses. Keep lists in dialogue within spoken
-  syntax, without editorial parentheses. Sentence length itself is not a flaw.
-- Audit articles, prepositions, complements, and collocations, alongside
-  countability, verb parallelism, and participle subjects. Use English grammar.
-  Keep ownership and deliberate control explicit. Use natural collocations:
-  fight to a stalemate, not hold someone to a stalemate. A correct dictionary
-  meaning does not guarantee a natural sentence.
+- Split overloaded clauses and trailing modifiers; connect related premises.
+  Separate a proposal from its stakes when clearer. Keep dialogue lists in
+  spoken syntax. Sentence length itself is not a flaw.
+- Read complete noun phrases for required articles or possessives, countability,
+  and clear reference. Check prepositions, complements, parallel verbs, and
+  participle subjects. Preserve ownership and deliberate control. Use natural
+  collocations: fight to a stalemate, not hold someone to a stalemate; agreed to
+  it when the referent helps. Correct terms cannot ensure fluency.
 - Describe sensations through their experiencer: even with His cultivation,
   He felt the weight pressing down. Do not make cultivation the agent that
   could not spare Him the sensation.

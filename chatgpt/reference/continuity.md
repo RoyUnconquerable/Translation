@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1312 to 1321
+# Current continuity: Chapters 1312 to 1322
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -173,14 +173,14 @@ positions and hypotheses where the source now answers them. Detailed Chapters
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | After ten years of training, senses the enemy trio approaching through Fate. Still borrowing wisdom light; no completed Transcendence or new Dao Lord status shown. |
+| Lü Yang | Accepts a wagered duel with the Sword Sovereign in three days, confident of a result already secured; Si Sui estimates only thirty percent at his current strength. No breakthrough shown. |
 | Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Lowercase pronouns remain owner-established. |
-| Si Sui | Has trained Lü Yang for ten years and shared Transcendence insights; now senses the trio. Still retains Dao Lord status. |
+| Si Sui | Reveals the End Tiger threat; demands the Heavenly Dao as Palace support. Questions Lü Yang's confidence in the wager. Still retains Dao Lord status. |
 | World-Honored One and Cultivating Truth | In the west; the scripture pitch was interrupted by Lü Yang joining the One Mind. No new Nascent Soul breakthrough. |
 | Primordial Saint | With the manifested End Tiger in the old sea; Destiny imagery partly restored, hostile gazes delayed, negotiating against Si Sui. |
 | End Tiger | Male yellow-robed Daoist, awakened limited counterpart of the ultimate final deity; has dispersed the Dragon projection and remembers Jun. |
 | Ancestral Dragon | Speaking future projection dispersed; full resurrection not accomplished. |
-| Sword Sovereign, Vast Sky, Myriad Spells | After ten years, approach the Heavenly Wilderness through the River of Fate without the Saint. Motive only suspected at Chapter 1321 close. |
+| Sword Sovereign, Vast Sky, Myriad Spells | Offer allegiance after failing to expose the Saint's scheme. Sword Sovereign accepts a duel in three days; no Heavenly Dao transfer has occurred. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
@@ -206,3 +206,11 @@ positions and hypotheses where the source now answers them. Detailed Chapters
 - Dao Tianqi continues lending wisdom light while doing repairs requiring little thought. Lü Yang examines the Heavenly Calendar Numbers independently. He infers that status was created by the first Divine Transformation transcender because Ancient Past methods do not depend on it. Attribute this conclusion to Lü Yang.
 - Daily combat keeps his understanding on course; Si Sui needs longer to defeat him. Shared Transcendence teaching links nonaction to loss, including the Saint's plan to damage the Other Shore. Preserve the source's distinct acts of relinquishing, reducing and diminishing.
 - Ten years pass. A faint sword light approaches along Fate rather than materially entering the new world; it bears the Sword Sovereign, Vast Sky and Myriad Spells, without the Saint. Lü Yang suspects allegiance; Chapter 1321 does not confirm it.
+
+## Chapter 1322: allegiance and a wagered duel
+
+- The trio cannot cross the Wilderness's transcendent barrier; Their projections request entry. The Sword Sovereign senses a real risk of death if She underestimates Lü Yang, although his cultivation is unchanged.
+- Their allegiance offer is confirmed. Ten years earlier, Vast Sky detected the Saint's sudden recovery and prevented an attack; His continuing unfathomable aura now alarms Them. Si Sui reveals the End Tiger conversation.
+- Si Sui demands the Heavenly Dao as support for the nearly ready Heavenly Palace. Vast Sky objects that surrender would harm Nian Yao's bound Primordial Spirit and foundation; Lü Yang takes a meaningful look at Him before proposing a duel.
+- Stakes: if Lü Yang wins, the Heavenly Dao must be surrendered intact. If he loses, he will restore the Dragon's sea of consciousness beneath Her Other Shore fragment, restoring Her Dao Lord status. She requires an oath on the Heavenly Dao and agrees to meet in three days.
+- Si Sui's thirty-percent estimate concerns Lü Yang now. He trusts Lü Yang would not gamble hundreds of millions of lives recklessly. Lü Yang claims the result was settled upon Her acceptance; the mechanism and outcome remain unrevealed.

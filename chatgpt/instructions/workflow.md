@@ -136,9 +136,11 @@ The reviews detect issues. They do not rewrite the chapter wholesale.
 2. English review: check grammar, clarity, modern register, character voice,
    pacing, action geography, thought mode and tense, repetition, archaic drift,
    and translationese without changing source meaning. Explicitly review
-   contractions, articles, prepositions, complements, collocations, and
-   sentence linkage inside each source paragraph rather than relying on the
-   mechanical checker to catch prose problems.
+   contractions and each complete noun phrase for required articles or
+   possessives, countability, and clear referents. Check prepositions,
+   complements, collocations, and sentence linkage inside each source
+   paragraph. Establish an earlier time frame without mechanically retaining
+   past perfect throughout it. The mechanical checker cannot judge prose flow.
 
 The owner's Chapter 1290 direction permits fuller, clearer phrasing when it
 preserves source detail or makes a relationship explicit. Do not meet the
