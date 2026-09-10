@@ -880,3 +880,63 @@ approval. Review status belongs in the chapter ledger.
 - Lü Yang proposes borrowing Dao Tianqi's wisdom light as he did in an earlier
   life. Si Sui says wisdom light is a gift left by the first transcender,
   enabling beings to approach the Dao, and should be nontransferable in theory.
+
+## Archived detailed Chapters 1312-1314 at the Chapter 1326 update
+
+## Chapters 1312-1314: names, the One Mind, and borrowed wisdom
+
+- They visit Dao Tianqi rebuilding his ruined Underworld residence by hand.
+  He can share wisdom light only with his three fellow first-generation Peak
+  Lords. Lü Yang recalls assuming Lian Tiandou's identity before borrowing it
+  in the Underworld life; he does not reveal those past lives to Si Sui.
+- Lü Yang links Tian in all four names to Tai Yitian. Shi Tianyi interprets
+  the Saint's will; Lian Tiandou refines His net, the Nascent Soul Pill plan;
+  Bu Tianque fills His deficiency through the Dual Cultivation link to the
+  void; Dao Tianqi shares Dao wisdom with Him. Lü Yang infers the Saint has
+  continually borrowed Dao Tianqi's wisdom light. Si Sui supplies the observed
+  light-cord and Dual Cultivation connection; the Saint's following viewpoint
+  confirms awareness of their discovery and confidence in the surviving ritual.
+- The Saint recalls being a neglected mortal crawling in mud during the
+  supposed golden age. A great opportunity changed His fate. He trusts the
+  entrenched name/nature ritual so long as it remains intact.
+- Dao Tianqi realizes why the Saint spared him. Lü Yang recalls the alternative
+  ascension plans: Skyward's Underworld replacing/killing Dao Tianqi, or the
+  Dragon and Nascent Soul Pill. Retaining Dao Tianqi's wisdom was another
+  motive for sparing him before Ascension, which also left a chance to resist.
+- Si Sui cannot undo the Ancient Past method simply through superior status.
+  Names are inscriptions on nature and life; arbitrary renaming risks harm.
+- Lü Yang cannot repeat his old Lian Tiandou impersonation because all four
+  Peak Lords are now alive. Instead, his completed Primordial Spirit lets him
+  recite the World-Honored One's root scripture and enter the One Mind without
+  surrendering himself. This is his current experiment, not a former-life act.
+- In the west, the World-Honored One is promoting the scripture to Cultivating
+  Truth. The latter's shared consciousness makes Him an exception; an unrelated
+  completed Primordial Spirit joining the One Mind causes trouble. Lü Yang's
+  arrival brings emotional pressure; both resist assimilation and reach balance.
+  Lü Yang gains the World-Honored One's karmic identity without losing himself.
+- Dao Tianqi can now lend him wisdom light. Qi Refinement suddenly succeeds:
+  Si Sui observes the incompatibility filled, but expects it to return when
+  the borrowed light ends. Lü Yang likens the light to a Sea of Light identity
+  credential and wonders whether its creator was also a transmigrator. This
+  remains speculation, not a revealed identity.
+- Lü Yang reads rapidly in the Underworld; Dao Tianqi's thinking slows as he
+  lends the light. Si Sui estimates one year to learn the material without
+  teaching and considers increasing difficulty. An ominous sign interrupts
+  them and other Primordial Spirits. Only Si Sui sees its source clearly;
+  He ascends to the firmament and suspects the Final Kalpa.
+
+
+## Expanded foundation mechanics retained at the Chapter 1326 update
+
+- Ancient Qi Refinement unites essence, qi, and spirit; ancient clan scripts
+  and languages express aspects of the Dao. Knowledge anchored early Foundation
+  Establishment cultivators before the World-Honored One opened its Realm.
+  Rapid cultivation can omit this groundwork; high status does not replace it.
+- Si Sui says wisdom light should not transfer. Dao Tianqi shares it within the
+  four Peak Lords' name-linked circle; the Saint's ritual exploits their names.
+  Names inscribe nature/life, so arbitrary renaming risks damage and superior
+  present cultivation cannot simply undo this Ancient Past method.
+- A completed Primordial Spirit can resist One Mind assimilation. Lü Yang and
+  the World-Honored One resist each other while the karmic link still gives
+  access to Dao Tianqi's wisdom. The borrowed light temporarily repairs Lü
+  Yang's spirit/essence/qi mismatch and dulls its donor. Permanence is unproved.

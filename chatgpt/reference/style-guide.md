@@ -27,7 +27,7 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
-- Choose length by meaning and cadence. Use direct, vivid verbs and connect
+- Choose length by meaning. Use direct verbs and connect
   related clauses with natural collocations; use fuller wording to clarify relations.
   Compress cumbersome abstractions, never source content or qualifications.
 - When the narrator frames cultivation combat through modern system or matchup
@@ -59,8 +59,9 @@ When principles compete, use this order:
   Convey these naturally; neither fluency nor fewer words proves completeness.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
   connective logic that the source does not supply.
-- Match the size and function of the source beat. A short reaction or punch
-  line should remain short. Dense reasoning must retain every logical step.
+- Match each beat's function and size: short reactions stay short; reasoning
+  retains every step. Interpret 情 by context: feelings may include friendship,
+  family and romance. Do not replace every love with feelings.
 - Fragments are acceptable when the source deliberately isolates a dramatic
   reaction, verdict, image, or punch line. Ordinary action and exposition need
   complete English sentences.
@@ -69,9 +70,9 @@ When principles compete, use this order:
 
 - Give most narrative paragraphs one main beat: fact, action, reaction,
   deduction, question, reversal, or punch line.
-- For action and cosmology, favor actor, action, target or direction, then
-  consequence. Front a prerequisite when this avoids nested ability/use/result
-  clauses. Keep geography, ownership, certainty, and causal links explicit.
+- In action and cosmology, link actor, means, movement and consequence with
+  complete verbs. Prefer clear causation over detached reports; preserve
+  geography, ownership and uncertainty without inventing mechanisms.
 - Split overloaded clauses and trailing modifiers; connect related premises.
   Separate a proposal from its stakes when clearer. Keep dialogue lists in
   spoken syntax. Sentence length itself is not a flaw.
@@ -177,9 +178,8 @@ When principles compete, use this order:
   glosses that the passage does not need.
 - Keep linked images coherent across a paragraph or chapter. Translate the
   chain as a whole rather than treating each phrase in isolation.
-- Preserve deliberate character substitutions, homophone jokes, corrupted
-  quotations, and double meanings. If English cannot retain both literally,
-  preserve the contextual joke or contrast.
+- Preserve wordplay and altered quotations. An explicit owner rendering of
+  a pun outranks a new compensating insult; retain its tone in context.
 - Use established English names for recognized Chinese allusions where
   available. Do not swap a specifically Chinese image for an unrelated English
   proverb.

@@ -127,8 +127,10 @@ The reviews detect issues. They do not rewrite the chapter wholesale.
    Explicitly account for each isolated question or reaction. Check idiom
    meaning as well as retained imagery; a matching paragraph count or a
    familiar allusion label is not evidence that these checks passed.
-   Account explicitly for small modifiers, gestures, intent, sequence, timing,
-   scale, and singular/plural references. Check all words of a displayed
+   Account for modifiers, gestures, intent, timing, scale and number. Verify
+   scope and triggers: all knowledge is not knowledge from one source, and
+   realizing a trap is not escaping it. Active use is not mere availability.
+   Check all words of a displayed
    declaration and its formatting. Do not equate a short natural paraphrase
    with complete coverage. Check concrete verbs and their objects even in
    unchanged English: a broader category can silently omit reading, posture,
@@ -211,7 +213,12 @@ or maintenance task must finish that publication before claiming persistence.
 After the owner
 approves or supplies edited prose, compare it once against both the exact source
 and the draft. Verify fidelity, grammar, terminology, continuity, thought mode
-and tense, allusions, and formatting before classifying each change:
+and tense, allusions, and formatting before classifying each change.
+For every changed sentence,
+ask why it changed: identify the problem, the intended improvement and the
+source support. Distinguish an inferred reason from explicit owner intent;
+record the reason before selecting a reusable lesson, not just a word diff.
+Then classify the change:
 
 - `MACRO`: reusable prose policy, update the style guide;
 - `TERM`: stable recurring rendering, update terminology or entities;

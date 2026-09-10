@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1312 to 1322
+# Current continuity: Chapters 1315 to 1326
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -33,47 +33,13 @@ positions and hypotheses where the source now answers them. Detailed Chapters
   Lock, Other Shore fragments, Spells, Fate, Fortune, and the Saint's Destiny.
   They intend His recovery to make Him its living pillar. He suspects the trap.
 
-## Chapters 1312-1314: names, the One Mind, and borrowed wisdom
+## Earlier prerequisites: Chapters 1312-1314
 
-- They visit Dao Tianqi rebuilding his ruined Underworld residence by hand.
-  He can share wisdom light only with his three fellow first-generation Peak
-  Lords. Lü Yang recalls assuming Lian Tiandou's identity before borrowing it
-  in the Underworld life; he does not reveal those past lives to Si Sui.
-- Lü Yang links Tian in all four names to Tai Yitian. Shi Tianyi interprets
-  the Saint's will; Lian Tiandou refines His net, the Nascent Soul Pill plan;
-  Bu Tianque fills His deficiency through the Dual Cultivation link to the
-  void; Dao Tianqi shares Dao wisdom with Him. Lü Yang infers the Saint has
-  continually borrowed Dao Tianqi's wisdom light. Si Sui supplies the observed
-  light-cord and Dual Cultivation connection; the Saint's following viewpoint
-  confirms awareness of their discovery and confidence in the surviving ritual.
-- The Saint recalls being a neglected mortal crawling in mud during the
-  supposed golden age. A great opportunity changed His fate. He trusts the
-  entrenched name/nature ritual so long as it remains intact.
-- Dao Tianqi realizes why the Saint spared him. Lü Yang recalls the alternative
-  ascension plans: Skyward's Underworld replacing/killing Dao Tianqi, or the
-  Dragon and Nascent Soul Pill. Retaining Dao Tianqi's wisdom was another
-  motive for sparing him before Ascension, which also left a chance to resist.
-- Si Sui cannot undo the Ancient Past method simply through superior status.
-  Names are inscriptions on nature and life; arbitrary renaming risks harm.
-- Lü Yang cannot repeat his old Lian Tiandou impersonation because all four
-  Peak Lords are now alive. Instead, his completed Primordial Spirit lets him
-  recite the World-Honored One's root scripture and enter the One Mind without
-  surrendering himself. This is his current experiment, not a former-life act.
-- In the west, the World-Honored One is promoting the scripture to Cultivating
-  Truth. The latter's shared consciousness makes Him an exception; an unrelated
-  completed Primordial Spirit joining the One Mind causes trouble. Lü Yang's
-  arrival brings emotional pressure; both resist assimilation and reach balance.
-  Lü Yang gains the World-Honored One's karmic identity without losing himself.
-- Dao Tianqi can now lend him wisdom light. Qi Refinement suddenly succeeds:
-  Si Sui observes the incompatibility filled, but expects it to return when
-  the borrowed light ends. Lü Yang likens the light to a Sea of Light identity
-  credential and wonders whether its creator was also a transmigrator. This
-  remains speculation, not a revealed identity.
-- Lü Yang reads rapidly in the Underworld; Dao Tianqi's thinking slows as he
-  lends the light. Si Sui estimates one year to learn the material without
-  teaching and considers increasing difficulty. An ominous sign interrupts
-  them and other Primordial Spirits. Only Si Sui sees its source clearly;
-  He ascends to the firmament and suspects the Final Kalpa.
+Detailed names, One Mind and borrowed-wisdom events remain verbatim in
+continuity-archive.md under Archived detailed Chapters 1312-1314 at the Chapter
+1326 update. Lü Yang's One Mind identity permits borrowing Dao Tianqi's wisdom
+light without surrendering himself; the temporary repair to his incompatibility
+does not establish a permanent cure. The End Tiger's omen interrupted study.
 
 ## Chapters 1315-1316: the Saint awakens the End Tiger
 
@@ -173,14 +139,14 @@ positions and hypotheses where the source now answers them. Detailed Chapters
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Accepts a wagered duel with the Sword Sovereign in three days, confident of a result already secured; Si Sui estimates only thirty percent at his current strength. No breakthrough shown. |
+| Lü Yang | Dueling the Sword Sovereign with borrowed wisdom light active; suffers an internal backlash but can afford the loss. No victory or completed Transcendence shown. |
 | Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Lowercase pronouns remain owner-established. |
 | Si Sui | Reveals the End Tiger threat; demands the Heavenly Dao as Palace support. Questions Lü Yang's confidence in the wager. Still retains Dao Lord status. |
-| World-Honored One and Cultivating Truth | In the west; the scripture pitch was interrupted by Lü Yang joining the One Mind. No new Nascent Soul breakthrough. |
-| Primordial Saint | With the manifested End Tiger in the old sea; Destiny imagery partly restored, hostile gazes delayed, negotiating against Si Sui. |
+| World-Honored One and Cultivating Truth | The World-Honored One attends the duel and supplies its living stakes; Cultivating Truth has no new breakthrough shown. |
+| Primordial Saint | Has retrieved the spent reset treasure through an enslaved Dragon projection; searches for its missing power. His dismissal of Lü Yang as its holder is an inference. |
 | End Tiger | Male yellow-robed Daoist, awakened limited counterpart of the ultimate final deity; has dispersed the Dragon projection and remembers Jun. |
-| Ancestral Dragon | Speaking future projection dispersed; full resurrection not accomplished. |
-| Sword Sovereign, Vast Sky, Myriad Spells | Offer allegiance after failing to expose the Saint's scheme. Sword Sovereign accepts a duel in three days; no Heavenly Dao transfer has occurred. |
+| Ancestral Dragon | Enslaved-personality future projection fetched the treasure and was then dispersed. Full resurrection remains unaccomplished. |
+| Sword Sovereign, Vast Sky, Myriad Spells | The Sword Sovereign is dueling Lü Yang; Vast Sky's betrayal idea is exposed but no ambush has occurred. No Heavenly Dao transfer or restored status shown. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
@@ -214,3 +180,46 @@ positions and hypotheses where the source now answers them. Detailed Chapters
 - Si Sui demands the Heavenly Dao as support for the nearly ready Heavenly Palace. Vast Sky objects that surrender would harm Nian Yao's bound Primordial Spirit and foundation; Lü Yang takes a meaningful look at Him before proposing a duel.
 - Stakes: if Lü Yang wins, the Heavenly Dao must be surrendered intact. If he loses, he will restore the Dragon's sea of consciousness beneath Her Other Shore fragment, restoring Her Dao Lord status. She requires an oath on the Heavenly Dao and agrees to meet in three days.
 - Si Sui's thirty-percent estimate concerns Lü Yang now. He trusts Lü Yang would not gamble hundreds of millions of lives recklessly. Lü Yang claims the result was settled upon Her acceptance; the mechanism and outcome remain unrevealed.
+
+## Chapters 1323-1325: a spent treasure, mistrust and the oath
+
+- The Saint hides Grand Ancestral Master in interwoven time, but His Primordial
+  Spirit prevents entry. An enslaved-personality Dragon projection enters for
+  Him. He infers Jun's connection grants the Dragon access; this is His deduction.
+- Inside, 129,600 cultivators of the Doctrines of Names and Appearances form
+  corpse monuments. Their collective blood sacrifice preserved their inheritance
+  through a rare treasure and Jun's allowance of a sliver of survival. The count
+  matches one yuan; it is not a duration of 129,600 years.
+- The treasure is 神禄天命书 (English title remains provisional). Its last use
+  let the Saint start over; it is now spent. The Heavenly Scripture could not
+  restore that function, nor could His proving Time through Empty Attainment.
+  He infers Jun left the missing power somewhere in the sea; the Scripture's
+  lack of response makes Him dismiss Lü Yang and Cultivating Truth as holders.
+  Do not treat His belief that it remains sealed as omniscient fact.
+- The Sword Sovereign exposes Vast Sky's idea of killing Her after the duel
+  to fill His fragment. He admits the idea. She warns Him She is prepared,
+  but would yield Her life if He overcame that preparation and Her Dao Path
+  were lost. Neither a successful betrayal nor insincere affection is established.
+- Three days later the duel oath takes effect. If Lü Yang loses, the
+  World-Honored One supplies living beings' seas of consciousness from His
+  kingdom; if Lü Yang wins, She hands over the Heavenly Dao. Breaking the oath
+  triggers Fortune, Fate and Destiny; below Dao Lord status it means death.
+  No rescue trick, completed sacrifice or winner has been disclosed.
+
+## Chapter 1326: the Sword Sovereign's original methods
+
+- Her methods predate Her proving Fate. Love Too Deep Shortens Life influences
+  Lü Yang to give away his own power; it is not direct external draining.
+  Dao Tianqi's wisdom light is actively helping him understand the trap.
+- Heaven-Slayer cuts the threads. Lü Yang's ten-year reinterpretation of the
+  Heavenly Calendar Numbers uses higher status to evade lower-status techniques,
+  rather than merely increasing damage. She recognizes his entry into the
+  Great Dao answering to him; this is not completed Transcendence.
+- Supreme Wisdom Must Bring Harm turns understanding into attacks on his
+  Primordial Spirit, soul and sea of consciousness, taking part of his power.
+  Awakening triggers the fast severance; successful escape is not required.
+  His evasion fails because his own power attacks him internally.
+- Lü Yang expected to pay a bearable cost to learn Her capabilities, but did
+  not anticipate this particular method. He learns one trump card, not every
+  secret. The duel continues; Sword Seed is his sarcastic closing appraisal,
+  not evidence of a new rank or a biological relationship.

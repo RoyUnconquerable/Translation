@@ -49,6 +49,9 @@ class AuthorityTests(unittest.TestCase):
             "【均】": "Jun", "灵性": "spirituality",
             "定数": "Destiny", "命数": "Fate", "气数": "Fortune",
             "变数": "Variable|Variables", "冥府": "Underworld",
+            "慧极必伤": "Supreme Wisdom Must Bring Harm", "剑种": "Sword Seed",
+            "情关": "Gate of Feeling",
+            "情劫": "Tribulation of Feeling|Tribulations of Feeling",
         }
         for source, target in expected.items():
             with self.subTest(source=source):
@@ -81,7 +84,7 @@ class AuthorityTests(unittest.TestCase):
         examples = {
             "盛时": "全盛时期的他", "神念": "心神念头完全符合自身",
             "先天": "先天就和精炁不合，先天资质有缺",
-            "入道": "只求入道的岁月",
+            "入道": "只求入道的岁月", "中古": "吕阳心中古怪",
             "变数": "一套变数少，另一套变数多，会不会有变数",
         }
         for source, context in examples.items():

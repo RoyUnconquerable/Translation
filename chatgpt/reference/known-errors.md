@@ -93,11 +93,11 @@ Remove entries made redundant by stronger canonical controls.
 - Use natural contractions unless emphasis, contrast, formality, or clarity
   requires expansion; never use forms ending in 'd. Check this manually,
   rather than relying on the mechanical checker.
-- A glossary PASS does not certify prose. Fix padded constructions, awkward
-  collocations, and parenthetical dialogue lists, not isolated synonyms.
-  Owner grammar slips are not preferences: few talent, an Treading, and no
-  division of Boundary Heavens need contextual correction. A conditional
-  fast repair is an exception to ordinary repair, not a contradiction.
+- A glossary PASS cannot certify prose. Repair complete clauses, articles,
+  collocations and dialogue lists. Owner slips such as few talent, an Treading,
+  or a missing conjunction before slammed are not preferences. Check merged
+  reaction/punch-line paragraphs too. Conditional rapid repair remains an
+  exception to ordinary repair, not a contradiction.
 - Ch.1308's grade list is unresolved: 四等 may be a count or a fourth-class
   label. Neither the draft's four-grade reading nor the owner's six-item
   sequence has a verified mapping. Do not canonize either as a full ladder.

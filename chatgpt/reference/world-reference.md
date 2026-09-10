@@ -289,18 +289,13 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## Cultivation foundations, names, and the cosmic end
 
-- Ancient Qi Refinement unites essence, qi, and spirit; ancient clan scripts
-  and languages express aspects of the Dao. Knowledge anchored early Foundation
-  Establishment cultivators before the World-Honored One opened its Realm.
-  Rapid cultivation can omit this groundwork; high status does not replace it.
-- Si Sui says wisdom light should not transfer. Dao Tianqi shares it within the
-  four Peak Lords' name-linked circle; the Saint's ritual exploits their names.
-  Names inscribe nature/life, so arbitrary renaming risks damage and superior
-  present cultivation cannot simply undo this Ancient Past method.
-- A completed Primordial Spirit can resist One Mind assimilation. Lü Yang and
-  the World-Honored One resist each other while the karmic link still gives
-  access to Dao Tianqi's wisdom. The borrowed light temporarily repairs Lü
-  Yang's spirit/essence/qi mismatch and dulls its donor. Permanence is unproved.
+- Ancient foundations rely on essence/qi/spirit unity and Dao knowledge;
+  high status cannot replace them. Names bind nature/life, and changing a
+  name or overpowering Ancient Past methods does not safely undo the binding.
+- Dao Tianqi lends wisdom light within the four Peak Lords' name-linked circle.
+  Lü Yang's resisted One Mind assimilation supplies the required karmic identity.
+  The light temporarily repairs his incompatibility and dulls its donor.
+  Expanded mechanics remain in continuity-archive.md.
 - Heavenly Dao command plus Time lets the Saint witness the uncertain final
   deity and awaken an individual consciousness. The ultimate End Tiger is
   stronger but short-lived; the new individual is distinct, connected, and
@@ -320,6 +315,15 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## Era outline
 
-Ancient Past precedes Primordial, Ancient, and Medieval Antiquity eras. See
-History and causality above; the earlier six-stage outline is preserved in
-continuity-archive.md, with its original historical context.
+Ancient Past precedes Primordial, Ancient, and Medieval Antiquity eras. The
+earlier six-stage outline remains in continuity-archive.md.
+
+## Feeling and internal backlash (Chapter 1326)
+
+- Love Too Deep Shortens Life induces voluntary power transfer. Realization
+  does not safely release the victim: Supreme Wisdom Must Bring Harm weaponizes
+  his understanding against his Spirit, soul and consciousness, taking power.
+- Lü Yang can now use the Heavenly Calendar Numbers' higher status to evade
+  lower-status techniques. Internal attacks using his own power bypass this
+  defense. Neither this evasion nor the Sword Sovereign's recognition establishes
+  completed Transcendence. Preserve these limits in later combat.

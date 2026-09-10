@@ -104,7 +104,7 @@ source	target	notes
 意象	imagery	owner edit Ch. 1209; provenance terminology.tsv
 维度	dimension	owner edit Ch. 1209; provenance terminology.tsv
 真君中期	mid-stage True Monarch	owner edit Ch. 1209; provenance terminology.tsv
-无穷伟力	boundless power	owner edit Ch. 1209; overrides bare 伟力 in this collocation; provenance terminology.tsv
+无穷伟力	boundless power|power was boundless	owner edit Ch. 1209; overrides bare 伟力 in this collocation; provenance terminology.tsv
 修为	cultivation	distinct from 道行 = Dao Attainment (owner clarification 2026-08-19); provenance terminology.tsv
 法光	dharma light	owner edit Ch. 1210; not 'law-light'; provenance terminology.tsv
 混沌	Primordial Chaos	capitalize; provenance owner-rulings-ch1221-ch1243.tsv
@@ -311,7 +311,7 @@ source	target	notes
 前古	Ancient Past	fixed era label before the Primordial Era; normally takes the definite article; owner-final Ch.1283
 太古	Primordial Era	fixed era label after the Ancient Past and before the Ancient Era; normally takes the definite article; owner-final Ch.1283
 上古	Ancient Era	fixed era label beginning when Si Sui proved the Dao; normally takes the definite article; owner-final Ch.1283
-中古	Medieval Antiquity Era	fixed era label for the 129,600-year age of Dao Lords; normally takes the definite article; owner-final Ch.1283
+中古	Medieval Antiquity Era	fixed era label for the 129,600-year age of Dao Lords; normally takes the definite article; owner-final Ch.1283 [except: 心中古怪] (Ch.1326 means feeling something strange, not an era)
 名教	Doctrine of Names	Ancient Past Dao Lineage concerning the power of names; normally takes the definite article; owner-final Ch.1283
 尊名	honorific name	an added protective name under the Doctrine of Names; owner-final Ch.1283
 爆丹	exploding pill	split from malformed combined source; provenance consolidation
@@ -366,3 +366,11 @@ source	target	notes
 【起源】	Origin	Ch.1318 owner revision: the Ancestral Dragon embodies the Origin; retain the article in noun phrases.
 【原初】	Primordial	Ch.1318 owner revision; imagery usurped by Tai Yitian. Keep distinct from the separately named Origin and Primordial Chaos.
 灵性	spirituality	Owner Ch.1318 reaffirms Ch.1304 metaphysical wording. Awakened spiritual capacity, not religious devotion; do not silently replace it with spiritual awareness. Distinguish 性灵 and 慧光.
+情深不寿	Love Too Deep Shortens Life	Owner Ch.1326 retains this name for the Sword Sovereign's Mystery; ordinary proverbial uses still need contextual interpretation.
+慧极必伤	Supreme Wisdom Must Bring Harm	Explicit owner Ch.1326 replacement for draft Wisdom Too Keen Brings Harm; use in technique mentions and the chapter title.
+情关	Gate of Feeling	Owner Ch.1326; feeling includes friendship, family and romantic attachment, not romance alone.
+情劫	Tribulation of Feeling|Tribulations of Feeling	Owner Ch.1326; select singular/plural by grammar, retaining capitalization.
+天劫	Heavenly Tribulation|Heavenly Tribulations	Owner Ch.1326; singular/plural by context, capitalized named tribulation category.
+人劫	Human Tribulation|Human Tribulations	Owner Ch.1326; singular/plural by context, capitalized named tribulation category.
+剑种	Sword Seed	Explicit owner Ch.1326 replaces bastard with a sword. Retain the terse sarcastic appraisal; do not add a rank, ancestry claim, profanity, or explanation to compensate for the Chinese homophone.
+双修奇才	Dual Cultivation Prodigy	Owner Ch.1326 retains the named talent; this establishes current authority, not verification of an unavailable older attachment.
