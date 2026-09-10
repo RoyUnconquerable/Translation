@@ -28,7 +28,7 @@ When principles compete, use this order:
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
 - Choose length by meaning and cadence. Use direct, vivid verbs and connect
-  related clauses; fuller wording is preferable when it clarifies a relation.
+  related clauses with natural collocations; use fuller wording to clarify relations.
   Compress cumbersome abstractions, never source content or qualifications.
 - When the narrator frames cultivation combat through modern system or matchup
   logic, preserve that register with clear contemporary language such as raw
@@ -83,7 +83,7 @@ When principles compete, use this order:
 - Describe sensations through their experiencer: even with His cultivation,
   He felt the weight pressing down. Do not make cultivation the agent that
   could not spare Him the sensation.
-- Resolve repeated pronouns and possessives when their owners differ: His
+- Name an action's recipient when pronouns obscure it; resolve whose possessives: His
   intervention and His injuries may concern two people. Name the needed
   referent, not every participant. Keep appositions clear when several labels
   identify one object; adding and must not suggest a second artifact.

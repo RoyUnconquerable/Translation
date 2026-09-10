@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1310 to 1318
+# Current continuity: Chapters 1310 to 1319
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -183,18 +183,37 @@ positions and hypotheses where the source now answers them.
   Doctrine's inheritance. Whether the Tiger is a special exception or the first
   Transcendence conceals another mystery remains unanswered.
 
+## Chapter 1319: a hundred-year contingency
+
+- The trio's gazes reach the Present, but the End Tiger's destruction imagery
+  erases traces, defeating Fate's investigation. The Saint expects Si Sui to
+  see through His surviving Dao Lord status and Transcendence. He expects full
+  recovery within a hundred years and welcomes either inaction or an attack
+  that would draw Variables to His aid; these are His predictions.
+- Si Sui sees a hundred years or less remaining. The Tiger at Dao Lord status
+  would counter Him and the new world; Lü Yang's Transcendence seems too slow.
+  He instead plans a first-layer-equivalent Heavenly Palace, with no remnant
+  loopholes and His transcendent foundation, supported by Great Daos if needed.
+- Sequence: make Lü Yang a Dao Lord; together seize the Detached Court's source
+  jade; restore Dao Tianqi's status; then three Dao Lords fight the Saint before
+  He summons the Tiger. Variables remains a risk, not a guaranteed rescue.
+- Si Sui returns to the Underworld. Lü Yang's groundwork is fifty to sixty
+  percent repaired; full study still takes up to a year. Si Sui now demands
+  faster progress, withholds praise, taps his crown three times, and walks away.
+  The taps' meaning is not revealed in this chapter.
+
 ## Current positions and live questions
 
 | Actor | Latest established state |
 | --- | --- |
 | Lü Yang | Reading the ancient corpus in the Underworld with Dao Tianqi's borrowed wisdom light; One Mind gives him the needed karmic identity. Omen interrupted him. |
 | Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Lowercase pronouns remain owner-established. |
-| Si Sui | At the Heavenly Wilderness firmament investigating the Final Kalpa omen; retains Dao Lord status as a Primordial Spirit thought. |
+| Si Sui | Back in the Underworld; accelerates Lü Yang's training after devising the three-Dao-Lord plan. Still a Primordial Spirit thought with Dao Lord status. |
 | World-Honored One and Cultivating Truth | In the west; the scripture pitch was interrupted by Lü Yang joining the One Mind. No new Nascent Soul breakthrough. |
 | Primordial Saint | With the manifested End Tiger in the old sea; Destiny imagery partly restored, hostile gazes delayed, negotiating against Si Sui. |
 | End Tiger | Male yellow-robed Daoist, awakened limited counterpart of the ultimate final deity; has dispersed the Dragon projection and remembers Jun. |
 | Ancestral Dragon | Speaking future projection dispersed; full resurrection not accomplished. |
-| Sword Sovereign, Vast Sky, Myriad Spells | Rebuilding the old sea with Heavenly Dao; investigating the Saint, whose Time still delays Their gazes. Pillar plot unresolved. |
+| Sword Sovereign, Vast Sky, Myriad Spells | Investigation finds no traces of the Tiger; They leave the Saint. Heavenly Dao pillar plot unresolved. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
