@@ -46,18 +46,18 @@ chatgpt/
 `-- scripts/                     read-only checks and optional file pipeline
 ```
 
-The default is chat-first translation. The JSONL chapter pipeline remains
-available when the owner asks to persist chapter prose or requests file-backed
-work. See `instructions/workflow.md`.
+The active mode is chat-only translation. JSONL artifacts and scripts remain
+for historical compatibility checks, not new chapter production. Never commit
+chapter text or create provisional handoffs. See `instructions/workflow.md`.
 
 Phrase memory uses three scopes: `fixed` for exact titles, quotations, verses,
 panels, and formulas; `image` for imagery that must survive while syntax and
 tense are rebuilt; and `sense` for contextual meaning that must be composed
 afresh. Only `fixed` targets may be copied as complete wording.
 
-## Validation
+## Feedback/maintenance validation
 
-Run from the repository root:
+Run once after an approved atomic update, not before chapter delivery:
 
 ```text
 python -m unittest discover -s chatgpt/tests
@@ -74,5 +74,11 @@ from a temporary source file, and `scripts/chat_check.py` checks a temporary
 source and target pair without storing chapter prose.
 Pass the reviewed scene positions with `--scene-break-before`, or pass the flag
 with no values when none are needed. The checker also enforces approved fixed
-display wording and formatting. Semantic coverage still requires the two
-source-grounded reviews; paragraph counts alone do not prove completeness.
+display wording and formatting. Semantic and English coverage require the single bounded bilingual review
+in `instructions/qa-rules.md`; counts alone do not prove completeness.
+
+`config.json` controls language identification and legacy lint/candidate options.
+It has no model, agent, polling or translation-time setting. `strict_numbers`
+keeps digit mismatches as warnings because spelling and unit conversion require
+bilingual judgment; it never waives number fidelity. Scheduling and reference
+reuse are instructions in workflow.md, not unimplemented configuration knobs.

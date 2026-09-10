@@ -1,69 +1,60 @@
-# Owner revision and editing
+# Approved feedback and canonical maintenance
 
-The owner's intent, explicit terminology choices, and approved editorial
-decisions are authoritative. Supplied English is not exempt from source,
-grammar, continuity, terminology, tense, formatting, or allusion review.
+Owner corrections authorize their verified update without another approval
+request. An edited chapter is not automatically an owner-final declaration.
+The source governs content; a new explicit term ruling supersedes its older
+mapping. Repair mechanical errors, and present source-grounded alternatives
+for changes of meaning before treating them as approved wording.
 
-Repair clear mechanical errors directly. If owner wording appears to change
-meaning, weaken or substitute an idiom, or contradict an established identity,
-do not canonize it silently. Record and present the source-grounded distinction;
-unresolved wording does not block verified updates. A new explicit terminology
-decision supersedes an older glossary choice without renewed confirmation.
+## Compare once, explain why
 
-## Compare once
+Use the exact source, delivered draft and owner version already available.
+Make one indexed comparison, including punctuation, capitalization, merged
+paragraphs and omitted framing. For a body-only paste align to the source body,
+not the title. Do not retranslate or manufacture preferences in unchanged text.
+For each change, identify the problem, intended improvement and source support;
+label inferred intent as inferred, and attribute errors to draft, revision or both.
 
-Use the delivered draft already on hand; an owner edit does not trigger a new
-translation. Build one indexed comparison of source, draft, and owner text,
-then give those same inputs to the two detector reviews in workflow.md. For a
-body-only paste, align its first paragraph with the source body, recording
-omitted title/end framing separately. Do not offset every paragraph by one.
+Use the single bounded bilingual review in workflow.md/qa-rules.md. Where the
+original source-aligned review is evidenced, cover changed spans and affected
+context, not all unchanged paragraphs again. Recheck a shared omission or new
+continuity issue wherever it actually applies. This is not permission to assume
+an unreviewed draft was correct. Provide the full comparison in chat if asked.
 
-Align the owner version with both the exact source and the prior draft,
-paragraph by paragraph. First verify fidelity, grammar, terminology,
-continuity, thought mode and tense, allusions, and formatting. Then record what
-changed in word choice, tone, sentence structure, pacing, terminology, logic,
-and formatting. Account for every changed span, including punctuation,
-capitalization, paragraph merges, and omitted title/end framing in a body-only
-paste. Report unchanged passages as unchanged rather than inventing preferences.
-When requested, provide the complete paragraph-indexed comparison in chat;
-promote only its reusable lessons to canonical files. Attribute each defect to
-the delivered draft, the owner revision, or both. Do not treat a typo or an
-unverified mistranslation as stylistic evidence.
+## Promote selectively
 
-## Classify before promotion
+Classify before editing the existing canonical destination:
 
-Every difference receives one classification:
+- TERM: a stable recurring rendering or explicit owner term correction;
+- MACRO: a reusable principle, not a favored local synonym;
+- PHRASE: fixed wording, a live image or contextual meaning, preserving scope;
+- FACT: a stable world mechanic, including limitations and attributed claims;
+- CONTINUITY: the current plot state, keeping earlier beliefs dated;
+- LOCAL: passage-specific phrasing, historical evidence only;
+- MECHANICAL: typo, agreement or paste repair, not a new stylistic preference.
 
-- `MACRO`: a reusable writing principle;
-- `TERM`: a stable recurring name or concept;
-- `PHRASE`: a contextual title, allusion, verse, image, or special line;
-- `FACT`: a stable world mechanic or relationship;
-- `CONTINUITY`: current plot state;
-- `LOCAL`: a passage-specific preference;
-- `MECHANICAL`: spelling, punctuation, agreement, duplicated text, or paste
-  damage.
+Search relevant older records before adding a rule. Amend the matching rule
+rather than append a second checklist. Preserve valid exceptions, dates and
+provenance. If the style guide already covers the lesson, no new macro rule is
+needed. Keep local sentence comparisons in scratch/chat; a concise grouped
+historical decision may record their rationale when useful, but do not create
+an active rule or durable log row for every wording substitution. Existing
+historical local decisions remain searchable evidence, not mandatory templates.
+Do not split a long sentence note into many permanent rules merely to meet a
+row-length limit. No new per-chapter supplements or reference files.
 
-Check matching records across older chapters as well as active continuity.
-Amend the existing matching rule before adding one. Consolidate redundant or
-superseded wording without removing its valid exceptions. One local synonym
-does not establish a universal preference. Separate accepted terms from an
-unverified change to a rank list, referent, or source fact; unresolved details
-do not block the verified updates.
+## One atomic update
 
-## Repository update
+After the approved feedback is checked, consolidate all affected glossary,
+style, continuity, world-reference and chapter-state changes in one commit.
+Keep source seen, actual chat delivery, correction recorded and owner-final
+approval separate; preserve historical gaps. Unchanged authority files need
+no cosmetic edits. Metadata alone does not require an intervening chapter commit.
 
-Publish explicit owner corrections without waiting for approval of the whole
-chapter. Update observed source/delivery evidence separately from review status
-in the chapter ledger and compact state. Do not create chapter-specific
-style, glossary, continuity, world, or owner-edit files. Record concise
-provenance in `reference/decision-log.tsv` only when useful.
-
-A live decision is provisional cross-session memory until its repository update
-has been committed and pushed to the canonical GitHub branch named in state.
-
-In file-backed mode, apply wording to the aligned draft and reassemble rather
-than hand-editing final output. In chat-first mode, chapter prose remains in
-chat unless the owner explicitly authorizes durable storage.
-
-Run every repository gate in `workflow.md`, review the diff, make one coherent
-commit, and push it.
+Do not perform this work ahead of a waiting chapter. Mixed correction/source
+turns apply the correction immediately and deliver the chapter. Publish the
+approved update afterward at the first available maintenance opportunity under
+workflow.md, without requiring another approval or a feedback-only prompt. Be
+honest about what is and is not durable. Never commit source or translated chapter
+text, full comparison files, or provisional handoffs. All repository checks
+and remote publication follow the single gate set in workflow.md.

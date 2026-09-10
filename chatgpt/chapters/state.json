@@ -35,7 +35,7 @@
     "workflow": "chatgpt/instructions/workflow.md"
   },
   "storage": {
-    "chapter_prose": "chat_only_by_default",
+    "chapter_prose": "chat_only",
     "exact_chat_finals_recoverable_from_repository": false
   }
 }

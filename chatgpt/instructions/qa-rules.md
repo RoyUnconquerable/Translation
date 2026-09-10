@@ -1,63 +1,52 @@
-# Source-grounded QA
+# One source-aligned bilingual review
 
-QA detects defects. It does not create a second full translation.
+This is the scope of the single review in `workflow.md`, not an extra stage.
+The reviewer detects material defects in the supplied draft. It does not
+retranslate, independently polish, collect alternate synonyms or edit files.
 
-## Review A: fidelity and authority
+## Coverage
 
-Compare each Chinese paragraph with its English paragraph and flag only
-source-grounded problems:
+Compare every source paragraph with its target once. Account for:
 
-- omission, addition, mistranslation, weakened or strengthened certainty;
-- broken logic, chronology, causality, comparison, negation, or sequence;
-- missing numbers, titles, relationships, or imagery;
-- wrong glossary form, article, capitalization, or cultivation distinction;
-- wrong identity, speaker, pronoun, or divine capitalization;
-- flattened idiom, allusion, verse, religious reference, joke, or wordplay;
-- merged, split, reordered, or missing paragraph;
-- unclear combat actor, technique, target, direction, or consequence.
-- omitted small details: purpose, immediate or earlier timing, gestures,
-  totality, scale, the force of an action, and singular/plural addressees;
-- missing or paraphrased words in an approved inscription, declaration, or
-  panel, including its **【...】** display formatting;
-- missing scene separators at reviewed changes of place, time, or viewpoint.
+- complete meaning, chronology, causality, negation, comparison and certainty;
+- every small detail: intent, timing, gestures, force, totality, quantity,
+  addressee, relationship, isolated question, reaction and causal punch line;
+- term usage and article, identity/speaker, divine capitalization, true body
+  versus projection, cultivation distinctions, prerequisites and limitations;
+- numbers and units, including Chinese numerals, probability changes and time;
+- live idioms, linked imagery, allusions, altered quotations, humor and religious
+  context; preserve their actual subject and logic, not just familiar labels;
+- title, ending, paragraph boundaries/order, exact approved **【...】** displays
+  and genuine scene changes, without equating counts with complete coverage;
+- English grammar, articles/possessives, countability, prepositions, agreement,
+  complements, parallel actions, modifier attachment, collocations and referents;
+- clear action geography, actor, means and consequence; ordinary complete
+  sentences, deliberate fragments, rhythm, modern register and character voice;
+- natural contractions except forms ending in 'd; direct thought versus free
+  indirect narration, with remembered/current/future/hypothetical tense intact;
+- unwanted compression, added explanation, choppy clauses, archaic drift,
+  redundant transitions and decorative phrasing absent from the source.
 
-## Review B: English and style
+Examples are diagnostic, not sentence templates: all knowledge is not knowledge
+from one source; realizing a trap is not escaping it; active use is not mere
+availability; a felt burning pain need not burn through a body. See the style
+guide for prose policy and the relevant historical records for exact rulings.
 
-Read the English as prose, then verify every proposed change against the source:
+## Findings and authority
 
-- grammar, agreement, punctuation, modifier attachment, and collocation;
-- clarity, modern register, character voice, and concise causal progression;
-- translationese, archaic phrasing, excessive transitions, inflated diction,
-  repetition, or unnecessary explanation;
-- overlong sentences, choppy ordinary fragments, and confused action geography;
-- incorrect distinction between direct thought and free indirect narration;
-- immediate direct thought backshifted only because the narration is past, or
-  recalled, future, and hypothetical thought forced into present tense;
-- an idiom or allusion whose subject, relationship, defining image, or logic no
-  longer matches the source;
-- a retained Chinese image surrounded by unnecessarily archaic English syntax.
-- direct thoughts that read as analytical summaries instead of the character's
-  mental speech, or causal links obscured by compressed phrasing.
+Return only paragraph index, defective span, source or canonical evidence, why
+it is wrong and the smallest repair. A correct alternative is not a defect.
+Identify which ranges were reviewed if stopped early. No overall PASS until
+all required paragraphs have been covered by the reviewer or the lead fallback.
 
-A correct alternate wording is not an issue merely because a reviewer prefers
-another phrase. Genre rhythm is not automatically translation friction. Owner
-wording receives the same checks before its reusable lessons are promoted.
+Current explicit owner rulings override earlier draft choices. Check their
+source fidelity separately; do not revert approved words or casing because an
+older draft differs. Genre images need contextual judgment: a dormant idiom may
+be naturalized; a live image must remain. The lead accepts or rejects findings
+once. The existing mechanical check follows the patch, as workflow.md specifies.
 
-## Patch policy
-
-The lead translator accepts or rejects each finding and edits only the affected
-paragraphs. Reviewers must cite the source relationship that justifies a
-change. No reviewer may blend several drafts or restyle unflagged prose.
-
-In file-backed mode, write findings to the issues JSON before patching. In
-chat-first mode, keep a private paragraph-indexed issue list until delivery.
-
-## Mechanical gate
-
-After judgment-based review, verify title, paragraph count and order, scene
-breaks, hard terminology, numbers, straight punctuation, forbidden dashes,
-source-script residue, and contractions ending in `'d`.
-Use `--scene-break-before` with the reviewed source paragraph indices, or no
-values for an explicitly reviewed absence of breaks. Missing fixed displays
-and missing reviewed separators must fail the check. These controls support,
-but do not replace, paragraph-by-paragraph semantic coverage.
+For owner edits, use the existing source/draft comparison. Review all changed
+spans and adjacent causal/referent dependencies. Unchanged text with a completed
+review is not reviewed wholesale again unless a specific new defect, term,
+identity or source discovery affects it. Without evidence of that earlier
+review, use one complete bilingual pass. A body-only paste keeps source framing.

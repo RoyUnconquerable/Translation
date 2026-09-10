@@ -33,14 +33,28 @@ CONTINUITY_STATUSES = {"current", "archived", "missing"}
 STORAGE_STATUSES = {"repo", "chat_only", "unavailable"}
 
 
-def incoming_chapter_errors(chapter: int, state: dict) -> list[str]:
-    """Catch an omitted handoff even when ledger and state are equally stale."""
+def incoming_chapter_errors(
+    chapter: int, state: dict, *, observed_through: int | None = None
+) -> list[str]:
+    """Reject unknown source gaps without forcing publication between chapters.
+
+    The optional frontier is an explicit caller attestation based on actual
+    session source evidence. It is not a stored progress/approval update.
+    """
     last_seen = state.get("progress", {}).get("latest_source_seen")
+    if observed_through is not None:
+        if not isinstance(last_seen, int) or not last_seen <= observed_through < chapter:
+            return [
+                "observed source frontier must be at least the recorded frontier "
+                "and earlier than the incoming chapter"
+            ]
+        last_seen = observed_through
     if isinstance(last_seen, int) and chapter > last_seen + 1:
         return [
             f"incoming chapter {chapter} skips the recorded source frontier {last_seen}; "
-            "reconcile verified intermediate source/delivery evidence and explicit "
-            "owner rulings before drafting; do not infer approval of chapter prose"
+            "reconcile verified intermediate source evidence; --observed-through "
+            "may supply the verified session frontier without publication; "
+            "do not infer delivery or approval of chapter prose"
         ]
     return []
 
@@ -140,13 +154,13 @@ def main() -> None:
         errors.append("state storage must be an object")
     else:
         if storage.get("chapter_prose") not in {
-            "chat_only_by_default", "file_backed_by_default"
+            "chat_only", "chat_only_by_default", "file_backed_by_default"
         }:
             errors.append("state storage has an invalid chapter_prose policy")
         recoverable = storage.get("exact_chat_finals_recoverable_from_repository")
         if not isinstance(recoverable, bool):
             errors.append("state storage recoverability flag must be boolean")
-        elif storage.get("chapter_prose") == "chat_only_by_default" and recoverable:
+        elif storage.get("chapter_prose") in {"chat_only", "chat_only_by_default"} and recoverable:
             errors.append("chat-only storage cannot claim exact finals are in Git")
 
     authorities = state.get("authorities")

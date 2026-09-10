@@ -1,251 +1,146 @@
 # Translation workflow
 
-This file is the workflow dispatcher. Chat-first work is the default. Use the
-file-backed path only when the owner asks to store chapter prose or the source
-already exists as a repository chapter artifact.
+This is the sole execution policy. Source/style authorities govern content;
+QA and editing specifications describe the relevant pass, not extra stages.
+The target is complete, accurate modern xianxia English in chat in roughly
+three to five minutes for an ordinary chapter. It is a budget, not a guarantee
+or permission to cut content. Give a short update if a real blocker intervenes.
 
-## Routine chapter performance target
+## 1. Verify once, then reuse
 
-A routine chat-first chapter should be delivered in roughly three to five
-minutes when the source is complete and no material ambiguity or tool failure
-intervenes. This is a performance budget, not permission to skip fidelity,
-English, or mechanical checks. Treat each new chapter as an incremental turn,
-not a full pipeline bootstrap.
+At session entry, verify the checkout and canonical remote tip named in
+`chapters/state.json`, preserving unrelated changes. Read state and this
+workflow once. State's authority manifest is a lookup map, not a reading list.
+Load the style guide and current error guidance if not already in active
+context. Do not use chat memory or a summary as a substitute for their contents.
 
-Use this working budget:
+During that session, reuse the verified tip and unchanged reference content.
+Before each chapter, one local status/diff check is enough to detect local
+changes. Do not fetch, reread the dispatcher, dump the full manifest, or run
+repository-wide gates every chapter. Refresh the remote at a new session,
+checkout uncertainty, an indicated external change, or before publishing.
+After a local update, reload only affected authority entries. After compaction,
+reload only the instructions and relevant source records no longer available.
 
-- authority verification and chapter inventory: about 30 seconds;
-- one translation draft: about two to three minutes;
-- parallel detector reviews and one surgical correction pass: about one minute;
-- final mechanical validation and delivery: under 30 seconds.
-
-If a real blocker is likely to push the turn materially beyond that range,
-send the owner a concise update identifying it instead of silently expanding
-the process.
-
-## 1. Load the compact authority set
-
-Read `chapters/state.json`, then load the canonical paths it names. Do not load
-historical Git versions, the full decision log, or all phrase memory by
-default. Search the phrase memory, decision log, and registered project source
-only for material that appears in the current Chinese chapter. Search across
-the full age range of those authorities and the continuity archive, not just
-the latest chapter window. For recurring people, powers, artifacts, or allusions,
-check their older identity, prerequisites, limitations, and approved wording.
-Where later revelations change earlier understanding, date and attribute both;
-do not erase history or leave an outdated belief stated as a current fact.
-
-Within the same active conversation, first verify the repository tip. If the
-tip and relevant authority files are unchanged and their contents remain in
-active context, reuse that verified authority instead of rereading or dumping
-the full files. Still read state, follow this workflow, run the chapter
-inventory, and perform targeted searches for terms and issues in the new
-source. After a new session, context compaction that removes the actual
-authority contents, a changed repository tip, or an uncertain checkout, reload
-the compact authority set from the repository. Never use a conversation
-summary as a substitute for repository authority.
-
-Do not dump the whole ledger, glossary, phrase memory, decision log, continuity
-archive, or world reference into context for a routine chapter. Use
-`prepare.py`, then query only the entries implicated by the current source.
-
-The latest pushed tip of the GitHub canonical branch recorded in state is the
-persistent authority across sessions. If the checkout may be stale and remote
-access is available, verify that it contains that tip before relying on it. A
-new explicit owner instruction supersedes the corresponding older rule and
-becomes durable after verification, classification, commit, and push. At turn
-entry, reconcile verified earlier source/delivery evidence and explicit owner
-corrections not yet published. These facts do not require approval of chapter
-prose. Do not defer approved corrections with unapproved translations.
-
-The exact Chinese paste or source file is mandatory. A conversation summary,
-continuity capsule, prior model draft, or English owner edit cannot substitute
-for it.
-
-Run `python chatgpt/scripts/state.py --incoming-chapter <number>` before drafting
-if state may have changed. `prepare.py` also checks the incoming source frontier:
-a gap requires reconciling verified intermediate evidence, not inventing approval
-or silently advancing a counter. Both checks are read-only. Ordinary state/ledger
-agreement alone cannot establish that no live correction has been missed.
-
-## 2. Build a short chapter authority sheet
-
-Before writing prose, record privately:
-
-- chapter number, title, source paragraph count, and hard scene changes;
-- reviewed scene-break positions, or an explicit decision that none are needed;
-- every named or recurring referent, identity, and required pronoun;
-- every glossary term that actually occurs;
-- all numbers, dates, rankings, and causal dependencies;
-- image-bearing idioms, allusions, poems, panels, jokes, and wordplay;
-- exact approved display wording and formatting for inscriptions and declarations;
-- each likely direct thought, its speaker, and its time reference;
-- whether each idiom or allusion is fixed wording, a live image, or an adaptive
-  contextual sense;
-- unresolved terms or ambiguities that could materially change the chapter.
-
-Save the exact chat paste to an untracked temporary file outside the repository
-and generate this inventory with:
+Use the exact supplied Chinese, saved outside Git. Run once:
 
 ```text
 python chatgpt/scripts/prepare.py <source-file>
 ```
 
-Scripts locate their own pipeline regardless of working directory; relative
-source/target paths still resolve from the caller's directory. Inventory is
-a prompt for review, not proof of complete numerical or semantic coverage.
+Its inventory supplies matching terms, usage notes, entities, phrases, numbers
+and potential scene changes. Reuse that output for drafting and review; do not
+reproduce it in another full authority sheet. Add only relevant historical
+facts, reviewed scene positions, thought speakers/time references and material
+ambiguities. Search the glossary, phrase memory, decisions, world reference
+and continuity archive across their full history by the current referents.
+Read matching passages and enough context to resolve them, never whole archives.
+Do not refetch an unchanged historical entry already in active context.
 
-When the scripts are available, this pre-draft check is mandatory. If execution
-is unavailable, reproduce its terminology, identity, number, and phrase checks
-manually and disclose the limitation.
+New owner corrections in the live turn must be included in the same compact
+review input, clearly distinguished from draft wording and proposed alternatives.
+A draft choice is not canon. Keep prerequisites, limits, identities, attribution
+and earlier versus later revelations intact. A missing older attachment is not
+evidence that it was checked. Search externally only for a material question
+unresolved by the canonical records; batch necessary terminology questions.
 
-Use one terminology question batch only when an unresolved choice matters.
-Do not stop for terms already resolved by the canonical authorities.
+### Progress between approved updates
 
-Use external research only after the canonical authorities and registered
-project source fail to resolve a material question of meaning, identity, or
-allusion. Do not browse merely to choose between equally valid stylistic
-alternatives in a chat draft.
+Do not publish metadata just to start the next chapter. `prepare.py` already
+checks the source frontier; do not also run `state.py --incoming-chapter`.
+If approved-update state trails the visible conversation, verify the actual
+intervening sources and deliveries, keeping source seen, delivered and approved
+separate. Pass `--observed-through N` only for that verified in-session source
+frontier. This read-only input does not mutate state, prove delivery or grant
+approval. It cannot fill an unknown gap; retrieve specific missing evidence or
+report the uncertainty. Reconcile verified progress in the next approved atomic
+update, without provisional files, handoff commits or guessed approvals.
 
-## 3. Draft once
+## 2. Draft once
 
-Translate from the Chinese, not from an earlier English attempt. Preserve one
-target paragraph for each source paragraph, in identical order. Compose modern,
-natural English while retaining every meaning-bearing detail and the source's
-Chinese cultivation texture.
+Translate directly from the exact source. Preserve every source paragraph,
+including title, isolated reaction and ending, in order. Sentence structure may
+change inside paragraphs for clear English. Apply the style guide while writing.
+Do not generate competing drafts or start a new translation from an owner edit.
 
-Do not generate multiple independent full drafts. They increase inconsistency
-and encourage ungrounded stylistic blending.
+## 3. One bounded bilingual review and targeted repair
 
-## 4. Run two focused reviews
+Use the existing fidelity detector for one source-aligned review covering both
+fidelity and English under `qa-rules.md`. There is no separate English detector
+or additional lead reread of the whole chapter. The lead owns drafting and
+adjudication, rather than duplicating the detector's review.
 
-The reviews detect issues. They do not rewrite the chapter wholesale.
+When delegation is available, use one reviewer with no inherited conversation
+history. Supply the exact source, the one draft, its inventory plus relevant
+historical rulings, explicit current owner corrections and the QA specification.
+Do not give it full-history context or make it reload the repository. It returns
+paragraph-indexed defects with source/authority evidence, never another draft,
+optional synonym lists, or direct edits to shared authorities. It may resolve
+one specifically necessary missing reference, not conduct broad research.
+Without delegation, perform this same review locally once.
 
-1. Fidelity review: compare every paragraph to the source for omissions,
-   additions, logic, chronology, numbers, terms, identities, pronouns,
-   allusions, their actual subjects and relationships, and alignment.
-   Explicitly account for each isolated question or reaction. Check idiom
-   meaning as well as retained imagery; a matching paragraph count or a
-   familiar allusion label is not evidence that these checks passed.
-   Account for modifiers, gestures, intent, timing, scale and number. Verify
-   scope and triggers: all knowledge is not knowledge from one source, and
-   realizing a trap is not escaping it. Active use is not mere availability.
-   Check all words of a displayed
-   declaration and its formatting. Do not equate a short natural paraphrase
-   with complete coverage. Check concrete verbs and their objects even in
-   unchanged English: a broader category can silently omit reading, posture,
-   or the specific problem being addressed.
-2. English review: check grammar, clarity, modern register, character voice,
-   pacing, action geography, thought mode and tense, repetition, archaic drift,
-   and translationese without changing source meaning. Explicitly review
-   contractions and each complete noun phrase for required articles or
-   possessives, countability, and clear referents. Check prepositions,
-   complements, collocations, and sentence linkage inside each source
-   paragraph. Establish an earlier time frame without mechanically retaining
-   past perfect throughout it. The mechanical checker cannot judge prose flow.
+Allow roughly 60-90 seconds for review. Do not repeatedly poll or block a single
+wait beyond 60 seconds. Read the completion when available. At the review budget,
+ask the existing reviewer for its covered range and findings, stop it if needed,
+and finish only the uncovered portion locally. Do not spawn replacements or
+repeat completed work. State a fallback honestly; never pretend coverage passed.
 
-The owner's Chapter 1290 direction permits fuller, clearer phrasing when it
-preserves source detail or makes a relationship explicit. Do not meet the
-performance budget by compressing away grammatical structure. Complete the
-article, preposition, complement, and contraction review before delivery.
-
-When subagents are available, launch these as two independent detector tasks
-at the same time after the lead translator has produced one draft. Give each
-reviewer an isolated context with no inherited conversation history, or the
-smallest possible recent context, plus the exact source, the same draft, the
-short chapter authority sheet, and only the relevant canonical rulings. Do not
-make each reviewer reread the full repository or conversation. A reviewer may
-query one specific authority when a finding genuinely depends on it. They
-return paragraph-indexed findings only, never replacement chapters, and they
-do not edit shared authority files. If subagents are unavailable, perform the
-same two passes sequentially.
-
-Continue the lead translator's local review while both detector tasks run.
-Avoid repeated short polling. Collect their findings once the local pass is
-complete, then adjudicate them together. If a detector has not returned after
-about 90 seconds, notify the owner, stop that task, and complete its remaining
-pass locally against the same draft. Record the fallback honestly; do not
-skip a review, spawn replacement drafts, or restart preparation.
-
-The lead translator decides each finding and applies all accepted corrections
-in one surgical patch whenever possible. Save the patched target to an
-untracked temporary file outside the repository, then run the mechanical check
-once before delivery:
+Adjudicate findings against the exact source and current authority. Patch only
+real defects, preferably in one pass. Reject unsupported preferences and stale
+term reversions. Then run the existing mechanical check once:
 
 ```text
 python chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-before <indices>
 ```
 
-When the scripts are available, this check is mandatory for every chat-first
-chapter. It is the enforcement path for hard terms such as `神念` to `divine
-sense`, paragraph alignment, title presence, punctuation, and numbers.
-Pass the reviewed one-based source paragraph indices after the scene-break
-option, or pass the option with no values when no breaks are needed. The
-checker verifies those positions and owner-approved fixed display wording;
-the reviewers still judge which boundaries and details the source requires.
-If it reports a real hard failure, patch only the listed defect and rerun it.
-Do not start another general prose-polishing cycle after the two reviews have
-already passed.
+Pass no indices after the flag if no breaks are required. It checks framing,
+paragraph count, specified separators, terminology, fixed displays, typography,
+source residue and digit warnings. It does not prove semantic completeness,
+Chinese-number conversion or good English. The bilingual review does that.
+For real failures, fix only the affected spans and rerun the check. A lexical
+false positive gets a source-grounded adjudication, not invented wording or a
+new exemption that hides real matches. Record it for the next feedback repair;
+do not describe an unresolved exception as an unqualified PASS.
 
-Adjudicate scanner findings against the actual source. Record a descriptive
-substring or an explicit shift into first-person thought as such; never insert
-an unrelated character or force self-naming just to clear a lexical match.
-Keep real name occurrences checked, and report unresolved findings honestly.
-Record a source-grounded lexical exception explicitly; do not present a
-modified checker run as an unqualified PASS. At the owner-update stage, fix
-verified contextual matching in the glossary with a regression check, then
-rerun the ordinary checker without temporary overrides.
+## 4. Deliver immediately
 
-## 5. Chat-first delivery
+Return the complete reviewed chapter in chat as soon as required defects are
+resolved. Do not begin repository maintenance, another polish pass, further
+reference searching or CI waiting first. A saved draft is not delivery. If
+interrupted, resume from the checked draft; if output was missing, resend it
+in full before troubleshooting. Do not infer delivery from timestamps.
 
-For ordinary chat work, deliver the chapter before broader chapter maintenance;
-prior approved corrections are reconciled during authority loading above.
-Once the reviewed text passes the final check, return the complete chapter in
-the final response immediately. A temporary draft or a successful check is not
-delivery. If interrupted at this point, resume from the reviewed text instead
-of restarting preparation or leaving the chapter undelivered. If the owner
-reports missing output, immediately resend the existing checked chapter in
-full before investigating workflow issues. File timestamps measure only local
-stages, not the owner's total wait; do not present them as delivery timings.
-Do not create provisional per-chapter supplements or commit unreviewed prose.
-Explicit terminology corrections can be published on their own; an owner-edit
-or maintenance task must finish that publication before claiming persistence.
-After the owner
-approves or supplies edited prose, compare it once against both the exact source
-and the draft. Verify fidelity, grammar, terminology, continuity, thought mode
-and tense, allusions, and formatting before classifying each change.
-For every changed sentence,
-ask why it changed: identify the problem, the intended improvement and the
-source support. Distinguish an inferred reason from explicit owner intent;
-record the reason before selecting a reusable lesson, not just a word diff.
-Then classify the change:
+Ordinary chapters require preparation, one draft, one bilingual review, targeted
+repair and the final mechanical check only. A reasonable allocation is about
+30 seconds for preparation, two to three minutes for drafting, 60-90 seconds
+for review/repair and under 30 seconds for the final check and delivery. The
+three-to-five-minute goal depends on chapter complexity and service latency.
+Never omit content to meet it; explain a concrete blocker instead.
 
-- `MACRO`: reusable prose policy, update the style guide;
-- `TERM`: stable recurring rendering, update terminology or entities;
-- `PHRASE`: contextual idiom, title, verse, or special wording, update phrase
-  memory;
-- `FACT`: stable world mechanic, update world reference;
-- `CONTINUITY`: current plot state, update continuity;
-- `LOCAL`: useful only in that passage, decision log or Git history only;
-- `MECHANICAL`: typo or formatting repair, no stylistic promotion.
+## 5. Feedback after approval
 
-Update state and ledger in the same atomic commit, distinguishing source seen,
-draft delivered, correction recorded, and owner-final approval. Before adding reference
-text, check existing size budgets, consolidate overlaps, and archive completed
-plot detail in the existing archive with a pointer. Do not cycle through full
-gates after every sentence edit or raise caps to make an oversized file pass.
-Never create chapter-specific glossary, style, continuity, world, or edit-summary
-files. Full source, draft, and comparison scratch files stay outside Git.
+Use `editing-spec.md` only on an approval, correction or maintenance turn.
+Explicit owner corrections already authorize their verified update; do not
+ask again for whole-chapter approval. Supplied edits receive one indexed
+comparison and the same bounded bilingual check, not two additional reviews.
+If feedback and a new chapter arrive together, apply the live correction to
+that chapter and deliver it first. Publish the approved consolidated update
+after delivery at the first available maintenance opportunity, in the same turn
+if the interface allows it. If final chat delivery ends the turn, resume the
+authorized update on the next available turn; no feedback-only prompt or renewed
+approval is required. A waiting chapter still comes first. Do not claim
+unpublished changes are saved.
 
-## 6. File-backed path
+Compare against the source and delivered draft, asking why each changed sentence
+changed. Record inferred intent as inferred. Update the existing glossary,
+style, continuity, world reference and state together where affected, in one
+atomic commit. Preserve untouched valid records; changing every file is not a
+goal. Never add chapter-specific supplements, commit chapter text, create
+provisional handoffs or infer approval from the next chapter arriving.
 
-When durable chapter prose is requested, follow
-`instructions/file-backed-workflow.md`. The aligned JSONL files, issues,
-assembly, and telemetry rules apply only to that mode.
+## 6. One repository validation and publication
 
-## 7. Final repository gates
-
-Before committing an authority update, run:
+These are feedback/maintenance gates, never prerequisites to chapter delivery:
 
 ```text
 python -m unittest discover -s chatgpt/tests
@@ -254,15 +149,17 @@ python chatgpt/scripts/lint.py --all
 python chatgpt/scripts/state.py
 ```
 
-Review `git diff` and `git status`. Preserve unrelated worktree changes.
-When a tool transports file content for publishing, use bounded reads and
-verify the resulting Git tree against the reviewed local tree. A truncated
-combined dump is not valid file content; do not repeatedly resend it. Make
-one coherent forward commit for the owner-final update or maintenance task,
-then push it to the working branch and ensure the canonical GitHub branch named
-in state contains it. Do not claim cross-session persistence before both are
-true. If work is committed on a noncanonical branch, verify that both remote
-targets can be fast-forwarded, then push the same commit to the working branch
-and the canonical branch. Prefer one atomic non-force push. If either branch
-has diverged or branch protection rejects the update, stop and report the
-conflict. Never force-push published history.
+Run them once after the complete patch and review the diff. If a gate reveals a
+real defect, rerun only affected checks after fixing it. Size warnings prompt
+focused consolidation on maintenance turns; preserve valid rules and do not
+raise limits or reclassify a real term just to silence a warning.
+
+Publish one coherent commit to the canonical branch and, when different, the
+working branch without force-pushing. Fetch/check the current remote before
+publication; if it moved, reconcile without overwriting external work. Use the
+normal authenticated Git path when available; otherwise use the existing GitHub
+connector once with bounded file reads. Verify the published tree against the
+reviewed local tree and remote tip. Do not repeatedly try a known unavailable
+credential path, resend truncated content, or claim persistence before success.
+Report a real publication block plainly. No chapter-text storage mode is active;
+legacy file-backed tools/artifacts remain for history and compatibility checks.

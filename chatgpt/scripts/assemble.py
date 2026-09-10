@@ -112,8 +112,8 @@ def main() -> None:
         print(f"WARNING: flag rate {flag_rate:.2%} exceeds 40% - the review pass was "
               "close to a rewrite. Three consecutive chapters like this means the "
               "drafting method should be strengthened before the next chapter.")
-    print("reminder: the reviewer's edits are visible as a git diff between the "
-          "draft and review commits.")
+    print("historical assembly tool: current policy forbids committing chapter "
+          "prose; this output is local only.")
 
 
 if __name__ == "__main__":

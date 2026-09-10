@@ -19,9 +19,10 @@ import state
 BRACKET_RE = re.compile(r"【([^】]+)】")
 NUMBER_RE = re.compile(
     r"(?:[一二三四五六七八九]成[零〇一二三四五六七八九]"
+    r"|[零〇一二三四五六七八九两]{2}开"
     r"|\d[\d,]*(?:年|月|日|层|位|枚|道|次|人|个|分|成|里|丈|岁|州|章)?"
     r"|(?:几|数)?[零〇一二三四五六七八九十百千万亿兆两]+(?:余|多|来)?"
-    r"(?:甲子|年|月|日|层|位|枚|道|次|人|个|分|成|里|丈|岁|州|章|世|座|条|种|轮|颗|片|根|名|件|处|部|路|口|步|眼|手|字|声|息|倍|等))"
+    r"(?:甲子|年|月|日|层|位|枚|道|次|人|个|分|成|里|丈|尺|寸|厘|岁|州|章|世|座|条|种|轮|颗|片|根|名|件|处|部|路|口|步|眼|手|字|声|息|倍|等))"
 )
 
 PROSE_REVIEW_REMINDERS = (
@@ -49,6 +50,12 @@ def main() -> None:
     common.configure_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source", type=Path)
+    parser.add_argument(
+        "--observed-through", type=int,
+        help="Verified in-session source frontier since the last approved update. "
+             "Use only with actual intervening source evidence; never infers "
+             "delivery/approval or writes repository state.",
+    )
     args = parser.parse_args()
     root = common.find_root()
     hard = common.load_glossary(root)
@@ -59,9 +66,20 @@ def main() -> None:
         chapter = re.search(r"第\s*(\d+)\s*章", source_paragraphs[0])
         if chapter:
             routing = state.load_json(root / "chapters" / "state.json")
-            errors = state.incoming_chapter_errors(int(chapter[1]), routing)
+            errors = state.incoming_chapter_errors(
+                int(chapter[1]), routing, observed_through=args.observed_through
+            )
             if errors:
                 raise SystemExit("prepare: FAIL\n  " + "\n  ".join(errors))
+            if args.observed_through is not None:
+                print(
+                    f"verified session source frontier: {args.observed_through}; "
+                    "repository state unchanged; no delivery/approval inferred"
+                )
+        elif args.observed_through is not None:
+            parser.error("--observed-through requires a numbered source chapter")
+    elif args.observed_through is not None:
+        parser.error("--observed-through requires a numbered source chapter")
 
     hard_hits: dict[str, set[int]] = defaultdict(set)
     phrase_hits: dict[str, set[int]] = defaultdict(set)
@@ -97,6 +115,8 @@ def main() -> None:
     for source in sorted(hard_hits, key=lambda value: min(hard_hits[value])):
         rows = ",".join(str(value) for value in sorted(hard_hits[source]))
         print(f"  [{rows}] {source} -> {hard[source]['target']}")
+        if hard[source]["notes"]:
+            print(f"    {hard[source]['notes']}")
 
     print("\nentities and pronouns:")
     for alias in sorted(entity_hits, key=lambda value: min(entity_hits[value])):
@@ -107,6 +127,8 @@ def main() -> None:
             f"  [{rows}] {alias} -> {actual_name} "
             f"[{entity['entity_id']}; {entity['pronouns']}]"
         )
+        if entity["notes"]:
+            print(f"    {entity['notes']}")
 
     print("\nrelevant phrase memory:")
     phrase_by_source = {row["source"]: row for row in phrases}

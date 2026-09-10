@@ -22,22 +22,22 @@ GitHub canonical branch named there is the persistent project authority across
 sessions and context compactions. Exact Chinese source governs chapter content,
 and verified owner decisions become durable when committed and pushed.
 
-## Use with a ChatGPT Project
+## Use this repository
 
-1. Connect `RoyUnconquerable/Translation` as a project source.
-2. Copy `chatgpt/PROJECT_INSTRUCTIONS.md` into the project's instructions.
-3. Keep terminology decisions, chapter drafting, and QA in separate project
-   chats so each outcome stays focused.
-4. Use ChatGPT to discuss and inspect connected repository context. Use Codex
-   for repository edits and script execution.
+Start with `AGENTS.md`, `chatgpt/chapters/state.json`, and the single execution
+policy in `chatgpt/instructions/workflow.md`. `chatgpt/PROJECT_INSTRUCTIONS.md`
+is the compact entry text; repository updates do not automatically update any
+separately pasted platform instructions.
 
-This layout follows OpenAI's guidance that project instructions apply across
-project chats while files and connected sources provide shared context:
-https://learn.chatgpt.com/docs/projects
+Keep the source, draft and review context together. Separate project chats or
+parallel editorial pipelines are not required. Reuse unchanged references,
+retrieve relevant historical entries and deliver the full chapter in chat
+before maintenance. Verified feedback updates the affected canonical records
+in one atomic commit. Never commit chapter prose or provisional handoffs.
 
-## Validate the handoff
+## Validate approved authority updates
 
-From the repository root:
+Run once after the maintenance patch, not before chapter delivery:
 
 ```text
 python -m unittest discover -s chatgpt/tests

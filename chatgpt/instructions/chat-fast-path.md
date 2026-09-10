@@ -1,13 +1,8 @@
-# Chat-first operating notes
+# Healthy chat path
 
-The canonical chat-first procedure now lives in `workflow.md`. This file
-exists as a stable pointer for older links.
-
-The essentials are: target three to five minutes for a routine chapter; verify
-and reuse unchanged authorities within the same active context; load only
-relevant terms and facts across the full historical authorities; reconcile
-approved corrections and observed progress; translate once from the exact Chinese; run
-isolated fidelity and English detectors concurrently; apply one surgical patch;
-run one final mechanical check; deliver prose before broader chapter maintenance;
-publish explicit corrections independently of whole-chapter approval; and
-consolidate decisions without creating per-chapter supplements.
+`workflow.md` is the sole execution policy. This file is a compatibility pointer,
+not another checklist. Target roughly three to five minutes: verify once and
+reuse, retrieve relevant history, draft once, run one bounded bilingual review,
+patch cited defects, mechanically check, then deliver the full chapter in chat.
+Approved feedback receives one later atomic canonical update. Never commit
+chapter text or create a provisional handoff.

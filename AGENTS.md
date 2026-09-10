@@ -1,45 +1,16 @@
-# Translation project bootstrap
+# Translation project entry point
 
-`chatgpt/` is the only active translation pipeline. Legacy Claude paths are
-read-only migration evidence unless the owner explicitly requests otherwise.
+`chatgpt/` is the only active pipeline. Legacy Claude files are read-only.
 
-For every translation or owner-revision task:
+Read `chatgpt/chapters/state.json`, then follow the single execution policy in
+`chatgpt/instructions/workflow.md`. The state manifest is a lookup map, not an
+instruction to read every authority on every turn. Reuse unchanged references;
+retrieve relevant history across all chapters, not only the recent window.
 
-1. Read `chatgpt/chapters/state.json`.
-2. Follow `chatgpt/instructions/workflow.md`.
-3. Load only the canonical authorities named by state.
-4. Use the exact Chinese source, preserve one target paragraph per source
-   paragraph in the same order, and verify every recurring referent.
-5. Treat the source as the authority for chapter content. The owner's
-   editorial intent and explicit terminology decisions are authoritative, but
-   supplied English still receives source, grammar, continuity, terminology,
-   tense, and allusion checks.
-6. Repair clear mechanical errors. If wording materially changes the source or
-   conflicts with established authority, present the issue and a
-   source-grounded alternative before promoting it.
-7. Promote verified lessons to the canonical file, replacing superseded rules.
-   An explicit owner correction is already authorized; persist it independently
-   of whole-chapter approval. Reconcile observed source/delivery metadata too.
+The exact Chinese governs content. Verified owner decisions govern editorial
+choices; the canonical GitHub branch named in state is the durable authority,
+above conversation memory. The workflow defines review and feedback handling.
 
-The latest pushed tip of the GitHub canonical branch named in
-`chatgpt/chapters/state.json` is the persistent authority across sessions and
-context compactions. A new instruction in the live conversation applies to the
-current task, but becomes durable only after it is verified, classified,
-committed, and pushed. Repository authority outranks conversation memory,
-summaries, rejected drafts, and model preference; a newer explicit owner ruling
-supersedes the corresponding older rule. Check matching older glossary, phrase,
-decision, and archived continuity records, not just recent chapters. The canonical glossary is the
-only hard terminology source. Historical per-chapter supplements were removed
-from the active tree because they created contradictory precedence; their
-evidence remains recoverable in Git history.
-
-Validation is read-only by default:
-
-```text
-python chatgpt/scripts/audit.py
-python chatgpt/scripts/lint.py --all
-python chatgpt/scripts/state.py
-```
-
-Do not stage or overwrite unrelated user changes. Never claim a repository
-update exists until it has been committed and pushed.
+Deliver complete chapters in chat before maintenance. Never commit chapter
+text or provisional handoffs. Preserve unrelated changes and every valid
+historical ruling. Claim persistence only after the atomic update is pushed.

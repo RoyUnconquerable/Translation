@@ -1,11 +1,14 @@
 from __future__ import annotations
 
 import json
+import io
 import subprocess
 import sys
 import tempfile
 import unittest
+from contextlib import redirect_stdout
 from pathlib import Path
+from unittest.mock import patch
 
 SCRIPTS = Path(__file__).resolve().parents[1] / "scripts"
 sys.path.insert(0, str(SCRIPTS))
@@ -15,6 +18,7 @@ import chat_check
 import lint
 import prepare
 import state
+import audit
 
 
 class AuthorityTests(unittest.TestCase):
@@ -102,6 +106,61 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(state.incoming_chapter_errors(1309, routing), [])
         self.assertIn("reconcile verified", state.incoming_chapter_errors(1311, routing)[0])
         self.assertEqual(routing, {"progress": {"latest_source_seen": 1309}})
+
+    def test_observed_session_frontier_is_bounded_and_read_only(self):
+        routing = {"progress": {"latest_source_seen": 1309}}
+        before = json.dumps(routing)
+        self.assertEqual(state.incoming_chapter_errors(
+            1312, routing, observed_through=1311), [])
+        self.assertTrue(state.incoming_chapter_errors(
+            1312, routing, observed_through=1310))
+        for frontier in (1308, 1312, 1313):
+            with self.subTest(frontier=frontier):
+                self.assertTrue(state.incoming_chapter_errors(
+                    1312, routing, observed_through=frontier))
+        self.assertEqual(json.dumps(routing), before)
+
+    def test_prepare_uses_verified_frontier_without_writing_state(self):
+        path = self.root / "chapters" / "state.json"
+        before = path.read_bytes()
+        frontier = json.loads(before)["progress"]["latest_source_seen"]
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source.txt"
+            source.write_text(f"第{frontier + 2}章 测试\n\n道天齐借出慧光。\n",
+                              encoding="utf-8")
+            result = subprocess.run(
+                [sys.executable, str(SCRIPTS / "prepare.py"), str(source),
+                 "--observed-through", str(frontier + 1)],
+                capture_output=True, text=True,
+            )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertIn("repository state unchanged", result.stdout)
+        self.assertIn("no delivery/approval inferred", result.stdout)
+        entities = common.load_entities(self.root)
+        entity = next(r for r in entities if "道天齐" in r["source_aliases"].split("|"))
+        self.assertIn(entity["notes"], result.stdout)
+        self.assertIn(common.load_glossary(self.root)["慧光"]["notes"], result.stdout)
+        self.assertEqual(path.read_bytes(), before)
+
+    def test_number_inventory_includes_odds_and_physical_measures(self):
+        source = "三尺青锋，九寸九厘。胜率三七开，达到五五开，添上两成胜算。"
+        values = {m.group(0) for m in prepare.NUMBER_RE.finditer(source)}
+        self.assertTrue({"三尺", "九寸", "九厘", "三七开", "五五开", "两成"} <= values)
+
+    def test_size_warning_does_not_hide_structural_authority_failure(self):
+        output = io.StringIO()
+        with patch.object(audit, "SIZE_LIMITS", {"reference/style-guide.md": 1}), \
+                redirect_stdout(output):
+            audit.main()
+        self.assertIn("authority audit: WARN", output.getvalue())
+        self.assertIn("authority audit: PASS", output.getvalue())
+        output = io.StringIO()
+        with patch.object(audit.common, "load_glossary",
+                          side_effect=ValueError("duplicate source key")), \
+                redirect_stdout(output), self.assertRaises(SystemExit):
+            audit.main()
+        self.assertIn("duplicate source key", output.getvalue())
+        self.assertIn("authority audit: FAIL", output.getvalue())
 
     def test_prepare_rejects_unreconciled_source_gap_read_only(self):
         path = self.root / "chapters" / "state.json"

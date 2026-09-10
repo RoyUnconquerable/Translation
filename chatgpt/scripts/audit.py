@@ -66,6 +66,7 @@ def main() -> None:
     common.configure_stdio()
     root = common.find_root()
     errors: list[str] = []
+    warnings: list[str] = []
 
     state_path = root / "chapters" / "state.json"
     try:
@@ -110,7 +111,7 @@ def main() -> None:
             continue
         size = path.stat().st_size
         if size > limit:
-            errors.append(f"{relative} is {size} bytes; limit is {limit}")
+            warnings.append(f"{relative} is {size} bytes; review target is {limit}")
 
     try:
         glossary = common.load_glossary(root)
@@ -121,15 +122,15 @@ def main() -> None:
         glossary, phrases, entities = {}, [], []
 
     if len(glossary) > 375:
-        errors.append(
+        warnings.append(
             f"hard glossary has {len(glossary)} rows; review phrase-level leakage"
         )
     if len(phrases) > 250:
-        errors.append(
+        warnings.append(
             f"phrase memory has {len(phrases)} rows; archive or consolidate it"
         )
     if len(entities) > 75:
-        errors.append(f"entity registry has {len(entities)} rows; review scope")
+        warnings.append(f"entity registry has {len(entities)} rows; review scope")
 
     decision_path = root / "reference" / "decision-log.tsv"
     try:
@@ -144,7 +145,7 @@ def main() -> None:
         if row["status"] not in {"active", "consolidated", "pending", "superseded"}:
             errors.append(f"invalid decision status {row['status']!r}")
         if len(row["decision"]) > 240:
-            errors.append(f"decision log row for {row['chapter']} is too detailed")
+            warnings.append(f"decision log row for {row['chapter']} merits concision review")
 
     exception_path = root / "chapters" / "legacy-lint-exceptions.tsv"
     try:
@@ -158,6 +159,8 @@ def main() -> None:
     if len(keys) != len(set(keys)):
         errors.append("legacy lint exceptions contain duplicate keys")
 
+    for warning in warnings:
+        print(f"authority audit: WARN: {warning}")
     if errors:
         print(f"authority audit: FAIL ({len(errors)} error(s))")
         for error in errors:

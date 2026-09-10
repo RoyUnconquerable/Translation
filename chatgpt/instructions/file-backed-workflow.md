@@ -1,25 +1,12 @@
-# Optional file-backed chapter workflow
+# Historical file-backed tools
 
-Use this path only when the owner requests durable chapter prose or explicitly
-chooses the repository artifact workflow.
+No file-backed chapter production mode is active. The owner's current policy
+requires complete chat delivery and forbids committing chapter text or
+provisional handoffs. An existing file in the repository does not authorize
+switching modes. Do not run segmentation, JSONL assembly, report writing or
+telemetry generation as part of an ordinary chapter or feedback update.
 
-1. Save the untouched source to `chapters/source/<chapter>.txt`.
-2. Run `python chatgpt/scripts/segment.py <source-path>` and verify the segment
-   count against the source paragraphs.
-3. Run `python chatgpt/scripts/glossary.py candidates <chapter>`, curate only
-   meaningful unknown terms, and obtain owner approval where required.
-4. Draft one JSONL target row per source row under `translation-spec.md`.
-5. Run `python chatgpt/scripts/lint.py <chapter>`.
-6. Perform the two reviews in `qa-rules.md`, record findings in the issues
-   file, and patch only cited segment IDs.
-7. Re-run lint and run `python chatgpt/scripts/assemble.py <chapter>`. Check the
-   assembled source/target pair with `chat_check.py --scene-break-before`
-   and the reviewed source paragraph indices, as specified in `workflow.md`.
-8. Update the ledger, continuity, state, and any genuinely reusable authority.
-9. Run all repository gates in `workflow.md` before committing.
-
-`lint.py` is read-only unless `--write-report` is supplied. Final output must be
-assembled from the reviewed draft, never hand-edited.
-Fixed display wording and bold corner brackets receive the same checks in both
-delivery modes. Review scene boundaries before drafting; attach each separator
-to its following target row rather than creating an extra source segment.
+The old source/draft/final artifacts and scripts remain intact for historical
+evidence and compatibility tests. Read-only lint/state checks continue to
+validate them. The former procedure is recoverable at Git commit
+c981f829a7625adb3e76c0bc2c46ecfd739b4ec4. Active work follows workflow.md only.
