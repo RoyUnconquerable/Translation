@@ -1088,3 +1088,30 @@ approval. Review status belongs in the chapter ledger.
 - Si Sui loses His Dharma Body but retains self-cultivated Dao Lord status as
   a Primordial Spirit thought. The Saint loses Nascent Soul status after the
   sea's emptying damages Destiny. Enduring nature and current status differ.
+
+## Archived Chapters 1321-1322 at Chapter 1334
+
+## Chapter 1321: understanding, loss, and ten years of practice
+
+- Lü Yang understands what happens but not why. Si Sui lets his saturated Spirit rest. Dao construction is already his strength; other foundations were deficient. The claim that all ancient Dao Lords mastered the Great Dao answering to them is encouragement: only Si Sui and the Saint did; the Sword Sovereign stopped short.
+- Dao Tianqi continues lending wisdom light while doing repairs requiring little thought. Lü Yang examines the Heavenly Calendar Numbers independently. He infers that status was created by the first Divine Transformation transcender because Ancient Past methods do not depend on it. Attribute this conclusion to Lü Yang.
+- Daily combat keeps his understanding on course; Si Sui needs longer to defeat him. Shared Transcendence teaching links nonaction to loss, including the Saint's plan to damage the Other Shore. Preserve the source's distinct acts of relinquishing, reducing and diminishing.
+- Ten years pass. A faint sword light approaches along Fate rather than materially entering the new world; it bears the Sword Sovereign, Vast Sky and Myriad Spells, without the Saint. Lü Yang suspects allegiance; Chapter 1321 does not confirm it.
+
+## Chapter 1322: allegiance and a wagered duel
+
+- The trio cannot cross the Wilderness's transcendent barrier; Their projections request entry. The Sword Sovereign senses a real risk of death if She underestimates Lü Yang, although his cultivation is unchanged.
+- Their allegiance offer is confirmed. Ten years earlier, Vast Sky detected the Saint's sudden recovery and prevented an attack; His continuing unfathomable aura now alarms Them. Si Sui reveals the End Tiger conversation.
+- Si Sui demands the Heavenly Dao as support for the nearly ready Heavenly Palace. Vast Sky objects that surrender would harm Nian Yao's bound Primordial Spirit and foundation; Lü Yang takes a meaningful look at Him before proposing a duel.
+- Stakes: if Lü Yang wins, the Heavenly Dao must be surrendered intact. If he loses, he will restore the Dragon's sea of consciousness beneath Her Other Shore fragment, restoring Her Dao Lord status. She requires an oath on the Heavenly Dao and agrees to meet in three days.
+- Si Sui's thirty-percent estimate concerns Lü Yang now. He trusts Lü Yang would not gamble hundreds of millions of lives recklessly. Lü Yang claims the result was settled upon Her acceptance; the mechanism and outcome remain unrevealed.
+
+
+## Archived Palace damage and access at Chapter 1334
+
+- The Heavenly Palace is Lü Yang's Dao-attainment system and governs the
+  God-Sealing Method. Most was destroyed
+  in Chapter 1281, but its five root Mysteries sustained it. Protected Heavenly
+  Person's Remnant Consciousness realms resist his command. Grand Ancestral
+  Master provides a passage through this gap; the Saint used it to bypass his
+  blockade with the Dharma Refining Secret Realm.

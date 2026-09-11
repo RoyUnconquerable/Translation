@@ -14,11 +14,10 @@ the ledger for reviews. Character claims are explicitly attributed.
   sea and survives damaged. The detachable Vajra Realm temporarily anchors
   the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan outside the sea.
 - The Heavenly Palace is Lü Yang's Dao-attainment system and governs the
-  God-Sealing Method. Most was destroyed
-  in Chapter 1281, but its five root Mysteries sustained it. Protected Heavenly
-  Person's Remnant Consciousness realms resist his command. Grand Ancestral
-  Master provides a passage through this gap; the Saint used it to bypass his
-  blockade with the Dharma Refining Secret Realm.
+  God-Sealing Method. Ch.1334 completes it with the Heavenly Dao and support
+  from the Wilderness's God-Sealing cultivators, raising his status. Earlier
+  damage and remnant-access details are archived under Archived Palace damage
+  and access at Chapter 1334 in continuity-archive.md.
 - Lü Yang and Vast Sky identify the Ancestral Dragon's Detached Court as a
   hidden void realm possibly left by an upper-realm cultivator. The Dragon,
   Si Sui, and the Saint entered it; other Dao Lords cannot locate it even with
@@ -70,8 +69,12 @@ the ledger for reviews. Character claims are explicitly attributed.
 - Before the Other Shore existed, peak Golden Core cultivators with Primordial
   Spirits could be called Dao Lords. The Other Shore later raised status far
   beyond the underlying realm.
-- Status and cultivation are related but distinct. Dao Attainment describes a
-  cultivator's accumulated mastery, not the cultivation realm itself.
+- Status and cultivation are distinct; Dao Attainment is accumulated mastery.
+  Ch.1334: the completed Palace raises Lü Yang's status, but the Book gives no
+  major-realm response or new anchor. Si Sui says losing the self to status
+  makes one a temporary occupant, not a true Dao Lord, however high the
+  cultivation. Compassion is itself cultivation. The reader/story perspective
+  describes Lü Yang's perception; his Divine Transformation analogy is a question.
 - Other Shore fragments can be replenished with living beings' seas of
   consciousness to restore Dao Lord status. In Chapter 1295 the Primordial
   Saint's preselected 140 million pure living souls fill His remaining gap.

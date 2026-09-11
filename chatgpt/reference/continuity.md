@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1321 to 1333
+# Current continuity: Chapters 1323 to 1334
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -13,8 +13,8 @@ positions and hypotheses where the source now answers them. Detailed Chapters
   page of the Book of a Hundred Lives and now anchors the world inside its sun.
   Lü Yang declined to seize it and restart. Its inhabitants and their living
   environments were transferred intact. Si Sui retains Dao Lord status as one
-  Primordial Spirit thought; the World-Honored One and the enemy Lords have not
-  been shown regaining Nascent Soul status.
+  Primordial Spirit thought. The World-Honored One has no new restoration
+  shown; Ch.1334 now reports Vast Sky restored through the Other Shore.
 - The Palace governs above; the World-Honored One and Cultivating Truth share
   the west, answering operational calls but not court summons. The damaged
   Underworld conceals itself below and its Ghost Gate still enables rebirth.
@@ -59,15 +59,15 @@ Chapters 1319-1320 at Chapter 1333.
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Ch.1332 confirms he defeated the Sword Sovereign and actually killed Her once. He cannot intervene in the subsequent fight in time; completed Transcendence remains unestablished. |
+| Lü Yang | In Miluo Palace, gains Dao Lord status through the completed Heavenly Palace. The Book does not recognize a major-realm breakthrough. He occupies the status temporarily; no true breakthrough or Transcendence is established. |
 | Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Lowercase pronouns remain owner-established. |
-| Si Sui | Keeps the Primordial Saint in check and is constrained by Him in turn. Watches the Spell Dao Lord's betrayals and is stunned by the final identity revelation. |
+| Si Sui | Returns with Lü Yang and integrates the Heavenly Dao into the Palace under Fate's aftershocks. Teaches retention of the self and compassion despite elevated status. |
 | World-Honored One and Cultivating Truth | The World-Honored One attends the duel and supplies its living stakes; Cultivating Truth has no new breakthrough shown. |
 | Primordial Saint | Deduces the shared-name art. Fears the pair's future Dao Lord restoration, but Si Sui's gaze prevents intervention. Turns toward the spent book with the madness of seeking the Dao. |
 | End Tiger | Male yellow-robed Daoist, awakened limited counterpart of the ultimate final deity; has dispersed the Dragon projection and remembers Jun. |
 | Ancestral Dragon | Enslaved-personality future projection fetched the treasure and was then dispersed. Full resurrection remains unaccomplished. |
 | Sword Sovereign | Killed in Ch.1333; Her death grievously damages Fate. Her sea of consciousness is taken by the merged pair. |
-| Vast Sky and Myriad Spells | Two people sharing a name, not one original person. Their merged status reaches pre-Transcendence Si Sui; They take the sea of consciousness and flee. Full Dao Lord restoration is still forecast. |
+| Vast Sky and Myriad Spells | Two people sharing a name, not one original person. Their merged status reaches pre-Transcendence Si Sui; They take the sea of consciousness and flee. Ch.1334 reports Vast Sky restored through the Other Shore; allegiance remains an interest-based possibility. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
@@ -80,20 +80,11 @@ Chapters 1319-1320 at Chapter 1333.
   Sharing wisdom light through the four Peak Lords is now evidenced; ordinary
   unrestricted transfer remains unestablished.
 
-## Chapter 1321: understanding, loss, and ten years of practice
+## Earlier training and wager: Chapters 1321-1322
 
-- Lü Yang understands what happens but not why. Si Sui lets his saturated Spirit rest. Dao construction is already his strength; other foundations were deficient. The claim that all ancient Dao Lords mastered the Great Dao answering to them is encouragement: only Si Sui and the Saint did; the Sword Sovereign stopped short.
-- Dao Tianqi continues lending wisdom light while doing repairs requiring little thought. Lü Yang examines the Heavenly Calendar Numbers independently. He infers that status was created by the first Divine Transformation transcender because Ancient Past methods do not depend on it. Attribute this conclusion to Lü Yang.
-- Daily combat keeps his understanding on course; Si Sui needs longer to defeat him. Shared Transcendence teaching links nonaction to loss, including the Saint's plan to damage the Other Shore. Preserve the source's distinct acts of relinquishing, reducing and diminishing.
-- Ten years pass. A faint sword light approaches along Fate rather than materially entering the new world; it bears the Sword Sovereign, Vast Sky and Myriad Spells, without the Saint. Lü Yang suspects allegiance; Chapter 1321 does not confirm it.
-
-## Chapter 1322: allegiance and a wagered duel
-
-- The trio cannot cross the Wilderness's transcendent barrier; Their projections request entry. The Sword Sovereign senses a real risk of death if She underestimates Lü Yang, although his cultivation is unchanged.
-- Their allegiance offer is confirmed. Ten years earlier, Vast Sky detected the Saint's sudden recovery and prevented an attack; His continuing unfathomable aura now alarms Them. Si Sui reveals the End Tiger conversation.
-- Si Sui demands the Heavenly Dao as support for the nearly ready Heavenly Palace. Vast Sky objects that surrender would harm Nian Yao's bound Primordial Spirit and foundation; Lü Yang takes a meaningful look at Him before proposing a duel.
-- Stakes: if Lü Yang wins, the Heavenly Dao must be surrendered intact. If he loses, he will restore the Dragon's sea of consciousness beneath Her Other Shore fragment, restoring Her Dao Lord status. She requires an oath on the Heavenly Dao and agrees to meet in three days.
-- Si Sui's thirty-percent estimate concerns Lü Yang now. He trusts Lü Yang would not gamble hundreds of millions of lives recklessly. Lü Yang claims the result was settled upon Her acceptance; the mechanism and outcome remain unrevealed.
+Detailed training, status-origin inference, allegiance offer and wager terms
+remain verbatim in continuity-archive.md under Archived Chapters 1321-1322
+at Chapter 1334. The intact Heavenly Dao won in that duel now completes the Palace.
 
 ## Chapters 1323-1325: a spent treasure, mistrust and the oath
 
@@ -229,3 +220,28 @@ Chapters 1319-1320 at Chapter 1333.
 - The Saint turns to the Book of Divine Blessings and the Mandate of Heaven
   with the madness of seeking the Dao. That English book title remains a
   provisional rendering; no completed recovery or new plan is yet revealed.
+
+## Chapter 1334: borrowed status and the self
+
+- Lü Yang likens Vast Sky to a lesser Primordial Saint after switching arts.
+  The Other Shore restores His Dao Lord standing but puts Him at odds with
+  the Saint. Lü Yang expects help only against that shared enemy, not general
+  trustworthiness, and anticipates the Saint's increasingly fierce response.
+- Si Sui smooths Lü Yang's brow and says the intact Heavenly Dao is sufficient
+  preparation. They act that same day; Fate's continuing aftershocks after the
+  Sword Sovereign's death provide cover without another concealment measure.
+- He integrates the Heavenly Dao into the Heavenly Palace while wishing its
+  cultivators to embody Heaven's will and pity the people. Every God-Sealing
+  cultivator in the Wilderness responds. Their radiance raises a supporting
+  pillar from the netherworld to the Nine Heavens beneath the Palace.
+- Lü Yang's status rises hundreds or thousands of times. The real, conscious
+  inhabitants seem like a story to its reader, producing loneliness and a
+  stronger desire for Transcendence. His analogous Divine Transformation
+  perspective remains a question, not a demonstrated cosmological fact.
+- Si Sui says compassion is cultivation and retaining the self is decisive.
+  Losing it to status leaves one only a temporary occupant, however high the
+  cultivation; He confirms the Sword Sovereign, Vast Sky, Myriad Spells and
+  Du Xuan as examples. This is distinct from Their conventional Dao Lord title.
+- The Book of a Hundred Lives supplies no response or new anchor point, unlike
+  earlier major-realm breakthroughs. It does not recognize this breakthrough;
+  Lü Yang currently occupies the status temporarily. Keep his lowercase pronouns.
