@@ -99,6 +99,14 @@ the ledger for reviews. Character claims are explicitly attributed.
   provide imagery and protection. Vast Sky's Written Word draws on it.
   According to Him, the Doctrine of Appearances is another Ancient Past
   inheritance; the Primordial Saint used it to change His form and bearing.
+- Ch.1333: normally distinct Primordial Spirits prevent truly sharing a name.
+  Modified Primordial Spirit and Doctrine of Names arts plus supreme detachment
+  bring Vast Sky's and Myriad Spells' natures close enough to share one. They
+  remain two people while uniting Fortune and Spells and raising Their status.
+- The Sword Sovereign's death wounds Fate for at least a hundred thousand years:
+  it cannot answer or manifest in the world, or be proved again until Her mark
+  fades. Its unsealed Mysteries would let even mortals perceive the future if
+  the emptied Sea of Light still held them; no actual population gains this.
 - The Primordial Saint commands Destiny. Its immutable elapsed time prevents
   Fate from changing His present by severing His past, even with Fortune
   weakened. Direct use of Destiny differs from employing Time. Battle damage
@@ -187,16 +195,10 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## The new world's separation from the old sea
 
-- Si Sui's relinquished body gives the new world a transcendent nature that,
-  while intact, prevents enemy entry. The Saint surrounds it with the old sea
-  to erode that nature and reclaim jurisdiction; the balance is fragile.
-  Escape proposals and times are character estimates; see continuity.
-- Variables is absent from the new world. Si Sui says the narrow chance of
-  survival may arise before danger and be missed. Destiny makes the Saint
-  unusually sensitive to it, but even He is not guaranteed to grasp it.
-- Si Sui loses His Dharma Body but retains self-cultivated Dao Lord status as
-  a Primordial Spirit thought. The Saint loses Nascent Soul status after the
-  sea's emptying damages Destiny. Enduring nature and current status differ.
+The new world's transcendent nature bars enemies while intact; the Saint's
+old sea erodes it. Variables remains outside. Si Sui retains Dao Lord status
+as a Spirit thought; the Saint lost Nascent Soul status. Full qualifications
+remain in continuity-archive.md under Archived world separation at Chapter 1333.
 
 ## Governing systems
 
@@ -302,25 +304,26 @@ Jun's erased history and the Tiger's memory remain an unresolved contradiction.
 Ancient Past precedes Primordial, Ancient, and Medieval Antiquity eras. The
 earlier six-stage outline remains in continuity-archive.md.
 
-## Feeling, status and internal backlash (Chapters 1326-1329)
+## Feeling, status and internal backlash (Chapters 1326-1332)
 
 - Love Too Deep Shortens Life induces voluntary power transfer. Realization
-  does not safely release the victim: Supreme Wisdom Must Bring Harm weaponizes
-  his understanding against his Spirit, soul and consciousness, taking power.
-- Lü Yang can now use the Heavenly Calendar Numbers' higher status to evade
-  lower-status techniques. Internal attacks using his own power bypass this
-  defense. Neither this evasion nor the Sword Sovereign's recognition establishes
-  completed Transcendence. Preserve these limits in later combat.
-
+  triggers Supreme Wisdom Must Bring Harm: acquired understanding attacks the
+  victim's Primordial Spirit, soul, and consciousness, taking power. An ordinary
+  victim cannot safely escape merely by realizing or severing the connection.
 - Threads can bind a Dao Companion over long cultivation, transfer injuries,
-  and lend access to His powers. The Seven Emotions Heaven-Fathoming Art's
-  forgetting of all feeling removes their emotional target; injury and power
-  transfers then rebound. This is not proof that an ordinary victim can safely
-  cut the threads or that every Primordial Spirit method counters them.
-- The Heavenly Calendar Numbers can lower an opponent's status in addition
-  to raising Lü Yang's own. Chapter 1329 succeeds slightly while She is at
-  Her weakest; do not generalize this to effortless universal suppression.
-- The Sword Sovereign's forced interpretation through long familiarity with
-  Fate imitates the Great Dao answering to Her for one costly strike. It is
-  not the genuine attainment of Si Sui or the Saint. The apparent claim and
-  Lü Yang's subsequent diagnosis belong to successive revelations.
+  and lend His powers. The Seven Emotions Heaven-Fathoming Art reaches supreme
+  detachment, removing the emotional target and rebounding transfers. This does
+  not establish that every Primordial Spirit method counters the threads.
+- In Ch.1332 She expects a sword of wisdom to take at least seventy percent
+  of Myriad Spells' power upon severance and give it to Her. His supreme
+  detachment defeats that retaliation. Her hoped-for harvest of two seas of
+  consciousness and repair of the Other Shore to layer two do not occur.
+- The Heavenly Calendar Numbers' higher status evades lower-status techniques,
+  but internal attacks using the victim's own power bypass it. Recognition of
+  the Great Dao answering to Lü Yang does not establish Transcendence.
+- Besides raising Lü Yang's status, they can lower an opponent's. Ch.1329
+  achieves only a slight reduction while She is weakest, not effortless
+  universal suppression.
+- Her forced interpretation of Fate through long familiarity imitates the
+  Great Dao answering to Her for one costly strike; it is not the genuine
+  attainment of Si Sui or the Saint. Preserve the claim before its diagnosis.

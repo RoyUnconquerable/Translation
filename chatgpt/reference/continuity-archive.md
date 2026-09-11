@@ -1045,3 +1045,46 @@ approval. Review status belongs in the chapter ledger.
   escaping the void. The Tiger's memory contradicts that account. Neither His
   explanation of access to all history nor a hidden flaw in Transcendence is
   established as the solution. Current claims and uncertainties are in continuity.
+
+## Archived Chapters 1319-1320 at Chapter 1333
+
+## Chapter 1319: a hundred-year contingency
+
+- The trio's gazes reach the Present, but the End Tiger's destruction imagery
+  erases traces, defeating Fate's investigation. The Saint expects Si Sui to
+  see through His surviving Dao Lord status and Transcendence. He expects full
+  recovery within a hundred years and welcomes either inaction or an attack
+  that would draw Variables to His aid; these are His predictions.
+- Si Sui sees a hundred years or less remaining. The Tiger at Dao Lord status
+  would counter Him and the new world; Lü Yang's Transcendence seems too slow.
+  He instead plans a first-layer-equivalent Heavenly Palace, with no remnant
+  loopholes and His transcendent foundation, supported by Great Daos if needed.
+- Sequence: make Lü Yang a Dao Lord; together seize the Detached Court's source
+  jade; restore Dao Tianqi's status; then three Dao Lords fight the Saint before
+  He summons the Tiger. Variables remains a risk, not a guaranteed rescue.
+- Si Sui returns to the Underworld. Lü Yang's groundwork is fifty to sixty
+  percent repaired; full study still takes up to a year. Si Sui now demands
+  faster progress, withholds praise, taps his crown three times, and walks away.
+  The taps' meaning is not revealed in this chapter.
+
+## Chapter 1320: the Great Dao answers to the cultivator
+
+- Three ruler taps awaken wisdom, open intellect, and bring Lü Yang closer to the Dao; they are not a third-watch summons or a wisdom-light transfer. His Primordial Spirit follows Si Sui while his body remains still.
+- Si Sui teaches through Primordial Spirit combat: blows transfer knowledge and correct gaps. The first punch equals three days of reading. He matches Lü Yang's status and uses less power; this is a teaching restriction, not loss of His true cultivation.
+- Lü Yang invokes the thirty Five Elements Fruition Attainments and Boundless Dao; Si Sui breaks the combined attack and deflects Heaven-Slayer. Knowledge and Dao Tianqi's wisdom light reveal how the Great Dao answers to the cultivator.
+- The Dharma Body Dao originally lacked lifespan extension. That Mystery arose when Si Sui proved the Dao. This explains its later established life-sustaining role.
+
+## Archived world separation at Chapter 1333
+
+## The new world's separation from the old sea
+
+- Si Sui's relinquished body gives the new world a transcendent nature that,
+  while intact, prevents enemy entry. The Saint surrounds it with the old sea
+  to erode that nature and reclaim jurisdiction; the balance is fragile.
+  Escape proposals and times are character estimates; see continuity.
+- Variables is absent from the new world. Si Sui says the narrow chance of
+  survival may arise before danger and be missed. Destiny makes the Saint
+  unusually sensitive to it, but even He is not guaranteed to grasp it.
+- Si Sui loses His Dharma Body but retains self-cultivated Dao Lord status as
+  a Primordial Spirit thought. The Saint loses Nascent Soul status after the
+  sea's emptying damages Destiny. Enduring nature and current status differ.

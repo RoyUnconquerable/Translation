@@ -148,7 +148,7 @@ source	target	notes
 拳印	fist seal	owner-final Ch.1278; provenance owner-rulings-ch1278.tsv
 彼岸碎片	fragment of the Other Shore	owner-final Ch.1278; provenance owner-rulings-ch1278.tsv
 虚瞑	Fathomless Void	established cosmological rendering; provenance owner-rulings-ch1221-ch1243.tsv
-法身	Dharma Body	cultivation foundation; owner-final Ch.1279; provenance terminology.tsv
+法身	Dharma Body|dharma body	Dharma Body names the cultivation foundation (owner-final Ch.1279). Owner Ch.1332 uses dharma body for Vast Sky's embodied form; apply this contextual casing, not a blanket change to the named foundation or Dharma Body Dao.
 法身道	Dharma Body Dao	Great Dao governed by Si Sui; owner-final Ch.1279; provenance terminology.tsv
 阴阳	Yin and Yang	standalone paired cosmological forces; use Yin-Yang in established attributive compounds; provenance terminology.tsv
 五天数	Five Heavenly Numbers	established verified rendering; provenance owner-rulings-ch1221-ch1243.tsv
@@ -326,7 +326,7 @@ source	target	notes
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为]. Ch.1288 and Ch.1303-1309 source checks; independent paired occurrences remain enforced.
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命]. Ch.1288 and Ch.1303-1309 source checks; independent paired occurrences remain enforced.
 神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase in ordinary prose, Title Case in the chapter title or an established proper name
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
@@ -374,3 +374,5 @@ source	target	notes
 剑种	Sword Seed	Explicit owner Ch.1326 replaces bastard with a sword. Retain the terse sarcastic appraisal; do not add a rank, ancestry claim, profanity, or explanation to compensate for the Chinese homophone.
 双修奇才	Dual Cultivation Prodigy	Owner Ch.1326 retains the named talent; this establishes current authority, not verification of an unavailable older attachment.
 道侣	Dao Companion|Dao Companions	Owner Ch.1329 consistently capitalizes the cultivation relationship. Select number and article by syntax; do not imply romantic sincerity where the source describes exploitation.
+太上忘情	supreme detachment	Owner Ch.1332 replaces the explanatory supreme state of forgetting all feeling. Use state of supreme detachment where syntax needs it. The state removes feelings as the threads' target; do not weaken its stated mechanics to mere composure.
+慧剑	sword of wisdom|swords of wisdom	Explicit owner correction during Ch.1332, consistent with owner Ch.1326. Lowercase; singular/plural by source. Preserve the separately established full title Eight Negations Wisdom Sword.

@@ -1,4 +1,4 @@
-# Current continuity: Chapters 1319 to 1329
+# Current continuity: Chapters 1321 to 1333
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -49,37 +49,25 @@ End Tiger is distinct from the ultimate final deity and limited by the Saint's
 status. His memory of Jun remains unexplained, despite the claim that true
 Transcendence erases all worldly traces. No resolved answer is established.
 
-## Chapter 1319: a hundred-year contingency
+## Earlier planning and Dao mastery: Chapters 1319-1320
 
-- The trio's gazes reach the Present, but the End Tiger's destruction imagery
-  erases traces, defeating Fate's investigation. The Saint expects Si Sui to
-  see through His surviving Dao Lord status and Transcendence. He expects full
-  recovery within a hundred years and welcomes either inaction or an attack
-  that would draw Variables to His aid; these are His predictions.
-- Si Sui sees a hundred years or less remaining. The Tiger at Dao Lord status
-  would counter Him and the new world; Lü Yang's Transcendence seems too slow.
-  He instead plans a first-layer-equivalent Heavenly Palace, with no remnant
-  loopholes and His transcendent foundation, supported by Great Daos if needed.
-- Sequence: make Lü Yang a Dao Lord; together seize the Detached Court's source
-  jade; restore Dao Tianqi's status; then three Dao Lords fight the Saint before
-  He summons the Tiger. Variables remains a risk, not a guaranteed rescue.
-- Si Sui returns to the Underworld. Lü Yang's groundwork is fifty to sixty
-  percent repaired; full study still takes up to a year. Si Sui now demands
-  faster progress, withholds praise, taps his crown three times, and walks away.
-  The taps' meaning is not revealed in this chapter.
+The hundred-year contingency and earlier account of the Great Dao answering
+to the cultivator remain verbatim in continuity-archive.md under Archived
+Chapters 1319-1320 at Chapter 1333.
 
 ## Current positions and live questions
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Dueling the Sword Sovereign with borrowed wisdom light active; suffers an internal backlash but can afford the loss. No victory or completed Transcendence shown. |
+| Lü Yang | Ch.1332 confirms he defeated the Sword Sovereign and actually killed Her once. He cannot intervene in the subsequent fight in time; completed Transcendence remains unestablished. |
 | Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Lowercase pronouns remain owner-established. |
-| Si Sui | Reveals the End Tiger threat; demands the Heavenly Dao as Palace support. Questions Lü Yang's confidence in the wager. Still retains Dao Lord status. |
+| Si Sui | Keeps the Primordial Saint in check and is constrained by Him in turn. Watches the Spell Dao Lord's betrayals and is stunned by the final identity revelation. |
 | World-Honored One and Cultivating Truth | The World-Honored One attends the duel and supplies its living stakes; Cultivating Truth has no new breakthrough shown. |
-| Primordial Saint | Has retrieved the spent reset treasure through an enslaved Dragon projection; searches for its missing power. His dismissal of Lü Yang as its holder is an inference. |
+| Primordial Saint | Deduces the shared-name art. Fears the pair's future Dao Lord restoration, but Si Sui's gaze prevents intervention. Turns toward the spent book with the madness of seeking the Dao. |
 | End Tiger | Male yellow-robed Daoist, awakened limited counterpart of the ultimate final deity; has dispersed the Dragon projection and remembers Jun. |
 | Ancestral Dragon | Enslaved-personality future projection fetched the treasure and was then dispersed. Full resurrection remains unaccomplished. |
-| Sword Sovereign, Vast Sky, Myriad Spells | Vast Sky has cast off Her threads through the Seven Emotions method; She suffers backlash and attacks Lü Yang desperately. No winner, Heavenly Dao transfer or restored status shown. |
+| Sword Sovereign | Killed in Ch.1333; Her death grievously damages Fate. Her sea of consciousness is taken by the merged pair. |
+| Vast Sky and Myriad Spells | Two people sharing a name, not one original person. Their merged status reaches pre-Transcendence Si Sui; They take the sea of consciousness and flee. Full Dao Lord restoration is still forecast. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
@@ -91,13 +79,6 @@ Transcendence erases all worldly traces. No resolved answer is established.
 - The Saint's original mortal name and the supporting ritual remain unknown.
   Sharing wisdom light through the four Peak Lords is now evidenced; ordinary
   unrestricted transfer remains unestablished.
-
-## Chapter 1320: the Great Dao answers to the cultivator
-
-- Three ruler taps awaken wisdom, open intellect, and bring Lü Yang closer to the Dao; they are not a third-watch summons or a wisdom-light transfer. His Primordial Spirit follows Si Sui while his body remains still.
-- Si Sui teaches through Primordial Spirit combat: blows transfer knowledge and correct gaps. The first punch equals three days of reading. He matches Lü Yang's status and uses less power; this is a teaching restriction, not loss of His true cultivation.
-- Lü Yang invokes the thirty Five Elements Fruition Attainments and Boundless Dao; Si Sui breaks the combined attack and deflects Heaven-Slayer. Knowledge and Dao Tianqi's wisdom light reveal how the Great Dao answers to the cultivator.
-- The Dharma Body Dao originally lacked lifespan extension. That Mystery arose when Si Sui proved the Dao. This explains its later established life-sustaining role.
 
 ## Chapter 1321: understanding, loss, and ten years of practice
 
@@ -187,3 +168,64 @@ Transcendence erases all worldly traces. No resolved answer is established.
 - Lü Yang manifests his own response as a Great Dao pierces the domain and
   lights the surrounding Fathomless Void. The chapter ends before impact;
   no winner, sacrifice, completed transfer or restored Dao Lord is shown.
+
+## Chapter 1332: the apparent shared identity
+
+- The owner's session handoff reports source and delivery through Chapter 1331.
+  Exact intervening Chapters 1330-1331 were not independently retrieved here;
+  their detailed sequence and approval remain unverified. The supplied Chapter
+  1332 itself confirms Lü Yang defeated and killed the Sword Sovereign once,
+  and that She has lost the Heavenly Dao. Do not invent the revival mechanism.
+- Myriad Spells first appears to betray Vast Sky. The attack truly wounds Him;
+  He later explains that a feint could not have fooled the Sword Sovereign.
+  The Saint initially welcomes the injuries as the outcome He wanted.
+- Si Sui explains that the Saint arranged for Myriad Spells to accept Her
+  threads. Unlike Vast Sky, who was ensnared before refining His Primordial
+  Spirit, Myriad Spells had no prior dealings with Her. His publicly stated
+  motive for joining Her and Vast Sky was pursuit of the Other Shore.
+- Lü Yang judges both sides likely to suffer. She agrees, regrets losing the
+  strength to exploit Vast Sky's injury, and believes Her only path now is the
+  Other Shore in service to the Saint. Her question about His foresight is
+  speculation, not an established ability to foresee this outcome.
+- She plans to drive off Vast Sky, retain Myriad Spells, deepen His threads,
+  and transfer Her injuries to Him. Reawakened past feelings distract Her until
+  Her Primordial Spirit warns Her. Myriad Spells instead strikes Her with the
+  Dharma Extinction Scripture, shattering half Her body and destroying Her
+  Mysteries. The chapter does not explain how the distraction was induced.
+- She expects severed threads to form a sword of wisdom, take at least seventy
+  percent of His power, and stabilize Her. Harvesting both Lords' seas of
+  consciousness could restore the Other Shore to layer two if fortunate.
+  These are Her conditional expectations; none of that recovery takes place.
+- Myriad Spells shares Vast Sky's supreme detachment, defeating the threads
+  without the expected retaliation. Vast Sky concludes both She and the Saint
+  have exhausted Their contingencies; this remains His stated assessment.
+- One Lord cultivates the Three Foundations, the other the Five Heavenly
+  Numbers. Their distinct appearances, auras, and Great Daos precede Their
+  merging into one before the three astonished witnesses. They appear to be
+  the same person; Chapter 1333 corrects that impression and explains the art.
+
+## Chapter 1333: a shared name and the Sword Sovereign's death
+
+- The opening same-person impression is corrected by the Saint: Vast Sky and
+  Myriad Spells are distinct people. They use modified Primordial Spirit and
+  Doctrine of Names arts. Supreme detachment makes Their natures close
+  enough to share one name despite originally distinct Primordial Spirits.
+- Their united Fortune and Spells raise Their status to Si Sui's level before
+  Transcendence, strongest among the present Lords except Him and the Saint.
+  Myriad Spells' previous attack now benefits Vast Sky. This rise is distinct
+  from the full Dao Lord restoration the Saint fears at Their next meeting.
+- The Sword Sovereign sees begging is futile, spends all remaining power on
+  escape, and is killed by Vast Sky's radiance. Fate suffers grave damage:
+  for at least a hundred thousand years it will not answer or manifest in the
+  world, and no one can prove it again until Her mark is erased by time.
+- Ordinary people would gain perceptions of the future, including prophetic
+  dreams and unfamiliar events that seem familiar, if the emptied sea still
+  held them. Fate can no longer keep those Mysteries sealed. This is not an
+  actual gift to the Heavenly Wilderness's inhabitants.
+- The merged form gathers Her sea of consciousness and flees. The Saint
+  credits Variables for defeating His plan for mutual injury. He would rather
+  all three Lords lived than face one restored Lord who might oppose Him for
+  control of the Other Shore. Si Sui's concurrent gaze alone restrains Him.
+- The Saint turns to the Book of Divine Blessings and the Mandate of Heaven
+  with the madness of seeking the Dao. That English book title remains a
+  provisional rendering; no completed recovery or new plan is yet revealed.

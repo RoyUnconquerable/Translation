@@ -265,13 +265,16 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("性命", hits)
         self.assertIn("现世", hits)
 
-    def test_signing_away_life_keeps_paired_cultivation_checked(self):
+    def test_ordinary_life_keeps_paired_cultivation_checked(self):
         glossary = common.load_glossary(self.root)
-        source = "如同签下性命一般。"
-        hits = {r["source"] for r in lint.glossary_matches(source, glossary)}
-        self.assertNotIn("性命", hits)
-        hits = {r["source"] for r in lint.glossary_matches(source + "性命圆满。", glossary)}
-        self.assertIn("性命", hits)
+        for source in ("如同签下性命一般。", "求饶也换不来性命。"):
+            with self.subTest(source=source):
+                hits = {r["source"] for r in lint.glossary_matches(source, glossary)}
+                self.assertNotIn("性命", hits)
+                hits = {r["source"] for r in lint.glossary_matches(
+                    source + "性命圆满。", glossary
+                )}
+                self.assertIn("性命", hits)
 
     def test_named_five_elements_dao_keeps_generic_dao_checked(self):
         glossary = common.load_glossary(self.root)

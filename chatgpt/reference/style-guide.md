@@ -27,9 +27,9 @@ When principles compete, use this order:
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
-- Choose length by meaning. Use direct verbs and connect
-  related clauses with natural collocations; use fuller wording to clarify relations.
-  Compress cumbersome abstractions, never source content or qualifications.
+- Choose length by meaning: clarify a setup, connect a paired escalation, or
+  compress a verdict. Use direct verbs and natural collocations; fuller wording
+  should clarify relations. Never compress source content or qualifications.
 - When the narrator frames cultivation combat through modern system or matchup
   logic, preserve that register with clear contemporary language such as raw
   stats or mechanics. Describe ease of use naturally, rather than calling a
