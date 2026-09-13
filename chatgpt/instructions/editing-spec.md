@@ -1,10 +1,17 @@
 # Approved feedback and canonical maintenance
 
+This file governs responses to owner feedback. Ordinary translation already
+includes English quality and contextual repair verification under workflow.md;
+it does not wait for a separate editing assignment to become readable.
+
 Owner corrections authorize their verified update without another approval
 request. An edited chapter is not automatically an owner-final declaration.
 The source governs content; a new explicit term ruling supersedes its older
-mapping. Repair mechanical errors, and present source-grounded alternatives
-for changes of meaning before treating them as approved wording.
+mapping. Apply explicit owner instructions exactly. Distinguish an explicit
+decision from an accidental flaw in a supplied revision: identify any omission,
+mechanical repair or source conflict visibly, and present a located alternative
+before treating a meaning change as approved. Do not silently replace owner
+wording or promote accidental damage as a reusable preference.
 
 ## Compare once, explain why
 

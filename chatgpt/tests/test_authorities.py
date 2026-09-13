@@ -448,6 +448,37 @@ class AuthorityTests(unittest.TestCase):
             ["scene break cannot end the chapter"],
         )
 
+    def test_prepare_and_check_share_indices_across_source_scene_breaks(self):
+        source_text = "第1章 测试\r\n\r\n他抬头。\r\n\r\n---\r\n\r\n道天齐借出慧光。\r\n"
+        target_text = "Chapter 1: Test\n\nHe looked up.\n\n---\n\nDao Tianqi lent him wisdom light.\n"
+        with tempfile.TemporaryDirectory() as tmp:
+            source, target = Path(tmp) / "source.txt", Path(tmp) / "target.txt"
+            source.write_text(source_text, encoding="utf-8")
+            target.write_text(target_text, encoding="utf-8")
+            inventory = subprocess.run(
+                [sys.executable, str(SCRIPTS / "prepare.py"), str(source)],
+                capture_output=True, text=True,
+            )
+            checked = subprocess.run(
+                [sys.executable, str(SCRIPTS / "chat_check.py"), str(source),
+                 str(target), "--scene-break-before", "3"],
+                capture_output=True, text=True,
+            )
+            target.write_text(target_text.replace("\n\n---", ""), encoding="utf-8")
+            missing = subprocess.run(
+                [sys.executable, str(SCRIPTS / "chat_check.py"), str(source),
+                 str(target), "--scene-break-before"],
+                capture_output=True, text=True,
+            )
+        self.assertEqual(inventory.returncode, 0, inventory.stdout + inventory.stderr)
+        self.assertIn("paragraphs: 3", inventory.stdout)
+        self.assertIn("explicit source scene breaks before: [3]", inventory.stdout)
+        self.assertIn("[3] 道天齐 -> Dao Tianqi", inventory.stdout)
+        self.assertEqual(checked.returncode, 0, checked.stdout + checked.stderr)
+        self.assertIn("PASS (3 paragraphs)", checked.stdout)
+        self.assertNotEqual(missing.returncode, 0)
+        self.assertIn("missing reviewed scene break", missing.stdout)
+
     def test_approved_scripture_display_cannot_be_flattened(self):
         source = "【吾疾天地不仁，大道不均，今为尔等均之！】"
         phrases = common.load_phrase_memory(self.root)

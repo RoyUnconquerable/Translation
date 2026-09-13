@@ -40,38 +40,36 @@ When principles compete, use this order:
 
 - One Chinese source paragraph becomes one English target paragraph in the
   same order. Never merge or split source paragraphs for flow.
-- Verify each paragraph's content and its boundary, not just the final count.
-  A split paragraph can conceal a merge or omission elsewhere. Owner edits
-  receive the same alignment check, including short questions and reactions.
-- Sentence boundaries may change inside a paragraph when English grammar needs
-  it, provided every premise, contrast, causal link, uncertainty, and emphasis
-  remains.
-- Within each source paragraph, connect premises, means, and consequences.
-  Join or separate sentences by the reasoning and cadence. If a later clause
-  gives an exception, qualify the earlier rule: ordinary repair takes time,
-  but rapid repair requires a rare resource. Preserve causal punch lines and
-  source paragraph boundaries.
+- Verify content and boundaries, including owner edits and short reactions.
+  Equal counts can conceal a split paired with a merge or omission.
+- Join or separate sentences inside a source paragraph for grammar, reasoning
+  and cadence. Retain every premise, means, consequence, contrast, uncertainty
+  and emphasis. Keep exceptions attached to their rules: ordinary repair takes
+  time, but rapid repair needs a rare resource. Preserve causal punch lines.
 - Preserve every number, date, sequence, comparison, negation, title,
-  relationship, and degree of certainty.
+  relationship, limit and degree of certainty. Keep restricted options distinct
+  from obligation, attempts from success, overlap from fusion, and understanding
+  from ability. Attribute experienced time to its observer, not everyone present.
 - Preserve small details: intent, timing, posture, gestures, addressees,
   degree, totality, and bounded scale. A broad category can lose a concrete
   action or object: study may omit reading, and cultivation may omit problems.
   Convey these naturally; neither fluency nor fewer words proves completeness.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
   connective logic that the source does not supply.
-- Match each beat's function and size: short reactions stay short; reasoning
-  retains every step. Interpret 情 by context: feelings may include friendship,
-  family and romance. Do not replace every love with feelings.
+- Preserve interrupted thoughts, setup/payoff and revelation order. Do not fill
+  deliberate gaps with later knowledge. Interpret 情 by context: feelings may
+  include friendship, family and romance; do not replace every love with feelings.
 - Fragments are acceptable when the source deliberately isolates a dramatic
   reaction, verdict, image, or punch line. Ordinary action and exposition need
   complete English sentences.
 
 ## Sentence construction and pacing
 
-- Give most narrative paragraphs one main beat: fact, action, reaction,
-  deduction, question, reversal, or punch line.
+- Follow each source paragraph's movement, including multiple linked beats.
+  Preserve isolated reactions and verdicts; do not force one beat per paragraph.
 - In action and cosmology, connect actor, means, movement and consequence.
-  Use concrete verbs and parallel actions; make contrasts and causes explicit.
+  Use concrete verbs and parallel actions; clarify source-supported contrasts
+  and causes without converting sequence or simultaneity into causation.
   Keep geography, ownership and uncertainty. Do not make an abstract result
   unleash an attack or add a visible movement merely to enliven emotion.
 - Split overloaded clauses and trailing modifiers; connect related premises.
@@ -96,10 +94,11 @@ When principles compete, use this order:
   preserve that external cause rather than leaving the motion open to being
   read as a voluntary retreat. Connect the resulting change in the battle to
   the action that caused it.
-- Translate logical relationships; vary routine transitions. Prefer the person
-  acting to an abstract teaching process when the source supports both.
-- Let escalation come from the sequence of concrete changes. Do not announce
-  grandeur repeatedly or explain a reveal after it has landed.
+- Choose transitions for their actual logical relationship. Vary or trim them
+  only to repair awkwardness or repetition; preserve useful timing and emphasis.
+  Prefer the actor to an abstract teaching process when the source supports both.
+- Let escalation come from concrete changes; do not repeatedly announce grandeur
+  or explain a reveal after it has landed. Equivalent wording is not a defect.
 - Preserve deliberate lexical repetition in reasoning and parallel rhetoric.
   Do not cycle through synonyms for a fixed cultivation concept.
 - Once an attack or technique has been identified clearly, use the lightest
@@ -123,9 +122,11 @@ When principles compete, use this order:
 
 ## Thought, viewpoint, and tense
 
-- Narration is past tense unless the source deliberately shifts register.
-- Italicize unmistakable direct inner speech, including silent first-person
-  questions, decisions, rebuttals, and exclamations.
+- Narration is normally simple past. Use past perfect for needed anteriority,
+  not every earlier event; source-supported universal truths may use present.
+- Italicize only unmistakable direct inner speech, including silent first-person
+  questions, decisions, rebuttals and exclamations. In a mixed paragraph, mark
+  the thought span without italicizing its narration or spoken dialogue.
 - Keep free indirect narration in roman type. A rhetorical question reported
   through a viewpoint is not automatically a quoted thought.
 - Italics mark direct thought, not tense. From the character's now, use present
@@ -169,14 +170,10 @@ When principles compete, use this order:
   its image while a figurative claim that someone is a spent force needs no
   crossbow bolt. When applying a proverb to a person, natural phrasing can
   carry its implication without repeating a literal anatomical image.
-- Preserve the source image or cultural referent, not Chinese grammar. Build
-  normal contemporary English around a retained idiom or allusion. Its presence
-  does not license inversion, ceremonial filler, or inflated diction in the
-  surrounding sentence.
-- Check an idiom's meaning and its English construction separately. Merely
-  mentioning its animal or object is not enough; the comparison must carry
-  the intended judgment naturally. Avoid geographical labels or explanatory
-  glosses that the passage does not need.
+- Retain the cultural image in natural English syntax. Mentioning its animal
+  or object is insufficient: the comparison must convey the intended judgment.
+  An allusion does not license inversion, ceremonial filler, inflated diction,
+  unnecessary geographical labels or explanatory glosses.
 - Keep linked images coherent across a paragraph or chapter. Translate the
   chain as a whole rather than treating each phrase in isolation.
 - Preserve wordplay and altered quotations. An explicit owner rendering of
@@ -184,17 +181,14 @@ When principles compete, use this order:
 - Use established English names for recognized Chinese allusions where
   available. Do not swap a specifically Chinese image for an unrelated English
   proverb.
-- Verify the subject, relationship, and logic of a recognized allusion. Do not
-  silently complete a clipped or altered quotation with a neighboring line
-  unless the source and context support it.
+- Verify an allusion's subject, relationship and logic. Never complete a clipped
+  or altered quotation from memory without source and contextual support.
 - Preserve meaning, parallel relationships, and recurring images in verse,
   vows, proclamations, maxims, and scripture. Cadence comes next. Archaic
   diction is optional, not automatic, and elevated English must remain
   intelligible.
-- When a retained image would be opaque on its own, make the implication clear
-  through natural sentence construction without adding a translator note or
-  an explanation absent from the source.
-- Do not insert translator notes or explanations into chapter prose.
+- Clarify an opaque image through natural sentence construction. Never insert
+  translator notes or explanations absent from the source into chapter prose.
 
 ## Dialogue and formatting
 

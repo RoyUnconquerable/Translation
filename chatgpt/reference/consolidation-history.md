@@ -19,6 +19,58 @@ skills, agents, and hooks were removed from the active branch because automatic
 discovery could bypass those pointers; the archive branch and Git history retain
 their exact former contents.
 
+## 2026-09-13 translation instruction audit
+
+Baseline: 046d621a3e66e474d7741affaff252b4e3adc426 on the canonical branch
+`claude/translation-pipeline-build-3gdy6r`. The older reference-import branch
+still held the Chapter 1250-era workflow; the state manifest on the current
+branch identified the actual authority. This audit changed instructions and
+one preparation defect, not chapter text, terminology or chapter progress.
+This section records evidence and scope, not another execution checklist.
+
+Evidence inspected: current entry points, workflow/specifications, style,
+error register, terminology, relevant Chapter 1332-1334 decision records,
+preparation/checker code, validation scripts and existing tests; plus the
+owner-supplied September 11 edition of `01_EDITING_GUIDE.md`, sections 1-8.
+The guide supplies editorial evidence, not a new translation authority. Its
+Chapter 1335 examples were not independently checked against Chinese in this
+instruction-only audit. No claim is made to have reviewed a later Word sweep
+or recovered its complete issue list. Existing pending findings remain pending.
+
+| Finding | Repair and scope |
+|---|---|
+| The sole workflow mentioned batching questions but omitted the explicit pre-draft term approval gate. | Restored one batch for every new/changed term. Established decisions are reused; ordinary diction is not a new term. |
+| Preparation's unknown-term section finds bracketed candidates only. | State its limits and require inspection of unbracketed and single-use terms; the legacy frequency option cannot waive approval. |
+| `prepare.py` counted standalone source separators as paragraphs, while `chat_check.py` excluded them. | Share content parsing and print source separator positions. The title remains index 1. A CLI regression covers a term after a separator and omission of the required separator. |
+| The style rule asking for one main beat could conflict with source paragraph preservation. | Follow the source paragraph's actual movement, including linked beats; retain isolated reactions. |
+| Mandatory transition variation could encourage needless synonym changes. | Choose connectors by the actual relation and repair demonstrated awkwardness or repetition. |
+| The existing review included English categories but did not explicitly require reading transitions as connected prose. | Clarify that its full source-aligned pass also reads the scene critically for reference, flow, logic and revelation order. No second English reviewer or new rewrite stage. |
+| Repairs were followed by mechanical checking without an explicit contextual verification step. | Read each changed paragraph and immediate neighbors, grouping overlaps; compare actual repairs with source and pre-patch text. Reopen only demonstrated regressions. |
+| Ch.1334 records document a duplicate transition and truncated paragraph; the supplied guide also warns about an unfinished thought before an action. | Protect paragraph content, setup/payoff and unfinished speech; do not equate paragraph totals or a newer revision with completeness. |
+| Reference facts could be applied outside their chapter, incarnation or viewpoint. | Require matching identity/history and revelation timing; absence and first attestation do not prove a contradiction. |
+| Mixed thought/narration spans and experienced-time comparisons need local judgment. | Clarify span-level italics, meaningful tense and the observer to whom elapsed time belongs. Preserve existing direct/free-indirect distinctions. |
+| The workflow said the bilingual review proves properties that neither review nor lint can guarantee. | Separate mechanical results, full review coverage, unresolved findings and actual delivery; state tool limits and warning adjudication. |
+| Chat delivery could introduce unverified last-minute wording. | Deliver the checked target unchanged; verify any subsequent change before sending it. |
+| Editing and legacy file-backed instructions could be mistaken for mandatory translation stages. | Align the project bootstrap and README. Feedback maintenance stays after delivery; English-only paragraph restructuring and Word tracking do not transfer to translation. |
+| Owner revisions may improve prose while introducing accidental damage. | Apply explicit decisions exactly, identify repairs/conflicts visibly, and keep inferred intent, local wording and pending meaning changes separate from approved reusable rules. |
+
+The existing single-draft path remains in place: verified/cached authorities,
+term approval when needed, one source-grounded bilingual and English review,
+targeted repairs with context checks, mechanical verification, exact chat
+delivery, then authorized atomic maintenance. Existing glossary, phrase memory,
+entity, world, continuity, decision and progress records remain unchanged.
+Repeated style clauses were consolidated in place, preserving their distinct
+requirements and examples. The style guide remains below its existing size
+review target; no audit threshold or lint exception was relaxed.
+
+Validation: 40 unit tests passed, including the new CLI regression. The
+authority audit, both retained file-backed chapter lints and state validation
+passed. Existing size/concision advisory warnings and 31 historical lint
+warnings remain; they are not new failures or evidence of semantic perfection.
+The three-to-five-minute chapter target is preserved, not newly benchmarked.
+No instruction audit can establish zero future errors or prove a globally
+optimal model workflow without observing future chapter runs.
+
 ## 2026-09-10 healthy-path repair, following Chapter 1329
 
 Baseline: c981f829a7625adb3e76c0bc2c46ecfd739b4ec4. The current workflow and

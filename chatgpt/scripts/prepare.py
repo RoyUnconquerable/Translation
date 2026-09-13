@@ -13,6 +13,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common
+import chat_check
 import lint
 import state
 
@@ -42,8 +43,8 @@ PROSE_REVIEW_REMINDERS = (
 
 
 def paragraphs(text: str) -> list[str]:
-    normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
-    return [part.strip() for part in re.split(r"\n\s*\n", normalized) if part.strip()]
+    """Use the checker's content indices; separators are not content rows."""
+    return chat_check.paragraphs(text, allow_scene_breaks=True)
 
 
 def main() -> None:
@@ -61,7 +62,8 @@ def main() -> None:
     hard = common.load_glossary(root)
     phrases = common.load_phrase_memory(root)
     entities = common.load_entities(root)
-    source_paragraphs = paragraphs(args.source.read_text(encoding="utf-8"))
+    source_text = args.source.read_text(encoding="utf-8")
+    source_paragraphs = paragraphs(source_text)
     if source_paragraphs:
         chapter = re.search(r"第\s*(\d+)\s*章", source_paragraphs[0])
         if chapter:
@@ -108,6 +110,8 @@ def main() -> None:
             bracketed[term].add(index)
 
     print(f"paragraphs: {len(source_paragraphs)}")
+    print("indices: title is 1; standalone scene separators are excluded")
+    print(f"explicit source scene breaks before: {chat_check.scene_break_positions(source_text)}")
     if source_paragraphs:
         print(f"title: {source_paragraphs[0]}")
 
@@ -141,6 +145,7 @@ def main() -> None:
         )
 
     print("\nbracketed terms not in hard terminology:")
+    print("  Candidate list only; also inspect unbracketed and single-use new terms.")
     unknown = [term for term in bracketed if term not in hard and f"【{term}】" not in hard]
     if unknown:
         for term in sorted(unknown, key=lambda value: min(bracketed[value])):

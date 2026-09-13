@@ -1,7 +1,7 @@
 # ChatGPT translation pipeline
 
-This directory contains the active translation authorities and optional
-file-backed tooling for the novel continuation.
+This directory contains the active translation authorities and retained
+historical file-backed tools for the novel continuation.
 
 ## Authority hierarchy
 
@@ -43,7 +43,7 @@ chatgpt/
 |-- reference/known-errors.md    active recurring traps only
 |-- reference/decision-log.tsv   concise owner-decision provenance
 |-- instructions/                workflow, translation, editing, and QA rules
-`-- scripts/                     read-only checks and optional file pipeline
+`-- scripts/                     read-only checks and historical file tools
 ```
 
 The active mode is chat-only translation. JSONL artifacts and scripts remain
@@ -72,6 +72,10 @@ explicit opt-in for refreshing a stored legacy lint report.
 For chat-first work, `scripts/prepare.py` builds the pre-draft authority sheet
 from a temporary source file, and `scripts/chat_check.py` checks a temporary
 source and target pair without storing chapter prose.
+Both number content paragraphs from the title as 1, excluding standalone `---`.
+The inventory is not exhaustive term discovery: approve new or changed terms
+before drafting, including single-use and unbracketed terms. English clarity,
+flow and neighboring-context repair checks belong to the ordinary chapter path.
 Pass the reviewed scene positions with `--scene-break-before`, or pass the flag
 with no values when none are needed. The checker also enforces approved fixed
 display wording and formatting. Semantic and English coverage require the single bounded bilingual review
