@@ -36,6 +36,7 @@ BANNED_STYLE_CHARS = {
     "”": "right curly double quote",
     "‘": "left curly single quote",
     "’": "right curly single quote",
+    "\u00a0": "non-breaking space",
 }
 
 
@@ -43,9 +44,9 @@ def digit_seqs(text: str) -> list[str]:
     return [match.group(0).replace(",", "") for match in NUM_RE.finditer(text)]
 
 
-def punctuation_residue(source: str, target: str, allowed=()) -> list[str]:
+def punctuation_residue(source: str, target: str, allowed=(), *, allow_displays=False) -> list[str]:
     """Allow paired bold display brackets, not arbitrary source punctuation."""
-    if "【" in source and "】" in source:
+    if allow_displays or ("【" in source and "】" in source):
         target = DISPLAY_RE.sub(lambda match: match.group(1), target)
     return sorted({
         char for char in target
@@ -53,6 +54,32 @@ def punctuation_residue(source: str, target: str, allowed=()) -> list[str]:
         and char not in allowed
         and char not in BANNED_STYLE_CHARS
     })
+
+
+def display_format_errors(target: str) -> list[str]:
+    """Current chat formatting only; panel classification remains bilingual QA.
+
+    The frozen file-backed artifacts keep their historical contract. They are
+    not silently rewritten to apply the September 2026 manuscript formatting.
+    """
+    errors = []
+    matches = list(DISPLAY_RE.finditer(target))
+    remainder = DISPLAY_RE.sub("", target)
+    if any(token in remainder for token in ("**", "【", "】")):
+        errors.append("bold and corner brackets must form a complete **【text】** display")
+    if matches and not DISPLAY_RE.fullmatch(target):
+        errors.append("each display line must occupy its own paragraph, separate from narration")
+    for match in matches:
+        text = match[1]
+        if not text.strip() or text != text.strip():
+            errors.append("empty display or stray space inside brackets")
+        if text.endswith("!") or (text.endswith(".") and not text.endswith("...")):
+            errors.append("display cannot end with a period/exclamation before its closing bracket")
+        if re.search(r"(?<!\.)\.{4,}$", text):
+            errors.append("use a three-dot display ellipsis")
+        if re.search(r"\*[^*]+\*|_[^_]+_", text):
+            errors.append("display text must not be italicized")
+    return errors
 
 
 def fixed_display_errors(source: str, target: str, phrases: list[dict]) -> list[str]:

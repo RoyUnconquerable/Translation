@@ -14,12 +14,13 @@ Use preparation's indices: title 1, standalone separators excluded. Account for:
 - complete meaning, chronology, causality, negation, comparison and certainty;
 - every small detail: intent, timing, gestures, force, totality, quantity,
   addressee, relationship, isolated question, reaction and causal punch line;
-- term usage and article, identity/speaker, divine capitalization, true body
+- term usage and article, identity/speaker, ordinary pronoun case and reveal timing, true body
   versus projection, cultivation distinctions, prerequisites and limitations;
 - numbers and units, including Chinese numerals, probability changes and time;
 - live idioms, linked imagery, allusions, altered quotations, humor and religious
   context; preserve their actual subject and logic, not just familiar labels;
-- title, ending, paragraph boundaries/order, exact approved **【...】** displays
+- title, ending, paragraph boundaries/order and declared display-only splits;
+  exact recurring templates, title italics/roman exceptions, **【...】** displays
   and genuine scene changes, without equating counts with complete coverage;
 - English grammar, articles/possessives, countability, prepositions, agreement,
   complements, parallel actions, modifier attachment, collocations and referents;
@@ -33,7 +34,7 @@ Use preparation's indices: title 1, standalone separators excluded. Account for:
 At paragraph boundaries, check whether a connector means contrast, cause,
 sequence or simultaneity, whether its referent remains clear, and whether a
 revelation arrives in its intended order. Preserve deliberate short beats;
-repair flow inside source boundaries. Check uninterrupted setup/payoff, including
+repair flow inside source boundaries, allowing only mapped display-layout splits. Check uninterrupted setup/payoff, including
 unfinished speech before an action. A sentence can be grammatical and still
 misassign an actor, repeat the previous transition or obscure whose time elapsed.
 

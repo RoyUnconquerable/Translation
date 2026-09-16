@@ -1,21 +1,21 @@
 source	target	notes
 吕阳	Lü Yang	protagonist; pinyin with diacritic, never Lu Yang [except: 吕阳抬起头] (owner sometimes drops the look-up beat, Ch. 1210); provenance terminology.tsv
 牧长生	Mu Changsheng	alias worn by Lü Yang; scare-quote "Mu Changsheng" when narration names the persona; provenance terminology.tsv
-世尊	World-Honored One	Dao Lord; usually takes "the"; divine pronouns He/His/Him; provenance terminology.tsv
+世尊	World-Honored One	"Dao Lord; usually takes ""the""; ordinary pronouns he/him/his; provenance terminology.tsv"
 万宝	Myriad Treasures	World-Honored One alias; no article in direct address; provenance Ch.1266 and later owner finals
-剑主	Sword Sovereign	Dao Lord; usually takes "the"; divine pronouns; provenance terminology.tsv
-剑尊	Sword Sovereign	same being as 剑主; provenance terminology.tsv
+剑主	Sword Sovereign	"Dao Lord; usually takes ""the""; ordinary pronouns; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md"
+剑尊	Sword Sovereign	same being as 剑主; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 初圣	Primordial Saint	Dao Lord; usually takes "the"; provenance terminology.tsv
-昊天	Vast Sky	Dao Lord; divine pronouns; provenance terminology.tsv
-苍昊	Vast Sky	alternate name for the same Dao Lord; provenance terminology.tsv
+昊天	Vast Sky	Dao Lord; ordinary pronouns; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
+苍昊	Vast Sky	alternate name for the same Dao Lord; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 万法	Myriad Spells	the Spell Dao Lord; addressed as Fellow Daoist Myriad Spells; 万法不侵 describes immunity to spells, not this person [except: 万法不侵]; provenance terminology.tsv and Ch.1291 source review
 豢妖	Beast-Taming	Dao Lord; 豢妖前辈 = Senior Beast-Taming; provenance terminology.tsv
-无名道主	Nameless Dao Lord	capitalized Nameless Dao Lord everywhere; singular He/Him; owner ruling 2026-08-19; provenance terminology.tsv
+无名道主	Nameless Dao Lord	capitalized Nameless Dao Lord everywhere; he/him generally; they/them where identity remains open under the 2026-09-16 ruling; earlier owner ruling 2026-08-19; provenance terminology.tsv
 司祟	Si Sui	name, pinyin; provenance terminology.tsv
 道天齐	Dao Tianqi	name, pinyin; ordinary lowercase pronouns; provenance terminology.tsv
 帝苍	Emperor Cang	ordinary lowercase pronouns; provenance terminology.tsv
 盘皇	Pan Huang	name, pinyin; provenance terminology.tsv
-祖龙	Ancestral Dragon	He/His/Him as the being; "it" for the guided-out consciousness; provenance terminology.tsv
+祖龙	Ancestral Dragon	"he/his/him as the being; ""it"" for the guided-out consciousness; provenance terminology.tsv"
 凌霄	Skyward	True Monarch Skyward Eastern Sovereign, post-Ch. 1171 identity; never pinyin "Lingxiao"; provenance terminology.tsv
 昂霄	Soaring Firmament	the same being's pre-Ch. 1171 identity (Sun Eclipsing True Monarch); provenance terminology.tsv
 飞雪	Flying Snow	True Monarch Flying Snow; speaks formally, in complete sentences; provenance terminology.tsv
@@ -23,7 +23,7 @@ source	target	notes
 太一	Taiyi	a collective of bodies of consciousness; Sublime Bliss's true body; provenance terminology.tsv
 黄粱	Yellow Millet	the dream plane; from the Yellow Millet Dream allusion; provenance terminology.tsv
 老君庙	Old Lord Temple	as a bare call-out line renders plain: Old Lord Temple.; provenance terminology.tsv
-道主	Dao Lord	divine pronoun capitalization applies; provenance terminology.tsv
+道主	Dao Lord	ordinary pronoun case applies; entity words and reveal timing follow entities.tsv; provenance terminology.tsv
 道主大战	war between Dao Lords	stable historical event description; provenance owner-final Ch.1258
 真君	True Monarch	title; provenance terminology.tsv
 真人	True Person	title; provenance terminology.tsv
@@ -33,7 +33,7 @@ source	target	notes
 冥府	Underworld	usually takes "the"; provenance terminology.tsv
 伪史	False History	usually takes "the"; provenance terminology.tsv
 光海	Sea of Light	usually takes "the"; provenance terminology.tsv
-变数	Variable|Variables	Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in His favor. Ordinary variable(s) follow the source number. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数]
+变数	Variable|Variables	Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in his favor. Ordinary variable(s) follow the source number. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数]
 百世书	Book of a Hundred Lives	normally takes the definite article; provenance owner-rulings-ch1221-ch1243.tsv
 天道	Heavenly Dao	usually takes "the"; provenance terminology.tsv
 大道	Great Dao	usually takes "the"; provenance terminology.tsv
@@ -56,7 +56,7 @@ source	target	notes
 遁光	escape light	一道遁光 = "a streak of escape light"; provenance terminology.tsv
 一心	One Mind|One Heart	"the One Mind" only for the World-Honored One / Pure Land concept; the Outer Path Alliance's 一心 is "One Heart"; ordinary adverbial 一心 means wholeheartedly or with one's full attention [except: 一心逃遁|一心只想着]; provenance terminology.tsv
 妙乐	Sublime Bliss	the Spell Dao Lord's eldest disciple; true body is Taiyi; locked Ch. 1186; provenance terminology.tsv
-剑君	Sword Sovereign	same being as 剑主/剑尊; provenance terminology.tsv
+剑君	Sword Sovereign	same being as 剑主/剑尊; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 法术道主	Spell Dao Lord	usually takes 'the'; provenance terminology.tsv
 法力道主	Spiritual Power Dao Lord	a distinct Dao Lord who aids the Spell Dao Lord; usually takes 'the'; provenance terminology.tsv
 法力	spiritual power|Spiritual Power	Lowercase the cultivator's usable power; capitalize Spiritual Power when naming the cultivation foundation or Dao category. Owner-final Ch.1293 confirms the named Three Foundations context.
@@ -74,7 +74,7 @@ source	target	notes
 现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世|重现世间]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
 仙桥	Immortal Bridge	provenance terminology.tsv
 改因易果	altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; provenance terminology.tsv
-伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力|排山倒海的伟力]; 降世的伟力 = 'the might of Their descent' (owner Ch.1210); 排山倒海的伟力 permits 'an overwhelming power' with the mountain-and-sea image retained (owner Ch.1295). Neither compound changes the default for bare 伟力.
+伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力|排山倒海的伟力]; 降世的伟力 = 'the might of their descent' (owner Ch.1210); 排山倒海的伟力 permits 'an overwhelming power' with the mountain-and-sea image retained (owner Ch.1295). Neither compound changes the default for bare 伟力.
 洞天	Grotto-Heaven	CAPITALIZED, owner ruling 2026-08-19; provenance terminology.tsv
 仙枢	Immortal Pivot	usually takes 'the'; what this world / Boundary Heaven is called; provenance terminology.tsv
 成道隐玄府	Achieving Dao Hidden Profound Manor	Skyward's grotto-heaven manor; provenance terminology.tsv
@@ -165,8 +165,8 @@ source	target	notes
 天河	Heavenly River	capitalized mythic-cosmological river image; owner-final Ch.1279; provenance terminology.tsv
 真传	true inheritance	owner-final Ch.1279; prefer cultivation-lineage language to the generic "true teachings"; provenance owner-rulings-ch1279.tsv
 叁合	Sanhe	owner-final Ch.1280; reaffirms the Grand Sword Patriarch's true name; provenance owner-rulings-ch1280.tsv
-念瑶	Nian Yao	owner-final Ch.1280; the Sword Sovereign's personal name; provenance owner-rulings-ch1280.tsv
-修真道主	Cultivating Truth Dao Lord	owner-final Ch.1280; Dao Lord pronouns apply; provenance owner-rulings-ch1280.tsv; explicit Ch.1315 owner ruling: retain Dao Lord only when the source includes 道主; bare 修真 is Cultivating Truth
+念瑶	Nian Yao	owner-final Ch.1280; the Sword Sovereign's personal name; provenance owner-rulings-ch1280.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
+修真道主	Cultivating Truth Dao Lord	owner-final Ch.1280; ordinary pronouns apply; provenance owner-rulings-ch1280.tsv; explicit Ch.1315 owner ruling: retain Dao Lord only when the source includes 道主; bare 修真 is Cultivating Truth
 八极	eight poles	cosmological extremities; use "the eight poles of the world" in the Ch.1280 construction; provenance terminology.tsv
 伐天	March on Heaven	formal event; retrospective combat phrasing belongs in phrase memory; provenance owner-rulings-ch1257.tsv
 东流尊	Lord of the Eastern Flow	owner confirmation Ch. 1223; provenance owner-rulings-ch1221-ch1243.tsv
@@ -262,7 +262,7 @@ source	target	notes
 紫青兜率真火	Purple-Azure Tushita Fire	owner-final Ch.1262; established alchemical flame surrounding the mountain range and pill furnace; provenance owner-rulings-ch1262.tsv
 幽冥府君殿	Underworld Sovereign's Hall	owner-final Ch.1262; established core of the Underworld; provenance owner-rulings-ch1262.tsv
 天外	Outer Heavens	owner-final Ch.1262 location phrase; capitalize both words; provenance owner-rulings-ch1262.tsv; excludes the mental-absence idiom [except: 魂游天外]
-太易天	Tai Yitian	the Primordial Saint's altered name, not His original true name; owner-final Ch.1283 supersedes the earlier Ch.1262 assumption; provenance owner-rulings-ch1262.tsv and Ch.1283
+太易天	Tai Yitian	the Primordial Saint's altered name, not his original true name; owner-final Ch.1283 supersedes the earlier Ch.1262 assumption; provenance owner-rulings-ch1262.tsv and Ch.1283
 冥府之主	Lord of the Underworld	owner-final Ch.1262 title for Dao Tianqi in this scene; provenance owner-rulings-ch1262.tsv
 光海暗面	Dark Side of the Sea of Light	owner-final Ch.1263 capitalization; supersedes lowercase use in running cosmological reference; provenance owner-rulings-ch1263.tsv
 天府	Celestial Court	owner-final Ch.1264; major Boundary Heaven listed beside the Immortal Pivot, Star Palace, and Mysterious Wall; provenance owner-rulings-ch1264.tsv
@@ -291,7 +291,7 @@ source	target	notes
 仙历	Immortal Calendar	owner-final Ch.1272; the approved date construction is "the first month of the 264th year of the Immortal Calendar"; provenance owner-rulings-ch1272.tsv
 耗材	consumable materials	owner-final Ch.1272; preserve the Ancestral Dragon's deliberately cold, utilitarian register; provenance owner-rulings-ch1272.tsv
 幽冥气	the aura of the Underworld	owner-final Ch.1275; use the established realm name instead of the draft's netherworld-qi phrasing; provenance owner-rulings-ch1275.tsv
-天生道神	Innate Dao God	owner-final Ch.1275; the Ancestral Dragon's nature, contrasted with Dao Lords who attained Their status through cultivation; provenance owner-rulings-ch1275.tsv
+天生道神	Innate Dao God	owner-final Ch.1275; the Ancestral Dragon's nature, contrasted with Dao Lords who attained their status through cultivation; provenance owner-rulings-ch1275.tsv
 后天返先天	turn from Postnatal back to Innate	owner-final Ch.1276; capitalize Postnatal and Innate as technical cultivation states; provenance owner-rulings-ch1276.tsv
 后天	Postnatal	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Innate; provenance owner-rulings-ch1276.tsv
 先天	Innate	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Postnatal; provenance owner-rulings-ch1276.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 先天就|先天资质]
@@ -306,7 +306,7 @@ source	target	notes
 因果	Karma|karma|karmic|cause and effect|causality	capitalize the named Great Dao; use lowercase contextual forms for ordinary causal relations; provenance Ch.1265 onward
 造化	Creation|creation	capitalize the named cosmological authority; lowercase ordinary creation; provenance Ch.1268 onward
 光铸的双手	hands forged from light	explicit owner correction after Ch.1277; never light-forged hands
-都玄	Du Xuan	Spiritual Power Dao Lord; divine pronouns He/His/Him; provenance consolidation
+都玄	Du Xuan	Spiritual Power Dao Lord; ordinary pronouns he/him/his; provenance consolidation
 前古	Ancient Past	fixed era label before the Primordial Era; normally takes the definite article; owner-final Ch.1283
 太古	Primordial Era	fixed era label after the Ancient Past and before the Ancient Era; normally takes the definite article; owner-final Ch.1283
 上古	Ancient Era	fixed era label beginning when Si Sui proved the Dao; normally takes the definite article; owner-final Ch.1283
@@ -335,11 +335,11 @@ source	target	notes
 深乐净土	Blissful Pure Land	Owner-final Ch.1292 replaces provisional Profound Bliss Pure Land; use the full title the World-Honored One of the Blissful Pure Land.
 悟性	comprehension	Lowercase cultivation faculty; distinct from accumulated Dao Attainment and from talent. Owner-final Ch.1292 replaces insight here; do not apply to every word for understanding or realization.
 天历数	Heavenly Calendar Numbers	Normally takes the definite article; owner-final Ch.1293 replaces provisional Heavenly Reckoning. Name of the singular core of the Heavenly Palace and five Mysteries; the pronoun it can refer to that core. Distinct from the Five Heavenly Numbers.
-初一儿	Little Tianyi	Lü Yang's mocking nickname for the World-Honored One; retained in owner-final Ch.1293, confirming retrieved earlier owner evidence. Preserve His divine pronouns; do not reinterpret as a literal son or birth order.
+初一儿	Little Tianyi	Lü Yang's mocking nickname for the World-Honored One; retained in owner-final Ch.1293, confirming retrieved earlier owner evidence. Preserve his ordinary pronouns; do not reinterpret as a literal son or birth order.
 炼法秘境	Dharma Refining Secret Realm	Normally takes the definite article; explicit owner correction Ch.1295 replaces provisional Spell-Refining Secret Realm. Keep Dharma Refining unhyphenated; this proper name does not make every 法 Dharma.
 超脱	Transcendence|transcend|transcended|transcending|transcendent|transcender	Use capitalized Transcendence for the named Ancient Past achievement retained in owner-final Ch.1295, not itself a Great Dao. Ordinary verbal uses take lowercase transcend with the appropriate tense; Ch.1209's 超脱了一半 is had transcended halfway, not the named achievement. An unorthodox path to Transcendence may be described as a Great Dao.
 太极	Taiji	Explicit owner correction after Ch.1298: use the familiar romanized name Taiji, not Supreme Ultimate. This is a specific terminology ruling, not permission to romanize all cosmological names.
-太极道主	Taiji Dao Lord	Si Sui's title after relinquishing His Daos and transcending in Ch.1298; explicit owner Taiji correction. Normally takes the definite article; retain His divine pronouns.
+太极道主	Taiji Dao Lord	Si Sui's title after relinquishing his Daos and transcending in Ch.1298; explicit owner Taiji correction. Normally takes the definite article; retain his ordinary pronouns.
 【环】	Ring	The named manifestation of the Fathomless Void as cradle in Ch.1302-1303; owner Ch.1303 retains Ring. Does not prescribe the ordinary noun 环.
 元婴道身	Nascent Soul Dao Body	Owner Ch.1303 retains the Ch.1302 compound; distinct from the Dharma Body and Si Sui's transcendent true body.
 炼丹道	Alchemy Dao	Named Dao; expands the already approved four-Dao phrase in Ch.1292. Distinct from a person, especially Senior Beast-Taming.
@@ -356,7 +356,7 @@ source	target	notes
 人桩	living pillar	Ch.1309 uses this for the same sacrificial support role as 活桩; owner retains living pillar. Preserve the coerced role.
 五行大道	Five Elements Dao	Expanded Chinese form of 五行道; same canonical named Dao, not an additional generic Great Dao mention.
 【五行】大道	Five Elements Dao	Bracketed source form of 五行大道; longest-match enforcement retains the complete named Dao without requiring redundant Great Dao wording.
-修真	Cultivating Truth	Explicit owner correction before Ch.1315; same being and divine pronouns as 修真道主, but never expand the bare name into a title [reject expansion: Cultivating Truth Dao Lord]
+修真	Cultivating Truth	Explicit owner correction before Ch.1315; same being and ordinary pronouns as 修真道主, but never expand the bare name into a title [reject expansion: Cultivating Truth Dao Lord]
 终虎	End Tiger	Explicit owner correction during Ch.1316; replaces Final Tiger. Incarnated male Daoist in Ch.1317-1318; distinguish the awakened individual from the ultimate Innate Dao God position.
 末劫	Final Kalpa	Explicit owner correction before Ch.1316; replaces Final Tribulation. Distinct from 劫数, Tribulation.
 真仙人	True Immortal	Explicit owner capitalization correction before Ch.1317. Do not apply True to generic 仙人.

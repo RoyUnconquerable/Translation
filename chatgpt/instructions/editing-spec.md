@@ -48,7 +48,12 @@ historical decision may record their rationale when useful, but do not create
 an active rule or durable log row for every wording substitution. Existing
 historical local decisions remain searchable evidence, not mandatory templates.
 Do not split a long sentence note into many permanent rules merely to meet a
-row-length limit. No new per-chapter supplements or reference files.
+row-length limit. No routine per-chapter supplements or new reference files;
+the four owner-requested, book-wide references registered in state are deliberate
+authorities. Maintain those files in place instead of duplicating their tables.
+Bulk approval of an English manuscript establishes English approval, not recovery
+of its Chinese source or a bilingual audit. Keep such evidence distinct. Stale
+pass logs never override the owner's later explicit acceptance.
 
 ## One atomic update
 

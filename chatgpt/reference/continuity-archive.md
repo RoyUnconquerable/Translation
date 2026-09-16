@@ -1,5 +1,10 @@
 # Condensed continuity archive through Chapter 1299
 
+Historical wording below is retained as evidence. For current output, the
+16 September 2026 owner references supersede divine-capital pronouns, older
+survival-idiom wording and display punctuation. Apply chapter-scoped gender
+and local-exception rules; do not revive superseded instructions from this archive.
+
 This file is searched only when an earlier event becomes relevant. Git history
 retains the former detailed chapter supplements.
 

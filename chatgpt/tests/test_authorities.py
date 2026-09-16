@@ -42,7 +42,11 @@ class AuthorityTests(unittest.TestCase):
     def test_sword_sovereign_pronouns(self):
         entities = common.load_entities(self.root)
         row = next(item for item in entities if item["entity_id"] == "sword_sovereign")
-        self.assertEqual(row["pronouns"], "She/Her")
+        self.assertEqual(prepare.scoped_pronouns(row, 1128), "they/them/their")
+        self.assertEqual(prepare.scoped_pronouns(row, 1129), "she/her")
+        vast = next(item for item in entities if item["entity_id"] == "vast_sky")
+        self.assertEqual(prepare.scoped_pronouns(vast, 1128), "they/them/their")
+        self.assertEqual(prepare.scoped_pronouns(vast, 1129), "he/him/his")
 
     def test_owner_terms_preserve_older_and_newer_rulings(self):
         glossary = common.load_glossary(self.root)
@@ -62,7 +66,7 @@ class AuthorityTests(unittest.TestCase):
             with self.subTest(source=source):
                 self.assertEqual(glossary[source]["target"], target)
         phrases = {r["source"]: r for r in common.load_phrase_memory(self.root)}
-        self.assertEqual(phrases["一线生机"]["target"], "a sliver of survival")
+        self.assertEqual(phrases["一线生机"]["target"], "sliver of hope")
 
     def test_explicit_title_required_without_masking_supplied_title(self):
         glossary = common.load_glossary(self.root)
@@ -123,7 +127,7 @@ class AuthorityTests(unittest.TestCase):
     def test_prepare_uses_verified_frontier_without_writing_state(self):
         path = self.root / "chapters" / "state.json"
         before = path.read_bytes()
-        frontier = json.loads(before)["progress"]["latest_source_seen"]
+        frontier = state.translation_frontier(json.loads(before))
         with tempfile.TemporaryDirectory() as tmp:
             source = Path(tmp) / "source.txt"
             source.write_text(f"第{frontier + 2}章 测试\n\n道天齐借出慧光。\n",
@@ -165,7 +169,7 @@ class AuthorityTests(unittest.TestCase):
     def test_prepare_rejects_unreconciled_source_gap_read_only(self):
         path = self.root / "chapters" / "state.json"
         before = path.read_bytes()
-        frontier = json.loads(before)["progress"]["latest_source_seen"]
+        frontier = state.translation_frontier(json.loads(before))
         with tempfile.TemporaryDirectory() as tmp:
             source = Path(tmp) / "source.txt"
             source.write_text(f"第{frontier + 2}章 测试\n\n正文。\n", encoding="utf-8")
@@ -174,7 +178,7 @@ class AuthorityTests(unittest.TestCase):
                 capture_output=True, text=True,
             )
         self.assertNotEqual(result.returncode, 0)
-        self.assertIn("skips the recorded source frontier", result.stdout + result.stderr)
+        self.assertIn("skips the recorded translation frontier", result.stdout + result.stderr)
         self.assertEqual(path.read_bytes(), before)
 
     def test_hard_terms_and_phrase_memory_do_not_overlap(self):
@@ -513,6 +517,57 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(glossary["天书"]["target"], "Heavenly Scripture")
         self.assertTrue(lint.target_has_variant("the Heavenly Scripture", glossary["天书"]["variants"]))
         self.assertFalse(lint.target_has_variant("the Heavenly Book", glossary["天书"]["variants"]))
+
+    def test_display_splits_preserve_source_checks_and_scene_positions(self):
+        source_text = "第1章 测试\n\n他看见【你已死亡。】于是走了。\n\n---\n\n道天齐借出慧光。\n"
+        target_text = "Chapter 1: Test\n\nHe saw:\n\n**【You have died】**\n\nThen he left.\n\n---\n\nDao Tianqi lent him wisdom light.\n"
+        with tempfile.TemporaryDirectory() as tmp:
+            source, target = Path(tmp) / "source.txt", Path(tmp) / "target.txt"
+            source.write_text(source_text, encoding="utf-8")
+            target.write_text(target_text, encoding="utf-8")
+            command = [sys.executable, str(SCRIPTS / "chat_check.py"), str(source),
+                       str(target), "--scene-break-before", "3"]
+            undeclared = subprocess.run(command, capture_output=True, text=True)
+            mapped = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, text=True)
+            target.write_text(target_text.replace("wisdom light", "radiance"), encoding="utf-8")
+            missing_term = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, text=True)
+            target.write_text(target_text.replace("\n\n---", "").replace("Then he left.", "---\n\nThen he left."), encoding="utf-8")
+            inner_break = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, text=True)
+        self.assertNotEqual(undeclared.returncode, 0)
+        self.assertEqual(mapped.returncode, 0, mapped.stdout + mapped.stderr)
+        self.assertIn("3 source paragraphs, 5 target paragraphs", mapped.stdout)
+        self.assertNotEqual(missing_term.returncode, 0)
+        self.assertIn("requires wisdom light", missing_term.stdout)
+        self.assertNotEqual(inner_break.returncode, 0)
+        self.assertIn("scene break inside a display split", inner_break.stdout)
+
+    def test_display_split_cannot_authorize_arbitrary_prose_splits(self):
+        src = ["title", "source"]
+        target = ["title", "He looked.", "Then he left."]
+        _, _, errors = chat_check.align_display_splits(src, target, ["2:2"])
+        self.assertTrue(any("no standalone panel" in error for error in errors))
+        target = ["title", "He looked.", "Then he left.", "**【Done】**"]
+        _, _, errors = chat_check.align_display_splits(src, target, ["2:3"])
+        self.assertTrue(any("divides ordinary prose" in error for error in errors))
+        for declaration in (["1:2"], ["3:2"], ["2:1"], ["2:2", "2:2"], ["two:2"]):
+            with self.subTest(declaration=declaration):
+                self.assertTrue(chat_check.align_display_splits(src, target, declaration)[2])
+
+    def test_current_panel_punctuation_and_formatting(self):
+        for text in ["**【Done】**", "**【Ready?】**", "**【Settling...】**", "**【First. Second】**"]:
+            self.assertEqual(lint.display_format_errors(text), [], text)
+        for text in ["**【Done.】**", "**【Done!】**", "【Done】", "**Done**", "**【 Done】**",
+                     "**【Done】**!", "He saw **【Done】**", "**【*Done*】**", "**【A】**\n**【B】**"]:
+            self.assertTrue(lint.display_format_errors(text), text)
+
+    def test_approved_english_routes_next_chapter_without_claiming_source_access(self):
+        routing = {"progress": {"latest_source_seen": 1334},
+                   "approved_manuscript": {"latest_chapter": 1338, "owner_approved_on": "2026-09-16"}}
+        before = json.dumps(routing)
+        self.assertEqual(state.translation_frontier(routing), 1338)
+        self.assertEqual(state.incoming_chapter_errors(1339, routing), [])
+        self.assertTrue(state.incoming_chapter_errors(1340, routing))
+        self.assertEqual(json.dumps(routing), before)
 
 
 if __name__ == "__main__":

@@ -1,8 +1,11 @@
-# Macro style guide
+# Style guide
 
-This is the reusable prose authority. Names and terms belong in the glossary,
-allusions in phrase memory, and facts in world reference or continuity.
-Local edits become global only when they express a reusable principle.
+This is the reusable prose authority. Use the glossary for terms, phrase memory
+for allusions, and world/continuity records for facts. Local edits become global
+only when they express a reusable principle.
+State registers four owner references: formatting, idioms, italicized titles and
+Talents/Hundred Lives. Retrieve matching entries only. Latest scoped owner rulings
+win; retained idiom variants stay local. Proposals are not canon.
 
 When principles compete, use this order:
 
@@ -30,16 +33,16 @@ When principles compete, use this order:
 - Choose length by meaning: clarify a setup, connect a paired escalation, or
   compress a verdict. Use direct verbs and natural collocations; fuller wording
   should clarify relations. Never compress source content or qualifications.
-- When the narrator frames cultivation combat through modern system or matchup
-  logic, preserve that register with clear contemporary language such as raw
-  stats or mechanics. Describe ease of use naturally, rather than calling a
-  system mindless. Preserve an accompanying idiot joke when the source has it;
-  do not elevate modern humor into ceremonial martial abstraction.
+- Preserve modern system/matchup humor through natural terms such as raw stats
+  or mechanics. Ease of use is not mindlessness; retain an accompanying idiot
+  joke only when sourced. Do not elevate it into ceremonial martial abstraction.
 
 ## Fidelity and paragraph structure
 
-- One Chinese source paragraph becomes one English target paragraph in the
-  same order. Never merge or split source paragraphs for flow.
+- Keep one target paragraph per source paragraph and the same order. The only
+  owner-approved layout exception is separating genuine display lines/menu items
+  and adjoining narration. Record each split's source index and target count;
+  retain all content in order. Never merge source paragraphs or split prose for flow.
 - Verify content and boundaries, including owner edits and short reactions.
   Equal counts can conceal a split paired with a merge or omission.
 - Join or separate sentences inside a source paragraph for grammar, reasoning
@@ -75,16 +78,15 @@ When principles compete, use this order:
 - Split overloaded clauses and trailing modifiers; connect related premises.
   Separate a proposal from its stakes when clearer. Keep dialogue lists in
   spoken syntax. Sentence length itself is not a flaw.
-- Read complete noun phrases for required articles or possessives, countability,
-  and clear reference. Check prepositions, complements, parallel verbs, and
+- Check noun phrases for articles, possessives, countability and clear reference. Check prepositions, complements, parallel verbs, and
   participle subjects. Preserve ownership and deliberate control. Use natural
   collocations: fight to a stalemate, not hold someone to a stalemate; agreed to
   it when the referent helps. Correct terms cannot ensure fluency.
-- Describe sensations through their experiencer: even with His cultivation,
-  He felt the weight pressing down. Do not make cultivation the agent that
-  could not spare Him the sensation.
-- Name an action's recipient when pronouns obscure it; resolve whose possessives: His
-  intervention and His injuries may concern two people. Name the needed
+- Describe sensations through their experiencer: even with his cultivation,
+  he felt the weight pressing down. Do not make cultivation the agent that
+  could not spare him the sensation.
+- Name an action's recipient when pronouns obscure it; resolve whose possessives: his
+  intervention and his injuries may concern two people. Name the needed
   referent, not every participant. Keep appositions clear when several labels
   identify one object; adding and must not suggest a second artifact.
 - Attach quantities to their actual referents. Explain what is understood
@@ -97,8 +99,8 @@ When principles compete, use this order:
 - Choose transitions for their actual logical relationship. Vary or trim them
   only to repair awkwardness or repetition; preserve useful timing and emphasis.
   Prefer the actor to an abstract teaching process when the source supports both.
-- Let escalation come from concrete changes; do not repeatedly announce grandeur
-  or explain a reveal after it has landed. Equivalent wording is not a defect.
+- Show escalation through concrete changes; do not repeat grandeur or explain
+  a completed reveal. Equivalent wording is not a defect.
 - Preserve deliberate lexical repetition in reasoning and parallel rhetoric.
   Do not cycle through synonyms for a fixed cultivation concept.
 - Once an attack or technique has been identified clearly, use the lightest
@@ -139,19 +141,15 @@ When principles compete, use this order:
   thought marks. When Chinese elides the subject, preserve the thinker's
   immediate viewpoint instead of turning the thought into a third-person
   report.
-- A short sequence of private rhetorical paragraphs may become first-person
-  direct thought even when the Chinese omits thought marks, provided the voice
-  is unmistakably the viewpoint character's mental speech. Preserve every
-  source paragraph separately and italicize each thought paragraph rather than
-  merging the sequence.
+- Unmarked private rhetorical paragraphs may become italic first-person thought
+  only when unmistakably the viewpoint character's mental speech. Keep each
+  source paragraph separate.
 - When history is rewritten, use tense to show the new established past and
   any event anterior to it. Do not backshift mechanically.
-- Write direct thoughts as natural mental speech.
-  Connect the immediate observation, motive, and consequence inside the source
-  paragraph. Prefer ordinary decency to abstract moral conviction in Si Sui's
-  everyday ethical reasoning; do not impose that wording on unrelated philosophy.
-  Preserve sarcasm, such as Save your breath or Don't make Me laugh, when the
-  source supports it. Natural inner speech must still retain every premise.
+- Direct thought is natural mental speech connecting observation, motive and
+  consequence without losing premises. Si Sui's everyday ethical reasoning may
+  use ordinary decency rather than abstract moral conviction; this is not a
+  philosophy-wide substitution. Keep source-supported sarcasm.
 - Do not add thought tags or restate in narration what an italicized thought
   has already established.
 
@@ -161,6 +159,9 @@ When principles compete, use this order:
   verse, proverb, panel, formula, or other explicitly approved source-bound
   line; a live image or linked image chain; or a lexicalized idiom whose image
   is no longer doing narrative work.
+- Reference_Idioms.md governs approved choices and passage-specific exceptions.
+  Its suspected Chinese originals are retrieval hints, not verified mappings.
+  Use sliver of hope for the survival idiom; preserve contextual grammar.
 - Preserve an idiom's defining image when that image carries the argument,
   joke, characterization, or a later metaphor chain.
 - Naturalize a lexicalized idiom when its image is dormant and literal wording
@@ -187,17 +188,16 @@ When principles compete, use this order:
   vows, proclamations, maxims, and scripture. Cadence comes next. Archaic
   diction is optional, not automatic, and elevated English must remain
   intelligible.
-- Clarify an opaque image through natural sentence construction. Never insert
-  translator notes or explanations absent from the source into chapter prose.
+- Clarify an opaque image through natural sentence construction. Never add
+  translator notes or explanations absent from the source.
 
 ## Dialogue and formatting
 
 - Use straight ASCII double quotes. Nested quotations and scare quotes use
   straight ASCII single quotes.
-- Spoken dialogue is never italicized. Keep bare dialogue bare when sequence
-  already identifies the speaker.
-- Use speech tags sparingly and do not invent adverbs, expressions, or gestures
-  merely to explain tone.
+- Do not italicize dialogue as thought. Named titles within ordinary dialogue
+  still follow Reference_Italicized_Titles.md. Keep an already clear speaker bare.
+- Use speech tags sparingly; never invent gestures or modifiers to explain tone.
 - Mark a genuine hard change of place, time, or viewpoint with a line containing
   only `---`. Review the boundary deliberately rather than omitting all breaks
   because the Chinese has no printed separator. Do not add breaks solely for
@@ -208,13 +208,12 @@ When principles compete, use this order:
   Voiced breaths and coughs may stay quoted: "Haaah..." or "Ahem, ahem, ahem!"
   Preserve meaningful repetitions and delivery, without treating vocalization
   as an environmental effect.
-- Preserve displayed inscriptions, proclamations, edicts, scripture passages,
-  and interface panels in **【translated text】** when the source or explicit
-  owner ruling presents them that way. Keep approved wording and formatting
-  together in phrase memory. Do not turn a displayed declaration into ordinary
-  quoted dialogue or paraphrase it from memory. Use normal sentence case for
-  sentences. Ordinary inline Dao names and brief concept call-outs still use
-  canonical capitalization without automatically gaining display brackets.
+- Follow Reference_Formatting_Rules.md for **【...】** displays, ordinary inline
+  concepts and typography; Reference_Talents_and_Hundred_Lives.md for recurring
+  system text/numbering; Reference_Italicized_Titles.md for title styling and roman
+  exceptions. Preserve exact approved displays rather than paraphrasing or turning
+  them into dialogue. Sentences use sentence case. Never invent fields or infer
+  new rules/names from historical inventories.
 - Keep the source chapter title. A body-only owner edit never deletes it.
 
 ## Names, ranks, and capitalization
@@ -222,18 +221,17 @@ When principles compete, use this order:
 - Birth names use pinyin with established diacritics. Translate established Dao
   names, ranks, techniques, artifacts, realms, and epithets.
 - Follow glossary capitalization without promoting generic nouns. Articles
-  depend on syntax: the Dao Heart, His Dao Heart, or attributive Dao Heart
+  depend on syntax: the Dao Heart, his Dao Heart, or attributive Dao Heart
   tiers; the One Mind for the World-Honored One's method. Symbolic One, Two,
   and Three may stand bare in creation formulas; anaphoric the One is valid.
 - Use nature for fundamental character or constitutive identity, including
   differences expressed through cultivation realms. Retain essence for a
   substance, refined essence, core, or another sense that warrants it. This
   is a contextual distinction, not a global replacement.
-- Dao Lords take divine capitals; resolve identity and entity exceptions first.
-  Autonomous projections retain them; shells or guided consciousnesses need not.
-  Preserve bare names versus explicit titles.
-- Collective Dao Lord pronouns are `They`, `Their`, and `Them`. Other people use
-  ordinary pronouns.
+- Ordinary pronoun case applies to everyone, including Dao Lords. Follow the
+  formatting reference and entity registry for name/honorific exceptions and
+  gender timing, including singular they for Sword Sovereign/Vast Sky before
+  Ch.1129. Resolve identities and projections without revealing later knowledge.
 - `status` is lowercase unless it begins a sentence or appears in an exact
   owner-approved interface phrase.
 - Keep distinct concepts distinct, especially cultivation versus Dao
@@ -274,8 +272,7 @@ When principles compete, use this order:
 - No fixed default sentence for routine transitions such as `然而`, `下一秒`,
   `与此同时`, or `入目所见`.
 - No faux-archaic connective language in ordinary narration.
-- Avoid decorative inversion when direct syntax is clearer. Keep grammatical
-  emphasis such as Only when...could... for a necessary condition. A natural
+- Avoid decorative inversion when direct syntax is clearer. Keep Only when...could... for a necessary condition. A natural
   locative opening, such as Within it surged..., may connect an established
   place to a newly introduced phenomenon; it need not start a scene. This is
   an option for information flow, not a default marker of grandeur.

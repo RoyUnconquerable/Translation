@@ -10,8 +10,12 @@ The exact Chinese source governs content. The canonical repository outranks
 memory and rejected drafts; a new explicit owner correction applies now and
 becomes durable in the next approved atomic feedback update.
 
-Preserve source paragraphs, all details, established terms and identities,
-Chinese imagery and cultural context. Apply `reference/style-guide.md` for
+Preserve source paragraphs, all details, terms, identities, imagery and cultural
+context. Only genuine display lines/menu items may split into mapped paragraphs;
+ordinary prose may not split or merge. Use the four reference files registered in
+state for formatting, idioms, title italics and recurring system text. Retained
+idiom variants are local exceptions; proposals remain unapproved. Use ordinary
+pronoun case, with Sword Sovereign/Vast Sky gender neutral before Ch.1129. Apply `reference/style-guide.md` for
 modern xianxia prose, thought tense, articles, formatting and no em dashes.
 Batch every new or changed term for owner approval before drafting; established
 choices need no repeat approval. Draft once, then use `instructions/qa-rules.md`

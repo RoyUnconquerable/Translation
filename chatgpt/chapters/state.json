@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-09-11",
+  "updated_at": "2026-09-16",
   "mode": "chat_first",
   "repository_authority": {
     "remote": "origin",
@@ -16,9 +16,9 @@
   "progress": {
     "latest_source_seen": 1334,
     "latest_draft_delivered": 1334,
-    "most_recent_owner_final": 1304,
-    "next_translation_chapter": 1281,
-    "next_new_chapter": 1335
+    "most_recent_owner_final": 1338,
+    "next_translation_chapter": 1339,
+    "next_new_chapter": 1339
   },
   "authorities": {
     "chapter_ledger": "chatgpt/chapters/ledger.tsv",
@@ -32,10 +32,26 @@
     "active_errors": "chatgpt/reference/known-errors.md",
     "owner_decisions": "chatgpt/reference/decision-log.tsv",
     "project_sources": "chatgpt/reference/project-source-registry.md",
-    "workflow": "chatgpt/instructions/workflow.md"
+    "workflow": "chatgpt/instructions/workflow.md",
+    "formatting_rules": "chatgpt/reference/Reference_Formatting_Rules.md",
+    "idiom_reference": "chatgpt/reference/Reference_Idioms.md",
+    "italicized_titles": "chatgpt/reference/Reference_Italicized_Titles.md",
+    "talents_and_hundred_lives": "chatgpt/reference/Reference_Talents_and_Hundred_Lives.md"
   },
   "storage": {
     "chapter_prose": "chat_only",
     "exact_chat_finals_recoverable_from_repository": false
+  },
+  "approved_manuscript": {
+    "filename": "Edited_Draft_PRONOUN-PASSES(1).docx",
+    "library_file_id": "libfile_635ed270d340819186009b1bf0042533",
+    "sha256": "1faf850279ee9af22e08ed89b576d1066ea1b4564d55d46941e024663a258b25",
+    "owner_approved_on": "2026-09-16",
+    "latest_chapter": 1338,
+    "numbered_headings": 1337,
+    "missing_heading_numbers": [
+      238
+    ],
+    "scope": "English manuscript fully approved; source and past chat-delivery evidence remain separately recorded. Chapter 238 boundary unresolved."
   }
 }

@@ -33,6 +33,16 @@ CONTINUITY_STATUSES = {"current", "archived", "missing"}
 STORAGE_STATUSES = {"repo", "chat_only", "unavailable"}
 
 
+def translation_frontier(routing: dict) -> int | None:
+    """Routing may advance on explicit manuscript approval, without claiming raws."""
+    candidates = [routing.get("progress", {}).get("latest_source_seen")]
+    manuscript = routing.get("approved_manuscript", {})
+    if isinstance(manuscript, dict) and manuscript.get("owner_approved_on"):
+        candidates.append(manuscript.get("latest_chapter"))
+    values = [value for value in candidates if type(value) is int and value > 0]
+    return max(values) if values else None
+
+
 def incoming_chapter_errors(
     chapter: int, state: dict, *, observed_through: int | None = None
 ) -> list[str]:
@@ -41,7 +51,7 @@ def incoming_chapter_errors(
     The optional frontier is an explicit caller attestation based on actual
     session source evidence. It is not a stored progress/approval update.
     """
-    last_seen = state.get("progress", {}).get("latest_source_seen")
+    last_seen = translation_frontier(state)
     if observed_through is not None:
         if not isinstance(last_seen, int) or not last_seen <= observed_through < chapter:
             return [
@@ -51,7 +61,7 @@ def incoming_chapter_errors(
         last_seen = observed_through
     if isinstance(last_seen, int) and chapter > last_seen + 1:
         return [
-            f"incoming chapter {chapter} skips the recorded source frontier {last_seen}; "
+            f"incoming chapter {chapter} skips the recorded translation frontier {last_seen}; "
             "reconcile verified intermediate source evidence; --observed-through "
             "may supply the verified session frontier without publication; "
             "do not infer delivery or approval of chapter prose"
@@ -274,6 +284,7 @@ def main() -> None:
     if chapters and chapters != list(range(min(chapters), max(chapters) + 1)):
         errors.append("chapter ledger must be sorted and continuous")
 
+    approved_english = 0
     if ledger:
         source_seen = max(
             int(row["chapter"]) for row in ledger if row["source_status"] != "unknown"
@@ -291,20 +302,33 @@ def main() -> None:
             for row in ledger
             if row["review_status"] == "owner_final"
         )
+        manuscript = state.get("approved_manuscript", {})
+        if manuscript:
+            if (not isinstance(manuscript, dict)
+                    or type(manuscript.get("latest_chapter")) is not int
+                    or manuscript["latest_chapter"] < 1
+                    or not manuscript.get("owner_approved_on")
+                    or not manuscript.get("sha256")
+                    or not manuscript.get("filename")):
+                errors.append("approved manuscript requires chapter frontier, explicit approval, filename and hash")
+            else:
+                approved_english = manuscript["latest_chapter"]
+                owner_final = max(owner_final, approved_english)
         awaiting_translation = [
             int(row["chapter"])
             for row in ledger
             if row["source_status"] != "unknown"
             and row["translation_status"] == "source_received"
+            and int(row["chapter"]) > approved_english
         ]
         derived = {
             "latest_source_seen": source_seen,
             "latest_draft_delivered": draft_delivered,
             "most_recent_owner_final": owner_final,
             "next_translation_chapter": (
-                min(awaiting_translation) if awaiting_translation else source_seen + 1
+                min(awaiting_translation) if awaiting_translation else max(source_seen, approved_english) + 1
             ),
-            "next_new_chapter": source_seen + 1,
+            "next_new_chapter": max(source_seen, approved_english) + 1,
         }
         if state.get("progress") != derived:
             errors.append(f"state progress is stale; expected {derived}")
@@ -319,16 +343,19 @@ def main() -> None:
         row["chapter"]
         for row in ledger
         if row["review_status"] in {"pending", "rejected_redraft_pending"}
+        and int(row["chapter"]) > approved_english
     ]
     awaiting = [
         row["chapter"]
         for row in ledger
         if row["translation_status"] == "source_received"
+        and int(row["chapter"]) > approved_english
     ]
     print(
         f"state: PASS ({len(ledger)} ledger rows, {len(glossary)} hard terms, "
-        f"pending review {', '.join(pending)}; "
-        f"awaiting translation {', '.join(awaiting) or 'none'})"
+        f"pending review {', '.join(pending) or 'none'}; "
+        f"awaiting translation {', '.join(awaiting) or 'none'}; "
+        f"approved English manuscript through {approved_english or 'not recorded'})"
     )
 
 

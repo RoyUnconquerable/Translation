@@ -1,5 +1,10 @@
 # Consolidation history
 
+Historical wording below is retained as evidence. For current output, the
+16 September 2026 owner references supersede divine-capital pronouns, older
+survival-idiom wording and display punctuation. Apply chapter-scoped gender
+and local-exception rules; do not revive superseded instructions from this archive.
+
 On 2026-09-03, the active per-chapter terminology, style, owner-edit,
 continuity, and world-reference supplements were consolidated into canonical
 files. Their detailed provenance remains available in Git at commit

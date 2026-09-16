@@ -28,7 +28,7 @@ before consolidation, and in dated decisions. Retrieve only relevant entries.
 
 ## Referential and lexical traps
 
-- His intervention and His injuries may refer to different people. His
+- His intervention and his injuries may refer to different people. His
   teacher's ruler invents an owner for a disciplinary implement. Clarify who
   acts, feels, owns or serves as material without adding another artifact.
 - Knowing a method means understanding/using it when the scene relies on that
@@ -55,3 +55,16 @@ before consolidation, and in dated decisions. Retrieve only relevant entries.
   matching paragraph counts or a glossary PASS does not override the source.
   Local examples are not global sentence templates. Unresolved changes stay
   identified as unresolved; correct the demonstrated defect, then stop.
+
+## Approved manuscript and reference conflicts
+
+The 16 September owner approval supersedes old pending-review labels, but not
+unverified source claims. The manuscript has 1,337 numbered headings through
+Ch.1338; no Ch.238 heading was found. Do not assert missing text without comparison.
+Its remaining typography/formatting discrepancies are located proposals, not new
+exceptions. Do not edit the approved novel during reference maintenance.
+
+Reference_Idioms.md groups 14/90 conflict on stable/steady as Mount Tai; keep their
+scope pending the proposed decision. Groups 118,126,128,131,133,153,166,184,187,
+202,245,255,324,326,330,346 remain undecided. Suspected Chinese idiom originals
+are not verified glossary keys. Exact terms and system text are not idiom variants.

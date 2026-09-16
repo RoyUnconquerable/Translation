@@ -78,6 +78,53 @@ def chapter_input_errors(source: list[str], target: list[str]) -> list[str]:
     return errors
 
 
+def align_display_splits(
+    source: list[str], target: list[str], declarations: list[str],
+) -> tuple[list[list[str]], dict[int, int], list[str]]:
+    """Map only declared display-layout splits, retaining original source indices.
+
+    Each declaration is SOURCE:COUNT. This is a layout attestation, not proof
+    that a source span is a panel or that its translation preserves meaning.
+    """
+    counts: dict[int, int] = {}
+    errors: list[str] = []
+    for value in declarations:
+        match = re.fullmatch(r"([0-9]+):([0-9]+)", value)
+        if not match:
+            errors.append(f"invalid display split {value!r}; use SOURCE:COUNT")
+            continue
+        index, count = map(int, match.groups())
+        if not 2 <= index <= len(source) or count < 2:
+            errors.append(f"invalid display split {value!r}; no title/out-of-range split or count below 2")
+        elif index in counts:
+            errors.append(f"duplicate display split for source paragraph {index}")
+        else:
+            counts[index] = count
+
+    expected = len(source) + sum(count - 1 for count in counts.values())
+    if len(target) != expected:
+        errors.append(
+            f"paragraph count: source {len(source)}, target {len(target)}, "
+            f"expected target {expected} after declared display splits"
+        )
+    groups: list[list[str]] = []
+    starts: dict[int, int] = {}
+    offset = 0
+    for index in range(1, len(source) + 1):
+        starts[index] = offset + 1
+        count = counts.get(index, 1)
+        group = target[offset:offset + count]
+        groups.append(group)
+        offset += count
+        if index in counts:
+            displays = [bool(lint.DISPLAY_RE.fullmatch(part)) for part in group]
+            if not any(displays):
+                errors.append(f"source paragraph {index}: display split contains no standalone panel")
+            if any(not left and not right for left, right in zip(displays, displays[1:])):
+                errors.append(f"source paragraph {index}: display split divides ordinary prose")
+    return groups, starts, errors
+
+
 def main() -> None:
     common.configure_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
@@ -86,6 +133,10 @@ def main() -> None:
     parser.add_argument(
         "--scene-break-before", type=int, nargs="*", default=None,
         help="Reviewed one-based source paragraph indices; pass no values for none.",
+    )
+    parser.add_argument(
+        "--display-splits", nargs="*", default=[], metavar="SOURCE:COUNT",
+        help="Reviewed display-only splits: source index and total target paragraphs.",
     )
     args = parser.parse_args()
     root = common.find_root()
@@ -97,31 +148,47 @@ def main() -> None:
     target = paragraphs(target_text, allow_scene_breaks=True)
     errors = chapter_input_errors(source, target)
     warnings: list[str] = []
+    groups, target_starts, alignment_errors = align_display_splits(
+        source, target, args.display_splits
+    )
+    errors.extend(alignment_errors)
 
     required_breaks = args.scene_break_before
     source_breaks = scene_break_positions(source_text)
     if source_breaks:
         required_breaks = sorted(set(source_breaks + (required_breaks or [])))
-    errors.extend(scene_break_errors(target_text, required_breaks))
+    target_breaks = None
+    if required_breaks is not None:
+        unknown = sorted(set(required_breaks) - set(target_starts))
+        if unknown:
+            errors.append(f"reviewed scene breaks name unknown source paragraphs: {unknown}")
+        target_breaks = [target_starts[i] for i in required_breaks if i in target_starts]
+    errors.extend(scene_break_errors(target_text, target_breaks))
+    for position in scene_break_positions(target_text):
+        if position not in target_starts.values():
+            errors.append(f"scene break inside a display split before target paragraph {position}")
 
-    if len(source) != len(target):
-        errors.append(f"paragraph count: source {len(source)}, target {len(target)}")
-    for index, (src, tgt) in enumerate(zip(source, target), 1):
+    # Check every target paragraph, including extras when alignment is invalid.
+    for index, tgt in enumerate(target, 1):
         residue = sorted({char for char in tgt if common.is_cjk(char)})
         if residue:
             errors.append(f"paragraph {index}: source characters {''.join(residue)}")
         banned = [char for char in lint.BANNED_STYLE_CHARS if char in tgt]
         if banned:
             errors.append(f"paragraph {index}: banned typography {''.join(banned)}")
-        cjk_punct = lint.punctuation_residue(src, tgt)
+        cjk_punct = lint.punctuation_residue("", tgt, allow_displays=True)
         if cjk_punct:
             errors.append(f"paragraph {index}: CJK punctuation {''.join(cjk_punct)}")
+        for detail in lint.display_format_errors(tgt):
+            errors.append(f"target paragraph {index}: {detail}")
+        if lint.D_CONTRACTION_RE.search(tgt):
+            errors.append(f"paragraph {index}: contraction ending in 'd")
+    for index, (src, group) in enumerate(zip(source, groups), 1):
+        tgt = "\n\n".join(group)
         for detail in lint.fixed_display_errors(src, tgt, phrases):
             errors.append(f"paragraph {index}: {detail}")
         for detail in lint.expansion_errors(src, tgt, glossary):
             errors.append(f"paragraph {index}: {detail}")
-        if lint.D_CONTRACTION_RE.search(tgt):
-            errors.append(f"paragraph {index}: contraction ending in 'd")
         for entry in lint.glossary_matches(src, glossary):
             if not lint.target_has_variant(tgt, entry["variants"]):
                 errors.append(
@@ -141,7 +208,10 @@ def main() -> None:
         for error in errors:
             print(f"  - {error}")
         raise SystemExit(1)
-    print(f"chat check: PASS ({len(source)} paragraphs)")
+    if args.display_splits:
+        print(f"chat check: PASS ({len(source)} source paragraphs, {len(target)} target paragraphs; mapped displays)")
+    else:
+        print(f"chat check: PASS ({len(source)} paragraphs)")
 
 
 if __name__ == "__main__":

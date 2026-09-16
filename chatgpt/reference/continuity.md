@@ -60,7 +60,7 @@ Chapters 1319-1320 at Chapter 1333.
 | Actor | Latest established state |
 | --- | --- |
 | Lü Yang | In Miluo Palace, gains Dao Lord status through the completed Heavenly Palace. The Book does not recognize a major-realm breakthrough. He occupies the status temporarily; no true breakthrough or Transcendence is established. |
-| Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Lowercase pronouns remain owner-established. |
+| Dao Tianqi | Lending wisdom light, with temporarily dulled thinking; Underworld repairs unfinished. Ordinary pronoun case applies under the current owner ruling. |
 | Si Sui | Returns with Lü Yang and integrates the Heavenly Dao into the Palace under Fate's aftershocks. Teaches retention of the self and compassion despite elevated status. |
 | World-Honored One and Cultivating Truth | The World-Honored One attends the duel and supplies its living stakes; Cultivating Truth has no new breakthrough shown. |
 | Primordial Saint | Deduces the shared-name art. Fears the pair's future Dao Lord restoration, but Si Sui's gaze prevents intervention. Turns toward the spent book with the madness of seeking the Dao. |
@@ -93,7 +93,7 @@ at Chapter 1334. The intact Heavenly Dao won in that duel now completes the Pala
   Him. He infers Jun's connection grants the Dragon access; this is His deduction.
 - Inside, 129,600 cultivators of the Doctrines of Names and Appearances form
   corpse monuments. Their collective blood sacrifice preserved their inheritance
-  through a rare treasure and Jun's allowance of a sliver of survival. The count
+  through a rare treasure and Jun's allowance of a sliver of hope. The count
   matches one yuan; it is not a duration of 129,600 years.
 - The treasure is 神禄天命书 (English title remains provisional). Its last use
   let the Saint start over; it is now spent. The Heavenly Scripture could not

@@ -47,6 +47,15 @@ def paragraphs(text: str) -> list[str]:
     return chat_check.paragraphs(text, allow_scene_breaks=True)
 
 
+def scoped_pronouns(entity: dict, chapter: int | None) -> str:
+    """Apply only the owner's explicit chapter boundary, not inferred identity."""
+    if chapter is not None and entity["entity_id"] in {"sword_sovereign", "vast_sky"}:
+        if chapter < 1129:
+            return "they/them/their"
+        return "she/her" if entity["entity_id"] == "sword_sovereign" else "he/him/his"
+    return entity["pronouns"]
+
+
 def main() -> None:
     common.configure_stdio()
     parser = argparse.ArgumentParser(description=__doc__)
@@ -64,9 +73,11 @@ def main() -> None:
     entities = common.load_entities(root)
     source_text = args.source.read_text(encoding="utf-8")
     source_paragraphs = paragraphs(source_text)
+    chapter_number = None
     if source_paragraphs:
         chapter = re.search(r"第\s*(\d+)\s*章", source_paragraphs[0])
         if chapter:
+            chapter_number = int(chapter[1])
             routing = state.load_json(root / "chapters" / "state.json")
             errors = state.incoming_chapter_errors(
                 int(chapter[1]), routing, observed_through=args.observed_through
@@ -129,7 +140,7 @@ def main() -> None:
         rows = ",".join(str(value) for value in sorted(entity_hits[alias]))
         print(
             f"  [{rows}] {alias} -> {actual_name} "
-            f"[{entity['entity_id']}; {entity['pronouns']}]"
+            f"[{entity['entity_id']}; {scoped_pronouns(entity, chapter_number)}]"
         )
         if entity["notes"]:
             print(f"    {entity['notes']}")
@@ -164,6 +175,12 @@ def main() -> None:
     print("\nmandatory English review:")
     for reminder in PROSE_REVIEW_REMINDERS:
         print(f"  - {reminder}")
+
+    print("\nowner-reference lookup:")
+    print("  Use state authority paths for formatting, idioms, title italics and system templates.")
+    print("  Retrieve matching entries only; later scoped owner rules override older phrase defaults.")
+    print("  Suspected idiom sources are hints; retained variants are local, not new global choices.")
+    print("  For display-only paragraph splits, record SOURCE:COUNT for chat_check.py --display-splits.")
 
     print("\nscene-break review candidates (judgment required):")
     for index, paragraph in enumerate(source_paragraphs, 1):

@@ -39,6 +39,10 @@ EXPECTED_AUTHORITIES = {
     "owner_decisions": "chatgpt/reference/decision-log.tsv",
     "project_sources": "chatgpt/reference/project-source-registry.md",
     "workflow": "chatgpt/instructions/workflow.md",
+    "formatting_rules": "chatgpt/reference/Reference_Formatting_Rules.md",
+    "idiom_reference": "chatgpt/reference/Reference_Idioms.md",
+    "italicized_titles": "chatgpt/reference/Reference_Italicized_Titles.md",
+    "talents_and_hundred_lives": "chatgpt/reference/Reference_Talents_and_Hundred_Lives.md",
 }
 
 EXPECTED_REPOSITORY_AUTHORITY = {

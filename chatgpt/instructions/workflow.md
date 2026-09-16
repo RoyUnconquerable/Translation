@@ -43,6 +43,10 @@ facts, reviewed scene positions, thought speakers/time references and material
 ambiguities. Search the glossary, phrase memory, decisions, world reference
 and continuity archive across their full history by the current referents.
 Read matching passages and enough context to resolve them, never whole archives.
+The four owner reference files in state are targeted lookups for formatting,
+idioms, titles and recurring system text. Use matching entries in the same draft
+and review; they add no extra stage or mandatory full-file reload. Exact owner
+decisions outrank inventory inference; local exceptions remain local.
 Do not refetch an unchanged historical entry already in active context.
 Match identity, incarnation, True/False History, viewpoint and chapter timeline
 before applying a reference fact. First attestation is not a first life or the
@@ -82,14 +86,19 @@ intervening sources and deliveries, keeping source seen, delivered and approved
 separate. Pass `--observed-through N` only for that verified in-session source
 frontier. This read-only input does not mutate state, prove delivery or grant
 approval. It cannot fill an unknown gap; retrieve specific missing evidence or
-report the uncertainty. Reconcile verified progress in the next approved atomic
+report the uncertainty. An explicitly approved English manuscript can advance
+the next-translation frontier while Chinese-source and chat-delivery evidence
+stay separate. Its approval record does not prove a bilingual audit. Reconcile verified progress in the next approved atomic
 update, without provisional files, handoff commits or guessed approvals.
 
 ## 2. Draft once
 
 Translate directly from the exact source. Preserve every source paragraph,
-including title, isolated reaction and ending, in order. Sentence structure may
-change inside paragraphs for clear English. Apply the style guide while writing:
+including title, isolated reaction and ending, in order. For genuine display
+lines/menu items only, separate panels and adjoining narration into paragraphs
+without changing their content/order. Record each source index and resulting
+target paragraph count for review and --display-splits; no prose splits or merges.
+Sentence structure may change inside ordinary paragraphs. Apply the style guide:
 resolve actors and ownership, use natural articles and collocations, connect
 source-supported reasoning, and preserve deliberate beats and revelation order.
 Produce delivery-quality prose now; do not defer these tasks to later editing.
@@ -134,8 +143,13 @@ python chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-b
 
 Pass no indices after the flag if no additional breaks are required; explicit
 source separators remain mandatory. Indices use the content numbering above.
-It checks framing, paragraph count, specified separators, terminology, fixed displays, typography,
-source residue and digit warnings. It does not prove semantic completeness,
+For authorized display splits, append --display-splits SOURCE:COUNT entries
+(for example 8:3). SOURCE is the original paragraph index; COUNT is its total
+target paragraphs, including adjoining narration. Omit this option otherwise.
+The checker accounts for the mapping, rejects undeclared/prose-only splits and
+scene breaks inside a split, and checks framing, terminology, panel formatting,
+fixed displays, typography, source residue and digits. Check panel classification,
+title italics, pronoun referents and exact system-template values in the same review. It does not prove semantic completeness,
 Chinese-number conversion or good English. Those require judgment in the
 bilingual review; neither review nor lint guarantees that no error remains.
 For real failures, fix only the affected spans and rerun the check. A lexical
@@ -171,8 +185,9 @@ Never omit content to meet it; explain a concrete blocker instead.
 Use `editing-spec.md` only on an approval, correction or maintenance turn. It
 handles feedback and durable learning, not an obligatory prose-editing stage.
 The separate English-only upload guide is evidence for relevant editorial
-lessons, not an execution authority for translation: its paragraph restructuring,
-Word tracking and absence-of-raws policy do not transfer to this path. Do not
+lessons, not an execution authority for translation: its general paragraph
+restructuring, Word tracking and absence-of-raws policy do not transfer to this
+path. The explicit display-only split ruling above does apply. Do not
 import new formatting conventions or terms without a matching owner ruling.
 Explicit owner corrections already authorize their verified update; do not
 ask again for whole-chapter approval. Supplied edits receive one indexed

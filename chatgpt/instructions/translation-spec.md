@@ -1,9 +1,10 @@
 # Translation source contract
 
 After the terminology gate in workflow.md, draft once from the exact supplied
-Chinese. Keep title, ending and one English
-paragraph per source paragraph in the same order. Do not merge, split, omit,
-reorder, summarize or invent content. Compose grammatical modern English within
+Chinese. Keep title, ending and source paragraph order. Keep one target
+paragraph per source paragraph except the explicit display-only split rule in
+workflow.md; record that mapping. Never merge paragraphs, split ordinary prose,
+omit, reorder, summarize or invent content. Compose grammatical modern English within
 those boundaries, preserving every detail and the Chinese cultivation setting.
 
 `reference/style-guide.md` is the sole macro prose authority. The terminology,
