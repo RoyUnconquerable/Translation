@@ -23,7 +23,8 @@ Use preparation's indices: title 1, standalone separators excluded. Account for:
   exact recurring templates, title italics/roman exceptions, **【...】** displays
   and genuine scene changes, without equating counts with complete coverage;
 - English grammar, articles/possessives, countability, prepositions, agreement,
-  complements, parallel actions, modifier attachment, collocations and referents;
+  complements, parallel actions, modifier attachment, collocations, referents
+  and like-for-like comparisons;
 - clear action geography, actor, means and consequence; ordinary complete
   sentences, deliberate fragments, rhythm, modern register and character voice;
 - natural contractions except forms ending in 'd; direct thought versus free
@@ -36,7 +37,10 @@ sequence or simultaneity, whether its referent remains clear, and whether a
 revelation arrives in its intended order. Preserve deliberate short beats;
 repair flow inside source boundaries, allowing only mapped display-layout splits. Check uninterrupted setup/payoff, including
 unfinished speech before an action. A sentence can be grammatical and still
-misassign an actor, repeat the previous transition or obscure whose time elapsed.
+use an unnatural collocation, bury its main action, misattach a qualification,
+repeat a transition or obscure whose time elapsed. Check the actual English
+phrase and scene relationship, not just term matches. A closing private question
+must retain its speaker and present viewpoint when the context establishes them.
 
 Reference conflicts require matching chapter, identity, incarnation/history and
 viewpoint. An older entry's silence or a later revelation is not grounds to

@@ -22,6 +22,17 @@ Extracted leading articles and adjacent words are not automatically part of a ti
 For a genuinely new or ambiguous title, batch the naming and formatting question
 with terminology approval; do not extend an isolated edit into a general rule.
 
+Later approved-manuscript lookups: *Art of Seizing Heaven through Name and
+Nature* is a named art (Ch.1313/1316); Book of Divine Blessings and the Mandate
+of Heaven is a roman artifact (Ch.1323 onward). Carefree Wandering is a roman
+realm name in Ch.1342, not a scripture title in that usage. These classifications
+do not alter the historical extraction counts below.
+
+Heart-Naming Spirit-Locking Art remains an italic named art; 称心锁神诀 in
+Ch.1346 is a spelling variant of the established 称心锁神决, not a new work.
+Order, Profound Virtue and Dao Ancestor Profound Virtue are roman Dao/personal
+titles, not scripture names; a wholly italic thought still keeps them italic.
+
 ## A. Historical inventory of italic title-like spans (93 distinct spans, 719 occurrences)
 
 The earlier extraction collected capitalized noun phrases that looked like titles.

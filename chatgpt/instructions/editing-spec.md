@@ -66,7 +66,8 @@ no cosmetic edits. Metadata alone does not require an intervening chapter commit
 Do not perform this work ahead of a waiting chapter. Mixed correction/source
 turns apply the correction immediately and deliver the chapter. Publish the
 approved update afterward at the first available maintenance opportunity under
-workflow.md, without requiring another approval or a feedback-only prompt. Be
+workflow.md, queuing reviewed local changes for its ten-chapter push cadence
+without requiring another approval or a feedback-only prompt. Be
 honest about what is and is not durable. Never commit source or translated chapter
 text, full comparison files, or provisional handoffs. All repository checks
 and remote publication follow the single gate set in workflow.md.

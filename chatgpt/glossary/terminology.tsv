@@ -20,7 +20,7 @@ source	target	notes
 昂霄	Soaring Firmament	the same being's pre-Ch. 1171 identity (Sun Eclipsing True Monarch); provenance terminology.tsv
 飞雪	Flying Snow	True Monarch Flying Snow; speaks formally, in complete sentences; provenance terminology.tsv
 极乐	Sublime Bliss	the Spell Dao Lord's disciple; true body is Taiyi; provenance terminology.tsv
-太一	Taiyi	a collective of bodies of consciousness; Sublime Bliss's true body; provenance terminology.tsv
+太一	Taiyi	a collective of bodies of consciousness; Sublime Bliss's true body; exclude the ordinary phrase not quite the same [except: 不太一样]; verified Ch.1339 source context; provenance terminology.tsv
 黄粱	Yellow Millet	the dream plane; from the Yellow Millet Dream allusion; provenance terminology.tsv
 老君庙	Old Lord Temple	as a bare call-out line renders plain: Old Lord Temple.; provenance terminology.tsv
 道主	Dao Lord	ordinary pronoun case applies; entity words and reveal timing follow entities.tsv; provenance terminology.tsv
@@ -44,8 +44,8 @@ source	target	notes
 心斋	Heart Fasting	a Dao Heart tier; provenance terminology.tsv
 元神	Primordial Spirit	provenance terminology.tsv
 果位	Fruition Attainment	named Dao Fruit Secret Art recipes keep "Dao Fruit"; provenance terminology.tsv
-道果	Fruition Attainment|Dao Fruit	general sense "Fruition Attainment"; named recipes and fused products keep "Dao Fruit"; provenance terminology.tsv
-真身	true body	lowercase; provenance terminology.tsv
+道果	Fruition Attainment|Dao Fruit	general sense "Fruition Attainment"; named recipes and fused products keep "Dao Fruit". Owner Ch.1339 retains Dao Fruit for the Heavenly Calendar Numbers as the fruit cultivated by the Heavenly Palace; preserve the linked tree/root/fruit image. Provenance terminology.tsv and Ch.1339 owner revision
+真身	true body|true bodies	lowercase; number follows syntax. Ch.1348 confirms the ordinary plural with plural Dao Lords; do not force singular wording to satisfy a lexical checker.
 报身	Reward Body	standalone only; 法外报身 is its own entry; provenance terminology.tsv
 法外报身	Dharma Transcending Avatar	distinct from standalone 报身; provenance terminology.tsv
 应身	Manifestation Body	it/its; a shadow; provenance terminology.tsv
@@ -153,7 +153,7 @@ source	target	notes
 阴阳	Yin and Yang	standalone paired cosmological forces; use Yin-Yang in established attributive compounds; provenance terminology.tsv
 五天数	Five Heavenly Numbers	established verified rendering; provenance owner-rulings-ch1221-ch1243.tsv
 五大天数	Five Heavenly Numbers	variant source form; owner-final Ch.1279; provenance terminology.tsv
-天人残识	Heavenly Person's Remnant Consciousness|Heavenly Person's Remnant Consciousnesses	number follows the source and context; provenance owner-rulings-ch1221-ch1243.tsv
+天人残识	Heavenly Person's Remnant Consciousness|Heavenly Person's Remnant Consciousnesses	singular is the default established name, including generic access; use plural only for multiple realms referred to together. Explicit owner correction before Ch.1343; preserves earlier singular wording and contextual plural.
 甲子荡魔	sixty-year purge of demons|purging demons for sixty years	noun event or verbal syntax follows context; provenance owner-rulings-ch1279.tsv
 宝命全形经	Treasured Life Perfect Form Scripture	owner-final Ch.1279; provenance owner-rulings-ch1279.tsv
 命运长河	River of Fate	owner-final Ch.1279; provenance owner-rulings-ch1279.tsv
@@ -303,7 +303,7 @@ source	target	notes
 半步道君	half-step Dao Lord	Sanhe's cultivation status; provenance owner-final Ch.1270
 天生三灵	three innate spirits	Sanhe's congenital three-spirit condition; provenance Ch.1270 onward
 道途	Dao Path	capitalized cultivation path; provenance Ch.1273 onward
-因果	Karma|karma|karmic|cause and effect|causality	capitalize the named Great Dao; use lowercase contextual forms for ordinary causal relations; provenance Ch.1265 onward
+因果	Karma|karma|karmic|cause and effect|causality	Capitalize the named Great Dao. Prefer karma for the world's metaphysical causal fabric, including erasure from karma and history (owner Ch.1346); cause and effect/causality remain contextual options for ordinary relations and reasoning. Do not rename every causal reference.
 造化	Creation|creation	capitalize the named cosmological authority; lowercase ordinary creation; provenance Ch.1268 onward
 光铸的双手	hands forged from light	explicit owner correction after Ch.1277; never light-forged hands
 都玄	Du Xuan	Spiritual Power Dao Lord; ordinary pronouns he/him/his; provenance consolidation
@@ -326,8 +326,8 @@ source	target	notes
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命]. Ch.1288 and Ch.1303-1309 source checks; independent paired occurrences remain enforced.
-神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase in ordinary prose, Title Case in the chapter title or an established proper name
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
+神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase generic use; Title Case in a chapter title or established name. The more specific category 大神通 is Great Divine Ability/Abilities under the Ch.1346 owner correction.
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
 道器	Dao Artifact	Capitalize this artifact class; owner-final Ch.1290
@@ -376,3 +376,26 @@ source	target	notes
 道侣	Dao Companion|Dao Companions	Owner Ch.1329 consistently capitalizes the cultivation relationship. Select number and article by syntax; do not imply romantic sincerity where the source describes exploitation.
 太上忘情	supreme detachment	Owner Ch.1332 replaces the explanatory supreme state of forgetting all feeling. Use state of supreme detachment where syntax needs it. The state removes feelings as the threads' target; do not weaken its stated mechanics to mere composure.
 慧剑	sword of wisdom|swords of wisdom	Explicit owner correction during Ch.1332, consistent with owner Ch.1326. Lowercase; singular/plural by source. Preserve the separately established full title Eight Negations Wisdom Sword.
+秩序之光	Light of Order	Owner Ch.1339 consistently capitalizes the named light used for viewing and analyzing things as data. Normally takes the definite article; this is not a universal capitalization rule for ordinary order.
+黜龙尺	Dragon-Demoting Ruler	Artifact name verified in the owner book reference, approved manuscript Ch.1000 onward, and Ch.1339 owner revision; normally takes the definite article, roman as a name.
+情之一道	Dao of Feelings	Owner Ch.1341 capitalizes and pluralizes the named path in Nian Yao's record. Keep ordinary feeling(s), Gate of Feeling and Tribulation of Feeling under their existing contextual rulings.
+化神传人	Divine Transformation Heir	Unique Talent; name and awakening announcement explicitly approved for Ch.1342. Roman name; access to Heavenly Person's Remnant Consciousness regardless of cultivation, not a granted cultivation realm.
+逍遥游	Carefree Wandering	Named Heavenly Person's Remnant Consciousness realm, roman; approved manuscript Ch.898/1035/1094, verified during Ch.1342 preparation. Do not treat as a newly translated scripture title in this usage.
+名性夺天法	Art of Seizing Heaven through Name and Nature	Named art, italic title; approved manuscript Ch.1313/1316, retrieved for Ch.1344. Its ritual is maintained in Grand Ancestral Master.
+神禄天命书	Book of Divine Blessings and the Mandate of Heaven	Roman artifact name; fully approved manuscript Ch.1323/1325/1333/1336/1337, verified at Ch.1344. Supersedes older provisional labels and alternative memory renderings.
+真元婴	true Nascent Soul	Lowercase descriptive true; approved manuscript Ch.1299-1338 and retained in Ch.1344 owner revision. Distinguish the Saint's changed nature from borrowed Other Shore status.
+假超脱	false Transcendence	Lowercase descriptive false; approved manuscript Ch.1299/1302/1306 and retained in Ch.1344 owner revision. Si Sui's attainment remains distinct from true Transcendence.
+玄德	Profound Virtue	Lü Yang's protective honorific title, explicitly approved Ch.1345; chosen using the Heart-Naming Spirit-Locking Art. His claimed origin outside the Sea of Light is a disguise, not confirmed ancestry.
+道祖	Dao Ancestor	Established approved manuscript Ch.1280. Ch.1345 Lü Yang chooses this rank for his Dao-creating persona; it does not rename every Dao Lord.
+玄德道祖	Dao Ancestor Profound Virtue	Explicit owner approval Ch.1345; Lü Yang's assumed full title, not a separate person.
+秩序	Order|order	Order names Lü Yang's Great Dao in Ch.1346; ordinary order stays lowercase by context. Explicit approval before delivery; no display brackets for an inline name.
+秩序大道	the Great Dao of Order	Approved Ch.1346 expanded Dao name. Also permits the source form 【秩序】大道 through the component entries; do not invent a different Dao.
+称心锁神诀	Heart-Naming Spirit-Locking Art	Ch.1346 spelling variant of 称心锁神决, the same established named art; italic title.
+尊号	honorific title	Explicit owner correction before Ch.1346: use the full phrase, not bare honorific. Distinct from the older 尊名 honorific name ruling.
+道号	Dao title	Owner Ch.1346 P35 replaces Dao name; use for the chosen Daoist appellation, not a birth name.
+师叔	Martial Uncle	Owner Ch.1346 P22/53 capitalizes a specific sect-relative title even after my. Claimed Martial Uncle Jun relationship does not establish real lineage.
+大神通	Great Divine Ability|Great Divine Abilities	Owner Ch.1346 P6 capitalizes this cultivation category; supersedes the prior generic-case treatment of the full compound, not all 神通.
+死循环	Infinite Loop	Explicit owner approval and retained Ch.1347 revision. The Primordial Saint's name for Lü Yang's closed Dao cycle; it freezes cultivation until reopened. Roman name, not an italic work.
+鱼肠	Fish-Gut Sword	Owner approved before Ch.1348 delivery. Named item held by the World-Honored One's sacred image; roman artifact name. Do not infer an identification with an external mythic deity.
+加持神杵	Blessed Divine Pestle	Owner approved before Ch.1348 delivery. Item held by the World-Honored One's sacred image; roman artifact name.
+情丝	threads of affection	Lowercase; verified approved manuscript Ch.1326-1332, retrieved for Ch.1348. The Sword Sovereign's means of control; preserve context and inflect singular only when the source requires it.

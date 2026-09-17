@@ -239,6 +239,15 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("现世", names)
         self.assertIn("伟力", names)
 
+    def test_not_quite_same_does_not_mask_taiyi(self):
+        glossary = common.load_glossary(self.root)
+        ordinary = "和我想要的慧光恐怕不太一样。"
+        hits = {r["source"] for r in lint.glossary_matches(ordinary, glossary)}
+        self.assertNotIn("太一", hits)
+        mixed = ordinary + "太一仍然是一个意识集合体。"
+        hits = {r["source"] for r in lint.glossary_matches(mixed, glossary)}
+        self.assertIn("太一", hits)
+
     def test_mental_absence_is_not_the_outer_heavens(self):
         glossary = common.load_glossary(self.root)
         figurative = "他魂游天外，开始流口水。"

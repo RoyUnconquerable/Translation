@@ -31,6 +31,10 @@ located proposal, not an automatic new rule or permission to edit the novel.
   follow the syntax of the quoted fragment or ensuing sentence. Exact approved title-case
   panel labels keep their case. Preserve names such as Qi He, Bai He, Yu She, He Yongdao
   and You Metal. The divine-capital convention is withdrawn.
+- Retain Martial Uncle for a specific sect-relative title, including my Martial
+  Uncle and Martial Uncle Jun (Ch.1346 owner correction). This does not capitalize
+  every kinship noun, master, or pronoun. Great Divine Ability/Abilities is the
+  approved category for 大神通; generic 神通 remains divine ability/abilities.
 
 ## Italics
 
@@ -89,10 +93,14 @@ Do not infer pronoun identity or revelation timing from a case-only replacement.
 
 - Ch.1303's approved Heavenly Scripture display is
   **【I resent that heaven and earth aren't benevolent, and that the Great Dao isn't equal. Today, for your sakes, I shall make it equal】**.
+- The data-erasure operation has the approved standalone display **【Delete】**
+  (manuscript Ch.1330; repeated Ch.1348). Inline uses, as in Ch.1349, remain
+  ordinary prose and follow grammatical case/inflection.
 - Time (【时光】), Ring (【环】), and the Five Elements Dao (【五行】大道) are concepts, not panels.
   Jun (【均】) is a named being. Source brackets do not change those classifications.
-- Heavenly Scripture stays roman under the explicit title exception. Its relationship
-  to the Book of a Hundred Lives is unresolved; do not invent a cultivation-work identity.
+- Heavenly Scripture stays roman under the explicit artifact-title exception.
+  Ch.1342 identifies it as the Book of a Hundred Lives' title page; do not apply
+  that later knowledge before its reveal or invent a cultivation-work identity.
 - Preserve the exact named technique Calamity Fiend Profound Light.
 - Use `Reference_Idioms.md` for idiom choices and local exceptions. The survival idiom
   is sliver of hope, adapting articles and grammar without changing the core phrase.

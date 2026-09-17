@@ -54,6 +54,17 @@ paragraph exception in `Reference_Formatting_Rules.md` when needed.
 
 Talents whose description is not a 【Name: ...】 panel (option-list entry or unnamed follow-on panel), so no canonical line was extracted: A Guest Rejected by Heaven and Earth, Heaven and Earth Born with Me, Vajra Realm Mandala.
 
+## Later approved Talent name and announcement
+
+Ch.1342 owner approval establishes **Divine Transformation Heir** and the exact
+announcement **【You have awakened the Unique Talent: Divine Transformation Heir】**.
+This identity grants entry and exit regardless of cultivation. The source-backed
+mechanic does not declare a new cultivation realm or canonize an unapproved full
+English description. The subsequent owner correction uses **Heavenly Person's
+Remnant Consciousness** as the default singular name, including generic access;
+**Heavenly Person's Remnant Consciousnesses** is for multiple realms together.
+Apply that correction when the description next appears.
+
 ## Immortal Pivot Survival Guide verdicts
 
 Tier labels, lowercase "trap", each panel keeps its own follow-on clause; no terminal period or exclamation mark inside the bracket. Historical inventory counts (not a current validation gate): No trap (11), Minor trap (5), Enormous trap (7), Major trap (3).

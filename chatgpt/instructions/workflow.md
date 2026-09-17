@@ -101,7 +101,9 @@ target paragraph count for review and --display-splits; no prose splits or merge
 Sentence structure may change inside ordinary paragraphs. Apply the style guide:
 resolve actors and ownership, use natural articles and collocations, connect
 source-supported reasoning, and preserve deliberate beats and revelation order.
-Produce delivery-quality prose now; do not defer these tasks to later editing.
+Construct natural English actions and claims during drafting, then retain their
+source means, degree, choice and timing. Do not settle for individually correct
+words in an awkward phrase or defer sentence construction to later editing.
 Do not generate competing drafts or start a new translation from an owner edit.
 
 ## 3. One bounded bilingual review and targeted repair
@@ -194,10 +196,11 @@ ask again for whole-chapter approval. Supplied edits receive one indexed
 comparison and the same bounded bilingual check, not two additional reviews.
 If feedback and a new chapter arrive together, apply the live correction to
 that chapter and deliver it first. Publish the approved consolidated update
-after delivery at the first available maintenance opportunity, in the same turn
-if the interface allows it. If final chat delivery ends the turn, resume the
-authorized update on the next available turn; no feedback-only prompt or renewed
-approval is required. A waiting chapter still comes first. Do not claim
+after delivery at the first available maintenance opportunity, subject to
+the ten-chapter publication cadence below. Prepare verified local updates
+without waiting for the push boundary. If final chat delivery ends the turn,
+resume the authorized update on the next available turn; no feedback-only
+prompt or renewed approval is required. A waiting chapter still comes first. Do not claim
 unpublished changes are saved.
 
 Compare against the source and delivered draft, asking why each changed sentence
@@ -223,9 +226,16 @@ real defect, rerun only affected checks after fixing it. Size warnings prompt
 focused consolidation on maintenance turns; preserve valid rules and do not
 raise limits or reclassify a real term just to silence a warning.
 
-Publish one coherent commit to the canonical branch and, when different, the
-working branch without force-pushing. Fetch/check the current remote before
-publication; if it moved, reconcile without overwriting external work. Use the
+The owner requested pushes every ten chapters starting with the Ch.1340
+request. Apply feedback immediately and prepare coherent local commits on
+maintenance turns; push the accumulated reviewed updates after each ten new
+chapter deliveries (first batch Ch.1340-1349), or on an explicit earlier push
+request. Editing feedback does not count as another delivered chapter. A
+local commit is queued work, not published persistence.
+
+At the batch boundary, publish the reviewed commits to the canonical branch
+and, when different, the working branch without force-pushing. Fetch/check the
+current remote before publication; if it moved, reconcile without overwriting external work. Use the
 normal authenticated Git path when available; otherwise use the existing GitHub
 connector once with bounded file reads. Verify the published tree against the
 reviewed local tree and remote tip. Do not repeatedly try a known unavailable
