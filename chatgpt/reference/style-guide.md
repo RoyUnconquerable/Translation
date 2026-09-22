@@ -15,23 +15,21 @@ When principles compete, use this order:
 
 ## Target register
 
-- Write fluent, published-quality American English that still feels rooted in
-  a Chinese xianxia world.
-- Modern and direct is the default. Formal means composed and precise, not
-  faux-Victorian or needlessly archaic; retain source-supported ritual courtesy.
-- Keep the actor and main verb easy to find. Avoid burying actions in opening
-  modifiers or using inversion merely for drama.
-- Use elevated cadence only when the source is genuinely elevated, such as a
-  poem, scripture, edict, ritual declaration, classical maxim, or major Dao
-  pronouncement.
+- Write natural modern American English rooted in the Chinese xianxia world.
+  Readers should follow action, reasoning and speech without reconstructing
+  Chinese syntax. Fit phrases to speaker and purpose; preserve detail and ambiguity.
+- Default to direct, modern prose. Formal speech is composed and precise,
+  not faux-Victorian; keep source-supported ritual courtesy.
+- Use elevated cadence only where the source warrants it, including poems,
+  scriptures, edicts, ritual declarations, classical maxims and major Dao
+  pronouncements.
 - Keep Daoist and Buddhist concepts, cultivation hierarchy, sect culture,
   karma, incense, cause and effect, and Heaven-and-Earth imagery intact. Do not
   replace them with unrelated Western fantasy language.
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
-- Choose length by meaning, not minimum word count. Fuller phrasing may clarify
-  a reaction; trimming may remove a needless explanation. Preserve source details
-  and qualifications, without specifying a setting or lineage beyond its context.
+- Let meaning set length. Clarify reactions without losing qualifications or
+  inventing explanation, setting or lineage.
 - Preserve modern system/matchup humor through natural terms such as raw stats
   or mechanics. Ease of use is not mindlessness; retain an accompanying idiot
   joke only when sourced. Do not elevate it into ceremonial martial abstraction.
@@ -44,18 +42,18 @@ When principles compete, use this order:
   retain all content in order. Never merge source paragraphs or split prose for flow.
 - Verify content and boundaries, including owner edits and short reactions.
   Equal counts can conceal a split paired with a merge or omission.
-- Within a source paragraph, join linked actions or reasoning and give distinct
-  beats room. Retain every premise, means, consequence, contrast, uncertainty
+- Within a source paragraph, connect actions, questions and supporting thoughts;
+  give distinct beats room. Retain every premise, means, consequence, contrast, uncertainty
   and emphasis. Keep conditions and exceptions beside their claims; preserve
   causal punch lines.
 - Preserve every number, date, sequence, comparison, negation, title,
   relationship, limit and degree of certainty. Keep restricted options distinct
   from obligation, attempts from success, overlap from fusion, and understanding
   from ability. Attribute experienced time to its observer, not everyone present.
-- Preserve small details: intent, timing, posture, gestures, addressees,
-  degree, totality, and bounded scale. A broad category can lose a concrete
-  action or object: study may omit reading, and cultivation may omit problems.
-  Convey these naturally; neither fluency nor fewer words proves completeness.
+- Preserve intent, timing, posture, gestures, addressees, degree, totality and
+  bounded scale. Broad categories can lose concrete detail: study may omit
+  reading, cultivation may omit problems. Fluency and brevity prove neither
+  completeness nor accuracy.
 - Do not add motives, explanations, images, conclusions, emotional labels, or
   connective logic that the source does not supply.
 - Preserve interrupted thoughts, setup/payoff and revelation order. Do not fill
@@ -68,53 +66,55 @@ When principles compete, use this order:
 
 ## Sentence construction and pacing
 
-- Follow each source paragraph's movement, including multiple linked beats.
-  Preserve isolated reactions and verdicts; do not force one beat per paragraph.
-- Connect actor, means, movement and consequence using concrete verbs and parallel
-  actions. Keep geography, ownership and uncertainty; do not turn sequence into
-  causation, an abstract result into an attacker, or emotion into invented motion.
-- Split overloaded clauses and connect related premises within source paragraphs.
-  Name a perceived object directly when a vague what-clause buries it, then give
-  its details. Prefer the thinking actor to an abstract
-  conclusion's arrival when both express the source. Keep linked deductions connected and dialogue lists spoken;
-  a separate image, proposal or stakes sentence can clarify without fragmenting.
-- Check articles, possessives, countability, prepositions, complements and
-  participle subjects. Judge whole phrases: brought his foot down hard, fight
-  to a stalemate and agreed to it are natural in their supported contexts.
-  Place qualifications, only and means beside what they modify; keep paired
-  verbs and modals parallel, ownership clear and deliberate control intact.
-  Compare like with like: a Dao's strength with other Daos, not their cultivators.
-- Describe sensations through their experiencer: even with his cultivation,
-  he felt the weight pressing down. Do not make cultivation the agent that
-  could not spare him the sensation.
-- Give actions clear objects; name recipients or possessors when pronouns obscure
-  them. Relational prepositions can clarify stacked modifiers. Keep appositions
-  clear; joining two labels with and must not invent a second object.
-- Attach quantities to their actual referents. Explain what is understood
-  versus why it works, and authority exercised versus direct rule; do not
-  replace an unstated subject with a narrower group without source support.
-- Preserve externally forced combat movement and its consequences; a blow sending
-  someone flying must not read as a voluntary retreat.
-- Choose transitions by their actual relationship. Preserve just-spoken words,
-  next-moment action, abrupt reversals and a procedure's resulting achievement;
-  trim or vary connectors only to repair awkwardness, never to lose those beats.
-- Show escalation through concrete changes; do not repeat grandeur or explain
-  a completed reveal. Equivalent wording is not a defect.
-- Preserve deliberate repetition in reasoning, parallel rhetoric and mounting
-  danger. Do not remove source emphasis to shorten a sentence or cycle through
-  synonyms for a fixed cultivation concept. Optional pauses remain contextual.
-- After identifying an attack or technique, use the lightest clear referent;
-  avoid both repeated compound labels and ambiguous shortening.
+- Build around the main action, perception or deduction with a clear subject
+  and ordinary verb. Rebuild awkward syntax, not just its vocabulary. Actions
+  may be subjects; narrated acts need finite verbs, not command-like notes or
+  dangling gerunds. Prefer concrete causal language and explicit agents to
+  nominal padding or stacked abstractions, even when technically defensible.
+- Arrange related clauses so readers can follow premise, condition, limitation
+  and consequence without reconstructing their links. Join dependent ideas;
+  separate overloaded actions and distinct beats inside the source paragraph.
+  Link known to new information while preserving revelation order, uncertainty
+  and deliberate gaps. Clarify event order with natural sequence markers
+  when the source moves from origin to eventual result. Dialogue lists must
+  still sound spoken.
+- Develop spatial and sensory images coherently across their verbs: connect
+  movement, scale, light, shadow and the character's relation to them. Preserve
+  means, geography and ownership without abstract labels or invented movement,
+  direction or explanation. Sequence alone does not establish cause.
+- Keep perception, feeling and awareness with their experiencer. An effect can
+  be the subject without acquiring consciousness. Name perceived objects
+  directly and thoughts through their thinker, not an abstract act of viewing.
+- Choose complete, familiar expressions suited to the context, not isolated
+  synonyms or maximum brevity. Check articles, possessives, countability,
+  prepositions, complements, appositions and participle subjects. Keep paired
+  actions/modals parallel, qualifications and only beside what they modify,
+  and comparisons like for like: a Dao's strength with other Daos' strength.
+- Give verbs clear objects and quantities their actual referents. Use pronouns
+  where clear, names or relational prepositions where stacked labels obscure
+  ownership. Do not narrow an unstated subject or turn two labels into two objects.
+  Distinguish understanding from its explanation and exercised authority from
+  direct rule. Forced combat movement must not become voluntary retreat.
+- Choose transitions by relationship and emphasis, not the Chinese connector
+  alone. Preserve immediate responses, next-moment actions, reversals and an
+  accomplished procedure's result. Remove doubled framing that conveys the same
+  beat without adding meaning; do not remove source qualifications or emphasis.
+- Vary sentence length with the scene's purpose. Connect sustained reasoning and
+  imagery, but preserve isolated reactions, interrupted setups and punch lines.
+  Show escalation through concrete change without explaining a completed reveal.
+  Retain repetition developing danger, rhetoric, humor or an emotional motif;
+  do not rotate synonyms for a fixed concept. Equivalent wording is not a defect.
 
 ## Voice
 
 - Lü Yang may sound blunt, sardonic, contemporary, profane, or shameless when
   the source does. Preserve the joke and let it land once.
 - Dao Lords and other formal speakers remain composed, confident and readable.
-- Preserve formality, temperament and relationships. A deferential reply may
-  acknowledge an elder without evaluating them. Natural English can retain
-  this humble Daoist for self-effacing 贫道, especially a performed persona;
-  do not erase that social voice or mechanically expand every occurrence.
+- Preserve temperament, status and immediate purpose, including persuasion,
+  evasion and concealed intent. Phrase courtesies as natural requests,
+  invitations, acknowledgments or apologies; check whole spoken expressions.
+  Allow source-supported shifts from formality to colloquial urgency. Retain
+  this humble Daoist for self-effacing 贫道 where the persona matters.
 - Keep insults, threats, cruelty, slang, and comic reversals at source strength.
   Let context carry implied exploitation; do not routinely label people human
   material. Preserve explicit harvesting or sacrifice when the source states it.
@@ -133,22 +133,18 @@ When principles compete, use this order:
   for current perceptions, future for plans, conditional for hypotheticals,
   and past or perfect for memories. Do not backshift immediate thoughts to
   match narration. Free indirect narration stays roman and normally past.
-- Determine direct thought from voice and context, not quotation glyphs.
-  Third-person analysis may remain roman free indirect narration even inside
-  Chinese thought marks. For an elided subject, retain the thinker's immediate
-  viewpoint instead of inventing a third-person report.
-- Unmarked private rhetorical paragraphs may become italic first-person thought
-  only when unmistakably the viewpoint character's mental speech. Keep each
-  source paragraph separate.
+- Classify thought by voice and function, not quotation glyphs. Third-person
+  analysis and topical bridges may remain roman despite Chinese thought marks.
+  Unmistakable first-person wishes, decisions and private rhetorical speech
+  take italics even when unmarked. Keep source paragraphs separate; for elided
+  subjects, preserve immediate viewpoint rather than invent a third-person report.
 - When history is rewritten, use tense to show the new established past and
   any event anterior to it. Do not backshift mechanically.
-- Direct thought is natural mental speech connecting observation, motive and
-  consequence without losing premises. When an immediate private deduction
-  continues across source paragraphs, retain that viewpoint through its
-  consequence; do not slip into a detached third-person report mid-thought.
-  Si Sui's everyday ethical reasoning may
-  use ordinary decency rather than abstract moral conviction; this is not a
-  philosophy-wide substitution. Keep source-supported sarcasm.
+- Direct thought is mental speech, not a report of reasoning. Connect observation,
+  intent, action and consequence; voice decisions and intended responses without
+  adding motives. Preserve conditions, self-correction, fragments, certainty,
+  sarcasm and viewpoint. Si Sui's everyday ethics may use ordinary decency for
+  moral conviction, not as a philosophy-wide substitution.
 - Do not add thought tags or restate in narration what an italicized thought
   has already established.
 
@@ -163,17 +159,18 @@ When principles compete, use this order:
   Use sliver of hope for the survival idiom; preserve contextual grammar.
 - Preserve an idiom's defining image when that image carries the argument,
   joke, characterization, or a later metaphor chain.
-- Naturalize a lexicalized idiom when its image is dormant and literal wording
-  would sound translated. Do not unpack every implication. Preserve meaning
-  and force; a retained live image still needs idiomatic surrounding English.
+- Naturalize dormant idioms and conventional gestures by their contextual
+  function, without unpacking them. Keep meaning, force and
+  live images idiomatic: developed a taste can preserve appetite without literal
+  marrow. Retain imagery the source actively develops.
 - Apply this distinction within the same passage: a snake proverb may retain
   its image while a figurative claim that someone is a spent force needs no
   crossbow bolt. When applying a proverb to a person, natural phrasing can
   carry its implication without repeating a literal anatomical image.
-- Retain the cultural image in natural English syntax. Mentioning its animal
-  or object is insufficient: the comparison must convey the intended judgment.
-  An allusion does not license inversion, ceremonial filler, inflated diction,
-  unnecessary geographical labels or explanatory glosses.
+- Make a cultural image's comparison immediately clear in natural English;
+  naming its animal or object is insufficient. Preserve deliberate contrasts,
+  such as a calm voice with a violent effect. Allusions do not license inversion,
+  filler, inflated diction, extra geography or explanatory glosses.
 - Translate linked imagery as a coherent chain across paragraphs and chapters.
 - Preserve wordplay and altered quotations. An explicit owner rendering of
   a pun outranks a new compensating insult; retain its tone in context.
@@ -195,7 +192,9 @@ When principles compete, use this order:
   straight ASCII single quotes.
 - Do not italicize dialogue as thought. Named titles within ordinary dialogue
   still follow Reference_Italicized_Titles.md. Keep an already clear speaker bare.
-- Use speech tags sparingly; never invent gestures or modifiers to explain tone.
+- Use speech tags sparingly; never invent gestures or tone. Preserve isolated
+  lead-ins while connecting their wording to the speech. Keep warnings' source
+  conditions and consequences in natural spoken syntax.
 - Mark a genuine hard change of place, time, or viewpoint with a line containing
   only `---`. Review the boundary deliberately rather than omitting all breaks
   because the Chinese has no printed separator. Do not add breaks solely for
@@ -252,8 +251,9 @@ When principles compete, use this order:
 ## Numbers and house mechanics
 
 - Use digits with commas for exact large values and words for rhetorical
-  magnitudes. A rise from thirty to fifty percent is twenty percentage points,
-  not twenty percent better odds. Keep the quantity and its dimension clear.
+  magnitudes; countless can convey uncounted hyperbole, not a numeric mechanic.
+  Thirty to fifty percent rises twenty percentage points, not twenty percent.
+  Keep each quantity, comparison and dimension clear.
 - Convert ordinary physical measures with their values, not just unit labels.
   Under the series policy, 100,000 li is about 31,000 miles, not 100,000 miles.
 - Use the serial comma, `toward`, and `farther` for physical distance.

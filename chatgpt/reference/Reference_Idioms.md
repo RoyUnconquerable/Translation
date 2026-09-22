@@ -44,7 +44,7 @@ below remain undecided; proposed resolutions are not approvals.
 | 13. as impregnable as an iron barrel | as impregnable as an iron barrel | as airtight as an iron barrel; as impenetrable as an iron bucket; as secure as an iron drum | 铁桶一般 / 固若金汤 |  |
 | 14. as stable as Mount Tai | as stable as Mount Tai | as steady as Mount Tai | 岿然不动/稳如泰山 |  |
 | 15. ascending to heaven on a smooth path, accomplished in one move | reach the heavens in a single step | ascending to heaven on a smooth path, accomplished in one move; in a single leap, to a high position; a leap in status akin to soaring to the heavens | 一步登天 / 一步登天 (adapted) |  |
-| 16. beat grass startle snake | beat the grass and startle the snake | stir the grass and startle the snake; alert the snake by hitting the grass | 打草惊蛇 |  |
+| 16. beat grass startle snake | beat the grass and startle the snake | stir the grass and startle the snake; alert the snake by hitting the grass | 打草惊蛇 | Local exception: Ch.1355 owner uses "alert him to what I'm doing" in Lü Yang's private plan. The general wording is unchanged. |
 | 17. bird startled by bow | a bird startled by the twang of a bow | a bird that has been shot at once too often; startled birds jumping at every shadow | 惊弓之鸟 |  |
 | 18. bolt from the blue | a bolt from the blue | a calamity from the blue; a thunderclap from a clear sky | 晴天霹雳 |  |
 | 19. break pots sink boats | break the pots and sink the boats | burn his boats | 破釜沉舟 |  |
@@ -328,7 +328,7 @@ below remain undecided; proposed resolutions are not approvals.
 | 309. white steed passing gap | like a white colt glimpsed through a narrow gap | like a white colt passing through a gap; like a white steed flashing past a gap; like a white colt flashing past a crack; like a white steed passing a gap | 白驹过隙 (庄子) / 白驹过隙《庄子》 / 白驹过隙 |  |
 | 310. a wise man does not stand beneath a crumbling wall | a gentleman does not stand beneath a crumbling wall | a wise man does not stand beneath a crumbling wall; a man of worth doesn't stand beneath a falling wall | 君子不立于危墙之下（《孟子》） |  |
 | 311. all things were straw dogs | all things were straw dogs; Heaven and Earth are not benevolent; they treat all things as straw dogs |  |  |  |
-| 312. amitabha invocation | Amitabha; Amita-Fucking-Buddha |  |  |  |
+| 312. amitabha chant | Amitabha; Amita-Fucking-Buddha |  |  |  |
 | 313. Amitabha's forty-eight vows parody | beings in my land should fall again into the three evil paths after death, may I not attain Supreme Perfect Enlightenment; there should/still are hells, hungry ghosts, or beasts in my land, may I not attain Supreme Perfect Enlightenment; beings in my land should fail to gain the body of Vajra-Narayana, may I not attain Supreme Perfect Enlightenment; the heavenly beings in my land do not possess a true golden  body, I shall not attain Supreme Enlightenment; should any heavenly being in my land give rise to thoughts of desire and attachment to the body, I shall not attain Supreme Perfect Enlightenment | the heavenly beings in my land are not all of/do not all possess a true golden body, I shall not attain Supreme Perfect Enlightenment; if my land contains hells, hungry ghosts, or beasts, I shall not attain Supreme Perfect Enlightenment | 阿弥陀佛四十八大愿 |  |
 | 314. beneath frosty sky contend freedom | beneath the frosty sky, all creatures contend for freedom; competing for freedom |  |  |  |
 | 315. birth aging sickness death | birth, old age, sickness, and death | birth, aging, sickness, and death | 生老病死 |  |

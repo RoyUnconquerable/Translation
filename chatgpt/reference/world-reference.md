@@ -31,33 +31,12 @@ the ledger for reviews. Character claims are explicitly attributed.
   aftershocks can overwhelm unsheltered Primordial Spirits. Unlike the Nascent
   Soul Dao Body, Si Sui's transcendent true body does not harm lesser viewers.
 
-## History and causality
+## History and causality: lookup
 
-- The Ancient Past predates the Primordial Era; time is cut off there, making
-  its history untraceable. The seven Heavenly Person's Remnant Consciousnesses
-  survive as its greatest relics.
-  Vast Sky says the Ancestral Dragon transmitted, rather than invented,
-  cultivation in the Primordial Era. Si Sui's proving the Dao began the
-  Ancient Era's golden age.
-- At that era's end, Si Sui and the Dao Lords suppressed the Dragon and built the Other
-  Shore. The Saint, Sword Sovereign, and Vast Sky later suppressed Si Sui and
-  built the Heavenly Dao, beginning the 129,600-year Medieval Antiquity Era.
-  Both systems draw on Ancient Past Dao Lineages; Vast Sky says all six Dao
-  Lords received them, with the Saint receiving the most.
-- The first history, replaced after the Dao Lord war, underlies False History.
-  Convergence mixes causality: incompatible events become simultaneously valid
-  and invalid. Divergence anchors causality, letting Si Sui follow it to
-  recover 129,600 removed years; early forced escape would forfeit them.
-- Dao Lords with completed Primordial Spirits escaped and changed the False
-  History, making it differ from the original. Variables governs departures
-  from an established course; Karma reaches it as an unorthodox branch. A
-  Guest Rejected by Heaven and Earth prevents rewriting Lü Yang's own history
-  while active.
-- The Saint manifests future actions in reality, separates people and nearby
-  destinations across time, and banishes opponents into the Future without
-  killing them, preventing intervention. Opposition costs rule out unlimited
-  capacity. He can leave an injured version in the Past and retain an unharmed
-  present body, but His aura falls: shedding a wound does not erase its cost.
+Full notes remain verbatim in continuity-archive.md under Archived history and
+causality world notes at Chapter 1362. They cover era origins, False History's
+convergence/divergence, Variables and Karma, and the limits and costs of the
+Saint's temporal maneuvers. Apply current ordinary pronoun case.
 
 ## Cultivation and Dao Lord status
 
@@ -161,30 +140,12 @@ old sea erodes it. Variables remains outside. Si Sui retains Dao Lord status
 as a Spirit thought; the Saint lost Nascent Soul status. Full qualifications
 remain in continuity-archive.md under Archived world separation at Chapter 1333.
 
-## Governing systems
+## Governing systems: lookup
 
-- The Heavenly Dao was built to command the False History and its causal
-  development. The World-Honored One's position once served as an anchor that
-  limited this control.
-- The God-Sealing Method joins gods and people through incense, Divine Ranks,
-  territory, and reciprocal support. Prosperous people strengthen their gods;
-  advancing gods raise the Heavenly Palace. Modified methods retain this
-  effect. Western leaders answer operational calls but need not attend court.
-  Lü Yang models the Palace's upward path for all life on the Underworld.
-- Returning through 129,600 years of False History rooted the God-Sealing
-  Dao Lineage in the sea. Cultivators access their old powers through it;
-  rejecting it severs that practical connection (Chapter 1277).
-- Vast Sky cannot erase Lü Yang's Fortune by suppressing either of his names
-  alone. While the False History is still returning, Lü Yang's great
-  achievement is sustained together by the God-Sealing Dao Lineage, the Sea of
-  Light's blockade, and the False History; all three would have to be
-  suppressed at once.
-- Lü Yang can unite the Sea of Light's Boundary Heavens, living beings, gods,
-  Great Daos, Heavenly Palace, and core Mysteries into one collective body. In
-  that state, the Sea of Light itself supplies his power.
-- The Other Shore, Heavenly Dao, Underworld, and God-Sealing Method are distinct
-  systems of jurisdiction and support. Do not describe one as merely another
-  name for the rest.
+Detailed notes remain verbatim in continuity-archive.md under Archived governing
+systems at Chapter 1361. The Other Shore, Heavenly Dao, Underworld and God-Sealing
+Method remain distinct. Prior-life False History jurisdiction, reciprocal god/
+people support, naming limits and the collective Dao body keep their dated scope.
 
 ## Core artifacts and methods
 
@@ -219,107 +180,110 @@ remain verbatim in continuity-archive.md under Archived feeling and internal
 backlash mechanics at Chapter 1339. Higher status alone does not block attacks
 using the victim's own power; imitating the Great Dao answering is not mastery.
 
-## Wisdom light, the Dao Fruit and the void (Chapters 1339-1349)
+## Wisdom light, the Dao Fruit and the void: lookup
 
-- Wisdom light belongs uniquely to its bearer. Lü Yang finds data drawn from
-  True Spirit, soul, sea of consciousness, Dao Heart and other aspects through
-  an unknown formula. Its disappearance and the time to derive it are his
-  deductions. The Dragon-Demoting Ruler awakens his brain as a separate being;
-  that brain's light is not his own. Borrowed light only repairs his flaw
-  temporarily, and a personal wisdom-light Fruition Attainment remains hypothetical.
-- The Light of Order permits data analysis without granting the formula. The
-  God-Sealing system nourishes the Palace as roots nourish a Dao tree; the
-  Heavenly Calendar Numbers is its Dao Fruit. Palace, Wilderness and Heavenly
-  Dao are separate restart components; carrying the Palace alone would fail.
-- Ch.1343: the carried Dao Fruit already exceeds the Sea of Light's ceiling;
-  Lü Yang fuses it with its new-life counterpart. Nourishment from
-  the Wilderness includes Si Sui's transcendent imagery. Lü Yang judges only
-  Variables might surpass it. The Dragon's innate Dao Lord status did not come
-  from Five Elements elevating its cultivator beyond peak Golden Core.
-- Ch.1344: rooting this Dao in the Fathomless Void lets Lü Yang regain Dao Lord
-  status through the Dao alone, without a separate attainment locus. The sea's
-  normal limit of peak Golden Core also protects cultivators against becoming
-  lost. Its absence allows continued growth but exposes Primordial Spirit weakness;
-  more spiritual power or status does not repair that weakness.
-- The Spirit's fire and data perspective initially resist becoming lost. Without
-  Transcendence or an end to his Dao, Lü Yang faces near-certain loss at Ch.1344's
-  close. Ch.1345 resolves the missing end by returning the Dao to its beginning.
-- Lü Yang ranks Si Sui's previous false Transcendence highest: even the Final
-  Kalpa can injure but not kill him. The Saint's true Nascent Soul ranks in the
-  middle due to its vulnerable void-linked umbilical cord, and Lü Yang's own
-  approaching transformation lowest. Merely standing
-  on the Other Shore does not transform one's underlying peak Golden Core nature.
-- Ch.1345: closing his Dao into a ring completes Lü Yang's transformation. His
-  Primordial Spirit depends on the hidden Dao: while it survives, he cannot die,
-  and he faces no risk of becoming lost at equal status. The closed cycle rejects
-  outside power, preventing both decline and advancement. Reopening it permits
-  further cultivation but removes immortality and restores the risk of becoming
-  lost. This drawback makes his transformation inferior to the two above.
-- He judges his immortality no worse than the Saint's. Even Si Sui's false
-  Transcendence does not remove loss risk at higher status. These protections
-  do not establish immunity to every injury or unrestricted advancement.
-- The Heart-Naming Spirit-Locking Art conceals his name beneath Profound Virtue.
-  He calls himself a Dao Ancestor because he created his Dao. His small defined
-  world contains no intelligent life; his outsider lineage and Jun relationship
-  are deliberate claims. No new restart anchor is awarded through Ch.1349.
-- Ch.1346: hearing Jun's name raises wisdom light and cultivation opportunities
-  through True Monarch level. Power from the Other Shore erases the words,
-  resulting gains and their memories from karma and history. The wielder is not
-  identified. The Saint alone immediately recognizes Lü Yang's completed
-  transformation from his cycle explanation; his real identity remains concealed.
-- The Sword Sovereign judges Order stronger in nature than Fate and especially
-  compatible with her Heavenly Dao. Superior status normally accounts for
-  Destiny's greater exhibited power; Order reverses that relationship. Her
-  expected gain from seizing it is a belief, not a completed acquisition.
+Full mechanics remain verbatim in continuity-archive.md under Archived wisdom
+light, Dao Fruit and void notes at Chapter 1364. Borrowed wisdom is temporary;
+closing Order's cycle transforms Lü Yang's nature and prevents both decline and
+advancement. Reopening risks loss. Status alone does not transform the other
+Lords' underlying nature. Outsider lineage remains a disguise, not established
+history; the Sword Sovereign's compatibility assessment remains her judgment.
 
 ## Dao bodies, the Infinite Loop and erasure (Chapters 1347-1349)
 
-- The Saint calls the closed cycle an Infinite Loop. Reopening permits growth
-  but risks losing its protection. He recognizes Order's close link to
-  Transcendence and considers choosing the closed loop a waste of its potential.
-- A Nascent Soul Dao Body is the Dao Lord's Great Dao manifested as a true body;
-  ordinary projections in the sea are less dangerous to perceive. The
-  World-Honored One's image has eighteen hands, twenty-four heads and a
-  twelfth-grade lotus throne. Grade does not mean petal count.
-- Order can encompass another Dao and erase its existence at the foundation.
-  Ch.1349 destroys the World-Honored One's manifested body; his second-layer
-  status preserves Karma sufficiently for recovery. He concedes, not dies.
-  Both sides expend substantial Mysteries; prior exposure also helps him prepare.
-- Lü Yang attributes the cost to attacking higher status: full effort yields
-  thirty percent effect. He expects threefold effect against lower status,
-  and hypothesizes that superior status plus full exertion could erase the
-  other Lords' Other Shore positions as well as their bodies. That permanent
-  killing capability has not been demonstrated; preserve its conditions.
-- Other Shore-dependent Lords risk becoming lost if they travel too far even
-  without losing status; Primordial Spirits mitigate rather than cure the risk.
-  Lü Yang's closed Dao cycle protects him at his current status, not every level.
-  His account of an outside sect and Jun's identity remains a performance.
+Full notes remain verbatim in
+continuity-archive.md under Archived detailed Dao bodies and erasure notes
+through Chapter 1349. The Saint names the Infinite Loop and considers it a
+waste of Order's Transcendence potential. A Nascent Soul Dao Body manifests a
+Great Dao; lesser projections are safer to perceive. The World-Honored One's
+image has eighteen hands, twenty-four heads and a twelfth-grade lotus throne,
+not twelve petals. Order erases his manifested body, but second-layer status
+preserves Karma and recovery. Erasing an Other Shore position permanently
+remains Lü Yang's hypothesis, conditional on superior status and full effort.
 
-## Final Kalpa, the title page and restart records (Chapters 1340-1344)
+## Final Kalpa, title page and restart records: lookup
 
-- Time as guide and Destiny as marker bring the destined future Final Kalpa into
-  the Present, killing the Saint's Spirit, soul and cultivation. The End Tiger
-  also burns away in the actual Kalpa; awakening him early is different. Si Sui
-  can delay the Kalpa but not escape its spread through the whole void. Looking
-  at it causes decline; understanding more accelerates it.
-- A book of the Saint's records survives. Lü Yang identifies a prior restart of
-  records, not memory or personality, and concludes it accompanies his own forced
-  restart. The precise mechanism and latest entries remain unknown. A second
-  Book of a Hundred Lives is not established. His self-awareness objection
-  precedes the record-based revelation.
-- Ch.1342: Lü Yang perceives the Book resetting the world rather than merely
-  reversing Time. Its reclaimed Heavenly Scripture page is its title page, which
-  explains the page's illusion/reality powers without independent restart power.
-  Reuniting it grants Divine Transformation Heir, an identity permitting access
-  to Heavenly Person's Remnant Consciousness irrespective of cultivation. Hidden
-  inheritances or other benefits remain hopes, not established rewards.
-- Lü Yang infers the Saint's book persists unchanged by world resets and stays
-  in Grand Ancestral Master because it cannot be carried continuously. The Saint
-  cannot freely enter at his cultivation, while ordinary controlled subordinates
-  could escape him there. The enslaved Dragon is Lü Yang's proposed reliable
-  proxy; the intact Other Shore makes the old future-projection workaround harder.
-- Ch.1344 confirms the Saint plans a Dragon visit in ten years to maintain the
-  Art of Seizing Heaven through Name and Nature ritual and check the Book of
-  Divine Blessings and the Mandate of Heaven. It does not show the visit, prove
-  a daily-check habit or give this knowledge to Lü Yang. The latter's plan to
-  exploit an anchor after a check still needs new anchors and practical testing.
+Full notes remain verbatim in continuity-archive.md under Archived Final Kalpa
+and restart world notes at Chapter 1359. The Book resets the world; its recovered
+title page grants Divine Transformation Heir access to remnant realms despite
+cultivation limits. The Saint's surviving records, Dragon proxy and intended
+ten-year check remain distinct from completed visits or recovered records.
+Underworld depth lowers status and limits outside power; Dao Lords use thoughts.
+
+## Chapters 1356-1365 mechanics: lookup
+
+Detailed records remain verbatim in continuity-archive.md under Archived world
+mechanics from Chapters 1356-1365 at Chapter 1371. They cover threads as nourishment,
+Modify versus Delete, the coexisting good/evil consciousnesses, limited Underworld
+concealment, karmic scenes, remnant trial qualifications, the failed Underworld
+attainment and the Saint's costly descent. A lower realm's ability to obstruct
+intervention does not establish equal strength or erase the status hierarchy.
+
+## The naming ritual and golden book (Chapters 1367-1370)
+
+- Observer Outside the Play follows an actor into Grand Ancestral Master without
+  taking Lü Yang's true body there. He attributes the welcoming, unusually full
+  viewpoint to Divine Transformation Heir; this does not establish all observers
+  or ordinary Dao Lords can enter remnant realms freely.
+- The naming art's ritual uses Tai Yitian's sun and four named moons. Lü Yang
+  identifies an artificial Talent resembling the Book's golden-nature refinement,
+  but with much lower efficiency and continual maintenance needs. The Doctrine
+  of Names' invention/influence on the Book remains an unresolved question.
+- The Dragon supplies maintenance while his full Innate Dao God nature shares
+  the Sea of Light's duration. A separated, enslaved fragment is incomplete and
+  needs the Saint's support to remain separate; rejoining the original means
+  loss of the fragment's independent existence, not death of the full Dragon.
+- Selective Delete can remove that fragment's perception of danger without
+  repairing nature or life. Obtaining the ritual formula enables entry and
+  severance of the shared Tian connection. Destruction removes borrowed wisdom
+  light without erasing the Saint's previously acquired knowledge.
+- The golden book survives resets of the whole void. Its finite pages cannot
+  be restored; entries are engraved. Lü Yang cannot change them through the
+  Great True Monarch fragment and suspects Dao Lord status is necessary.
+  Below-Divine-Transformation origin is his assessment, not a known creator.
+- Memory erasure makes repeated Dragon visits feel new. The records separately
+  describe the Saint's life before last and his immediately previous life;
+  their account of the first world's ending stops before the final battle ends.
+- Sealing aura and hiding the book prevents easy detection, not all discovery.
+  Ending observation erases the enslaved fragment and its karma, preventing
+  the Saint's temporal reconstruction. This is not destruction of the book.
+
+## Withdrawal and the closed Dao (Chapter 1371)
+
+- Withdrawal from present-world interference conceals the Saint from divination
+  and the Sword Sovereign's future visions. He retains sixth-layer strength;
+  absence from visions is not physical annihilation or an inability to act later.
+- The Saint intends to exploit the temporary loss of Infinite Loop immortality
+  required for advancement, using a Primordial Spirit flaw to seal consciousness.
+  His belief that this would prevent activation of the restart power remains
+  an untested strategy, not an established universal counter to the Book.
+- Lü Yang understands the risk but seeks higher status while the Saint withdraws.
+  Neither an opened cycle nor a successful advancement occurs in this chapter.
+
+## History, memory and the hidden character (Chapters 1372-1377)
+
+- The intact Other Shore retains Si Sui's original place, later occupied by the
+  monk. Lü Yang reasons that freeing Si Sui now would let 129,600 years of Time
+  raise him several layers before False Transcendence. No rescue has occurred.
+- Chapter 1374 distinguishes three stacked histories, not one timeline: the
+  destroyed original history, today's False History and present True History.
+  The monk's three life bodies belong to those respective histories. The causal
+  gap at the battle 129,600 years ago breaks Karma's linkage, not Time itself.
+- A Dao Lord's own karma can anchor a limited Ancient Era reconstruction despite
+  rewritten world history. The monk's low cultivation then limits the reliability
+  of his observations. Beyond the gap, unmediated travel enters the Saint's Time.
+- Road to Immortality is an Ancient Era alias of the complete remnant trials,
+  not proof of identity with the earlier Supreme Emperor Realm location. Lü Yang
+  attributes the monk's inability to affect their history to rejection of Dao
+  Lords, not absence of karma. His Talent indicates entry is possible; he defers it.
+- Lian Tiandou's model places soul outside True Spirit and consciousness. The
+  True Spirit carries memory; consciousness follows those memories. Differing
+  memories explain his coexistence with Skyward despite a shared vessel origin.
+  He argues that incomplete True Spirits prevent Primordial Spirit attainment.
+- A foreign object within Dao Tianqi's wisdom light is the proposed cause of
+  inaccessible memory. Draining the light reveals a Jun seal-script character
+  and releases cascading iridescent light. The object's full nature and function,
+  its origin in the eighth realm and deliberate design remain unconfirmed.
+- Lü Yang hypothesizes that Ancient Past cultivators worked directly on nature
+  and that his closed cycle could extend upward without opening. No second
+  transformation or new cultivation system is yet achieved.

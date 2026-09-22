@@ -78,7 +78,7 @@ located proposal, not an automatic new rule or permission to edit the novel.
 | Myriad Spells / Spell Dao Lord | he/him/his | Preserve later shared-name revelations in order. |
 | Du Xuan / Spiritual Power Dao Lord | he/him/his | |
 | Si Sui / Saint of the Sea of Light / Taiji Dao Lord | he/him/his | Taiji Dao Lord only after Ch.1298. |
-| Ancestral Dragon / True Monarch Azure Firmament | he/him/his | it/its only for the detached guided consciousness; an autonomous person or projection retains he. |
+| Ancestral Dragon / True Monarch Azure Firmament | he/him/his | it/its only for the detached guided consciousness; a person or autonomous projection retains he. Enslavement or use as a proxy alone does not establish detachment; Ch.1354 owner wording retains he. |
 | Nameless Dao Lord | he/him/his; they/them when identity is deliberately open | Resolve the actual viewpoint; do not reveal a hidden identity to standardize pronouns. |
 | Beast-Taming; Dao Tianqi / Lord of the Underworld | he/him/his | |
 | Cultivating Truth Dao Lord; End Tiger; Jun | he/him/his | End Tiger's male manifestation from Ch.1317; distinguish the earlier unformed manifestation or cosmic concept. |
@@ -87,6 +87,8 @@ located proposal, not an automatic new rule or permission to edit the novel.
 | Heavenly Lord | it/its | Nonhuman entity; not the Heavenly Emperor. |
 
 Singular they takes ordinary plural verb agreement (they are, they have, they do).
+Ch.1359 P49 uses it for the good consciousness discussed as a constituent of
+Lü Yang's Primordial Spirit. This does not globally change the Heavenly Emperor's he.
 Do not infer pronoun identity or revelation timing from a case-only replacement.
 
 ## Specific rulings and lookup files
@@ -95,7 +97,8 @@ Do not infer pronoun identity or revelation timing from a case-only replacement.
   **【I resent that heaven and earth aren't benevolent, and that the Great Dao isn't equal. Today, for your sakes, I shall make it equal】**.
 - The data-erasure operation has the approved standalone display **【Delete】**
   (manuscript Ch.1330; repeated Ch.1348). Inline uses, as in Ch.1349, remain
-  ordinary prose and follow grammatical case/inflection.
+  ordinary prose and follow grammatical case/inflection. The owner approved
+  **【Modify】** for the new Order operation in Ch.1359; inline Modify is roman.
 - Time (【时光】), Ring (【环】), and the Five Elements Dao (【五行】大道) are concepts, not panels.
   Jun (【均】) is a named being. Source brackets do not change those classifications.
 - Heavenly Scripture stays roman under the explicit artifact-title exception.

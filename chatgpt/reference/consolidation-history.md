@@ -24,6 +24,128 @@ skills, agents, and hooks were removed from the active branch because automatic
 discovery could bypass those pointers; the archive branch and Git history retain
 their exact former contents.
 
+## 2026-09-20 official-translation research and quality calibration
+
+Baseline: bf9596a on the canonical branch. The owner requested a detailed
+subagent investigation of official translations and instruction improvements
+before Chapter 1356, with a changelog. Three bounded assignments covered public
+chapter prose, first-party translator/editor statements, and the current pipeline
+against Chapters 1354-1355. This is a maintenance record, not another authority
+to load for each chapter. No new chapter was translated in this task.
+
+### Evidence and limits
+
+Five complete, publicly readable chapters were inspected on Wuxiaworld, including
+their opening and ending. The sample spans four novels and several scene types,
+but mostly early chapters. It is not a representative survey of every translator
+or proof of a uniform Wuxiaworld standard. The observations below concern English
+craft; no aligned Chinese was obtained for those external chapters, so neither
+their fidelity nor their paragraph correspondence was audited.
+
+| Official source | Located observation and relevance |
+|---|---|
+| [A Will Eternal, Chapter 1: I'm Bai Xiaochun](https://www.wuxiaworld.com/novel/a-will-eternal/awe-chapter-1) | The village farewell turns into celebration, and the protagonist alternates ceremonial deference with frightened protest before Li Qinghou. Useful for spoken purpose, social register and delayed comic payoff. |
+| [I Shall Seal the Heavens, Chapter 1: Scholar Meng Hao](https://www.wuxiaworld.com/novel/i-shall-seal-the-heavens/issth-book-1-chapter-1) | The cliff rescue uses a vine, crevice, river and identifiable participants. Useful for making action traceable without replacing the setting's imagery with abstract summary. |
+| [I Shall Seal the Heavens, Chapter 4: A Copper Mirror](https://www.wuxiaworld.com/novel/i-shall-seal-the-heavens/issth-book-1-chapter-4) | The later cultivation explanation relates energy needs, aptitude, time and resources. Sustaining life is distinguished from satisfying hunger. Useful for retaining precise causal relationships and limits. |
+| [Desolate Era, Book 1, Chapter 2: Reincarnation](https://www.wuxiaworld.com/novel/desolate-era/de-book-1-chapter-2) | Cosmological exposition gives way to an attack and escape involving restraints and a nearby tunnel. Useful for actor, means and consequence, with brief reactions among longer explanation. |
+| [Beyond the Timescape, Chapter 20: Home?](https://www.wuxiaworld.com/novel/beyond-the-timescape/btt-chapter-20) | The meditation sequence links the shadow, mutagen and cultivation. Boneblade's arrangement specifies payment, a three-day trigger and the no-rescue outcome. The closing home/cold/warmth motif shows why deliberate repetition must survive. |
+
+Published prose also supplies counterexamples: some sampled sentences have awkward
+syntax or inconsistent punctuation. Their quotation-mark thoughts, translator
+notes, nickname choices, hyphens and capitalization do not establish this novel's
+house style. No chapter wording or foreign glossary entries were imported.
+
+First-party process evidence was kept separate from those prose observations:
+
+| Practitioner source | What it establishes and what it does not |
+|---|---|
+| [Deathblade Q&A, 15 March 2024](https://forum.wuxiaworld.com/topic/276-deathblade-celebrating-a-will-eternals-book-1-9-amazon-launch/) | Describes the ebook revision as mainly copyediting/proofreading; identifies poetry, names/capitalization and delayed foreshadowing as difficult. He explicitly does not speak for all Wuxiaworld teams. Supports careful terminology and preserving unresolved meaning, not a prescribed pass count. |
+| [Etvolare's Star Gate Q&A, 18 December 2023](https://forum.wuxiaworld.com/topic/174-etvolare-the-star-gate-translator/) | Names a separate proofreader and discusses puns and difficult fight writing. Establishes distinct functions in that team, not the number of checks or proof that its proofreading is bilingual. |
+| [Damn Reincarnation team Q&A, 24 June 2024](https://forum.wuxiaworld.com/topic/409-the-damn-reincarnation-translation-team-marking-500-chapters/) | Adjacent Korean-translation evidence. Editor dMomo discusses speaker identification and saying questionable sentences aloud; the translator values author-specific storytelling. Their idiom substitution and added notes are not adopted here. Source-supported referents and whole-expression judgment are transferable inferences. |
+
+The [Seven Seas danmei catalogue](https://sevenseasentertainment.com/danmeibooks/)
+provided translation/editing credits through its official catalogue entry point.
+Follow-up pages returned 403; no reliable prose sample or detailed production
+method was established there. No useful Yen Press process source was obtained.
+Those attempts are not counted as a second publisher's prose comparison. No
+mirrors, paywall bypasses or reader claims supplied the adopted findings.
+
+### Findings applied to this project
+
+The recent draft/owner/source comparisons show a calibration problem, not an
+absence of review instructions. Chapter 1355 had recorded complete review
+coverage, yet the mountain-water comparison and the request for guidance still
+read awkwardly. Conversely, several fluent owner changes weakened source force,
+certainty or agency. A published-looking sentence is not automatically faithful,
+and not every preferred synonym is a defect.
+
+The following are our project-specific inferences from the evidence, not claimed
+publisher rules:
+
+1. Compose the paragraph's action, reasoning or speech purpose in English during
+   drafting. Rebuild clause syntax inside fixed source paragraphs. Where natural,
+   connect an established referent to new information, preserving deliberate
+   mystery and the order of revelations.
+2. Read the paragraph as its scene requires. Action needs identifiable actors,
+   means and consequences; explanation needs rules, conditions and limits;
+   dialogue and thought need purpose, register and viewpoint. These are concerns
+   within the same bilingual review, not independent passes or new worksheets.
+3. Judge complete expressions. A request must sound like the speaker's request,
+   a comparison must be readily intelligible, and a qualification must attach to
+   its actual claim. Correct individual words do not excuse a strained sentence.
+4. Preserve purposeful changes in register and repetition carrying humor or an
+   emotional motif. Do not uniformly formalize Dao Lords, casualize everyone,
+   replace ritual self-reference, or shorten all repeated wording.
+5. Require a located reason for each Stylistic finding. An unnatural collocation,
+   buried action, unclear referent or register mismatch is actionable; preference
+   for a stronger synonym by itself is not. There is no defect quota.
+
+### Changelog
+
+| File | Change and resulting behavior |
+|---|---|
+| reference/style-guide.md | Replaced the vague published-quality label with observable reader comprehension and whole-expression criteria. Consolidated the sentence-construction opening; clarified speech purpose, source-supported register shifts and purposeful repetition. Existing fidelity, paragraph, terminology, thought and formatting rules remain. |
+| instructions/workflow.md | Made the drafting instruction explicitly compose from action, reasoning or speech purpose. Natural English is constructed in the first draft. The existing combined review, targeted repairs, exact delivery and timing budget remain. |
+| instructions/qa-rules.md | Replaced overlapping review prose with scene-sensitive reading criteria and concrete evidence for Stylistic findings. Clarified that the ban on separate polishing does not prohibit required English repairs. Preserved source checks, neighboring-context verification and every-paragraph coverage. |
+| instructions/editing-spec.md | Added a narrow rule for requested publisher research: distinguish observation from practitioner report, document limits, and amend existing rules. External examples do not become novel authority or recurring chapter research. |
+| reference/decision-log.tsv | Added grouped maintenance decisions linking the research and scoped changes; no row per preferred synonym. |
+| reference/consolidation-history.md | Recorded the sample, citations, limitations, rationale, changelog and qualitative checks here. This historical record is outside routine chapter loading. |
+
+No glossary mapping, recurring display, idiom approval, world fact or chapter
+frontier changed. Chapter 1356 remains next; Chapter 1355 feedback does not become
+whole-chapter final approval. Uploaded attachments and manuscript prose were not
+edited. The three research agents are specific to this requested investigation;
+the ordinary chapter path retains one bounded reviewer, with the local fallback.
+No additional drafting pass, automated literary score or per-chapter browsing
+was introduced. The existing three-to-five-minute target is unchanged.
+
+### Qualitative checks and validation scope
+
+The audit compared these known cases with the revised criteria. This is a
+retrospective diagnostic walkthrough, not a blind experiment or a new chapter
+review, and the owner revision's pending repairs remain pending.
+
+| Existing case | Expected judgment under the clarified rules |
+|---|---|
+| Ch.1354 P12, inference versus conclusion | Preserve the source's tentative deduction even when a more definite verb sounds clean. |
+| Ch.1355 P11, voice comparison | Improve the comparison's English function while preserving the calm voice's abrupt shattering effect. |
+| Ch.1355 P24/P67, sleeve and spider | Clarify action without inventing inward absorption or replacing active control with an unsupported position. |
+| Ch.1355 P30, rivers | Repair the colliding verbs and preserve reaching the sea. |
+| Ch.1355 P47, Underworld explanation | Clarify whose status changes while retaining the tentative explanation. |
+| Ch.1355 P65, invitation | Make the request sound spoken and socially appropriate without exposing the concealed intent in dialogue. |
+| Local alternatives such as quickly/swiftly or chance/opportunity | Do not call equivalent diction a defect or make a universal replacement rule. |
+
+Validation: all 45 existing tests passed. The authority audit, legacy chapter
+lint, state validation and diff whitespace check passed. Existing glossary-size,
+old decision-length and legacy chapter-ratio advisories remain. The patch review
+caught two overbroad consolidations: dialogue-specific lists were narrowed back
+to dialogue, and elevated-source examples were restored as nonexclusive.
+These checks establish mechanics and authority consistency, not literary
+quality. No new script behavior needed a test.
+Future chapter prose and owner feedback must establish whether the sharper
+guidance actually improves output; this research proves neither error-free
+translation nor a faster end-to-end completion time.
+
 ## 2026-09-13 translation instruction audit
 
 Baseline: 046d621a3e66e474d7741affaff252b4e3adc426 on the canonical branch
@@ -286,3 +408,284 @@ Remove entries made redundant by stronger canonical controls.
 - Do not claim GitHub was updated until the commit is present on the remote.
 - The canonical GitHub branch named in state, not conversation memory, is the
   persistent cross-session guide.
+
+
+## Chapter 1358 feedback consolidation, 20 September 2026
+
+Compared the exact supplied Chinese, delivered draft and owner body once.
+Of76 body paragraphs,13 changed and63 remained identical. Both scene breaks
+remain; there are no prose splits or merges. Title and ending are absent from
+the body-only revision, not withdrawn as requirements. Prior draft review
+covered all78 source paragraphs; the feedback review covers the changed spans
+and their affected neighbors. Full local comparison stays outside Git.
+
+Changes to the canonical files:
+
+- Terminology: owner Hundun for 浑沌, distinct from Primordial Chaos; recovered
+  Home Viewing Pavilion and indexed the established Responding to Emperors and
+  Kings realm and Observer Outside the Play Talent. The Ch.1358 phrase forged
+  from radiance is a local approved variant; the fixed plural-hands wording remains.
+- Style: refined the existing perception rule to give the perceiving character
+  a clear subject. Existing instructions already cover ownership, reasoning,
+  natural collocations, articles and separate action beats. No new pass or
+  universal replacement of swift, small, great, light or vanished was added.
+- Source review: the peak Golden Core threshold needs a located repair in both
+  versions. Approach before opening, incoming river arrival and immediate
+  boiling are shared omissions/sequence issues; gradual formation is introduced
+  by the revision. Thought delimiters and a fierce resistance need mechanical
+  repair. These are proposals, not silently accepted owner wording changes.
+- Context: Responding to Emperors and Kings stays roman as a realm. The review
+  proposal to italicize it as a cultivation text was rejected. The revised
+  glimmer, within it, and eye imagery do not establish new metaphysical mechanics.
+- Continuity/world/state: reconciled verified1356-1358 without inferring final
+  approval or filling1350-1353. Preserved older detailed1345-1349 continuity and
+  dated Dao-body and persona notes verbatim in the existing archive; kept current summaries
+  and lookup pointers. Chapter prose was not added to the repository.
+
+This is one local feedback update, queued under the existing publication cadence.
+The next chapter is1359; the most recent owner-final remains1338.
+
+
+## 2026-09-20: Chapter 1359 clarity feedback and publication batch
+
+- Compared the supplied body with the delivered draft: 13 of 66 body paragraphs
+  changed, 53 unchanged, no splits or merges; title and ending are absent only
+  from this body paste. The source review already covered the delivered draft.
+  One bounded review checked all changed spans and their neighboring dependencies.
+- Drafting/review: make the clearest faithful expression the first-draft standard.
+  Direct verbs and clear subjects replace unnecessary abstraction. Grammatically
+  possible wording still needs repair when readers must unpack its action.
+  This tightens existing instructions; it adds no new stage or synonym blacklist.
+- Idiom: developed a taste preserves the appetite/feeding motif without a
+  literal marrow phrase. Preserve imagery the source actively develops.
+- Terminology: recorded the approved Modify operation/display and indexed the
+  established Four Ghost Domains. P49 it refers to consciousness as a constituent,
+  not a general change to the Heavenly Emperor's personal pronouns.
+- Fidelity: P20 faintly and P22 in an instant restore source details missed by
+  the draft. P40 introduces a dangling introductory modifier; the located repair
+  is After Lü Yang watched the Sword Sovereign leave, the Light of Order around
+  him... The revision's temporal connection remains. No other material defects
+  were found in the changed spans; this does not certify every retained sentence.
+- Continuity: reconciled source and delivery through1359, with owner-final still
+  1338 and historical1350-1353 gaps retained. Updated Order, concealment and
+  Primordial Spirit mechanics, preserving conditional future breakthroughs.
+  Moved older1354 continuity and Final Kalpa world notes verbatim to the existing
+  archive and retained retrieval pointers. No chapter prose was committed.
+- Publication: Chapter1359 reaches the next scheduled batch boundary. These
+  changes and queued1354-1358 feedback are prepared for the canonical branch;
+  claim persistence only after remote verification.
+
+
+## 2026-09-21: Chapter 1361 owner wording and continuity through1361
+
+- Compared14 changed body paragraphs and52 unchanged. No prose splits/merges;
+  the body paste omits title/end and removes the separator before48. Accept that
+  removal: the gaze has already arrived in47 and48 immediately continues its
+  effect. Keep breaks14/64 and ordinary future chapter framing.
+- One bounded source review covered changes and neighboring dependencies, using
+  the evidenced original full review. Local synonym choices are not automatically
+  draft errors. The main inferred preferences are direct intent, connected
+  tactical reasoning, concrete resource commitments, explicit temporal direction,
+  viewpoint-close irritation and integrated, natural speech tags.
+- Refined the existing mental-speech rule rather than adding another pass. Keep
+  deliberate short thoughts and source qualifications. The revised Effect-to-Cause
+  wording clarifies backward travel from the present Effect to the past Cause;
+  it does not invent new time-travel powers.
+- Seven localized proposals remain in six revised paragraphs: P3 remove the added
+  worsening trend; P44 retain substantial expense; P46 retain no reaction rather
+  than only no interception; P51 restore the final period; P65 repair Buddhist
+  changed and restore before him; P67 restore the unannounced-arrival admission.
+  No owner prose was silently rewritten. Double scare quotes at46 do not change
+  the general typography rule. These findings are distinct from accepted style.
+- Indexed established1360 realm names and1361 personal aliases using the references
+  already retrieved during drafting. No invented term ruling or reapproval request.
+- Reconciled verified source/delivery through1361, preserving old gaps and leaving
+  owner-final1338. Added the two schemes and the past encounter without asserting
+  the planned trap, realm entry or book retrieval has occurred. Older1355 and
+  governing-system notes were copied verbatim into the existing archive with
+  retrieval pointers; no historical facts were discarded or chapter prose committed.
+- Publication remains blocked by the earlier automatic approval rejection. This
+  feedback authorizes local learning; no new remote push or bypass was attempted.
+
+
+## 2026-09-21: Chapter 1362 owner feedback
+
+- Compared11 changed and64 unchanged body paragraphs, preserving75 body
+  paragraphs and the source title/end framing. No scene breaks or prose merges.
+- One bounded review covered all changes and affected neighboring dependencies,
+  reusing the evidenced original full77-paragraph review. Inferred preferences:
+  connected questions, direct cognitive phrasing, coherent sensory imagery,
+  sharper sardonic thought and economical endings. Local toll/obscurely/discern
+  choices are not universal synonyms or evidence all original alternatives failed.
+- Refined existing sentence-construction guidance in place without another pass.
+  Retained every source-detail requirement. Two source-restoration proposals:
+  P40 restore the opening Why is it you again, Primordial Saint?; P56 retain the
+  previous-life anchor. The leading space before P40 italics is paste cleanup.
+  No owner prose was silently rewritten and neither omission became a rule.
+- Indexed established Trial Guardian and Demon-Subduing True Person. Recorded
+  the newly disclosed remnant history with the World-Honored One's claims and
+  suspicions distinguished from proven mechanics and completed access.
+- Advanced verified delivery/source through1362 and next chapter to1363 while
+  leaving owner-final1338 and historical gaps intact. Archived1356-1357 continuity
+  and prior history/causality world notes verbatim, retaining lookup pointers.
+  Chapter prose and detailed comparison remain outside the repository.
+- Local update only. The earlier remote-publication rejection still applies;
+  no push was retried and no external publication is claimed.
+
+
+## 2026-09-21: Chapters 1363-1364 macro feedback
+
+The owner's explicit priority is broader improvement in wording, flow and
+clarity. The inferred pattern across these edits is to reconstruct the sentence
+around what happens, then connect its logic and imagery naturally. This update
+consolidates the existing construction section and aligns drafting, review and
+feedback guidance. It creates no extra pass or catalogue of preferred synonyms.
+
+- **Sentence construction:** choose a clear subject and main action before
+  composing the English. Ch.1363 P52 makes the accomplished reversal the subject,
+  removing nominal padding and joining the related limits on control/mastery.
+  A wording change is insufficient when the original clause frame stays awkward.
+- **Reasoning and flow:** connect a premise to its question or consequence,
+  keeping conditions beside the claim. Ch.1363 P26 connects arrival to disbelief;
+  P62 orders the inferred requirements. Keep distinct revelations and source
+  paragraph boundaries rather than fragmenting or merging prose for smoothness.
+- **Coherent imagery:** sustain spatial and sensory relationships through the
+  paragraph. Ch.1364 P19 moves from growing trees to canopies, shadow and the
+  sheltered character. P31 makes the shadow effect the main action, while the
+  proposed modifier repair below preserves the human experiencers.
+- **Diction and rhythm:** choose familiar whole expressions at the needed length.
+  Remove doubled transition framing as in1364 P8, naturalize conventional inward
+  focus as in P50, and preserve live metaphors, meaningful repetition and short
+  dramatic beats. Calculations, credibility, azure and mist remain local choices.
+- **First-draft application:** these principles govern initial composition and
+  the existing bounded review. They do not await another owner rewrite, require
+  publisher browsing per chapter, or add a second polishing stage.
+
+Comparison and review:1363 has13 changed/52 unchanged body paragraphs;1364 has
+18 changed/52 unchanged. No splits or merges. Break44 and breaks42/55 remain
+respectively. The1363 paste is body-only;1364 retains its title and omits the end.
+These paste boundaries do not authorize deleting chapter framing. The original
+full reviews are evidenced. One bounded review covered all31 changed paragraphs
+and their causal/referent neighbors; unchanged chapters were not reviewed again.
+
+Located proposals, kept separate from the accepted macro guidance:
+
+| Location | Proposed repair | Reason |
+| --- | --- | --- |
+| 1363 P9 | *Unfortunately, he still doesn't know enough...* | Newly italicized direct assessment is current; alternatively keep roman past narration. |
+| 1364 P11 | lowercase variables | Ordinary uncertainties/developments, not the named Great Dao. |
+| 1364 P31 | a veil of shadows fell unnoticed over the eyes of everyone who turned to look | Preserve the improved action while keeping unawareness with the observers. |
+| 1364 P43 | filled with deep suspicion | Restore the source's degree and remove the accidental double space. |
+| 1364 P45 | matching unescaped asterisks around the thought | Broken delimiters are paste damage; the revised reasoning is sound. |
+| 1364 P58 | But on this one, he had no other choice. | Natural expression for having no alternative, retaining the contrast. |
+| 1364 P69 | whom Lü Yang had advised; astonished... Then they moved | Preserve advice rather than introduce a warning; restore spacing and the action beat. |
+
+These proposals do not silently replace the owner version or declare either
+chapter owner-final. Ch.1363 P43's beyond-the-Fathomless-Void location is inherited
+from the Chinese and earlier draft; no unsupported relocation was invented.
+
+Indexed six previously established names recovered during drafting, plus the
+contextual Chen-Earth reversal phrase. Updated plot/mechanics through1364 while
+keeping planned attainment, descent and trap outcomes unconfirmed. Older1358-1360
+continuity and wisdom-light/Dao-Fruit world detail moved verbatim into the existing
+archive with retrieval pointers. Preserved historical gaps and owner-final1338;
+next chapter is1365. Chapter prose and detailed comparisons remain outside Git.
+
+This is a local update. The earlier automatic approval rejection still blocks
+remote publication; no push or alternative publication route was attempted.
+
+Validation:45 existing tests passed; authority audit, legacy chapter lint and
+state checks passed with existing glossary-size, older decision-length and
+legacy ratio advisories. New decision rows were consolidated within the advisory
+length, then the affected authority audit was rerun. No new tests were added.
+
+
+## 2026-09-22: Chapter 1365 feedback and the repeated chant correction
+
+The owner explicitly identifies the recurring invocation-to-chant correction.
+The active phrase entry still offered Buddhist invocation or chant and left the
+choice discretionary. That stale alternative was the concrete learning failure.
+It has been replaced with Buddhist chant, shortened to chant when clear. This
+applies to the utterance, including a single Amitabha; its duration does not
+justify reverting to invocation. A literal name/title context remains distinct.
+The related idiom index now labels the item a chant. Historical mentions are
+provenance, not active alternatives.
+
+- Strengthened the existing feedback and review rules: an explicitly repeated
+  correction is binding within its scope. Remove the superseded alternative
+  and check the current entry during the same review. No new workflow stage.
+- Recorded spiritual treasures for generic artifacts at P15, without introducing
+  a new grade or renaming established artifacts. Indexed the approved Immeasurable
+  Buddha and previously established Amitabha, Amita and Di Muni.
+- Broader prose lessons are clearer transformation/action verbs, conversational
+  religious vocabulary, habitual simple past, a causal cue before its explanation,
+  and natural contractions. Ebb, right on time and turned instead to improve
+  particular relationships; they are not universal synonym substitutions.
+- Accept the owner's separate movement and impact beats at source P22/P49 as
+  local layout approvals. They do not alter the general paragraph rule. Time in
+  P49 names the manipulated Dao; lowercase he in P32 continues the same thought.
+
+Comparison:14 of62 source body units changed,48 unchanged. Two splits produce64
+owner body paragraphs. No merges; source-index scene breaks11/31 retained. The
+paste omits title/end only as framing. The original full64-paragraph bilingual
+review is evidenced. One local review covered every changed span with affected
+neighbors, without re-reviewing unchanged chapters or adding another agent.
+
+One located fidelity proposal remains: P59 says 神光中解体, disintegration within
+divine light. Retain dissolved amid divine light rather than dissolved into
+divine light, which makes conversion into that substance explicit. This proposal
+is separate from the accepted flow and has not silently replaced the owner text.
+
+Continuity now records the Saint's actual seventh-to-sixth-layer descent,
+Du Xuan's weakened Primordial Spirit, the monk's Buddhist light and Skyward's
+new route. No successful Dao attainment or confirmed detection is inferred.
+Older1361-1362 detail is preserved verbatim in the existing archive with pointers.
+Verified source/delivery advances through1365, next1366; owner-final stays1338.
+The two previously adjudicated lexical checker findings remain documented in
+scratch. No chapter prose or full comparison was committed.
+
+Local update only. The earlier automatic approval block on remote publication
+remains in effect; no push or alternate publication route was attempted.
+
+Validation:45 existing tests, the authority audit, legacy chapter lint and state
+checks passed. Existing glossary-size, older decision-length and legacy ratio
+advisories remain. The new long decision row was shortened and the affected
+audit rerun. No new tests or workflow stages were introduced.
+
+
+## 2026-09-22: Chapter 1371 sentence-quality feedback
+
+Compared the supplied body against the delivered chapter:17 changed source body
+paragraphs,49 unchanged, one local split before Lü Yang speaks, and omitted
+body-paste framing. The indexed comparison stays in scratch. Changed spans and
+adjacent reasoning were checked once against the Chinese, reusing the original
+full-review record rather than retranslating unchanged prose.
+
+The owner reports declining sentence quality. The inferred recurring issue is
+accepting a recoverable meaning despite an awkward English construction. Amend
+existing guidance to distinguish completed acts from command-like notes and
+dangling gerunds, and to make private deliberation sound like the character
+thinking. Strengthen the same review's acceptance standard; no new stage,
+fixed synonym substitutions or extra whole-chapter polish was introduced.
+
+Accepted patterns include concrete action verbs, connected means and effects,
+natural conditions and patient menace, clear agents and lighter rank phrasing.
+The article in the Infinite Loop follows context. The narrator's question can
+remain roman; the owner speaker split is a local approval, not blanket permission
+to restructure source paragraphs. Equivalent local variants were not called errors.
+
+Source-grounded proposals remain separate: P31 keeps uncertainty and degree;
+P44 refers to cheat-users, not everyone of a given level; P61 must not move the
+sound to an unspecified void; P67 needs the established li-to-mile conversion
+unless explicitly adapted. Mechanical proposals address P10's preposition and
+double period, P45's missing period and P46's incomplete gerund and double spacing.
+These were not silently applied to the owner's supplied prose or promoted to rules.
+
+Reconciled source/delivery evidence through1371, with owner-final still1338 and
+historical gaps preserved. Added source-based continuity and world mechanics
+for1366-1371, keeping hypotheses and untested plans attributed. Older active1363-1365
+continuity and1356-1365 world notes were copied verbatim into the existing archive
+with retrieval pointers; no chapter prose was committed. No glossary mapping changed.
+
+This update remains local. The earlier automatic approval rejection still blocks
+remote publication; no push or alternative publication route was attempted.

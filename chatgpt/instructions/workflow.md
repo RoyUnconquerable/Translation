@@ -101,9 +101,14 @@ target paragraph count for review and --display-splits; no prose splits or merge
 Sentence structure may change inside ordinary paragraphs. Apply the style guide:
 resolve actors and ownership, use natural articles and collocations, connect
 source-supported reasoning, and preserve deliberate beats and revelation order.
-Construct natural English actions and claims during drafting, then retain their
-source means, degree, choice and timing. Do not settle for individually correct
-words in an awkward phrase or defer sentence construction to later editing.
+Choose the subject and main action from the event, reasoning or speech purpose,
+then build the English sentence around them. Connect premises to consequences
+and develop imagery coherently inside source boundaries; changing synonyms in
+an awkward frame is insufficient. Apply the style guide's sentence and voice
+rules while retaining means, degree, choice, timing and deliberate ambiguity.
+Make clarity a first-draft requirement: use the clearest faithful expression,
+not wording that becomes readable only after the owner requests a rewrite.
+Review must catch remaining awkwardness, not supply the draft's natural syntax.
 Do not generate competing drafts or start a new translation from an owner edit.
 
 ## 3. One bounded bilingual review and targeted repair

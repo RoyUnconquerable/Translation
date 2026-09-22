@@ -66,7 +66,7 @@ source	target	notes
 天地不容客	A Guest Rejected by Heaven and Earth	owner-final Ch.1267 reuse of the established talent name; provenance owner-rulings-ch1267.tsv
 制命革	Fate-Reforming	God-Sealing ability; provenance terminology.tsv
 踏天	Treading the Heavens	realm; provenance terminology.tsv
-大真君	Great True Monarch	踏天大真君 = Treading the Heavens Great True Monarch (word order per Ch. 1147); provenance terminology.tsv
+大真君	Great True Monarch	踏天大真君 = Treading the Heavens Great True Monarch (word order per Ch. 1147); owner Ch.1355 also prefers this compact order for 踏天境的大真君. Preserve other source ranks and contextual syntax; provenance terminology.tsv
 正史	True History	capitalized; pairs with the False History; usually takes 'the'; provenance terminology.tsv
 玄妙	Mystery|Mysteries	number follows the raw for the cultivation concept; adjectival 步法玄妙 is subtle footwork in owner-final Ch.1290, not a named Mystery [except: 步法玄妙]; provenance terminology.tsv and owner-final Ch.1290
 天宫	Heavenly Palace	with 'the' (Ch. 1196 ruling); provenance terminology.tsv
@@ -140,7 +140,7 @@ source	target	notes
 滴天髓	Drop of Heaven's Essence	owner correction before Ch. 1248; supersedes the erroneous Dripping Heaven's Marrow rendering; provenance owner-rulings-ch1221-ch1243.tsv
 尘劫海	Sea of Dust and Tribulation	takes the definite article; provenance owner-rulings-ch1276.tsv
 道音	Dao resonance	owner-final Ch.1278, reaffirmed by owner-final Ch.1290; supersedes Dao voice in the older attachment; provenance owner-rulings-ch1278.tsv and live Ch.1290 owner revision
-光铸	forged from light	material or construction phrasing; explicit owner correction after Ch.1277; prefer "hands forged from light" for 光铸的双手; provenance terminology.tsv
+光铸	forged from light|forged from radiance	Default forged from light; owner Ch.1358 P59 accepts forged from radiance locally. Preserve the material and construction; 光铸的双手 retains its separate fixed rendering.
 法力道	Spiritual Power Dao	owner-final Ch.1278; Du Xuan's Great Dao; provenance owner-rulings-ch1278.tsv
 法术道	Spell Dao	owner-final Ch.1278; the Great Dao of Myriad Spells; provenance owner-rulings-ch1278.tsv
 天地灵机	spiritual qi of heaven and earth	owner-final Ch.1278; the ambient power Lü Yang commands as the Sea of Light; provenance owner-rulings-ch1278.tsv
@@ -399,3 +399,27 @@ source	target	notes
 鱼肠	Fish-Gut Sword	Owner approved before Ch.1348 delivery. Named item held by the World-Honored One's sacred image; roman artifact name. Do not infer an identification with an external mythic deity.
 加持神杵	Blessed Divine Pestle	Owner approved before Ch.1348 delivery. Item held by the World-Honored One's sacred image; roman artifact name.
 情丝	threads of affection	Lowercase; verified approved manuscript Ch.1326-1332, retrieved for Ch.1348. The Sword Sovereign's means of control; preserve context and inflect singular only when the source requires it.
+卜仙	Divination Immortal	Explicit owner rendering for Ch.1354, retained in the owner revision. Title of the claimed Martial Uncle in Lü Yang's performed lineage; the conversation does not independently establish his biography or existence.
+望乡台	Home Viewing Pavilion	Owner requests the existing term before Ch.1357. Approved manuscript Edited_Draft_PRONOUN-PASSES(1).docx lines73921/82462/85047 identify this Underworld structure and the Sword Sovereign's occupation. Roman place name.
+应帝王	Responding to Emperors and Kings	Established remnant realm in the book reference; retained in owner Ch.1358. Roman place name in this usage, not an italic citation of the Zhuangzi chapter.
+剧外观测者	Observer Outside the Play	Established Talent; Reference_Talents_and_Hundred_Lives.md records its Ch.985 description. Retained in owner Ch.1358. Roman name; an activation call-out is not automatically a system panel.
+浑沌	Hundun	Explicit owner correction in Ch.1358 P22, both occurrences within Responding to Emperors and Kings. Roman proper name without an article. Distinct from 混沌 = Primordial Chaos; do not infer additional entity mechanics.
+修改	Modify	Owner approved before Ch.1359 and retained in the revision. Named Order operation that redefines external things; standalone **【Modify】**, inline roman. Ordinary modifying remains contextual.
+四大鬼域	Four Ghost Domains	Established approved manuscript line73830, verified before Ch.1359 and retained by owner. Underworld structures; do not extend their concealment to the whole Underworld.
+人间世	World of Mortals	Established realm, normally takes the; supplied book reference lines2994-3001 explicitly maps 人间世. Recovered for Ch.1360. Roman place name, not an ordinary mortal world.
+养生主	Principles of Nurturing Life	Established remnant realm, normally takes the. Approved manuscript lines53440/55466 identifies the fragment/trial; recovered for Ch.1360. Roman place name.
+德充符	Symbol of Virtue Fulfilled	Established remnant realm, normally takes the. Book reference7779-7785 explicitly maps 德充符; approved manuscript70526/70568 confirms name. Roman realm usage in Ch.1360.
+林霄	Lin Xiao	Soaring Firmament's birth name; established book reference1993-1996 and retained in owner Ch.1361. Do not replace his established honorific title elsewhere.
+帝弥陀	Di Mituo	World-Honored One alias established in book reference2515 and retained in owner Ch.1361; distinguish Di Muni and use the source identity.
+守关者	Trial Guardian	Established lineage in book reference6554; owner Ch.1362 retains this name. Singular for the particular guardian who joined the trials and later died; plural for the former group. Do not merge every guardian into one person.
+伏妖真人	Demon-Subduing True Person	Book reference838 explicitly maps this name, retained owner Ch.1362. Canonical 真人 is True Person. His pocket grandpa is the old guiding soul, not an established biological grandfather.
+白蜡金	White Wax Metal	Established elemental Fruition Attainment: book reference table242 and heading3739, recovered before Ch.1364 and retained by owner. Not a new translation.
+长流水	Long Flowing Water	Established elemental Fruition Attainment: book reference table248 and heading3295, recovered before Ch.1364 and retained by owner.
+砂中土	Shifting Earth	Established book reference3620 explicitly maps this Fruition Attainment. Recovered before Ch.1364 and retained by owner; do not retranslate from its literal characters.
+黄泉路	Yellow Springs Road	Established Underworld structure in approved manuscript Ch.937-938, paragraphs73779/73854. Recovered before Ch.1364 and retained by owner.
+奈何桥	Bridge of Helplessness	Established Underworld structure in approved manuscript Ch.937-938, paragraphs73779/73854. Recovered before Ch.1364 and retained by owner.
+三生石	Three Lives Stone	Established Underworld structure in approved manuscript Ch.937-938, paragraphs73779/73854. Recovered before Ch.1364 and retained by owner.
+无量佛	Immeasurable Buddha	Owner approved the proposed designation before Ch.1365 through Continue and retained it in the revision. Normally the Immeasurable Buddha; a designation of the World-Honored One in this passage, not another being.
+阿弥陀佛	Amitabha	Established Buddhist chant, retained by owner Ch.1365. Its utterance is a chant, never invocation. Preserve the novel's own explanation without introducing external doctrinal corrections.
+阿弥陀	Amita	Established abbreviated form in approved manuscript, recovered before Ch.1365. Use where source omits 佛; do not truncate full 阿弥陀佛=Amitabha.
+帝牟尼	Di Muni	Established World-Honored One alias, book reference2514-2515, recovered before Ch.1365 and retained by owner. Distinct source form from 帝弥陀=Di Mituo.

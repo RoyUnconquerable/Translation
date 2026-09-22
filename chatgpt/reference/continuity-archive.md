@@ -1624,3 +1624,833 @@ approval. Review status belongs in the chapter ledger.
   restart anchor.
 
 Current continuation: Chapters 1343 onward in continuity.md.
+
+## Archived detailed Chapters 1343-1344 at Chapter 1354
+
+## Chapter 1343: carrying the Dao Fruit and preserving the self
+
+- Back at the mortal starting point, Lü Yang seeks Yu Suzhen for reassurance,
+  then enters the empty Heavenly Palace mentally and meets its four companions.
+  The Book reports 83 remaining pages and offers the four established rewards.
+- He apologizes that he cannot choose them. Recalling the erasure of Si Sui,
+  Dao Tianqi and the previous world tempts him to view others as game characters.
+  Si Sui's warning restores his resolve to remember them and seek the best
+  ending. Stabilizing his thoughts is itself Primordial Spirit cultivation.
+- He chooses Treasure: the previous life's Heavenly Calendar Numbers, then
+  fuses it with this life's version. Nourishment from the Heavenly Wilderness,
+  its living beings and Great Daos, including Si Sui's transcendent imagery,
+  has raised this Dao Fruit beyond the Sea of Light's limit.
+- The existing ten Daos normally support only peak Golden Core. The Dragon was
+  born with Dao Lord status; Five Elements did not confer that innate status.
+  Lü Yang judges only Variables might surpass his new Dao. He plans to root it
+  in the Fathomless Void instead of limiting it again within the Sea of Suffering.
+- The lack of an immediate attack supports his time-gap deduction. He plans to
+  spend up to ten lives finding when the Saint checks Grand Ancestral Master,
+  then select an anchor after that visit. This depends on gaining one or two
+  new anchors. The previous Palace breakthrough was not recognized by the Book;
+  recognition through the Dao Fruit alone remains a question as he enters the void.
+
+## Chapter 1344: the independent Dao and its missing end
+
+- Lü Yang activates this life's Supreme Dao Transformation and plants the
+  Heavenly Calendar Numbers in the Fathomless Void. Rooting a Dao outside the
+  Sea of Light removes its protection against becoming lost. Primordial Spirit
+  fire and the Light of Order's data perspective initially stabilize him.
+- His nature is approaching a transformation, not shown as completed. He ranks
+  Si Sui's previous false Transcendence highest, the Saint's true Nascent Soul
+  in the middle, and his own prospect lowest. Immortality strengthens with the
+  transformation; borrowed Other Shore status alone does not ensure survival.
+- Ordinary observers barely notice the light. True Monarchs suspect a distant
+  high Fruition Attainment; Dao Lords recognize a Dao rooted outside the sea.
+  Its distance and disturbance make investigation dangerous. The Saint cannot
+  see its source clearly and dismisses it as unrelated to Variables.
+- In private, the Saint plans to send the Dragon to Grand Ancestral Master in
+  ten years to maintain the Art of Seizing Heaven through Name and Nature ritual,
+  and have him check the Book of Divine Blessings and the Mandate of Heaven.
+  He has lost hope in the book after hundreds of thousands of years, believing
+  no one can kill him now. His three interlocking plans are not disclosed here.
+- Lü Yang returns to Dao Lord status through this Great Dao alone, without a
+  separate attainment locus. The Dao's power has not reached an end, but his
+  Primordial Spirit is failing. The void has no Sea-of-Light cultivation ceiling;
+  a beginning without an end, without Transcendence, makes becoming lost nearly
+  inevitable. He seeks a solution; none is reached before the chapter ends.
+
+
+## Archived Chapters 1345-1349 at Chapter 1358
+
+## Chapter 1345: the closed cycle and Profound Virtue
+
+- Lü Yang turns back along his Dao, joining its end to its beginning. The ring
+  completes his transformation and forms behind his luminous data-bearing figure.
+  His Primordial Spirit survives with the Dao and is protected from becoming lost
+  at equal status; greater status would still endanger even Si Sui.
+- Closure rejects outside power, preventing both realm decline and advancement.
+  He can reopen it to seek improvement, at the cost of immortality and renewed
+  loss risk. He accepts this lowest-grade attainment after under a thousand
+  cultivation years. No new Book anchor is shown.
+- Expecting the Saint's records to expose his name, he first uses the authentic
+  Heart-Naming Spirit-Locking Art received from Vast Sky to establish Profound
+  Virtue. Possible name/aura pursuit and mass murder of namesakes are his fears,
+  not attacks already carried out in this life.
+- He invents a Dao Ancestor persona from beyond the Sea of Light, using his
+  void-rooted Dao and absent wisdom light as evidence. He defines a small world
+  without intelligent life, about three miles in extent, and
+  descends with it to test the Saint's response. Calling for Martial Uncle Jun
+  is part of this disguise, not proof of a real teacher or sect relationship.
+
+## Chapter 1346: the visitor's credibility
+
+- Jun's name raises wisdom light and opens cultivation opportunities among the
+  Sea of Light's inhabitants, through True Monarchs. The Other Shore manifests;
+  unidentified power seals the words as forbidden knowledge and erases the gains,
+  their history/karma and memories. The sea returns to stillness.
+- Five Lords emerge as a golden Buddha, an ocean of spiritual power, sword light,
+  boundless radiance and rainbow mist. The Saint separately watches from above.
+  Lü Yang considers their unchanged nature unable to threaten his life despite
+  higher status, and asks whether they are his Martial Uncle's disciples.
+- Vast Sky recognizes his own authentic Heart-Naming Spirit-Locking Art, unknown
+  even to Myriad Treasures. Profound Virtue's title and power have no historical
+  record in the sea. The Lords infer an Ancient Past branch survived in the void;
+  their plausible theory does not verify Lü Yang's fabricated background.
+- The Sword Sovereign wants Order: it surpasses Fate in nature despite its
+  bearer's lower status, and seems more compatible with her Heavenly Dao than
+  Fate, Fortune or Destiny. No capture or power increase occurs.
+- The World-Honored One asks how the Dao was nurtured. Lü Yang describes spreading
+  cultivation, nourishing a Dao tree, planting its Fruit in the void and closing
+  its beginning and end into a cycle. He pretends surprise that Jun did not teach
+  them this. The Saint understands the completed transformation immediately;
+  he finds the claimed identity credible but has not identified Lü Yang.
+
+## Chapter 1347: the Saint waits and the visitor reverses the challenge
+
+- The Saint sees the closed cycle's frozen cultivation and risky reopening,
+  names it Infinite Loop and recognizes its closeness to Transcendence. His
+  excitement becomes disappointment at the wasted potential; supreme detachment
+  calms his obsession. Jun's effect identifies the higher-realm being.
+- He suspects the visitor's timing as his Divine Transformation and Ascension
+  plans approach fruition. He stays hidden and uses the others to seek facts,
+  whether from an outsider or an impostor with a better Ancient Past inheritance.
+- Lü Yang cannot sense him but expects scrutiny. He claims shared language
+  proves a Jun connection, then explains the God-Sealing system. Du Xuan notes
+  its common status basis; Myriad Spells demonstrates local cultivation. Lü Yang
+  calls it a backwater rogue method capped at peak Divine Monarch.
+
+## Chapter 1348: the sparring test and Delete
+
+- Lü Yang feigns suspicion because their method cannot explain their status.
+  The Sword Sovereign explains source jade, the sea foundation and Dao beams
+  supporting the Other Shore. His sparring request suits them; all four choose
+  the lowest-standing World-Honored One to test him.
+- The World-Honored One manifests his Nascent Soul Dao Body: eighteen hands,
+  twenty-four heads, listed implements and a twelfth-grade lotus throne. Lü Yang
+  recalls exploding at a true body's sight even inside a Heavenly Person's
+  Remnant Consciousness, then manifests his ring of Order and world imagery.
+- Their collision seems silent because its Dao resonance exceeds mortal
+  perception. Light reaches Boundary Heavens; Golden Core True Monarchs sense
+  a lethal trace. Vast Sky mentions an unspecified cleanup. The Sword Sovereign
+  hopes to use threads of affection if the visitor is weak, but does not act.
+- Lü Yang judges his transformed nature enough to bridge the first/second-layer
+  gap, and the World-Honored One's past boast about Si Sui excessive. Delete
+  shatters the opponent's Mysteries and shakes his Spirit; death is not yet shown.
+
+## Chapter 1349: recovery, concession and the portrait
+
+- The World-Honored One's manifested body disintegrates. Bloody light colors
+  more than half the sea, then returns to rebuild his golden body. Second-layer
+  status preserves Karma from complete erasure. He learns from the attack but
+  concedes, estimating at best forty-sixty odds and preferring goodwill.
+- Lü Yang is also depleted. He attributes the cost to attacking higher status
+  and expects greater efficiency against lower status. Erasing an opponent's
+  Other Shore position as well as the body remains a conditional hypothesis,
+  not demonstrated permanent Dao Lord death.
+- He explains that status rose without changed nature: the Other Shore's
+  collapse would drop their cultivation; traveling too far risks becoming lost
+  despite Primordial Spirit protection. His closed Dao protects him at his
+  current status. The Lords increasingly accept his fabricated outsider story.
+- After Dao discussion, Vast Sky asks Jun's appearance and cultivation. Lü Yang
+  draws the Primordial Saint's face and labels it Martial Uncle Jun. Dao
+  resonance sounds from the summit. No resulting appearance, true Jun identity
+  or restart-book check is revealed before the chapter ends.
+
+
+
+## Archived detailed Dao bodies and erasure notes through Chapter 1349
+
+## Dao bodies, the Infinite Loop and erasure (Chapters 1347-1349)
+
+- The Saint calls the closed cycle an Infinite Loop. Reopening permits growth
+  but risks losing its protection. He recognizes Order's close link to
+  Transcendence and considers choosing the closed loop a waste of its potential.
+- A Nascent Soul Dao Body is the Dao Lord's Great Dao manifested as a true body;
+  ordinary projections in the sea are less dangerous to perceive. The
+  World-Honored One's image has eighteen hands, twenty-four heads and a
+  twelfth-grade lotus throne. Grade does not mean petal count.
+- Order can encompass another Dao and erase its existence at the foundation.
+  Ch.1349 destroys the World-Honored One's manifested body; his second-layer
+  status preserves Karma sufficiently for recovery. He concedes, not dies.
+  Both sides expend substantial Mysteries; prior exposure also helps him prepare.
+- Lü Yang attributes the cost to attacking higher status: full effort yields
+  thirty percent effect. He expects threefold effect against lower status,
+  and hypothesizes that superior status plus full exertion could erase the
+  other Lords' Other Shore positions as well as their bodies. That permanent
+  killing capability has not been demonstrated; preserve its conditions.
+- Other Shore-dependent Lords risk becoming lost if they travel too far even
+  without losing status; Primordial Spirits mitigate rather than cure the risk.
+  Lü Yang's closed Dao cycle protects him at his current status, not every level.
+  His account of an outside sect and Jun's identity remains a performance.
+
+## Archived Jun and Profound Virtue world observations at Chapter 1358
+
+- The Heart-Naming Spirit-Locking Art conceals his name beneath Profound Virtue.
+  He calls himself a Dao Ancestor because he created his Dao. His small defined
+  world contains no intelligent life; his outsider lineage and Jun relationship
+  are deliberate claims. No new restart anchor is awarded through Ch.1349.
+- Ch.1346: hearing Jun's name raises wisdom light and cultivation opportunities
+  through True Monarch level. Power from the Other Shore erases the words,
+  resulting gains and their memories from karma and history. The wielder is not
+  identified. The Saint alone immediately recognizes Lü Yang's completed
+  transformation from his cycle explanation; his real identity remains concealed.
+
+
+## Archived Chapter 1354 at Chapter 1359
+
+## Chapter 1354: mutual deception and the Sword Sovereign's arrival
+
+- This chapter is independently supplied after an unretrieved1350-1353 gap.
+  The Saint lets slip the Book of Divine Blessings and the Mandate of Heaven's
+  name; Lü Yang recognizes the unique book unaffected by his own book's reset.
+  The P4 transmission clause's relation to a supreme treasure remains disputed
+  in the owner comparison; no new identity for that treasure is established.
+- Lü Yang encourages the Saint's belief that Jun fell out with his sect.
+  The Saint invents an abandoned guard's battle, death and reincarnation and
+  denies finding the book. Lü Yang claims a Divination Immortal supplied a lead;
+  neither the claimed sect account nor that immortal's biography is verified.
+- Lü Yang links absent wisdom light and a collision with the Sea of Light to
+  the Ancient Past. The Saint compares this with forbidden Dragon-Tiger Mountain
+  knowledge. The narration identifies Lü Yang's underlying information as the
+  End Tiger's prior-life disclosure, witnessed and relayed by Si Sui.
+- Destiny-linked growth makes Flying Snow's consciousness easier for the Saint
+  to alter. Soaring Firmament advanced mostly by his own efforts; the
+  World-Honored One thwarted the Saint's earlier intervention. The Saint fears
+  Soaring Firmament suspects another Underworld problem and will leave his script.
+- Lü Yang offers to resolve this. The Saint treats the result as a test of the
+  visitor's claimed identity; the worst alternative remains unnamed. He wants
+  to check Grand Ancestral Master, but the Dragon and Nascent Soul Pill also
+  support his fallback plan. He decides to remove the Dragon secretly, then
+  senses an arrival and abandons the opportunity before a transfer occurs.
+- His luminous manifestation disappears and time resumes; the Sword Sovereign's
+  footsteps beyond the Ghost Gate immediately freeze it again. She appears in
+  white with cinnabar between her brows and threads of affection in her eyes.
+
+## Archived Final Kalpa and restart world notes at Chapter 1359
+
+## Final Kalpa, the title page and restart records (Chapters 1340-1344)
+
+- Time as guide and Destiny as marker bring the destined future Final Kalpa into
+  the Present, killing the Saint's Spirit, soul and cultivation. The End Tiger
+  also burns away in the actual Kalpa; awakening him early is different. Si Sui
+  can delay the Kalpa but not escape its spread through the whole void. Looking
+  at it causes decline; understanding more accelerates it.
+- A book of the Saint's records survives. Lü Yang identifies a prior restart of
+  records, not memory or personality, and concludes it accompanies his own forced
+  restart. The precise mechanism and latest entries remain unknown. A second
+  Book of a Hundred Lives is not established. His self-awareness objection
+  precedes the record-based revelation.
+- Ch.1342: Lü Yang perceives the Book resetting the world rather than merely
+  reversing Time. Its reclaimed Heavenly Scripture page is its title page, which
+  explains the page's illusion/reality powers without independent restart power.
+  Reuniting it grants Divine Transformation Heir, an identity permitting access
+  to Heavenly Person's Remnant Consciousness irrespective of cultivation. Hidden
+  inheritances or other benefits remain hopes, not established rewards.
+- Lü Yang infers the Saint's book persists unchanged by world resets and stays
+  in Grand Ancestral Master because it cannot be carried continuously. The Saint
+  cannot freely enter at his cultivation, while ordinary controlled subordinates
+  could escape him there. The enslaved Dragon is Lü Yang's proposed reliable
+  proxy; the intact Other Shore makes the old future-projection workaround harder.
+- Ch.1344 confirms the Saint plans a Dragon visit in ten years to maintain the
+  Art of Seizing Heaven through Name and Nature ritual and check the Book of
+  Divine Blessings and the Mandate of Heaven. It does not show the visit, prove
+  a daily-check habit or give this knowledge to Lü Yang. The latter's plan to
+  exploit an anchor after a check still needs new anchors and practical testing.
+- Ch.1355: depth lowers status and obstructs Dao Lord power; forcing it inward
+  costs cultivation. Lü Yang infers an Underworld property. Dao Lords here
+  manifest thoughts, not true bodies. Plans: continuity.md.
+
+
+## Archived Chapter 1355 at Chapter 1361
+
+## Chapter 1355: threads of affection and an opening in the Underworld
+
+- The Sword Sovereign's threads affect Soaring Firmament. Lü Yang dispels his
+  feelings through their erosion with time, not supreme detachment; the threads
+  burn and temper his Dao Heart. Soaring Firmament withdraws and escapes.
+- A sleeve sweep separates the scene, which becomes a complete world manifested
+  by Lü Yang's will. The Sword Sovereign knows only the Saint could match such
+  instant completeness. She speculates about an Ancient Past inheritance or an
+  external sect able to supply a Sea of Light for cultivation; neither is fact.
+- The constructed world fails to block the Saint's gaze. Lü Yang recalls Dao
+  Tianqi could block it in the deepest Underworld after awakening in earlier
+  lives. He infers the cause is an Underworld property, not high cultivation.
+  Status decreases with depth, obstructing Dao Lord power from the Other Shore;
+  forcing power deeper damages the sender's cultivation, including Lü Yang's.
+- Across Lü Yang's observed lives, Dao Lords attacked or influenced the Underworld
+  from outside, never willingly entering with their true bodies. His true body
+  remains seated in the Fathomless Void; his present form is an empowered thought
+  of his Primordial Spirit. The earlier Saint and current Sword Sovereign are
+  also thought manifestations. Do not infer a new body transfer from their arrival.
+- Lü Yang considers using Dao Tianqi's awakening and an Underworld disturbance
+  to hide an examination of the Dragon from all Dao Lords. It must appear natural
+  and leave no trace; neither awakening nor inspection happens in this chapter.
+- The Sword Sovereign intends to implant threads into his manifested thought,
+  let it return to his true body and gradually make him her puppet. Her invitation
+  to exchange methods is deceptive. The closing spider image explicitly concerns
+  control of the web; no successful implantation or puppetry is yet established.
+
+## Archived governing systems at Chapter 1361
+
+## Governing systems
+
+- The Heavenly Dao was built to command the False History and its causal
+  development. The World-Honored One's position once served as an anchor that
+  limited this control.
+- The God-Sealing Method joins gods and people through incense, Divine Ranks,
+  territory, and reciprocal support. Prosperous people strengthen their gods;
+  advancing gods raise the Heavenly Palace. Modified methods retain this
+  effect. Western leaders answer operational calls but need not attend court.
+  Lü Yang models the Palace's upward path for all life on the Underworld.
+- Returning through 129,600 years of False History rooted the God-Sealing
+  Dao Lineage in the sea. Cultivators access their old powers through it;
+  rejecting it severs that practical connection (Chapter 1277).
+- Vast Sky cannot erase Lü Yang's Fortune by suppressing either of his names
+  alone. While the False History is still returning, Lü Yang's great
+  achievement is sustained together by the God-Sealing Dao Lineage, the Sea of
+  Light's blockade, and the False History; all three would have to be
+  suppressed at once.
+- Lü Yang can unite the Sea of Light's Boundary Heavens, living beings, gods,
+  Great Daos, Heavenly Palace, and core Mysteries into one collective body. In
+  that state, the Sea of Light itself supplies his power.
+- The Other Shore, Heavenly Dao, Underworld, and God-Sealing Method are distinct
+  systems of jurisdiction and support. Do not describe one as merely another
+  name for the rest.
+
+
+## Archived Chapters 1356-1357 at Chapter 1362
+
+## Chapter 1356: the threads cannot diminish the closed Dao
+
+- The Sword Sovereign hides the sea behind a convincing illusion and fills Lü
+  Yang's manifested thought with threads. His true body recognizes the deception
+  through native experience and having governed the Heavenly Dao in a prior life.
+- His counter forces the threads into dual cultivation and uses his Talent to
+  burn them into Primordial Spirit nourishment. Each thread needs concentrated
+  attention; he cannot process the unlimited supply quickly enough. Cutting them
+  would instead turn the slow attack into a sword of wisdom.
+- He considers abandoning the avatar while sending another thought to awaken
+  Dao Tianqi. Unlike the previous life, his Dao itself is now his foundation:
+  the Infinite Loop prevents the threads from diminishing his cultivation.
+- He sees a chance to profit and feigns desperate resistance. The Sword
+  Sovereign repeatedly increases her effort as the last gap seems almost closed;
+  she suspects something is wrong but has not yet understood the trick.
+
+## Chapter 1357: the trap pays off and the escape is blocked
+
+- Vast Sky strengthens the Sword Sovereign with Fortune, reluctantly yielding
+  to threads already wound around his Primordial Spirit. Lü Yang still appears
+  barely able to resist. She realizes interference has impaired her judgment.
+- The World-Honored One's 108,000 arms support a failing golden parasol. It
+  imitates Tribulation through Wood among the Five Elements, using Great Forest
+  Wood as its model; it is not the actual Tribulation Dao. Normally weak, it
+  succeeds because her attention is entirely on Lü Yang.
+- Lü Yang swallows the threads carrying her full Mysteries. His manifested
+  Primordial Spirit thought swells; hers suffers exhaustion, not a loss of
+  status or mighty power. Further cultivation after refinement remains a hope.
+- The Heavenly Dao blocks his apparent upward escape. His descent toward the
+  Underworld's depths appears reasonable even to the Saint; the Home Viewing
+  Pavilion blocks that route too. The Saint judges escape impossible across
+  the status gap. A black-robed young Daoist enters Responding to Emperors and
+  Kings; the closing paragraph does not yet identify him.
+
+
+
+## Archived history and causality world notes at Chapter 1362
+
+## History and causality
+
+- The Ancient Past predates the Primordial Era; time is cut off there, making
+  its history untraceable. The seven Heavenly Person's Remnant Consciousnesses
+  survive as its greatest relics.
+  Vast Sky says the Ancestral Dragon transmitted, rather than invented,
+  cultivation in the Primordial Era. Si Sui's proving the Dao began the
+  Ancient Era's golden age.
+- At that era's end, Si Sui and the Dao Lords suppressed the Dragon and built the Other
+  Shore. The Saint, Sword Sovereign, and Vast Sky later suppressed Si Sui and
+  built the Heavenly Dao, beginning the 129,600-year Medieval Antiquity Era.
+  Both systems draw on Ancient Past Dao Lineages; Vast Sky says all six Dao
+  Lords received them, with the Saint receiving the most.
+- The first history, replaced after the Dao Lord war, underlies False History.
+  Convergence mixes causality: incompatible events become simultaneously valid
+  and invalid. Divergence anchors causality, letting Si Sui follow it to
+  recover 129,600 removed years; early forced escape would forfeit them.
+- Dao Lords with completed Primordial Spirits escaped and changed the False
+  History, making it differ from the original. Variables governs departures
+  from an established course; Karma reaches it as an unorthodox branch. A
+  Guest Rejected by Heaven and Earth prevents rewriting Lü Yang's own history
+  while active.
+- The Saint manifests future actions in reality, separates people and nearby
+  destinations across time, and banishes opponents into the Future without
+  killing them, preventing intervention. Opposition costs rule out unlimited
+  capacity. He can leave an injured version in the Past and retain an unharmed
+  present body, but His aura falls: shedding a wound does not erase its cost.
+
+
+## Archived Chapters 1358-1359 at Chapter 1364
+
+## Chapter 1358: borrowed credibility and a concealed observation
+
+- The visitor is Lü Yang's other thought avatar. His Primordial Spirit view
+  shows seven remnant realms as shattered steps toward a deeply hidden place.
+  He infers an external force once united the fragments, and that the
+  World-Honored One crushed that force. The integrator, destination and motive
+  remain unknown; he plans to ask later. These are deductions, not new history.
+- Hundun opens at his glance, revealing Dao Tianqi's contingency. Lü Yang
+  provides Traversing the Mortal Dust and the Treasured Life Perfect Form
+  Scripture, then invokes Si Sui's rescue. Dao Tianqi recognizes the methods
+  and trusts him enough to cooperate, not unconditionally.
+- Dao Tianqi must await the signal, shake the Underworld once to block outside
+  gazes, and conceal his awakened state. Lü Yang needs Soaring Firmament's
+  apparent Dao-proving attempt to preserve the Saint's first ascension plan
+  and avoid suspicion; he is still no match for the Saint.
+- The Sword Sovereign's Fate river threatens the trapped avatar with deaths
+  while its outward face blocks the true body. Lü Yang's hand meets her and
+  Vast Sky, revealing the Other Shore. The World-Honored One stops the Great Net
+  of Karma, hiding one instant from divination and subsequent inspection.
+- The other avatar signals Dao Tianqi. The Underworld tremor appears to be a
+  response to the Lords' attacks; death qi and murky light hide Lü Yang and the
+  Sword Sovereign, also blocking the Saint's gaze. Lü Yang reaches True Monarch
+  Azure Firmament and activates Observer Outside the Play on the Dragon. The
+  chapter ends at activation, before any outcome or new knowledge is shown.
+
+## Chapter 1359: escape, Modify and spiritual nourishment
+
+- Death qi conceals only the deepest Underworld components, the Four Ghost
+  Domains and Underworld Sovereign's Hall. Breaking the Home Viewing Pavilion's
+  blockade gives Lü Yang the opportunity to reach the Dragon beyond the Saint's
+  gaze and turn him into an actor, following1358's activation. No separate result
+  panel, new book records or remnant-realm visit are revealed.
+- His thought avatar escapes into the Fathomless Void toward his true body.
+  The Sword Sovereign pursues. The true body's Dao ring brings future visions
+  within Order and redefines them through Modify, distinct from Delete. The
+  earlier forced dual-cultivation counter was another use of this operation.
+- Her larger tide of futures destroys the seized visions and his manifestation,
+  at cost to herself. He immediately reforms unharmed: higher status does not
+  damage his Infinite Loop's nature. She accepts the loss and withdraws rather
+  than pursue a prolonged war of attrition. Only then does he reabsorb the avatar.
+- Refining the threads narrows the rift between his good and evil consciousnesses.
+  The good Heavenly Emperor consciousness has not died and cannot be erased:
+  both are required for a true Primordial Spirit. Their struggle is a cultivation
+  method, and Lü Yang's recent attainment explains his earlier wavering.
+- His Primordial Spirit becomes more mature and its flames purer, as though the
+  threads supplied years taken from the Sword Sovereign. He wants to repeat the
+  harvest in later lives; two or three more equivalent gains might illuminate
+  the void at the Other Shore's second layer. This is his expectation, not an
+  achieved breakthrough. His independent path also requires further Order
+  mastery. He settles his thoughts and wonders how the Saint will respond.
+
+## Archived wisdom light, Dao Fruit and void notes at Chapter 1364
+
+## Wisdom light, the Dao Fruit and the void (Chapters 1339-1349)
+
+- Wisdom light belongs uniquely to its bearer. Lü Yang finds data drawn from
+  True Spirit, soul, sea of consciousness, Dao Heart and other aspects through
+  an unknown formula. Its disappearance and the time to derive it are his
+  deductions. The Dragon-Demoting Ruler awakens his brain as a separate being;
+  that brain's light is not his own. Borrowed light only repairs his flaw
+  temporarily, and a personal wisdom-light Fruition Attainment remains hypothetical.
+- The Light of Order permits data analysis without granting the formula. The
+  God-Sealing system nourishes the Palace as roots nourish a Dao tree; the
+  Heavenly Calendar Numbers is its Dao Fruit. Palace, Wilderness and Heavenly
+  Dao are separate restart components; carrying the Palace alone would fail.
+- Ch.1343: the carried Dao Fruit already exceeds the Sea of Light's ceiling;
+  Lü Yang fuses it with its new-life counterpart. Nourishment from
+  the Wilderness includes Si Sui's transcendent imagery. Lü Yang judges only
+  Variables might surpass it. The Dragon's innate Dao Lord status did not come
+  from Five Elements elevating its cultivator beyond peak Golden Core.
+- Ch.1344: rooting this Dao in the Fathomless Void lets Lü Yang regain Dao Lord
+  status through the Dao alone, without a separate attainment locus. The sea's
+  normal limit of peak Golden Core also protects cultivators against becoming
+  lost. Its absence allows continued growth but exposes Primordial Spirit weakness;
+  more spiritual power or status does not repair that weakness.
+- The Spirit's fire and data perspective initially resist becoming lost. Without
+  Transcendence or an end to his Dao, Lü Yang faces near-certain loss at Ch.1344's
+  close. Ch.1345 resolves the missing end by returning the Dao to its beginning.
+- Lü Yang ranks Si Sui's previous false Transcendence highest: even the Final
+  Kalpa can injure but not kill him. The Saint's true Nascent Soul ranks in the
+  middle due to its vulnerable void-linked umbilical cord, and Lü Yang's own
+  approaching transformation lowest. Merely standing
+  on the Other Shore does not transform one's underlying peak Golden Core nature.
+- Ch.1345: closing his Dao into a ring completes Lü Yang's transformation. His
+  Primordial Spirit depends on the hidden Dao: while it survives, he cannot die,
+  and he faces no risk of becoming lost at equal status. The closed cycle rejects
+  outside power, preventing both decline and advancement. Reopening it permits
+  further cultivation but removes immortality and restores the risk of becoming
+  lost. This drawback makes his transformation inferior to the two above.
+- He judges his immortality no worse than the Saint's. Even Si Sui's false
+  Transcendence does not remove loss risk at higher status. These protections
+  do not establish immunity to every injury or unrestricted advancement.
+- Profound Virtue and the outsider lineage are Lü Yang's disguise. Hearing Jun
+  briefly raises cultivation, then an unidentified Other Shore power erases the
+  words, gains and memories from karma/history. The Saint recognizes Lü Yang's
+  transformation, not his identity. Details remain in continuity-archive.md under
+  Archived Jun and Profound Virtue world observations at Chapter 1358.
+- The Sword Sovereign judges Order stronger in nature than Fate and especially
+  compatible with her Heavenly Dao. Superior status normally accounts for
+  Destiny's greater exhibited power; Order reverses that relationship. Her
+  expected gain from seizing it is a belief, not a completed acquisition.
+
+## Archived Chapter 1360 at Chapter 1364
+
+## Chapter 1360: the Saint assumes a hostile scheme
+
+- The Saint suspects Dao Tianqi awakened through a remnant-realm contingency.
+  He recalls Si Sui holding Equality of Things and himself Grand Ancestral Master;
+  the World of Mortals and Principles of Nurturing Life were unoccupied. Dao
+  Tianqi controlled Responding to Emperors and Kings, Symbol of Virtue Fulfilled
+  and Carefree Wandering, leaving a replacement trial, blueprints and taking jade.
+- He attributes his earlier decision to stop Dao Tianqi's growth to that favor
+  and the Underworld threat. He nearly tricked him out of Carefree Wandering's
+  coordinates, but the World-Honored One stopped their disclosure.
+- He suspects Profound Virtue as chief beneficiary, examines the Dragon and finds
+  nothing. He assumes the claimed immortal inheritance could conceal tampering,
+  and suspects secret information exchanged with Myriad Treasures in their duel.
+  These are hostile deductions, not proof of lineage, method or known identity.
+- He fears a Dragon route to the book. Whether hostile intent is certain matters
+  less than the means to act on it. He decides to eliminate the threat to his
+  ascension and fallback plans. Lü Yang can escape through the void and cannot
+  be killed outright; the Saint cannot leave the Other Shore, so plans confinement.
+
+
+## Archived Chapter 1361 at Chapter 1365
+
+## Chapter 1361: two schemes and an unexpected visitor
+
+- The Saint rejects False History: the Heavenly Scripture already seals Si Sui,
+  who shows signs of escape. The Dragon's seal is too obvious to lure a visitor.
+  He chooses the River of Time's source, planning an opening through safeguards
+  he designed. His confidence in at least nine methods is a claim, not success.
+- Through Observer Outside the Play, Lü Yang sees the Dragon examination and
+  its abrupt end. He infers exposure, though not its extent, and deduces the
+  Time ambush. The Saint's strength and Lü Yang's restarts let each act on suspicion.
+- Lü Yang needs only the Dragon to enter Grand Ancestral Master, not his own true
+  body. He plans to exploit the bait, reinforce the Saint's suspicions and hint
+  at growing awareness to make him invest more. Neither entry nor restart occurs.
+- His gaze returns unopposed. Soaring Firmament, injured by the death-qi surge,
+  kneels as Lin Xiao and greets his new master. Lü Yang delights in the greeting
+  and asks him to repeat it, then postpones cultivation for other business.
+- Buddhist light appears. A distant past Cause changes the Effect; unaware
+  Soaring Firmament stays behind as Lü Yang sends a Primordial Spirit thought
+  backward from Effect to Cause. He meets Di Mituo in golden robes, identified
+  as the World-Honored One's True Monarch Radiant World Western Light body.
+  The monk says he came unannounced and asks whether the timing is inconvenient.
+
+## Archived Chapter 1362 at Chapter 1365
+
+## Chapter 1362: the remnant realms and the Trial Guardian
+
+- Lü Yang credits the World-Honored One for at least a third of the scheme.
+  The monk says he saw interesting Effects through Karma and arranged their
+  Causes. His answer, Variables, destabilizes their karmic scene; Lü Yang
+  reinforces its Order, allowing them to speak more openly. No new realm is made.
+- The monk asks whether Beast-Taming/Dao Tianqi has awakened. Lü Yang confirms.
+  His compassionate smile briefly fades; no explanation of that reaction is given.
+- Asked about the stomp, he says the Saint ordered the seven trials separated.
+  The Saint had already removed Grand Ancestral Master before the stomp, which
+  only finished the cleanup. The trials were originally separate; the Trial
+  Guardian united them. Almost all Dao Lords benefited before proving the Dao.
+- Dao Tianqi obtained the most coordinates. Carefree Wandering, the seventh and
+  most important trial, alone moves and changes coordinates. The monk prevented
+  their disclosure but says even stolen coordinates would be useless: only Dao
+  Tianqi senses it. The Dragon is qualified but cannot locate it correctly.
+- Lü Yang recalls his own previous life's exclusion after attaining a Primordial
+  Spirit. Dao Tianqi was rejected too, but his traces were not fully erased.
+  The monk says he apparently gained an important qualification when clearing
+  Carefree Wandering and reported a possible deeper secret realm beyond the seven.
+- Dao Tianqi had a chance but did not enter. The monk suspects the
+  Saint prevented it, citing the subsequent removal and coordinate deception.
+  Later breakup, slumber, hidden realms and inability to force interference led
+  the Lords to lose interest, probably the Saint's intention in the monk's view.
+- The Trial Guardian killed himself after calling the Saint's name three times,
+  heard by many. Lü Yang recalls the guardians' former large group and scattered
+  surviving lineages, in Star Palace and the Sword Pavilion through Demon-Subduing
+  True Person's pocket grandpa. Investigation is only a possibility, not completed.
+
+
+## Archived active Chapters 1363-1365 at Chapter 1371
+
+## Chapter 1363: changing the plan and the remembered conversation
+
+- The World-Honored One's main reason for the karmic meeting is Soaring Firmament.
+  He proposes letting him prove the Dao through the Underworld, feigning opposition
+  and forcing the Saint to descend because the Underworld's status is low.
+- Lü Yang corrects the premise: the Saint welcomes that route to Ascension.
+  In an earlier life he only pretended to oppose it. In the next attempt, Lü Yang's
+  intervention caused premature reality collapse and the Other Shore's fall;
+  stabilizing it, rather than the attempt alone, forced the Saint downward.
+- Lü Yang explains Divine Transformation and Ascension and the net/river relation.
+  The monk calculates but doubts how a newly arrived outsider knows this.
+  His previous-life trust depended on Si Sui actually vouching for Lü Yang.
+  Fake backing persuades straightforward Dao Tianqi more readily than this monk.
+- Lü Yang pretends the knowledge is obvious from his inheritance. He offers advice
+  but declines participation: the Saint's suspicion would make him less likely
+  to take the bait. Lü Yang withdraws his thought to his true body. The source's
+  beyond-the-Fathomless-Void wording conflicts spatially with its earlier seat
+  within the void; no relocation or explanation is established.
+- Soaring Firmament remembers a changed conversation from when he proved Great
+  Forest Wood: attempt the Underworld now. Reversing Chen-Earth gave practical
+  control of all five Fruition Attainments, not mastery of the other four or their
+  seamless imagery. He judges the premature attempt almost certain death.
+- He suspects a test of the Saint or Underworld Lord and intends to refuse.
+  Further altered memories mention Dao Tianqi and fellow disciples without
+  expressly assigning both sides of that relationship. The God-Sealing Method
+  changes his calculation: he believes Lü Yang wants him to earn help by joining
+  the monk's scheme. That is his interpretation, not confirmed instruction.
+- He will not gamble his life merely to oppose the Saint, but will stake everything
+  for even a sliver of hope of proving the Dao. No successful attainment occurs.
+
+## Chapter 1364: the Saint creates an opportunity
+
+- The Saint detects unusual karma but cannot hear the meeting. He initially
+  dismisses the danger because his disciple initiated it and remains controllable.
+  The Underworld's summons then sounds, loudest to those nearest death.
+- Soaring Firmament manifests Great Forest Wood. Overturned Lamp Fire, White Wax
+  Metal, Long Flowing Water and Shifting Earth join its radiance; a path unfolds
+  from the Ghost Gate toward the Underworld Sovereign's Hall.
+- Cognitive Barrier mist makes observers see but unconsciously ignore the
+  disturbance. Deceiving the world accumulates imagery and advances Great Forest
+  Wood further; the Underworld itself remains unresponsive to his aura.
+- He passes the Yellow Springs Road, Bridge of Helplessness, Home Viewing Pavilion
+  and Three Lives Stone, then invites the watching Lords to act.
+- The Saint judges the incomplete Five Elements fatal without his own help:
+  other Lords would stop the monk. He suspects Profound Virtue is testing his
+  attitude. Lü Yang appears uninvolved and withdraws his gaze.
+- Losing this pawn would destroy the Underworld ascension route and force the
+  more complicated Nascent Soul Pill plan. Lü Yang predicts the Saint cannot
+  relinquish the direct hope of Ascension because Transcendence anchors his
+  Primordial Spirit and obsession.
+- The Saint's six-character written permission remedies the missing foundation
+  and raises Soaring Firmament's aura. It authorizes proving the Dao through the
+  Underworld, not a completed attainment. Every Lord except the advised monk is
+  surprised; they seize the chance to hurt the Saint. The outcome remains open.
+
+## Chapter 1365: wolves, the downward step and Skyward
+
+- The Sword Sovereign strikes first. From the fourth layer, her River of Fate
+  cuts seventy to eighty percent of the seventh-layer Saint's support for
+  Soaring Firmament. Vast Sky and Myriad Spells also block his intervention
+  in the mortal world, avoiding a direct contest with him.
+- Du Xuan confronts the World-Honored One. The latter manifests a sacred image
+  bearing treasures and forty-eight circles of Buddhist light, supported by
+  cultivators' and followers' chant. The chapter explains Amitabha as the
+  Immeasurable Buddha, imagery designating the World-Honored One's mighty power.
+- Du Xuan's aura is weak, and he cannot wield even seventy percent of his
+  superior strength. The monk attributes this to the Primordial Spirit and
+  says his earlier help maintained its transformations and the good/evil
+  consciousnesses. Their powers remain locked in struggle; Buddhist light slips out.
+- The Saint suspects Profound Virtue engineered the scheme and deduces that the
+  God-Sealing Method requires a hidden place to attain the Dao. He has not located
+  it. Time gives him space to deliberate. Abandoning the pawn is rational, but
+  he cannot retreat from Transcendence and also wants to test Beast-Taming's recovery.
+- He steps downward, breaking the three Lords' defense. Soaring Firmament uses
+  renewed Destiny support and Crooked and Straight to approach the Hall.
+  The youthful Underworld master emerges and tells his master he remains alive.
+- Soaring Firmament shatters because the Underworld already has a master. Just
+  before destruction he calls Di Muni. The monk's light arrives; a young man
+  reappears, discards the name Soaring Firmament and is called Skyward.
+  He abandons the Underworld route, adopts the God-Sealing Method and departs
+  toward the Outer Heavens amid divine light. No completed Dao attainment is shown.
+- All Lords stop. The Saint now stands on the sixth layer with diminished mighty
+  power and wonders whether his killing intent was detected. This is his question,
+  not confirmation of what Lü Yang knows or of a completed trap.
+
+
+## Archived world mechanics from Chapters 1356-1365 at Chapter 1371
+
+## Threads, concealment and remnant access (Chapters 1356-1359)
+
+- Lü Yang forces threads of affection into dual cultivation, then uses his Talent
+  to burn them into Primordial Spirit nourishment. Each takes attention;
+  he cannot match the Sword Sovereign's unlimited supply. His closed Dao prevents
+  cultivation loss. Swallowing her threads exhausts her Primordial Spirit, not
+  status or might. Ch.1359 confirms refinement improves his Primordial Spirit;
+  advancement to a higher layer still remains a hope.
+- The World-Honored One's parasol imitates Tribulation using Great Forest Wood,
+  not the actual Dao. Its weak influence on thoughts succeeds because the Sword
+  Sovereign is distracted; it cannot normally shake a Dao Lord's Primordial Spirit.
+- In1358, the World-Honored One stops the Great Net of Karma for an instant,
+  preventing divination then and inspection later. Dao Tianqi's separate tremor
+  blocks outside gazes, including the Saint's. These are distinct mechanisms.
+- The seven remnant realms appear as broken steps. Lü Yang infers an external
+  force united them and was broken by the World-Honored One. These are his1358
+  deductions; the1362 account below clarifies agency but not the final destination.
+
+## Order and Primordial Spirit refinement (Chapter 1359)
+
+- Modify brings external things within Order and redefines them, distinct from
+  Delete. Making threads count as dual cultivation is an application. Lü Yang
+  also seizes future visions; the Sword Sovereign destroys them and his manifested
+  form, at cost to herself. He reforms immediately. Her higher status cannot
+  damage his Infinite Loop's nature; prolonged fighting would be attrition.
+- The death-qi concealment covers only the deepest components, the Four Ghost
+  Domains and Underworld Sovereign's Hall. It breaks the Pavilion's blockade;
+  concealment is not universal. The opening concerns making the Dragon an actor,
+  not capturing his body;1358 shows activation,1359 describes the opportunity.
+- Good and evil consciousnesses must coexist in a Primordial Spirit; erasing
+  either would lower his Dao Heart's realm. Their struggle is cultivation under
+  Traversing the Mortal Dust. Refined threads narrow their rift and seem to take
+  the Sword Sovereign's accumulated years, improving Lü Yang's spiritual maturity.
+- Primordial Spirit cultivation normally spans tens of thousands of years;
+  Lü Yang has had his for under a century. He expects two or three equivalent
+  future-life harvests might illuminate second-layer void. Even sufficient Spirit
+  cultivation will not advance his independent path without further mastery of
+  Order. Neither a completed breakthrough nor unrestricted Dao growth is shown.
+
+## Sealing and observation (Chapters 1360-1361)
+
+- The transformed River of Time bars nearly all outside observation. Its
+  safeguards do not restrict their designer, the Saint, who can create an entry.
+  Time's rule forbids changing the past; his planned trap at the source remains
+  untested. He cannot leave the Other Shore while Lü Yang can roam the void.
+- Observer Outside the Play lets Lü Yang see the Saint examining the Dragon.
+  The Saint detects no tampering. Lü Yang says the Talent cannot be detected and
+  that he need not send his true body into Grand Ancestral Master; entry is planned.
+- A Primordial Spirit thought follows a changed past Cause backward from its
+  present Effect. The encounter does not establish an unlimited ability to change
+  history, transport his true body or bypass every seal.
+
+## Remnant trials, access and Karma (Chapter 1362)
+
+- The World-Honored One says he reads Effects through Karma and arranges their
+  Causes. His existing role includes checking oversights and ordinary variables
+  for the Lords. This account does not establish unlimited future knowledge.
+- Naming Variables destabilizes their karmic scene. Lü Yang reinforces its
+  fragile Order countless times, stabilizing it for less guarded conversation.
+- According to the monk, the trials were originally separate, then united by
+  the Trial Guardian. The Saint removed Grand Ancestral Master first and ordered
+  the monk to sever the remaining connections. His stomp was cleanup, not destruction
+  of an intact remnant realm by brute force. This qualifies Lü Yang's1358 theory.
+- Carefree Wandering alone moves and changes coordinates. Only Dao Tianqi can
+  sense it; the Dragon's qualification does not supply its location. Stolen old
+  coordinates therefore cannot guarantee entry. Dao Tianqi received the most.
+- A Primordial Spirit normally causes rejection and removes contingencies.
+  Dao Tianqi is rejected but retains traces. The monk attributes this apparently
+  to a qualification gained unexpectedly upon clearing Carefree Wandering.
+- A deepest realm beyond the seven is reported as possible. Dao Tianqi had an
+  opportunity but did not enter. The monk suspects the Saint prevented it
+  and engineered loss of interest. These remain attributed deductions, not proof.
+
+## Underworld attainment and intervention (Chapters 1363-1364)
+
+- Practical control of all five elemental Fruition Attainments through reversing
+  Chen-Earth does not make Soaring Firmament their master. Without that position's
+  seamless imagery, his premature Underworld attempt is almost certain death.
+- The World-Honored One changes the remembered content of an established past
+  conversation through Karma. This scene does not resolve the apparent tension
+  with Time's ban on changing the past or grant unrestricted historical rewriting.
+- The Saint senses unusual karma without hearing a conversation in the monk's
+  own domain. Seeing fluctuations and knowing their contents remain distinct.
+- Cognitive Barrier makes viewers see without understanding and unconsciously
+  exclude the Underworld's disturbance from thought. This deception accumulates
+  imagery, advancing Great Forest Wood; it does not physically prevent all sight.
+- The Saint's written permission supplies Soaring Firmament's missing foundation
+  and raises his aura. Neither completed Dao attainment nor the Saint's descent
+  has yet occurred. Lü Yang attributes his inevitable help to the goal binding
+  his Primordial Spirit: Transcendence. No separate Talent is named by that phrase.
+
+## Interception and spiritual weakness (Chapter 1365)
+
+- Power sent from the Saint's seventh layer to the mortal world crosses the
+  fourth-layer Lords' domains. They can obstruct this intervention without
+  defeating him directly. His descent to the sixth layer breaks their blockade
+  but costs status and mighty power.
+- Du Xuan's Primordial Spirit problem prevents him from using even seventy
+  percent of his superior fighting strength. The monk's temporary advantage
+  therefore does not abolish the status hierarchy. His claim of earlier help
+  connects the transformations to the coherence of good and evil consciousnesses.
+- The chapter explains the Amitabha chant as imagery for immeasurable light,
+  life and deliverance, designating the World-Honored One rather than another
+  named Buddha. This is the novel's explanation, not an external doctrinal claim.
+- An already mastered Underworld destroys Soaring Firmament's attempt. Buddhist
+  light enables his reappearance as Skyward and departure by the God-Sealing route;
+  the scene establishes neither unconditional resurrection nor completed attainment.
+
+## Archived Chapters 1366-1370 at Chapter 1377
+
+## Chapters 1366-1367: the proxy and the ritual
+
+- The Saint takes Dao Tianqi's open appearance as proof his killing intent was
+  detected. He suspects restarting, recalls the book's fulfilled predictions,
+  and fears the opponent has the same supreme power he once obtained.
+- He recalls being a cowardly mortal without the temperament for cultivation.
+  He uses supreme detachment to suppress that temperament, not because the
+  method is inherently superior to cultivating good and evil consciousnesses.
+- He hopes his previous self left records and sends the enslaved Dragon fragment
+  into Grand Ancestral Master early, both as bait and to retrieve the golden book.
+  He orders maintenance of the Art of Seizing Heaven through Name and Nature.
+- Observer Outside the Play follows this actor inside. The realm welcomes this
+  entry; Lü Yang attributes unusually complete observation to Divine Transformation
+  Heir. His true body has not entered the realm or the River of Time trap.
+- A sun centered on Tai Yitian and four moons bearing Shi Tianyi, Dao Tianqi,
+  Lian Tiandou and Bu Tianque form the Doctrine of Names' ritual. The Dragon
+  maintains it by supplying something Lü Yang associates with lifespan/name/life.
+- Lü Yang identifies an artificial Talent with a principle resembling the Book's
+  refinement of golden nature, but vastly less efficient and needing maintenance.
+  He deduces the Saint inherited a charged ritual and later exploited the Dragon;
+  golden nature as an attempted substitute remains his hypothesis.
+- After considering immediate sabotage, Lü Yang follows the Dragon to the
+  golden book among the bones, postponing action until he understands the site.
+
+## Chapter 1368: records of two previous lives
+
+- The golden book's uniqueness survives the Book of a Hundred Lives resetting
+  the whole Fathomless Void. Lü Yang considers its nature above the prior Si Sui's
+  yet below Divine Transformation. Imitation of it as the origin of the Saint's
+  middling transformation remains his deduction, not a confirmed construction record.
+- The first entry identifies its writer as the reader's future self; the true
+  name is redacted. More than half the finite, unrestorable pages carry records.
+- In the Saint's life before last, Si Sui's golden age continued until the Dragon,
+  educated by him, designed a sacrifice of the Sea of Light. The records describe
+  an intended Five Elements/Heavenly Numbers route to become the End Tiger and
+  transcend at the Final Kalpa's peak. The writer dies before the final outcome;
+  Si Sui arrives and fights. Successful Dragon Transcendence is not established.
+- The entry advises eliminating the Dragon early, before Si Sui's teaching makes
+  him more intelligent, and using him for the naming ritual and Other Shore plan.
+  Lü Yang judges the Saint's intervention saved the world, with bitter irony.
+- A second entry from the immediately previous life warns against Ascension,
+  names Lü Yang and his restart power, and records the rescue and world creation.
+  It consumes roughly one fifth of the remaining pages, not the whole book.
+- The fragment only supplies Great True Monarch power. Lü Yang cannot inscribe,
+  erase or fill the book through it; he suspects Dao Lord status is required.
+  The Dragon's memories of prior visits have been erased by the Saint.
+
+## Chapters 1369-1370: deception, destruction and concealment
+
+- The Dragon fragment resents the theft of his life but cannot remain inside
+  forever. His separated nature and life are incomplete; without the Saint's
+  maintenance he will return to the original, which he regards as his own death.
+- Lü Yang poses as an Ancient Past survivor of the Doctrine of Names. He cannot
+  repair the defect; selective Delete removes awareness of danger instead.
+  The deceived fragment volunteers the ritual formula, then Lü Yang possesses him.
+- Lü Yang severs Dao Tianqi's moon from Tai Yitian's sun. The Saint's borrowed
+  wisdom light dwindles to sparks. Lü Yang then destroys all four moons to prevent
+  straightforward restoration. The monk, Dao Tianqi and Bu Tianque feel unburdened.
+- The Saint retains learned knowledge but has only ordinary mortal wisdom light.
+  He cannot interpret the changes in the Dragon's sea of consciousness as before.
+  The original Dragon senses the permanent severance of his fragment and rages.
+- The Saint projects power to the lowest layer and attempts a temporal/karmic
+  investigation. The World-Honored One disrupts Karma and resists him. The Saint
+  remains on layer six; the monk falls from layer two to one, his Dao body cracked.
+- Lü Yang seals the golden book's aura and buries it in a randomly chosen mound
+  of bones. It is hidden, not destroyed or taken away; its records remain intact.
+  Searching for it may take a long time, not necessarily prove impossible.
+- He ends observation and removes the actor. The enslaved fragment dies, and
+  its karma disappears, preventing the Saint from tracing its experience.
+  The Saint wonders why the previous record did not mention this further power.

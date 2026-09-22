@@ -55,6 +55,15 @@ before consolidation, and in dated decisions. Retrieve only relevant entries.
   matching paragraph counts or a glossary PASS does not override the source.
   Local examples are not global sentence templates. Unresolved changes stay
   identified as unresolved; correct the demonstrated defect, then stop.
+- Ch.1354 P4: the owner revision makes the book itself a supreme treasure;
+  the supplied phrase 是前古至宝所传 instead describes transmission by one.
+  Keep that provenance/identity conflict unresolved; do not promote either
+  inferred treasure identity into world facts. P30/P53 proposals restore
+  the omitted ease (容易) and additional problem (另); details are in decisions.
+- Ch.1358 P5: 金丹圆满 names the peak Golden Core cultivator, not a further
+  breakthrough. A Primordial Spirit can coexist with peak Golden Core. Neither
+  the draft's second attainment nor the revision's advancement beyond that
+  realm establishes the exclusion threshold; the located repair is pending.
 
 ## Approved manuscript and reference conflicts
 

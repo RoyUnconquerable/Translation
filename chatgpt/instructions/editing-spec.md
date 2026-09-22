@@ -40,6 +40,13 @@ Classify before editing the existing canonical destination:
 - LOCAL: passage-specific phrasing, historical evidence only;
 - MECHANICAL: typo, agreement or paste repair, not a new stylistic preference.
 
+Derive the construction problem behind wording edits: subject/action choice,
+clause relationships, information order, imagery, rhythm or register. Prefer a
+broad correction to the existing drafting principle over a list of substitutions.
+Do not mistake every accepted local variant for a universal preference.
+When the owner explicitly identifies a recurring correction, make it binding
+within its stated scope and remove superseded alternatives from active entries.
+Historical wording remains provenance, not a competing current default.
 Search relevant older records before adding a rule. Amend the matching rule
 rather than append a second checklist. Preserve valid exceptions, dates and
 provenance. If the style guide already covers the lesson, no new macro rule is
@@ -47,6 +54,11 @@ needed. Keep local sentence comparisons in scratch/chat; a concise grouped
 historical decision may record their rationale when useful, but do not create
 an active rule or durable log row for every wording substitution. Existing
 historical local decisions remain searchable evidence, not mandatory templates.
+Publisher examples are craft evidence, not authority over this novel. Distinguish
+observed English effects from a translator's stated practice; English samples
+alone establish no bilingual fidelity. On requested research turns, record
+sources, limits and changes in consolidation-history.md and amend matching
+rules in place. Do not add publisher browsing to the ordinary chapter path.
 Do not split a long sentence note into many permanent rules merely to meet a
 row-length limit. No routine per-chapter supplements or new reference files;
 the four owner-requested, book-wide references registered in state are deliberate
