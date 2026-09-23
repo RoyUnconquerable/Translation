@@ -301,5 +301,9 @@ Current developments below supersede earlier deferral or unresolved claims.
   The original was merged into the golden book to restrict the False Immortal;
   a later copy can receive manually written names. Recorder names that enemy the
   Supreme Source Immortal, also called Tai Yitian. Possession is a stated risk;
-  successful possession, record tampering, restart memories and weakened seals
-  remain Lü Yang's theories. No automatic merger with the Saint is established.
+  successful possession, record tampering and weakened seals remain Lü Yang's
+  theories. Ch.1400 confirms an intelligent book occupant who remembers a
+  previous life and shaped the Saint's supreme detachment to make him receptive
+  to merger. The occupant says he cannot leave the book without being destroyed
+  by a world restart. The occupant is not explicitly identified as the
+  Supreme Source Immortal; no merger with the Saint has occurred.

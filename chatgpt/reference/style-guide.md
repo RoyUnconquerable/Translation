@@ -67,17 +67,15 @@ When principles compete, use this order:
 ## Sentence construction and pacing
 
 - Build around the main action, perception or deduction with a clear subject
-  and ordinary verb. Rebuild awkward syntax, not just its vocabulary. Actions
-  may be subjects; narrated acts need finite verbs, not command-like notes or
-  dangling gerunds. Prefer concrete causal language and explicit agents to
-  nominal padding or stacked abstractions, even when technically defensible.
-- Arrange related clauses so readers can follow premise, condition, limitation
-  and consequence without reconstructing their links. Join dependent ideas;
-  separate overloaded actions and distinct beats inside the source paragraph.
-  Link known to new information while preserving revelation order, uncertainty
-  and deliberate gaps. Clarify event order with natural sequence markers
-  when the source moves from origin to eventual result. Dialogue lists must
-  still sound spoken.
+  and ordinary verb. Rebuild awkward syntax, not just vocabulary. Actions
+  may be subjects; narration needs finite verbs, not commands or dangling
+  gerunds. Prefer concrete causes and agents to nominal padding or abstractions.
+- Arrange clauses so readers can follow premise, condition, limit and consequence.
+  Join dependent ideas; separate overloaded actions and distinct beats within
+  the source paragraph. Link known to new information without losing revelation
+  order, uncertainty or deliberate gaps. Mark event order when moving from origin
+  to result. When paired objectives span paragraphs, identify which succeeded
+  instead of relying on a distant "former" or "latter." Keep dialogue lists natural.
 - Develop spatial and sensory images coherently across their verbs: connect
   movement, scale, light, shadow and the character's relation to them. Preserve
   means, geography and ownership without abstract labels or invented movement,
@@ -90,11 +88,12 @@ When principles compete, use this order:
   prepositions, complements, appositions and participle subjects. Keep paired
   actions/modals parallel, qualifications and only beside what they modify,
   and comparisons like for like: a Dao's strength with other Daos' strength.
-- Give verbs clear objects and quantities their actual referents. Use pronouns
-  where clear, names or relational prepositions where stacked labels obscure
-  ownership. Do not narrow an unstated subject or turn two labels into two objects.
-  Distinguish understanding from its explanation and exercised authority from
-  direct rule. Forced combat movement must not become voluntary retreat.
+- Give verbs clear objects and quantities their referents. Use pronouns when clear;
+  use names or relational prepositions when stacked labels obscure ownership.
+  Retain a full title if an abbreviation could refer to another nearby person.
+  Do not narrow an unstated subject or turn two labels into two objects. Distinguish
+  understanding from explanation and exercised authority from direct rule.
+  Forced combat movement must not become voluntary retreat.
 - Choose transitions by relationship and emphasis, not the Chinese connector
   alone. Preserve immediate responses, next-moment actions, reversals and an
   accomplished procedure's result. Remove doubled framing that conveys the same

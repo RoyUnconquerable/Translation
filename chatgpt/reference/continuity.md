@@ -1,4 +1,4 @@
-# Current continuity: verified Chapters 1387-1399 and earlier prerequisites
+# Current continuity: verified Chapters 1387-1400 and earlier prerequisites
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -8,7 +8,7 @@ chat-delivery evidence for Chapters 1335-1338 remains unretrieved; approved Engl
 coverage is separate. Chapters 1339-1349 are verified from the current supplied sources.
 Chapters1310-1311 remain verbatim in that archive. Chapter1354 was supplied and
 retranslated directly, then owner-edited. Sources and chat deliveries through
-1399 are verified; owner revisions cover1354,1355,1358,1359,1361-1365,1371,1377 and1385, with a term correction
+1400 are verified; owner revisions cover1354,1355,1358,1359,1361-1365,1371,1377,1385 and1400, with a term correction
 for1357 and explicit term/title/source corrections through1399. These do not establish owner-final approval. Sources and deliveries for1350-1353
 remain unretrieved here; no events or approvals are inferred for that gap.
 
@@ -16,8 +16,8 @@ remain unretrieved here; no events or approvals are inferred for that gap.
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Ch.1391-1399: entered the intact Ancient Era trials and eighth realm. In Heaven Beyond the Heavens he saves the founding Guardian and most disciples, obtains four Ancient Past traditions, and has over 100,000 years before his departure era. A second nature transformation is hoped for, not achieved. |
-| Primordial Saint | Outside present: layer five, supporting the Other Shore and suppressing False History; recovered the golden book after ten years (Ch.1388). In the past witnessed in Ch.1398 he has only just defeated Si Sui, remains peak Golden Core and has not ascended the Other Shore. Keep the two times distinct. |
+| Lü Yang | Ch.1391-1400: entered the intact Ancient Era trials and eighth realm. In Heaven Beyond the Heavens he saves the first Trial Guardian and most disciples, obtains four Ancient Past traditions, and has over 100,000 years before his departure era. A second nature transformation is hoped for, not achieved. His karmic bait draws the Saint's investigation in Ch.1400; its result remains unseen. |
+| Primordial Saint | Outside present: layer five, supporting the Other Shore and suppressing False History; recovered the golden book after ten years (Ch.1388). His supreme detachment was engineered by its occupant; he now welcomes that mind as an ally. Following the book's warning, he investigates the first Trial Guardian's survival through the Great Net of Karma (Ch.1400). In the past witnessed in Ch.1398 he has only just defeated Si Sui, remains peak Golden Core and has not ascended the Other Shore. Keep the two times distinct. |
 | Si Sui | Still sealed in the outside present. The repeated assaults and lower-cultivator infiltration do not establish a successful rescue. |
 | Sword Sovereign and Vast Sky | She used Heavenly Dao support for layer five; he remains on four. Her temporary Underworld confinement ends in Ch.1391. She siphoned Myriad Spells' power through threads of affection to empower Vast Sky. |
 | Myriad Spells and Du Xuan | Layers four and three; support rescue attempts. Myriad Spells suffers the affection-thread siphon; Du Xuan's Primordial Spirit flaw remains. |
@@ -27,23 +27,27 @@ remain unretrieved here; no events or approvals are inferred for that gap.
 | Lian Tiandou and Bu Tianque | Rescued and in the Underworld; tend Dao Tianqi's injuries in Ch.1391. |
 | Skyward and Sublime Bliss | Sent toward False History in Ch.1387. Skyward receives the Traversing the Mortal Dust Method; no completed new Primordial Spirit attainment is shown. |
 | Cultivating Truth | Unknowingly directed by the Observer's Script; self-detonates and is erased in Ch.1390. The Saint restores Demon-Subduing True Person's karma but finds no consciousness. Lü Yang's real disguise is revealed only afterward. |
-| Immortal Recorder / founding Trial Guardian | Reincarnated from Jun's remembered realm, then saved by Lü Yang in Ch.1398. Most disciples escape through True-Spirit links made with Revering the Gods. Returns to the eighth realm; has practiced the Utmost Nature Immortal-Seeking Scripture but has yet to complete his Primordial Spirit. |
-| Supreme Source Immortal | Jun's former enemy and the two doctrines' creation, also called Tai Yitian. Book manipulation, possession of the Saint, restart awareness, loosening seals and the trap for Lü Yang are hypotheses, not established events. |
+| Immortal Recorder / first Trial Guardian | Reincarnated from Jun's remembered realm, then saved by Lü Yang in Ch.1398. Most disciples escape through True-Spirit links made with Revering the Gods. Returns to the eighth realm; has practiced the Utmost Nature Immortal-Seeking Scripture but has yet to complete his Primordial Spirit. "Founding Trial Guardian" in older records is the same man. |
+| Supreme Source Immortal | Jun's former enemy and the two doctrines' creation is called Tai Yitian. The golden book's occupant is not explicitly identified as this immortal, despite Lü Yang's theory and their matching methods. |
+| Golden book's occupant | Ch.1400 confirms a consciousness who shaped the Saint's detachment, recalls a previous life and planned to seize Jun's successor's true body. He stays inside the book to survive a future restart. He is not explicitly identified with the Supreme Source Immortal. |
 | Nether Whisper Ancestor, Demon-Purging True Person, Suo Huan and Empress Xiao | Last directly established at Ch.1343 greeting Lü Yang in the Palace. No subsequent erasure is inferred. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - The Saint's original mortal name remains unknown. Sharing the name Tai Yitian
   with the Supreme Source Immortal does not prove that they are one person.
-- The golden book is unique across restarts; whether its captive also retains
-  complete restart memories is Lü Yang's theory. The historical Dao Ancestors
-  merged the Dao Register into the book as a restriction on the False Immortal.
+- The golden book is unique across restarts. Ch.1400 confirms its conscious
+  occupant remembers a previous life and believes leaving the book would
+  prevent him from surviving the next restart. The full extent of his memory
+  remains unknown. The historical Dao Ancestors merged the Dao Register into
+  the book as a restriction on the False Immortal.
 - Heaven Beyond the Heavens cannot host Lü Yang's actual breakthrough while his
   Order Dao is rooted elsewhere. He can study and simulate it there.
 - No complete Transcendence method has been obtained. Requiring every Primordial
   Spirit Dao Lord to enter before Jun's opportunity activates is Lü Yang's guess.
 - His permanent wisdom-light flaw and a safe second transformation remain unresolved.
-- Lü Yang leaves karmic bait to test the Supreme Source Immortal theory. Its
-  result is not yet known at Ch.1399.
+- Lü Yang's karmic bait has drawn the Saint's attention to the Trial Guardians,
+  and a presence in Heaven Beyond the Heavens detects the resulting ripple.
+  The outcome of the investigation remains unknown at Ch.1400.
 
 ## Earlier history lookup
 
@@ -172,3 +176,17 @@ stalemate remain prerequisites. The live positions above supersede that window.
   owner's correction replaces the source's erroneous five. Recorder can now seek
   his Primordial Spirit in seclusion. Lü Yang has ample historical time to digest
   the methods, but his hoped-for second transformation remains ahead of him.
+
+## Chapter 1400: the Saint takes the bait
+
+- In True History, the day after Cultivating Truth's death, the Saint studies the
+  Great Net of Karma on the Other Shore's fifth layer. The golden book's occupant
+  is openly responsive to him after engineering his supreme detachment and the
+  severing of his fear. Both would willingly surrender their selves to merge for
+  Transcendence, but the occupant stays in the book to survive a future restart.
+- The occupant's primary attempt to catch Jun's successor failed because the
+  Ancestral Dragon came to read the book in the successor's place. He recognizes
+  the first Trial Guardian as the little attendant beside Jun and realizes the
+  Guardian and his followers escaped rather than dying. He directs the Saint
+  to investigate that karma; a faint presence in Heaven Beyond the Heavens
+  detects the ripple and treats it as the big fish taking the bait.
