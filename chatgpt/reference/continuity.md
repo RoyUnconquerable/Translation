@@ -1,4 +1,4 @@
-# Current continuity: verified Chapters 1371-1377 and earlier prerequisites
+# Current continuity: verified Chapters 1378-1386 and earlier prerequisites
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -8,7 +8,7 @@ chat-delivery evidence for Chapters 1335-1338 remains unretrieved; approved Engl
 coverage is separate. Chapters 1339-1349 are verified from the current supplied sources.
 Chapters1310-1311 remain verbatim in that archive. Chapter1354 was supplied and
 retranslated directly, then owner-edited. Sources and chat deliveries through
-1377 are verified; owner revisions cover1354,1355,1358,1359,1361-1365,1371 and1377, with a term correction
+1386 are verified; owner revisions cover1354,1355,1358,1359,1361-1365,1371,1377 and1385, with a term correction
 for1357. These do not establish owner-final approval. Sources and deliveries for1350-1353
 remain unretrieved here; no events or approvals are inferred for that gap.
 
@@ -49,15 +49,17 @@ Chapters 1319-1320 at Chapter 1333.
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Ch.1377: in the Underworld, drains borrowed wisdom light while contemplating growth without opening the Infinite Loop and a second transformation of nature. Neither breakthrough nor historical-remnant entry has occurred. |
-| Primordial Saint | Ch.1375-1376: concealed on layer six, has severed his last Fear and watches without interference. Restoring layer seven is estimated to take a thousand years. Retains a small consumable wisdom-light reserve, not restored access to Dao Tianqi. |
-| Si Sui | Ch.1361: the Saint says the Heavenly Scripture is already sealing him and that he shows signs of escape as the False History becomes unsettled. No current-life escape or Transcendence is shown. |
-| Sword Sovereign, Vast Sky and the other Other Shore Lords | Ch.1365: the three fourth-layer Lords cut off the Saint's interference until his downward step breaks their defense. All Lords cease fighting after Skyward departs. |
-| Ancestral Dragon | Ch.1370-1371: the observed enslaved fragment and its karma were erased. The original remains sealed; the Saint extracted a new fragment. No successful recovery of the hidden book is shown. |
+| Lü Yang | Ch.1386: stops his assault after the attempted Si Sui rescue stalls. Observes Cultivating Truth remotely as part of his concealed plan; no eighth-realm entry or second transformation has occurred. |
+| Primordial Saint | Ch.1385-1386: on layer five, maintaining the Dragon seal/Five Elements under a heavy burden. Spent stored wisdom light to reconstruct the interrogation; the hidden book remains unfound. |
+| Si Sui | Ch.1385-1386: his punches sound from the False History's source, but the rescue reaches a stalemate. No current-life escape or Transcendence is shown. |
+| Sword Sovereign and Vast Sky | Ch.1385-1386: she temporarily reaches layer five with Heavenly Dao support; he remains on four. They block Si Sui's release to preserve the Heavenly Dao. |
+| Myriad Spells and Du Xuan | Ch.1386: layers four and three, respectively. Myriad Spells considers risking a realm loss for Si Sui; Du Xuan's existing flaw makes him reluctant. Their side's numerical advantage does not produce a rescue. |
+| Ancestral Dragon | Ch.1384-1386: the original remains sealed while new shadows search Grand Ancestral Master. Bu Tianque drains the Five Elements; the Saint now uses Destiny to sustain the seal and support them. |
 | Nether Whisper Ancestor, Demon-Purging True Person, Suo Huan and Empress Xiao | Ch.1343: greet Lü Yang in the initially empty Heavenly Palace. He apologizes that he cannot choose them as his carryover reward. Their subsequent erasure is not narrated. |
-| Dao Tianqi | Ch.1377: openly awake as Underworld master, lends wisdom light, then falls into a stupor. Lian Tiandou sees the Jun seal-script character emerge; recovery of missing memories is not yet shown. |
-| World-Honored One | Ch.1372-1376: still layer one, wants to change paths, and helped Lü Yang view the Ancient Era through his own karma. Has not yet abandoned Karma or freed Si Sui. |
-| Lian Tiandou | Ch.1373-1377: restored from True History, distinct from Skyward; diagnoses Dao Tianqi and observes the character and released radiance. |
+| Dao Tianqi | Ch.1386: joins the False History assault after the first pause. Still Underworld master, at most comparable to an Other Shore first-layer Lord. No explicit account of restored memories has been given. |
+| World-Honored One | Ch.1384-1386: withdraws the Foundation Establishment Realm and aids the rescue attempt; the Saint repels him. Still layer one; abandoning Karma remains unaccomplished. |
+| Lian Tiandou and Bu Tianque | Ch.1373-1384: Lian Tiandou is restored from True History. Lü Yang rescues Bu Tianque from the drained Five Elements into the Underworld. |
+| Cultivating Truth and the Trial Guardian | Ch.1382-1383: Cultivating Truth escapes but is unknowingly observed. The founding Guardian and most of his lineage survived in the eighth realm; breaking their false death record injures the hidden elder. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
 - Is true Transcendence's erasure complete? Do not answer the source's question.
@@ -67,7 +69,8 @@ Chapters 1319-1320 at Chapter 1333.
   recovered it. Its creator and exact immunity mechanism remain unknown.
 - The closed cycle stabilizes Lü Yang's Dao in Ch.1345 but blocks advancement.
   Permanent wisdom light, safe reopening, new restart anchors and his proposed
-  ten-life investigation remain unresolved.
+  ten-life investigation remain unresolved. The attempted forty-five-degree twist
+  in Ch.1380 threatens to break the cycle and is stopped.
 - The Saint's original mortal name remains unknown. Ch.1344 names the maintained
   Art of Seizing Heaven through Name and Nature ritual; it does not reveal the name.
   Sharing wisdom light through the four Peak Lords is now evidenced; ordinary
@@ -189,58 +192,76 @@ Master, read the Saint's two earlier-life records, destroyed the naming ritual
 and hid the intact golden book. Ending observation erased the proxy and its
 karma. The Saint remained on layer six; the monk fell to layer one.
 
-## Chapter 1371: strategic withdrawal
+## Chapters 1371-1377: lookup
 
-- The Saint considers Ascension and his River of Time trap unworkable for now.
-  He is convinced the opponent restarts and suspects more than once, but does
-  not know the count. He resolves to avoid further moves until he reads the book.
-- His sixth-layer strength still exceeds the other Lords'. He plans to wait until
-  Lü Yang opens the Infinite Loop to advance, exploit the Primordial Spirit flaw,
-  seal his consciousness and extract the supreme power. Success is untested.
-- Lü Yang mockingly addresses him as Martial Uncle. The Saint extracts another
-  Dragon thought fragment, then withdraws his aura behind concealment. This is
-  a new fragment, not revival of the erased one or successful book retrieval.
-- The Sword Sovereign finds him absent from all future visions and infers he
-  lost an unseen exchange. Lü Yang sees an information-driven retreat, not loss
-  of the Saint's superior cultivation or complete surrender.
-- Lü Yang wants to dismantle the Saint's contingencies gradually to avoid another
-  mutually destructive Final Kalpa. He recognizes advancement exposes him to the
-  Saint's waiting plan and accepts that risk. No reopening or breakthrough occurs.
-- His thought descends into the Underworld. The Saint's Mysteries withdraw from
-  the Three Lives Stone. Lü Yang manifests the Heavenly Palace and demands that
-  Tai Yitian retreat whenever they meet. The source distance is 100,000 li;
-  the owner's 100,000 miles remains a proposed adaptation, not a conversion ruling.
+Full records remain verbatim in continuity-archive.md under Archived Chapters
+1371-1377 at Chapter 1386. They preserve the Saint's withdrawal and severed Fear,
+the public retreating Order, Lian Tiandou's restoration, limited Ancient Era
+access and the emergence of Jun's character. Subsequent revelations below
+supersede the then-unresolved character function and reported Guardian deaths.
 
-## Chapters 1372-1374: public order, restored ally and the Ancient Era
+## Chapters 1378-1380: Jun's message and the concealed route
 
-- Lü Yang turns his demand that Tai Yitian retreat into an Order recognized by
-  the Sea of Light. The Saint does not contest it, so the imagery takes hold and
-  advances Lü Yang toward the second layer without an actual breakthrough.
-- The World-Honored One asks to change paths and abandon Karma. Lü Yang confirms
-  this can free Si Sui under the intact Other Shore. Dao Tianqi can still share
-  wisdom light after the naming ritual's destruction.
-- Lü Yang changes history and karma to save Lian Tiandou from the Saint. The
-  established retreating Order makes the Saint withdraw rather than fight.
-- The karmic record breaks at the Dao Lord battle 129,600 years ago. Beyond the
-  gap lies the River of Time, but the World-Honored One can anchor a limited view
-  of the Ancient Era in his own karma. The complete Heavenly Person's Remnant
-  Consciousness appears in Chapter 1375, also called the Road to Immortality.
+- Radiance ignores the Lords' attacks. Every Primordial Spirit cultivator hears
+  Jun, including sealed, hidden and False History occupants. The eighth realm
+  appears above the Other Shore; appearing is not entry or Transcendence.
+- Jun's message identifies the remnant trials as his shattered soul/sea of
+  consciousness and the eighth realm as his retained True Spirit. Primordial
+  Spirits may enter the latter, but need the intact seven trials as stairs.
+- The Saint did not know this message and had destroyed his own possible route.
+  He assumes Lü Yang came for Jun's legacy. Lü Yang instead infers Dao Tianqi's
+  pure heart led Jun to choose him as Guide and give him supreme wisdom light.
+  The hidden seal's intended activation at Transcendence-level contemplation is
+  Lü Yang's reconstruction, disrupted by the Saint or the Dragon's destruction.
+- The Saint offers Grand Ancestral Master and a binding alliance to reunite the
+  trials. Lü Yang refuses because Divine Transformation Heir should let him use
+  the Ancient Era's intact trials. No such entry is yet achieved.
+- Lü Yang attempts to twist his Dao ring, stops at forty-five degrees when the
+  Infinite Loop threatens to break, and lets the Saint observe. In Jiangnan,
+  Demon-Subduing True Person reaches Great True Person. Long Tu describes the
+  Wheel-Turning Pool while a hidden patron appraises him.
 
-## Chapters 1375-1377: Dao Tianqi's missing memories
+## Chapters 1381-1383: the observed fugitive and living Guardians
 
-- The Saint preserves only a small, consumable reserve of Dao Tianqi's wisdom
-  light. He cuts away Fear, his final human emotion, while rebuilding toward the
-  seventh layer; the estimated recovery time is one thousand years.
-- Lü Yang does not enter the complete historical remnant realm. He first seeks a
-  safer explanation for Dao Tianqi's missing memories and notices that the
-  Saint's watchfulness now lacks its former emotional hesitation.
-- Lian Tiandou describes soul, True Spirit and consciousness as nested layers.
-  The True Spirit carries memory, and consciousness follows memory; Skyward can
-  coexist with restored Lian Tiandou because their memories differ despite the
-  shared True Spirit origin.
-- Lian Tiandou theorizes that a foreign object inside Dao Tianqi's wisdom light
-  conceals part of his memory rather than leaving his True Spirit incomplete.
-  Lü Yang borrows and drains the wisdom light while devising a possible second
-  transformation of his nature. A seal-script character, Jun, then emerges and
-  cascading iridescent light spreads through the Underworld, Sea of Light and
-  Fathomless Void. Its full function remains unresolved.
+- The patron is Cultivating Truth, not the Sword Sovereign. He extracts Long Tu
+  and hears that the founding Trial Guardian once advised refuge in the eighth
+  realm. Lü Yang interrupts; Cultivating Truth attempts Meet and Forget.
+- Lü Yang attracts the Lords' attention, shields the fugitive and has the monk
+  disrupt karma. The Lords search the three witnesses; the Saint spends stored
+  wisdom light to reconstruct the interrogation and changes past karma.
+- Cultivating Truth escapes injured and suspects manipulation. Lü Yang has
+  selected him for Observer Outside the Play, without physically pursuing him.
+  Long Tu is the apparent target; the fugitive is the real one. Lü Yang wants
+  to mislead the Saint before attempting historical entry, fearing Final Kalpa
+  retaliation if observed. The next step has not been revealed.
+- In the battle 129,600 years ago, the Saint changes his own attack and blocks
+  the monk's stomp, but cannot revive the Guardian lineage. The founder and most
+  of the lineage never died: they hid in the eighth realm. Destroying their
+  false death record alerts and wounds the hidden elder, who feels relief.
+- The Sword Sovereign proposes draining the Five Elements and withdrawing the
+  Heavenly Dao to force the Saint down another layer, increasing her leverage.
+
+## Chapters 1384-1386: three fronts and a stalled rescue
+
+- The monk changes his farewell with Bu Tianque eighty thousand years ago:
+  Lian Tiandou is back, cancel the old pill plan and follow the Sword Sovereign.
+  Bu Tianque drains the Five Elements; she withdraws their hidden substitute
+  support, the Heavenly Dao. The Other Shore begins to fall.
+- Lü Yang rescues Bu Tianque into the Underworld and strikes the exposed base.
+  The monk removes the Foundation Establishment Realm; Lü Yang shields affected
+  cultivators while furthering its collapse. The False History also destabilizes,
+  giving Myriad Spells and Du Xuan an opening to rescue Si Sui.
+- The Saint descends from layer six to five and uses the Dharma Refining Secret
+  Realm to replace the Foundation Establishment Realm. Stability lasts under
+  fifteen minutes. The Sword Sovereign reaches layer five, using the Heavenly
+  Heart Lock and Vast Sky's Written Word/Fortune support to draw the Saint's blood.
+- She then intercepts the rescue because Si Sui is also a Heavenly Dao foundation.
+  Lü Yang deletes her blocking sword light and supports Myriad Spells and Du Xuan.
+  Vast Sky joins her. The Saint maintains the Dragon seal with Destiny, indirectly
+  supporting the Five Elements and bearing the Other Shore/mortal-world burden.
+- The monk's attempted intervention is repelled; Lü Yang pauses. Dao Tianqi then
+  joins, making five against three, but their numerical edge needs someone to
+  pay the cost of holding stronger enemies. Myriad Spells considers it; Du Xuan
+  hesitates because of his existing Primordial Spirit flaw. The battle subsides
+  into balance again. Si Sui remains sealed, and the Saint's inference that the
+  rescue is Lü Yang's ultimate aim remains an inference, not the full plan.

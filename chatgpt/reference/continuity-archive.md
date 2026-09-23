@@ -2454,3 +2454,61 @@ Current continuation: Chapters 1343 onward in continuity.md.
 - He ends observation and removes the actor. The enslaved fragment dies, and
   its karma disappears, preventing the Saint from tracing its experience.
   The Saint wonders why the previous record did not mention this further power.
+
+## Archived Chapters 1371-1377 at Chapter 1386
+
+## Chapter 1371: strategic withdrawal
+
+- The Saint considers Ascension and his River of Time trap unworkable for now.
+  He is convinced the opponent restarts and suspects more than once, but does
+  not know the count. He resolves to avoid further moves until he reads the book.
+- His sixth-layer strength still exceeds the other Lords'. He plans to wait until
+  Lü Yang opens the Infinite Loop to advance, exploit the Primordial Spirit flaw,
+  seal his consciousness and extract the supreme power. Success is untested.
+- Lü Yang mockingly addresses him as Martial Uncle. The Saint extracts another
+  Dragon thought fragment, then withdraws his aura behind concealment. This is
+  a new fragment, not revival of the erased one or successful book retrieval.
+- The Sword Sovereign finds him absent from all future visions and infers he
+  lost an unseen exchange. Lü Yang sees an information-driven retreat, not loss
+  of the Saint's superior cultivation or complete surrender.
+- Lü Yang wants to dismantle the Saint's contingencies gradually to avoid another
+  mutually destructive Final Kalpa. He recognizes advancement exposes him to the
+  Saint's waiting plan and accepts that risk. No reopening or breakthrough occurs.
+- His thought descends into the Underworld. The Saint's Mysteries withdraw from
+  the Three Lives Stone. Lü Yang manifests the Heavenly Palace and demands that
+  Tai Yitian retreat whenever they meet. The source distance is 100,000 li;
+  the owner's 100,000 miles remains a proposed adaptation, not a conversion ruling.
+
+## Chapters 1372-1374: public order, restored ally and the Ancient Era
+
+- Lü Yang turns his demand that Tai Yitian retreat into an Order recognized by
+  the Sea of Light. The Saint does not contest it, so the imagery takes hold and
+  advances Lü Yang toward the second layer without an actual breakthrough.
+- The World-Honored One asks to change paths and abandon Karma. Lü Yang confirms
+  this can free Si Sui under the intact Other Shore. Dao Tianqi can still share
+  wisdom light after the naming ritual's destruction.
+- Lü Yang changes history and karma to save Lian Tiandou from the Saint. The
+  established retreating Order makes the Saint withdraw rather than fight.
+- The karmic record breaks at the Dao Lord battle 129,600 years ago. Beyond the
+  gap lies the River of Time, but the World-Honored One can anchor a limited view
+  of the Ancient Era in his own karma. The complete Heavenly Person's Remnant
+  Consciousness appears in Chapter 1375, also called the Road to Immortality.
+
+## Chapters 1375-1377: Dao Tianqi's missing memories
+
+- The Saint preserves only a small, consumable reserve of Dao Tianqi's wisdom
+  light. He cuts away Fear, his final human emotion, while rebuilding toward the
+  seventh layer; the estimated recovery time is one thousand years.
+- Lü Yang does not enter the complete historical remnant realm. He first seeks a
+  safer explanation for Dao Tianqi's missing memories and notices that the
+  Saint's watchfulness now lacks its former emotional hesitation.
+- Lian Tiandou describes soul, True Spirit and consciousness as nested layers.
+  The True Spirit carries memory, and consciousness follows memory; Skyward can
+  coexist with restored Lian Tiandou because their memories differ despite the
+  shared True Spirit origin.
+- Lian Tiandou theorizes that a foreign object inside Dao Tianqi's wisdom light
+  conceals part of his memory rather than leaving his True Spirit incomplete.
+  Lü Yang borrows and drains the wisdom light while devising a possible second
+  transformation of his nature. A seal-script character, Jun, then emerges and
+  cascading iridescent light spreads through the Underworld, Sea of Light and
+  Fathomless Void. Its full function remains unresolved.
