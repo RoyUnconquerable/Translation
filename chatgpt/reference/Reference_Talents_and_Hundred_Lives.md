@@ -109,3 +109,13 @@ only after Refresh Permission, not retrospectively in earlier lives.
 The Age line in Ch.178 reads "Age: 100 years" in the approved manuscript.
 Retain that local text pending a specific decision; do not infer a requirement
 to add or remove units in every future status panel.
+
+## Later demonstrated use (Chapters 1387-1392)
+
+Observer Outside the Play operates remotely. Its Script guides Cultivating Truth
+through thoughts he takes as his own; do not rewrite the canonical first-appearance
+description or infer an unlimited ability from this one use. Cuckoo Occupying the
+Magpie's Nest conceals Lü Yang's borrowed identity and karma, but Cultivating Truth
+must mask his Primordial Spirit. Dao Tianqi separately impersonates Lü Yang using
+the Infinite Loop and one stored Order strike. Divine Transformation Heir dispels
+historical rejection at the eighth realm. These are distinct contributions.

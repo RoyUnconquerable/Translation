@@ -1,4 +1,4 @@
-# Current continuity: verified Chapters 1378-1386 and earlier prerequisites
+# Current continuity: verified Chapters 1387-1399 and earlier prerequisites
 
 Source facts are independent of English approval. Review status is in the
 ledger. The complete previous active window is preserved in continuity-archive.md
@@ -8,260 +8,167 @@ chat-delivery evidence for Chapters 1335-1338 remains unretrieved; approved Engl
 coverage is separate. Chapters 1339-1349 are verified from the current supplied sources.
 Chapters1310-1311 remain verbatim in that archive. Chapter1354 was supplied and
 retranslated directly, then owner-edited. Sources and chat deliveries through
-1386 are verified; owner revisions cover1354,1355,1358,1359,1361-1365,1371,1377 and1385, with a term correction
-for1357. These do not establish owner-final approval. Sources and deliveries for1350-1353
+1399 are verified; owner revisions cover1354,1355,1358,1359,1361-1365,1371,1377 and1385, with a term correction
+for1357 and explicit term/title/source corrections through1399. These do not establish owner-final approval. Sources and deliveries for1350-1353
 remain unretrieved here; no events or approvals are inferred for that gap.
-
-## Earlier prerequisites and Chapter 1339
-
-The full pre-confrontation prerequisites and Chapter 1339 record are preserved
-verbatim in continuity-archive.md under Archived prerequisites and Chapter 1339
-at Chapter 1346. These belong to the life ended by the Final Kalpa, not the
-current restored world. With borrowed wisdom withdrawn, Lü Yang lost at least
-half his fighting strength, considered carrying the Dao Fruit on a restart,
-and waited fifty years for repairs before choosing the three-Lord confrontation.
-World creation was seventy years earlier. His permanent wisdom-light flaw was
-not cured.
-
-## Earlier prerequisites: Chapters 1312-1314
-
-Detailed names, One Mind and borrowed-wisdom events remain verbatim in
-continuity-archive.md under Archived detailed Chapters 1312-1314 at the Chapter
-1326 update. Lü Yang's One Mind identity permits borrowing Dao Tianqi's wisdom
-light without surrendering himself; the temporary repair to his incompatibility
-does not establish a permanent cure. The End Tiger's omen interrupted study.
-
-## Earlier End Tiger and Transcendence revelations
-
-Detailed Chapters 1315-1318 remain verbatim in continuity-archive.md under
-Archived detailed Chapters 1315-1318 at the Chapter 1329 update. The awakened
-End Tiger is distinct from the ultimate final deity and limited by the Saint's
-status. His memory of Jun remains unexplained, despite the claim that true
-Transcendence erases all worldly traces. No resolved answer is established.
-
-## Earlier planning and Dao mastery: Chapters 1319-1320
-
-The hundred-year contingency and earlier account of the Great Dao answering
-to the cultivator remain verbatim in continuity-archive.md under Archived
-Chapters 1319-1320 at Chapter 1333.
 
 ## Current positions and live questions
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Ch.1386: stops his assault after the attempted Si Sui rescue stalls. Observes Cultivating Truth remotely as part of his concealed plan; no eighth-realm entry or second transformation has occurred. |
-| Primordial Saint | Ch.1385-1386: on layer five, maintaining the Dragon seal/Five Elements under a heavy burden. Spent stored wisdom light to reconstruct the interrogation; the hidden book remains unfound. |
-| Si Sui | Ch.1385-1386: his punches sound from the False History's source, but the rescue reaches a stalemate. No current-life escape or Transcendence is shown. |
-| Sword Sovereign and Vast Sky | Ch.1385-1386: she temporarily reaches layer five with Heavenly Dao support; he remains on four. They block Si Sui's release to preserve the Heavenly Dao. |
-| Myriad Spells and Du Xuan | Ch.1386: layers four and three, respectively. Myriad Spells considers risking a realm loss for Si Sui; Du Xuan's existing flaw makes him reluctant. Their side's numerical advantage does not produce a rescue. |
-| Ancestral Dragon | Ch.1384-1386: the original remains sealed while new shadows search Grand Ancestral Master. Bu Tianque drains the Five Elements; the Saint now uses Destiny to sustain the seal and support them. |
-| Nether Whisper Ancestor, Demon-Purging True Person, Suo Huan and Empress Xiao | Ch.1343: greet Lü Yang in the initially empty Heavenly Palace. He apologizes that he cannot choose them as his carryover reward. Their subsequent erasure is not narrated. |
-| Dao Tianqi | Ch.1386: joins the False History assault after the first pause. Still Underworld master, at most comparable to an Other Shore first-layer Lord. No explicit account of restored memories has been given. |
-| World-Honored One | Ch.1384-1386: withdraws the Foundation Establishment Realm and aids the rescue attempt; the Saint repels him. Still layer one; abandoning Karma remains unaccomplished. |
-| Lian Tiandou and Bu Tianque | Ch.1373-1384: Lian Tiandou is restored from True History. Lü Yang rescues Bu Tianque from the drained Five Elements into the Underworld. |
-| Cultivating Truth and the Trial Guardian | Ch.1382-1383: Cultivating Truth escapes but is unknowingly observed. The founding Guardian and most of his lineage survived in the eighth realm; breaking their false death record injures the hidden elder. |
+| Lü Yang | Ch.1391-1399: entered the intact Ancient Era trials and eighth realm. In Heaven Beyond the Heavens he saves the founding Guardian and most disciples, obtains four Ancient Past traditions, and has over 100,000 years before his departure era. A second nature transformation is hoped for, not achieved. |
+| Primordial Saint | Outside present: layer five, supporting the Other Shore and suppressing False History; recovered the golden book after ten years (Ch.1388). In the past witnessed in Ch.1398 he has only just defeated Si Sui, remains peak Golden Core and has not ascended the Other Shore. Keep the two times distinct. |
+| Si Sui | Still sealed in the outside present. The repeated assaults and lower-cultivator infiltration do not establish a successful rescue. |
+| Sword Sovereign and Vast Sky | She used Heavenly Dao support for layer five; he remains on four. Her temporary Underworld confinement ends in Ch.1391. She siphoned Myriad Spells' power through threads of affection to empower Vast Sky. |
+| Myriad Spells and Du Xuan | Layers four and three; support rescue attempts. Myriad Spells suffers the affection-thread siphon; Du Xuan's Primordial Spirit flaw remains. |
+| Ancestral Dragon | Original remains sealed. His shadows' search recovers the golden book for the Saint by Ch.1388. |
+| Dao Tianqi | Secretly completed an Infinite Loop transformation over ten years, enabling the injured Lü Yang impersonation revealed in Ch.1391. The Underworld is his foundation; the Order attack was stored power supplied by Lü Yang. |
+| World-Honored One | Layer one; repeatedly dies and revives through his Dao Lord place during the decade. Has not abandoned Karma. Supports Dao Tianqi and the concealed entry plan. |
+| Lian Tiandou and Bu Tianque | Rescued and in the Underworld; tend Dao Tianqi's injuries in Ch.1391. |
+| Skyward and Sublime Bliss | Sent toward False History in Ch.1387. Skyward receives the Traversing the Mortal Dust Method; no completed new Primordial Spirit attainment is shown. |
+| Cultivating Truth | Unknowingly directed by the Observer's Script; self-detonates and is erased in Ch.1390. The Saint restores Demon-Subduing True Person's karma but finds no consciousness. Lü Yang's real disguise is revealed only afterward. |
+| Immortal Recorder / founding Trial Guardian | Reincarnated from Jun's remembered realm, then saved by Lü Yang in Ch.1398. Most disciples escape through True-Spirit links made with Revering the Gods. Returns to the eighth realm; has practiced the Utmost Nature Immortal-Seeking Scripture but has yet to complete his Primordial Spirit. |
+| Supreme Source Immortal | Jun's former enemy and the two doctrines' creation, also called Tai Yitian. Book manipulation, possession of the Saint, restart awareness, loosening seals and the trap for Lü Yang are hypotheses, not established events. |
+| Nether Whisper Ancestor, Demon-Purging True Person, Suo Huan and Empress Xiao | Last directly established at Ch.1343 greeting Lü Yang in the Palace. No subsequent erasure is inferred. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
-- Is true Transcendence's erasure complete? Do not answer the source's question.
-- Ch.1368 establishes the golden book's reset-resistant uniqueness and reveals
-  the previous life's warning naming Lü Yang, his restart power and failed
-  Ascension. Lü Yang reads it through the proxy; the current Saint has not yet
-  recovered it. Its creator and exact immunity mechanism remain unknown.
-- The closed cycle stabilizes Lü Yang's Dao in Ch.1345 but blocks advancement.
-  Permanent wisdom light, safe reopening, new restart anchors and his proposed
-  ten-life investigation remain unresolved. The attempted forty-five-degree twist
-  in Ch.1380 threatens to break the cycle and is stopped.
-- The Saint's original mortal name remains unknown. Ch.1344 names the maintained
-  Art of Seizing Heaven through Name and Nature ritual; it does not reveal the name.
-  Sharing wisdom light through the four Peak Lords is now evidenced; ordinary
-  unrestricted transfer remains unestablished.
+- The Saint's original mortal name remains unknown. Sharing the name Tai Yitian
+  with the Supreme Source Immortal does not prove that they are one person.
+- The golden book is unique across restarts; whether its captive also retains
+  complete restart memories is Lü Yang's theory. The historical Dao Ancestors
+  merged the Dao Register into the book as a restriction on the False Immortal.
+- Heaven Beyond the Heavens cannot host Lü Yang's actual breakthrough while his
+  Order Dao is rooted elsewhere. He can study and simulate it there.
+- No complete Transcendence method has been obtained. Requiring every Primordial
+  Spirit Dao Lord to enter before Jun's opportunity activates is Lü Yang's guess.
+- His permanent wisdom-light flaw and a safe second transformation remain unresolved.
+- Lü Yang leaves karmic bait to test the Supreme Source Immortal theory. Its
+  result is not yet known at Ch.1399.
 
-## Earlier training and wager: Chapters 1321-1322
+## Earlier history lookup
 
-Detailed training, status-origin inference, allegiance offer and wager terms
-remain verbatim in continuity-archive.md under Archived Chapters 1321-1322
-at Chapter 1334. The intact Heavenly Dao won in that duel now completes the Palace.
+Detailed source records remain in continuity-archive.md, indexed by chapter in
+its headings. Consult the relevant life and viewpoint before applying them:
 
-## Earlier treasure search, oath and Sword Sovereign methods: Chapters 1323-1326
+| Range | Relevant prerequisites |
+| --- | --- |
+| 1312-1320 | One Mind, borrowed wisdom, End Tiger, Transcendence and status origins. |
+| 1321-1339 | Palace foundations, wagers, shared-name identities, world creation and the previous life's confrontation. |
+| 1340-1349 | Final Kalpa restart, Divine Transformation Heir, current-world entry, Order and the Infinite Loop. |
+| 1354-1365 | Re-established allies, illusion/script mechanics, Saint's plans and Primordial Spirit conflicts. |
+| 1366-1370 | Golden book, previous-life records, naming ritual's destruction and the hidden book. |
+| 1371-1377 | Saint withdraws; Lian Tiandou restored; three histories, memory theory and Jun's revealed character. |
 
-The full source-grounded account remains verbatim in continuity-archive.md under
-Archived Chapters 1323-1326 at Chapter 1339. It preserves the spent treasure,
-conditional oath stakes, coercion timeline, and wisdom-triggered internal attacks.
+The prior detailed navigation is preserved verbatim under Archived navigation
+through Chapter 1377 at Chapter 1399. Unrecovered sources/deliveries1350-1353
+remain a gap; do not fill it from later inference. The permanent wisdom-light
+flaw remains despite temporary borrowing. No earlier life's deaths, new world
+or successful escape automatically transfers into the restarted present.
 
-## Earlier severed ties and desperate strike: Chapters 1327-1329
+## Chapters 1378-1386: lookup
 
-The complete source-grounded account is preserved verbatim in continuity-archive.md
-under Archived Chapters 1327-1329 at Chapter 1341.
+The complete preceding window is preserved in continuity-archive.md under
+Archived Chapters 1378-1386 at Chapter 1399. Jun's inclusive access rules,
+the Guide theory, remote observation, Guardian survival and the three-front
+stalemate remain prerequisites. The live positions above supersede that window.
 
-## Earlier Chapters 1332-1334
+## Chapters 1387-1391: ten years of cover and the concealed entrant
 
-Their complete source-grounded detail remains verbatim in continuity-archive.md
-under Archived Chapters 1332-1334 at Chapter 1344. That life's shared-name merger,
-Sword Sovereign death and Palace breakthrough precede the restart below; do not
-apply their resulting conditions automatically to the restarted world.
+- Repeated failed rescues occupy ten years. A year before the final diversion,
+  the Saint catches Lü Yang preparing a breakthrough and erases his historical
+  existence through Time. The still-intact Infinite Loop restores history and
+  stabilizes his injured Primordial Spirit; he retreats to the Underworld.
+- Lower cultivators, including Skyward and Sublime Bliss, infiltrate False
+  History while Dao Lords hold one another back. Lü Yang's remote Script steers
+  Cultivating Truth to take Demon-Subduing True Person along. The fugitive
+  experiences these decisions as his own, despite his usual caution.
+- The Saint, now holding the recovered golden book, recognizes Lü Yang's name
+  and the previous life's risks. He expels Cultivating Truth into True History.
+  Dao Tianqi draws the Sword Sovereign into the Underworld; Destiny creates a
+  causal abyss, pushing the fugitive back into the Ancient Era. Vast Sky blocks
+  the route down into False History with power siphoned from Myriad Spells.
+- Cultivating Truth cannot enter the historical trials. Facing erasure, his
+  flawed Primordial Spirit destabilizes; he self-detonates. The Saint erases
+  him, then investigates Demon-Subduing True Person's unexplained disappearance.
+  Restored bodily and spiritual structures contain no consciousness.
+- Ch.1391 reveals that Dao Tianqi impersonated Lü Yang after secretly learning
+  the Infinite Loop over the decade. The Underworld's countless dead spirits
+  support a Dao Fruit, analogous to the Heavenly Palace; one stored Order strike
+  explains the impersonator's brief attack and poor endurance. Real Lü Yang used
+  Cuckoo Occupying the Magpie's Nest to replace Demon-Subduing True Person's
+  identity while Cultivating Truth concealed the otherwise visible Spirit.
 
-## Restart prerequisites: Chapters 1340-1342
+## Chapters 1392-1395: absolute reality and the remembered realm
 
-Full events are preserved verbatim in continuity-archive.md under Archived
-Chapters 1340-1342 at Chapter 1349. The Saint forced the actual Final Kalpa
-into the Present and destroyed himself. His surviving records, not a surviving
-personality, accompany Lü Yang's forced restart by a still-unresolved mechanism.
-Lü Yang reclaimed the Heavenly Scripture title page and gained Divine
-Transformation Heir, permitting access to Heavenly Person's Remnant Consciousness
-regardless of cultivation. His theory that the records remain in Grand Ancestral
-Master creates a potential delay before the restarted Saint learns about him;
-Ch.1344 supplies the Saint's ten-year ritual plan, not an accomplished visit.
+- Divine Transformation Heir dispels rejection. The eighth realm appears as a
+  ruined divine mountain amid a chaotic sea of apocalyptic scenes. Order cannot
+  analyze it. Its absolute reality exists across past, present and future;
+  arriving through karmic traces places Lü Yang in the actual Ancient Era here.
+  Trying to reach out into that era elsewhere threatens his destruction.
+- A cultivator addresses him as Dao Ancestor, finds only seventeen names in the
+  Dao Register and secretly adds Profound Virtue as the eighteenth. Lü Yang sees
+  a real encounter preserved here: seventeen Ancestors debate the golden book,
+  agree to merge the Register into it to restrain the False Immortal, and ask the
+  future-attaining visitor to take responsibility. A copy remains for later names.
+- The attendant is Immortal Recorder. The remembered date is Calendar of Balance
+  129,600. The Seeking Truth hall has eighteen immortal statues, now including
+  Lü Yang. The Dao Venerable's cushion holds only a breeze; his form had grown
+  imperceptible as his attainment approached perfection.
+- Recorder learns that Jun has already left. This realm is Jun's final memory,
+  sustained by a thought, not an ordinary surviving historical location. The
+  attendant's Befriending the Noble cultivation depended on Jun; preserved here,
+  he survived but stagnated and lost clarity. Lü Yang's arrival prompts rebirth
+  under the new ten Daos. Known history already includes this intervention.
+- Recorder intends to return and guard the realm, revealing his identity as the
+  founding Trial Guardian. He links the dangerous book to the Supreme Source
+  Immortal, the two doctrines' greatest creation and Jun's enemy. Its cosmological
+  account names Three Qi, Nine Primordial Essences, Supreme Origin and Supreme
+  Change; that Immortal preferred the personal name Tai Yitian.
 
-## Chapters 1343-1344: lookup
+## Chapters 1396-1397: a suspected second enemy and ten paths
 
-Full source-grounded events remain verbatim in continuity-archive.md under
-Archived detailed Chapters 1343-1344 at Chapter 1354. They preserve the carryover
-choice, fragile independent Dao, Saint's ten-year ritual plan and the difference
-between an intended inspection and an accomplished visit.
+- Recorder confirms that changing name and appearance in the described way risks
+  possession. Lü Yang suspects that records in the golden book guided the Saint
+  toward the Seven Emotions Heaven-Fathoming Art and the enemy's nature. Original
+  Saint comprehension, unlike later borrowed wisdom light, supports his doubt.
+- Lü Yang further theorizes that the book protects the captive from restarts,
+  preserves his memories and may have had its seal loosened by repeated resets.
+  The previous life's suicide and glimpse of the book might have baited Lü Yang's
+  true body. His Dragon proxy avoided that suspected trap. None is verified.
+- Ancient Past ten Daos name successful approaches, ordered by first attainment,
+  not literal world-roads or relative strength. Practitioners can combine them.
+  Fate cultivators live as mortals while preparing remembered, improved rebirth;
+  the founder's story includes rebirth before an epoch as an Innate Dao God.
+- Ten founders and seven successors make seventeen Dao Ancestors. Jun arose
+  later from humble origins. Recorder does not know what the Ancestors did after
+  Jun transcended; departure into the Fathomless Void amid the Divine Land/Vast
+  Sea collision is his conjecture, not a verified destination or Transcendence.
 
-## Earlier Chapters 1345-1349: lookup
+## Chapters 1398-1399: saving the Guardian and four traditions
 
-Full detail is preserved verbatim in continuity-archive.md under Archived
-Chapters 1345-1349 at Chapter 1358. The closed Dao transforms Lü Yang's nature
-but prevents growth. His Profound Virtue outsider persona wins credibility;
-he defeats the World-Honored One's manifested body without permanently killing
-him, then identifies the Saint's portrait as Martial Uncle Jun.
-
-## Chapter 1354: lookup
-
-Full notes remain verbatim in continuity-archive.md under Archived Chapter 1354
-at Chapter 1359. Mutual deception confirms the book's name, not the claimed sect
-history. Lü Yang offers to handle Soaring Firmament. The Saint abandons his
-Dragon-removal attempt as the Sword Sovereign arrives.
-
-## Chapter 1355: lookup
-
-Detailed notes remain verbatim in continuity-archive.md under Archived Chapter
-1355 at Chapter 1361. Lü Yang frees Soaring Firmament from the threads, but his
-created world cannot block the Saint's gaze. He plans concealment through Dao
-Tianqi; the Sword Sovereign plans gradual puppetry. These were plans at1355.
-
-## Chapters 1356-1357: lookup
-
-Full notes remain verbatim in continuity-archive.md under Archived Chapters
-1356-1357 at Chapter 1362. The closed Dao resists the threads' drain; Lü Yang
-baited the Sword Sovereign with the World-Honored One's assistance, swallowed
-her threads and fled downward when her Heavenly Dao blocked his departure.
-
-## Chapters 1358-1359: lookup
-
-Full notes remain verbatim in continuity-archive.md under Archived Chapters
-1358-1359 at Chapter 1364. Dao Tianqi's concealed tremor and the monk's halted
-Karma enabled the Dragon observation. Lü Yang escaped, repelled the Sword
-Sovereign and refined her threads; further spiritual advancement remains a hope.
-
-## Chapter 1360: lookup
-
-Full notes remain verbatim in continuity-archive.md under Archived Chapter 1360
-at Chapter 1364. The Saint's examination finds no tampering, but he assumes a
-hostile scheme and decides to confine Lü Yang. His suspicions are not proof
-of Lü Yang's claimed lineage or knowledge of his actual observation method.
-
-## Chapter 1361: lookup
-
-Full notes remain verbatim in continuity-archive.md under Archived Chapter 1361
-at Chapter 1365. The Saint chooses the Time trap; Lü Yang intends to exploit
-Dragon entry without sending his body. Lin Xiao becomes his disciple, and the
-changed past Cause leads to the meeting with Di Mituo.
-
-## Chapter 1362: lookup
-
-Full notes remain verbatim in continuity-archive.md under Archived Chapter 1362
-at Chapter 1365. The monk explains the Trial Guardian's unification, the Saint's
-removal of Grand Ancestral Master and his own cleanup. Carefree Wandering moves;
-Dao Tianqi's special qualification and a deeper realm remain reported, not visited.
-
-## Chapters 1363-1365: lookup
-
-The full records remain verbatim in continuity-archive.md under Archived active
-Chapters 1363-1365 at Chapter 1371. The monk learned the Ascension scheme;
-Soaring Firmament's attempt forced the Saint from layer seven to six. Dao Tianqi
-appeared, the attempt failed, and Skyward departed by the God-Sealing route.
-No completed Dao attainment was shown.
-
-## Chapters 1366-1370: lookup
-
-Full detail remains verbatim in continuity-archive.md under Archived Chapters
-1366-1370 at Chapter 1377. Lü Yang followed the Dragon proxy into Grand Ancestral
-Master, read the Saint's two earlier-life records, destroyed the naming ritual
-and hid the intact golden book. Ending observation erased the proxy and its
-karma. The Saint remained on layer six; the monk fell to layer one.
-
-## Chapters 1371-1377: lookup
-
-Full records remain verbatim in continuity-archive.md under Archived Chapters
-1371-1377 at Chapter 1386. They preserve the Saint's withdrawal and severed Fear,
-the public retreating Order, Lian Tiandou's restoration, limited Ancient Era
-access and the emergence of Jun's character. Subsequent revelations below
-supersede the then-unresolved character function and reported Guardian deaths.
-
-## Chapters 1378-1380: Jun's message and the concealed route
-
-- Radiance ignores the Lords' attacks. Every Primordial Spirit cultivator hears
-  Jun, including sealed, hidden and False History occupants. The eighth realm
-  appears above the Other Shore; appearing is not entry or Transcendence.
-- Jun's message identifies the remnant trials as his shattered soul/sea of
-  consciousness and the eighth realm as his retained True Spirit. Primordial
-  Spirits may enter the latter, but need the intact seven trials as stairs.
-- The Saint did not know this message and had destroyed his own possible route.
-  He assumes Lü Yang came for Jun's legacy. Lü Yang instead infers Dao Tianqi's
-  pure heart led Jun to choose him as Guide and give him supreme wisdom light.
-  The hidden seal's intended activation at Transcendence-level contemplation is
-  Lü Yang's reconstruction, disrupted by the Saint or the Dragon's destruction.
-- The Saint offers Grand Ancestral Master and a binding alliance to reunite the
-  trials. Lü Yang refuses because Divine Transformation Heir should let him use
-  the Ancient Era's intact trials. No such entry is yet achieved.
-- Lü Yang attempts to twist his Dao ring, stops at forty-five degrees when the
-  Infinite Loop threatens to break, and lets the Saint observe. In Jiangnan,
-  Demon-Subduing True Person reaches Great True Person. Long Tu describes the
-  Wheel-Turning Pool while a hidden patron appraises him.
-
-## Chapters 1381-1383: the observed fugitive and living Guardians
-
-- The patron is Cultivating Truth, not the Sword Sovereign. He extracts Long Tu
-  and hears that the founding Trial Guardian once advised refuge in the eighth
-  realm. Lü Yang interrupts; Cultivating Truth attempts Meet and Forget.
-- Lü Yang attracts the Lords' attention, shields the fugitive and has the monk
-  disrupt karma. The Lords search the three witnesses; the Saint spends stored
-  wisdom light to reconstruct the interrogation and changes past karma.
-- Cultivating Truth escapes injured and suspects manipulation. Lü Yang has
-  selected him for Observer Outside the Play, without physically pursuing him.
-  Long Tu is the apparent target; the fugitive is the real one. Lü Yang wants
-  to mislead the Saint before attempting historical entry, fearing Final Kalpa
-  retaliation if observed. The next step has not been revealed.
-- In the battle 129,600 years ago, the Saint changes his own attack and blocks
-  the monk's stomp, but cannot revive the Guardian lineage. The founder and most
-  of the lineage never died: they hid in the eighth realm. Destroying their
-  false death record alerts and wounds the hidden elder, who feels relief.
-- The Sword Sovereign proposes draining the Five Elements and withdrawing the
-  Heavenly Dao to force the Saint down another layer, increasing her leverage.
-
-## Chapters 1384-1386: three fronts and a stalled rescue
-
-- The monk changes his farewell with Bu Tianque eighty thousand years ago:
-  Lian Tiandou is back, cancel the old pill plan and follow the Sword Sovereign.
-  Bu Tianque drains the Five Elements; she withdraws their hidden substitute
-  support, the Heavenly Dao. The Other Shore begins to fall.
-- Lü Yang rescues Bu Tianque into the Underworld and strikes the exposed base.
-  The monk removes the Foundation Establishment Realm; Lü Yang shields affected
-  cultivators while furthering its collapse. The False History also destabilizes,
-  giving Myriad Spells and Du Xuan an opening to rescue Si Sui.
-- The Saint descends from layer six to five and uses the Dharma Refining Secret
-  Realm to replace the Foundation Establishment Realm. Stability lasts under
-  fifteen minutes. The Sword Sovereign reaches layer five, using the Heavenly
-  Heart Lock and Vast Sky's Written Word/Fortune support to draw the Saint's blood.
-- She then intercepts the rescue because Si Sui is also a Heavenly Dao foundation.
-  Lü Yang deletes her blocking sword light and supports Myriad Spells and Du Xuan.
-  Vast Sky joins her. The Saint maintains the Dragon seal with Destiny, indirectly
-  supporting the Five Elements and bearing the Other Shore/mortal-world burden.
-- The monk's attempted intervention is repelled; Lü Yang pauses. Dao Tianqi then
-  joins, making five against three, but their numerical edge needs someone to
-  pay the cost of holding stronger enemies. Myriad Spells considers it; Du Xuan
-  hesitates because of his existing Primordial Spirit flaw. The battle subsides
-  into balance again. Si Sui remains sealed, and the Saint's inference that the
-  rescue is Lü Yang's ultimate aim remains an inference, not the full plan.
+- Recorder gives the second Fate Dao Ancestor's rebirth method: sacrifice one's
+  cultivation, become mortal and seek death to attain a better rebirth. Lü Yang
+  can understand its detailed teaching without borrowed wisdom light. He places
+  a brand in Recorder's True Spirit before reincarnation and waits in the realm.
+- Jun's remembered placements prevent removal of objects. Lü Yang repeatedly
+  searches without finding the promised Transcendence secret. He speculates that
+  equal access requires all Primordial Spirit Dao Lords to participate.
+- The brand activates when the monk's foot shatters the trials and the Saint's
+  finger attacks Recorder. Lü Yang extracts his True Spirit and most disciples,
+  fulfilling established history. The Saint then is only peak Golden Core;
+  killing him would still trigger the prohibited historical interference.
+- Lü Yang deposits karmic bait, anticipating the Saint's later failed Guardian
+  resurrection. Recorder recovers pre-rebirth memories and explains that Revering
+  the Gods linked his disciples to him. During reincarnation he visited ruins
+  and acquaintances and acquired that method, Feng Shui and Study.
+- Revering the Gods has three Dao Ancestors: self-reverence through austerity,
+  others worshiping oneself, and worship of an imagined god later replaced by
+  the practitioner. The third transfers adverse effects to the god, but the god
+  rather than the practitioner proves the Dao; the first two reject the lineage.
+- Lü Yang infers the Heavenly Dao follows that third branch, with Si Sui as a
+  living pillar. Recorder attributes the Other Shore to Feng Shui and the Written
+  Word to Study. Fragmentary methods suit reference, not unmodified current use.
+- Four traditions in total: Fate, Revering the Gods, Feng Shui and Study. The
+  owner's correction replaces the source's erroneous five. Recorder can now seek
+  his Primordial Spirit in seclusion. Lü Yang has ample historical time to digest
+  the methods, but his hoped-for second transformation remains ahead of him.

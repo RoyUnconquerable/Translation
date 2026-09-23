@@ -689,3 +689,24 @@ with retrieval pointers; no chapter prose was committed. No glossary mapping cha
 
 This update remains local. The earlier automatic approval rejection still blocks
 remote publication; no push or alternative publication route was attempted.
+
+## Chapters 1395-1399 terminology research and scoped corrections
+
+The owner requested comparison of Nine Primal Essences and Theory of Five Innate
+Supremes, then accepted Nine Primordial Essences and Theory of the Five Innate
+Supremes. The consulted sources showed no uniform English convention across
+novels. This is an approved project choice, not a universal claim about all
+Daoist or light-novel terminology. The source's Three Qi / Nine Essences sequence
+governs this novel even when external accounts arrange concepts differently.
+
+Research references: https://en.daoinfo.org/wiki/The_Infinite ;
+https://cidian.kxue.com/ci/jiusu.html ;
+https://zh.wikisource.org/wiki/雲笈七籤/08 ;
+https://lite.wuxiaworld.com/novel/archfiend/af-chapter-7 ;
+https://www.webnovel.com/ru/book/8324027206000305/65533233319703898 .
+
+Other explicit choices: Befriending the Noble replaces Benefactors; 命 remains
+Fate in the maxim and named cultivation path, not every ordinary life reference.
+Ch.1396's title is I Almost Died for Real! Ch.1399 lists four traditions; the
+owner authorized correcting the contradictory count of five. These corrections
+do not establish whole-chapter owner-final approval.

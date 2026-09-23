@@ -260,63 +260,46 @@ intervention does not establish equal strength or erase the status hierarchy.
 - Lü Yang understands the risk but seeks higher status while the Saint withdraws.
   Neither an opened cycle nor a successful advancement occurs in this chapter.
 
-## History, memory and the hidden character (Chapters 1372-1377)
+## History, Jun's legacy and balance (Chapters 1372-1386): lookup
 
-- The intact Other Shore retains Si Sui's original place, later occupied by the
-  monk. Lü Yang reasons that freeing Si Sui now would let 129,600 years of Time
-  raise him several layers before False Transcendence. No rescue has occurred.
-- Chapter 1374 distinguishes three stacked histories, not one timeline: the
-  destroyed original history, today's False History and present True History.
-  The monk's three life bodies belong to those respective histories. The causal
-  gap at the battle 129,600 years ago breaks Karma's linkage, not Time itself.
-- A Dao Lord's own karma can anchor a limited Ancient Era reconstruction despite
-  rewritten world history. The monk's low cultivation then limits the reliability
-  of his observations. Beyond the gap, unmediated travel enters the Saint's Time.
-- Road to Immortality is an Ancient Era alias of the complete remnant trials,
-  not proof of identity with the earlier Supreme Emperor Realm location. Lü Yang
-  attributes the monk's inability to affect their history to rejection of Dao
-  Lords, not absence of karma. His Talent indicates entry is possible; he defers it.
-- Lian Tiandou's model places soul outside True Spirit and consciousness. The
-  True Spirit carries memory; consciousness follows those memories. Differing
-  memories explain his coexistence with Skyward despite a shared vessel origin.
-  He argues that incomplete True Spirits prevent Primordial Spirit attainment.
-- A foreign object within Dao Tianqi's wisdom light is the proposed cause of
-  inaccessible memory. Draining the light reveals Jun's seal-script character
-  and releases iridescent radiance. Chapters 1378-1379 reveal its message and
-  realm-revealing role below; Lü Yang's detailed design theory remains attributed.
-- Lü Yang hypothesizes that Ancient Past cultivators worked directly on nature
-  and that his closed cycle could extend upward without opening. No second
-  transformation or new cultivation system is yet achieved.
+Full mechanics remain verbatim in continuity-archive.md under Archived
+world-reference mechanics for Chapters 1372-1386 at Chapter 1399. These cover:
+three stacked histories and Dao Lord anchors; soul/True Spirit/consciousness;
+Jun's separate entry rules for the seven trials and eighth realm; the attributed
+Guide theory; Wheel-Turning Pool and Meet and Forget; false-death resurrection;
+Heavenly Dao dependencies and Destiny supporting the Five Elements seal.
+Current developments below supersede earlier deferral or unresolved claims.
 
-## Jun's legacy, concealed survival and balance (Chapters 1378-1386)
+## Absolute reality and Ancient Past paths (Chapters 1391-1399)
 
-- Jun says he shattered his soul and sea of consciousness before Transcendence
-  to create the Heavenly Person's Remnant Consciousness. Unauthorized Primordial
-  Spirit entry is barred there. His retained True Spirit forms the eighth realm,
-  which requires a Primordial Spirit and offers a path to those seeking
-  Transcendence. These are distinct access rules, not a contradiction.
-- The eighth realm is too elevated to enter ordinarily; the intact seven trials
-  form its stairs. Jun left Trial Guardians and Guides to preserve this route,
-  explicitly including both sects and Primordial Spirit cultivators in his
-  impartial arrangement. The Saint's earlier exclusion theory was mistaken.
-- Lü Yang infers that Dao Tianqi's pure heart led to his selection as Guide and
-  designed wisdom-light advantage. Exhausting that light on Transcendence would
-  reveal the seal when cultivation stagnated. The missing memories and intended
-  activation sequence remain his explanation, not an independent narrated proof.
-- Long Tu describes the Wheel-Turning Pool as his lineage's treasure and the
-  foundation of Responding to Emperors and Kings. He claims it can restore his
-  remnant divine sense, with even a surviving True Spirit having hope of new life.
-- Meet and Forget separates Cultivating Truth from a target and erases that
-  target's memories of him. It works only once per target; meeting again restores
-  memory. Its deliberately large limitation and lack of attack strengthen the
-  effect, which may catch even a Primordial Spirit cultivator off guard.
-- Changing a death's Cause cannot revive someone whose death Effect was false.
-  The Trial Guardian and most of the lineage escaped into the eighth realm;
-  their false deaths still occupied historical karma until the Saint broke it.
-- The Heavenly Heart Lock and Si Sui both underpin the Heavenly Dao. The Sword
-  Sovereign's opposition to Si Sui's rescue reflects that dependency. An alliance
-  against the Saint does not imply agreement on releasing him.
-- Once drained Five Elements endanger their seal, maintaining that seal through
-  Destiny can indirectly sustain them. The Saint bears a severe continuing load;
-  the Dharma Refining Secret Realm replaces Foundation Establishment's support
-  but does not by itself repair every endangered foundation.
+- Ordinary historical travel reads and edits karmic traces; it does not place
+  a body on the actual past's ground. The eighth realm's absolute reality is
+  independent of time, permitting actual arrival through those traces. Departure
+  or intervention remains restricted. Known history already includes Lü Yang's
+  permitted Guardian rescue; this is not unrestricted rewriting of the past.
+- Heaven Beyond the Heavens here is Jun's final remembered realm, formed from
+  his retained True Spirit and sustained by a thought. Remembered objects cannot
+  be removed. The genuine Ancient Era outside and its Ancient Past memories are
+  distinct temporal layers, not interchangeable era names.
+- A second Infinite Loop practitioner is possible: the Underworld's accumulated
+  dead spirits provide a Dao Fruit foundation, as the Palace's living multitude
+  did for Order. Dao Tianqi completes this transformation in secret; no general
+  claim that every Dao Lord can copy it follows.
+- Ancient Past cultivation refines one's nature rather than climbing an external
+  status structure. The ten paths are successful methods in order of first
+  attainment, not ranked powers or necessarily manifested cosmic roads. Their
+  formal names are in phrase-memory.tsv's ten-Dao maxim.
+- Fate cultivation preserves memory for improved rebirth; the second Fate Dao
+  Ancestor's method sacrifices cultivation for it. Befriending the Noble derives
+  protection and longevity from a patron, whose departure can end that support.
+- Revering the Gods has internal self-reverence, external worship, and a third
+  approach using a separately imagined god later replaced by the practitioner.
+  The third god bears the adverse effects and is the being that proves the Dao.
+  Lü Yang links this to the Heavenly Dao. Recorder links Feng Shui to the Other
+  Shore and Study to the Written Word. Preserve these attributions.
+- The Dao Register's seventeen entries become eighteen with Profound Virtue.
+  The original was merged into the golden book to restrict the False Immortal;
+  a later copy can receive manually written names. Recorder names that enemy the
+  Supreme Source Immortal, also called Tai Yitian. Possession is a stated risk;
+  successful possession, record tampering, restart memories and weakened seals
+  remain Lü Yang's theories. No automatic merger with the Saint is established.

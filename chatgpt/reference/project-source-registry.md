@@ -43,3 +43,25 @@ checked it when it is unavailable.
 - Rules maintenance reviewed all supplied change categories, scanned the complete
   manuscript for relevant structural/formatting evidence and inspected flagged
   contexts. It is not a fresh line edit or a bilingual verification of the novel.
+
+## Source-reference synchronization through Chapter 1399
+
+Owner explicitly requested GitHub and source-file updates on 23 September 2026.
+The seven local attachments were reconciled without rereading their content from
+remote storage. All seven replacements succeeded, retaining the existing identities below.
+Hashes describe the saved updated bytes.
+The four Reference files match their current canonical counterparts. Rules and
+the two older source compilations retain historical evidence with a current
+addendum; unapproved proposals remain unapproved. No chapter prose is included.
+
+| Source file | Existing identity | SHA-256 of synchronized content |
+| --- | --- | --- |
+| ChatGPT_Rules.md | libfile_9d6a4d06f814819183f8bb6701f312eb | d930dd165abe2bb5b4f305e704a894076a9f29e2c79734c6191e9e7d0bbb3268 |
+| Reference_Italicized_Titles.md | libfile_6532e20fc0b48191a21c1cfbfef0569b | 2762bafb1682411ee1a43842d9b865f5492adc6709316094c768c171a4f4b15d |
+| Reference_Talents_and_Hundred_Lives.md | libfile_2d2937a58a088191a7a7445d9a78f665 | 44b92fc40943977f50e6d36c8f85b7763485f3437bd3d22aa3c2477c40abef08 |
+| Rule_Update_and_Proposed_Resolutions.md | libfile_39476e6302cc8191b1ccf0e36f237b8f | aceebec57b7fd4b3a941c21181c402682c11dfd3cf0d5a6936f198de08ce73c6 |
+| Reference_Idioms.md | libfile_888d96a3b4448191af4116afeb1c6165 | 14c3ea186329757080ee71792db5f50b1a884462fbdd81f4bcccd61e42d97812 |
+| Reference_Formatting_Rules.md | libfile_1632fce49dd0819182c135d304616930 | 9372a42b1ef99275148c3b6a6d5fd4d1e427d8b1889109d3fe43148a9230348c |
+| 02_BOOK_REFERENCE.md | libfile_9a5ebb0293e48191afcfd2a6cd7316d9 | fe5e47b77a22b907f2f396be667305309dbd8a57bc544075ee9a67d59864a985 |
+
+Saved version numbers: ChatGPT_Rules.md v1; Reference_Italicized_Titles.md v2; Reference_Talents_and_Hundred_Lives.md v2; Rule_Update_and_Proposed_Resolutions.md v1; Reference_Idioms.md v2; Reference_Formatting_Rules.md v2; 02_BOOK_REFERENCE.md v1.

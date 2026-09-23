@@ -576,3 +576,14 @@ classify each passage by voice and syntax. Do not retrieve this section by defau
 | ...Is this possible | 1 | 586 |
 | ...Is this the limit | 1 | 626 |
 | ... 14123 more single-occurrence thought spans not listed | | |
+
+## Later terminology and styling (Chapters 1393-1399)
+
+Dao Register is a roman artifact; Heaven Beyond the Heavens a roman realm;
+Calendar of Balance a calendar name; Dao Venerable and False Immortal are titles.
+Fate cultivation, Revering the Gods, Feng Shui, Study and Befriending the Noble
+name paths, not italic scripture titles. Theory of the Five Innate Supremes names
+the theory discussed in Ch.1395. The existing *Utmost Nature Immortal-Seeking
+Scripture* remains italic. 七情参天决 in Ch.1396 is a source spelling variant of
+*Seven Emotions Heaven-Fathoming Art*, not a new work. God-Sealing Method remains
+roman under the explicit exception, despite historical extracted italic spans.
