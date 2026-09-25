@@ -92,7 +92,6 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 
 - Classify first. A fixed expression (title, quotation, verse, proverb, panel, formula) follows Reference_Idioms.md; its suspected Chinese originals are hints, not verified mappings. A live image or linked chain is kept and developed across chapters. A dormant idiom is rendered by function in plain words, without anatomy ("packed to the last seat").
 - Keep an image that carries an argument, joke, or later metaphor; make a cultural comparison clear at once. Keep deliberate contrasts (a calm voice, a violent effect) and coherent spatial images; keep means, geography, and ownership concrete, with no invented movement or abstract label.
-- The Ch. 1295 snake proverb keeps its image; spent force takes no crossbow bolt. Developed a taste keeps the appetite without literal marrow.
 - Keep system vocabulary (Dao, realms, Qi) and Daoist and Buddhist concepts, not Western fantasy terms. No translator notes. An allusion never licenses inversion, filler, or inflated diction.
 - Use established English names for recognized allusions, never an unrelated English proverb. Verify an allusion's subject and logic; never complete a clipped quotation from memory.
 - Keep wordplay or flag the loss (均 is "even, equal"). An owner's pun rendering outranks a compensating insult.
@@ -102,7 +101,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 ## 10. Names, ranks, and capitalization
 
 - Pinyin with established diacritics for birth names; translate Dao titles, ranks, techniques, artifacts, realms, and epithets. Glossary capitalization, without promoting generic nouns.
-- The Primordial Saint for 初圣, never the Saint; repeat the title when a nearby male referent makes he ambiguous. Ch. 1341's "The Saint is not benevolent." is a scoped exception in phrase memory. Full epithets such as the Ancestral Dragon are never clipped.
+- Full epithets are never clipped: the Primordial Saint for 初圣, never the Saint; the Ancestral Dragon, never the Dragon. Repeat the title when a nearby male referent makes he ambiguous. Passage-scoped exceptions live in phrase memory.
 - Dao title for 道号, honorific title for 尊号; 尊名 keeps its own ruling. This humble Daoist for self-effacing 贫道 where the persona matters.
 - Prove, proved, proving for 证 when it means establishing a Great Dao (prove Time), inflected by actual time (a speaker reconstructing a sequence may use the schematic present); not for unrelated attainment, evidence, or comprehension.
 - Nature is fundamental character or identity, including differences of realm; essence is a substance, refined essence, or core. Decide by context, never by global replacement.
@@ -111,7 +110,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - The Dao Heart, his Dao Heart, attributive Dao Heart; the One Mind for the World-Honored One's method; bare One, Two, and Three in creation formulas, anaphoric the One.
 - status lowercase except sentence-initially or in an exact approved interface phrase. Yin and Yang capitalized; Yin-Yang only in established attributive compounds. talent lowercase in prose; Talent only inside approved displays (Unique Talent, Golden Talent, the Talents: field).
 - Keep distinct: cultivation and Dao Attainment; Fate, Destiny, and Fortune; Spell Dao and Spiritual Power Dao; True and False History. Great Divine Ability for 大神通, divine ability for 神通. Martial Uncle as a specific sect-relative title, without capitalizing every kinship noun.
-- Ordinary pronoun case for everyone, Dao Lords included; the divine-capital convention is withdrawn. The Sword Sovereign and Vast Sky are singular they, with plural verbs, before Ch. 1129, then she and he. Other timing: Reference_Formatting_Rules.md.
+- Ordinary pronoun case for everyone, Dao Lords included; the divine-capital convention is withdrawn. Gender and pronoun timing per character: entities.tsv and Reference_Formatting_Rules.md.
 - Ordinary decency for Si Sui's everyday ethics, not a philosophy-wide substitution. Do not routinely label people human material; keep explicit harvesting or sacrifice. System and matchup humor in natural terms such as raw stats. Easy to use does not mean mindless; when the source calls someone an idiot, keep the joke plain.
 
 ## 11. Numbers, units, and typography

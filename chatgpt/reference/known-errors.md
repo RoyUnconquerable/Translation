@@ -16,8 +16,6 @@ Keep each distinction exactly as the source draws it:
 - a sense of pressure does not imply crushing force;
 - inevitable is not almost certain;
 - refusing to tolerate recovery is not impatience;
-- in the Ch. 1326 backlash, coming to one's senses is the trigger; escaping
-  first is not required;
 - all knowledge is not knowledge from one source;
 - conception differs from gestation;
 - the first Transcendence is an event, not the first person to transcend.
@@ -41,19 +39,24 @@ Keep each distinction exactly as the source draws it:
 - 金丹圆满 names the peak Golden Core cultivator, not a further breakthrough.
   A Primordial Spirit can coexist with peak Golden Core.
 
-## Final Kalpa restart
+## Evidence that does not override the source
 
-Boundaries recorded before the restart are life-specific (translation-spec.md).
-Two that have bitten before:
+- A dated attachment cannot reverse a newer owner ruling.
+- Fluent owner wording, a prior PASS or matching counts never override the
+  source.
 
-- Ch. 1365 renamed him Skyward, but Ch. 1409-1411 narration returns to
-  Soaring Firmament, with Skyward only in the crowd's title shout. Follow the
-  chapter's own source name.
+## Appendix: chapter-scoped traps
+
+Narrow items tied to particular chapters. Read only when the chapter touches
+them; general rules stay above.
+
+- Naming after the Final Kalpa restart: Ch. 1365 renamed him Skyward, but
+  Ch. 1409-1411 narration returns to Soaring Firmament, with Skyward only in
+  the crowd's title shout. Follow the chapter's own source name.
 - The Taiji Dao Lord title after Ch. 1298 belongs to the previous life; its
   current-life status is open.
-
-## Unresolved cases
-
+- Ch. 1326: coming to one's senses triggers the backlash; escaping first is
+  not required.
 - Ch. 1308: 四等 may be a count or a fourth-class label. Neither reading is
   verified, so keep the competing evidence distinct.
 - Ch. 1271: the rejected draft is not precedent. Its notes are in
@@ -62,9 +65,3 @@ Two that have bitten before:
   on the Mount Tai adjective, and groups 118, 126, 128, 131, 133, 153, 166,
   184, 187, 202, 245, 255, 324, 326, 330 and 346 are undecided. All of these
   wait for an owner decision. Suspected Chinese originals are hints, not keys.
-
-## Evidence that does not override the source
-
-- A dated attachment cannot reverse a newer owner ruling.
-- Fluent owner wording, a prior PASS or matching counts never override the
-  source.
