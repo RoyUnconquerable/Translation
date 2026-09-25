@@ -490,3 +490,5 @@ date	chapter	category	decision	promoted_to	status
 2026-09-25	1412	TERM	Owner: 混沌 stays Primordial Chaos for the Dragon's consciousness haze; completed 超脱 at a layer is attained Transcendence. 【绝对真实】 appears as Absolute Truth (P62) and Absolute Reality (P64); pending owner choice.	terminology.tsv	active
 2026-09-25	1412	PHRASE	Owner: second transformation of his nature; circumstances were stronger than he was; Father/mother proverb; heaven round, earth square; disciples and grand-disciples.	phrase-memory.tsv and continuity.md	active
 2026-09-25	1412	MACRO	Owner italicizes a viewpoint character's unmarked rhetorical questions and rants as present-tense direct thought, and breaks the scene at a 与此同时…另一处 cut.	style-guide.md and translation-spec.md	active
+2026-09-25	1412	TERM	Owner: 【绝对真实】 is Absolute Truth; supersedes the provisional Absolute Reality.	terminology.tsv and world-reference.md	active
+2026-09-25	1413	STATE	Source and full chat delivery: 78 source/79 target paragraphs (split 13:2), breaks before 20 and 51; four checker substring exceptions. Purple Firmament Palace and Jun's honorific name provisional.	ledger.tsv and state.json	active

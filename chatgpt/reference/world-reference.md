@@ -222,10 +222,10 @@ Guide theory; Wheel-Turning Pool and Meet and Forget; false-death resurrection;
 Heavenly Dao dependencies and Destiny supporting the Five Elements seal.
 Current developments below supersede earlier deferral or unresolved claims.
 
-## Absolute reality and Ancient Past paths (Chapters 1391-1399)
+## Absolute Truth and Ancient Past paths (Chapters 1391-1399)
 
 - Ordinary historical travel reads and edits karmic traces; it does not place
-  a body on the actual past's ground. The eighth realm's absolute reality is
+  a body on the actual past's ground. The eighth realm's Absolute Truth is
   independent of time, permitting actual arrival through those traces. Departure
   or intervention remains restricted. Known history already includes Lü Yang's
   permitted Guardian rescue; this is not unrestricted rewriting of the past.
