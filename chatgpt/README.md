@@ -1,88 +1,73 @@
-# ChatGPT translation pipeline
+# Translation pipeline
 
-This directory contains the active translation authorities and retained
-historical file-backed tools for the novel continuation.
+This directory holds the active translation authorities, the chapter tools and
+the validation scripts. Start at `PROJECT_INSTRUCTIONS.md`.
 
-## Authority hierarchy
-
-The latest pushed tip of the GitHub canonical branch named in
-`chapters/state.json` is the persistent project record. Within a live task, the
-exact Chinese source governs chapter content. The owner controls editorial
-intent and explicit terminology approvals, but supplied English is verified
-before it is promoted into that persistent record.
-
-1. The exact current Chinese source for chapter content.
-2. `glossary/terminology.tsv` for hard recurring terminology.
-3. `glossary/entities.tsv` for identity and pronoun facts.
-4. `reference/style-guide.md` for macro prose policy.
-5. `reference/world-reference.md` and `reference/continuity.md` for mechanics
-   and current story state.
-6. `reference/known-errors.md` for active traps.
-7. `glossary/phrase-memory.tsv` and `reference/decision-log.tsv`, searched only
-   when the current source makes them relevant.
-8. Earlier final prose as precedent where the authorities are silent.
-
-No file may silently override another file at the same level. Conflicts are
-errors and must be resolved in the canonical source. A new live owner decision
-temporarily supersedes stored policy for the current task, but it becomes
-cross-session authority only after it has been source-checked, classified,
-committed, and pushed.
-
-## Active structure
+## Directory map
 
 ```text
 chatgpt/
-|-- chapters/state.json          compact routing state
-|-- chapters/ledger.tsv          chapter-by-chapter status evidence
-|-- glossary/terminology.tsv     unique hard term mappings
-|-- glossary/entities.tsv        names, aliases, identity, pronouns
-|-- glossary/phrase-memory.tsv   fixed lines and adaptive allusion guidance
-|-- reference/style-guide.md     sole macro style authority
-|-- reference/world-reference.md stable mechanics and relationships
-|-- reference/continuity.md      rolling current story state
-|-- reference/known-errors.md    active recurring traps only
-|-- reference/decision-log.tsv   concise owner-decision provenance
-|-- instructions/                workflow, translation, editing, and QA rules
-`-- scripts/                     read-only checks and historical file tools
+|-- PROJECT_INSTRUCTIONS.md          entry text: book, authority order, stages
+|-- chapters/state.json              progress and the authority manifest
+|-- chapters/ledger.tsv              chapter-by-chapter status evidence
+|-- glossary/terminology.tsv         hard recurring terms
+|-- glossary/entities.tsv            names, aliases, identities, pronouns
+|-- glossary/phrase-memory.tsv       fixed lines, images and idiom senses
+|-- instructions/workflow.md         the order of work for one chapter
+|-- instructions/translation-spec.md Stage 1: translation and verification
+|-- instructions/editing-spec.md     Stage 2: editing and formatting
+|-- instructions/maintenance.md      feedback, durable updates, publication
+|-- instructions/qa-rules.md         pointer to the two stage specs
+|-- reference/style-guide.md         house voice and craft
+|-- reference/craft-examples.md      before/after exemplar bank
+|-- reference/known-errors.md        meaning traps
+|-- reference/Reference_*.md         four owner reference files
+|-- reference/...                    continuity, world reference, decision log
+|-- scripts/                         prepare, check and validation tools
+`-- tests/                           unit tests for the tools and records
 ```
 
-The active mode is chat-only translation. JSONL artifacts and scripts remain
-for historical compatibility checks, not new chapter production. Never commit
-chapter text or create provisional handoffs. See `instructions/workflow.md`.
+Run the scripts with Python 3: `python3` on Linux and macOS, `python` or `py`
+on Windows.
 
-Phrase memory uses three scopes: `fixed` for exact titles, quotations, verses,
-panels, and formulas; `image` for imagery that must survive while syntax and
-tense are rebuilt; and `sense` for contextual meaning that must be composed
-afresh. Only `fixed` targets may be copied as complete wording.
+## prepare.py
 
-## Feedback/maintenance validation
+`python3 chatgpt/scripts/prepare.py <source-file>` reads a Chinese source and
+prints the paragraph count and numbering, the source's own scene breaks, the
+title, matching hard terms with their notes, entities with scoped pronouns,
+phrase-memory hits with their scope, bracketed terms missing from the glossary,
+numbers, short stage reminders, and scene-break candidates. It never writes.
 
-Run once after an approved atomic update, not before chapter delivery:
+When the title contains a chapter number, it also checks that the chapter
+follows the recorded frontier in state. If state trails the conversation, pass
+`--observed-through N` with the verified in-session frontier. N must be at
+least the recorded frontier and below the incoming chapter. This option changes
+no state and proves neither delivery nor approval.
 
-```text
-python -m unittest discover -s chatgpt/tests
-python chatgpt/scripts/audit.py
-python chatgpt/scripts/lint.py --all
-python chatgpt/scripts/state.py
-```
+## chat_check.py
 
-These commands do not rewrite tracked files. `lint.py --write-report` is an
-explicit opt-in for refreshing a stored legacy lint report.
+`chat_check.py` compares a source file and a target file and never writes. It
+checks the target title number, the paragraph mapping (including declared
+display splits), reviewed scene-break positions, required terms and forbidden
+expansions, fixed displays and panel format, banned typography, CJK residue and
+contractions ending in 'd. Digit mismatches are warnings. It does not prove
+meaning, completeness, Chinese-number conversion, the chapter ending or good
+English. `instructions/workflow.md` gives the flags.
 
-For chat-first work, `scripts/prepare.py` builds the pre-draft authority sheet
-from a temporary source file, and `scripts/chat_check.py` checks a temporary
-source and target pair without storing chapter prose.
-Both number content paragraphs from the title as 1, excluding standalone `---`.
-The inventory is not exhaustive term discovery: approve new or changed terms
-before drafting, including single-use and unbracketed terms. English clarity,
-flow and neighboring-context repair checks belong to the ordinary chapter path.
-Pass the reviewed scene positions with `--scene-break-before`, or pass the flag
-with no values when none are needed. The checker also enforces approved fixed
-display wording and formatting. Semantic and English coverage require the single bounded bilingual review
-in `instructions/qa-rules.md`; counts alone do not prove completeness.
+## Phrase memory scopes
 
-`config.json` controls language identification and legacy lint/candidate options.
-It has no model, agent, polling or translation-time setting. `strict_numbers`
-keeps digit mismatches as warnings because spelling and unit conversion require
-bilingual judgment; it never waives number fidelity. Scheduling and reference
-reuse are instructions in workflow.md, not unimplemented configuration knobs.
+Phrase memory has three scopes. `fixed` covers exact titles, quotations,
+verses, panels and formulas. `image` covers imagery that must survive while the
+syntax is rebuilt. `sense` covers a contextual meaning that is composed afresh.
+Only `fixed` targets may be copied as complete wording.
+
+## Validation
+
+The four validation commands, and when to run them, are in
+`instructions/maintenance.md`. They do not rewrite tracked files; CI runs the
+same set on every push.
+
+`config.json` holds language settings and legacy lint options only.
+
+Legacy file-backed tools and JSONL artifacts remain for compatibility tests
+only; no chapter is produced with them.

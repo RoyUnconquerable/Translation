@@ -1,4 +1,4 @@
-# Condensed continuity archive through Chapter 1299
+# Continuity archive (condensed through Chapter 1299; verbatim windows through Chapter 1399)
 
 Historical wording below is retained as evidence. For current output, the
 16 September 2026 owner references supersede divine-capital pronouns, older
@@ -2513,7 +2513,7 @@ Current continuation: Chapters 1343 onward in continuity.md.
   cascading iridescent light spreads through the Underworld, Sea of Light and
   Fathomless Void. Its full function remains unresolved.
 
-# Archived Chapters 1378-1386 at Chapter 1399
+## Archived Chapters 1378-1386 at Chapter 1399
 
 ## Chapters 1378-1380: Jun's message and the concealed route
 
@@ -2581,7 +2581,7 @@ Current continuation: Chapters 1343 onward in continuity.md.
   into balance again. Si Sui remains sealed, and the Saint's inference that the
   rescue is Lü Yang's ultimate aim remains an inference, not the full plan.
 
-# Archived navigation through Chapter 1377 at Chapter 1399
+## Archived navigation through Chapter 1377 at Chapter 1399
 
 ## Earlier prerequisites and Chapter 1339
 
@@ -2741,7 +2741,7 @@ access and the emergence of Jun's character. Subsequent revelations below
 supersede the then-unresolved character function and reported Guardian deaths.
 
 
-# Archived world-reference mechanics for Chapters 1372-1386 at Chapter 1399
+## Archived world-reference mechanics for Chapters 1372-1386 at Chapter 1399
 
 ## History, memory and the hidden character (Chapters 1372-1377)
 
@@ -2803,3 +2803,197 @@ supersede the then-unresolved character function and reported Guardian deaths.
   Destiny can indirectly sustain them. The Saint bears a severe continuing load;
   the Dharma Refining Secret Realm replaces Foundation Establishment's support
   but does not by itself repair every endangered foundation.
+
+## Archived Chapters 1387-1399 at Chapter 1411
+
+## Chapters 1387-1391: ten years of cover and the concealed entrant
+
+- Repeated failed rescues occupy ten years. A year before the final diversion,
+  the Saint catches Lü Yang preparing a breakthrough and erases his historical
+  existence through Time. The still-intact Infinite Loop restores history and
+  stabilizes his injured Primordial Spirit; he retreats to the Underworld.
+- Lower cultivators, including Skyward and Sublime Bliss, infiltrate False
+  History while Dao Lords hold one another back. Lü Yang's remote Script steers
+  Cultivating Truth to take Demon-Subduing True Person along. The fugitive
+  experiences these decisions as his own, despite his usual caution.
+- The Saint, now holding the recovered golden book, recognizes Lü Yang's name
+  and the previous life's risks. He expels Cultivating Truth into True History.
+  Dao Tianqi draws the Sword Sovereign into the Underworld; Destiny creates a
+  causal abyss, pushing the fugitive back into the Ancient Era. Vast Sky blocks
+  the route down into False History with power siphoned from Myriad Spells.
+- Cultivating Truth cannot enter the historical trials. Facing erasure, his
+  flawed Primordial Spirit destabilizes; he self-detonates. The Saint erases
+  him, then investigates Demon-Subduing True Person's unexplained disappearance.
+  Restored bodily and spiritual structures contain no consciousness.
+- Ch.1391 reveals that Dao Tianqi impersonated Lü Yang after secretly learning
+  the Infinite Loop over the decade. The Underworld's countless dead spirits
+  support a Dao Fruit, analogous to the Heavenly Palace; one stored Order strike
+  explains the impersonator's brief attack and poor endurance. Real Lü Yang used
+  Cuckoo Occupying the Magpie's Nest to replace Demon-Subduing True Person's
+  identity while Cultivating Truth concealed the otherwise visible Spirit.
+
+## Chapters 1392-1395: absolute reality and the remembered realm
+
+- Divine Transformation Heir dispels rejection. The eighth realm appears as a
+  ruined divine mountain amid a chaotic sea of apocalyptic scenes. Order cannot
+  analyze it. Its absolute reality exists across past, present and future;
+  arriving through karmic traces places Lü Yang in the actual Ancient Era here.
+  Trying to reach out into that era elsewhere threatens his destruction.
+- A cultivator addresses him as Dao Ancestor, finds only seventeen names in the
+  Dao Register and secretly adds Profound Virtue as the eighteenth. Lü Yang sees
+  a real encounter preserved here: seventeen Ancestors debate the golden book,
+  agree to merge the Register into it to restrain the False Immortal, and ask the
+  future-attaining visitor to take responsibility. A copy remains for later names.
+- The attendant is Immortal Recorder. The remembered date is Calendar of Balance
+  129,600. The Seeking Truth hall has eighteen immortal statues, now including
+  Lü Yang. The Dao Venerable's cushion holds only a breeze; his form had grown
+  imperceptible as his attainment approached perfection.
+- Recorder learns that Jun has already left. This realm is Jun's final memory,
+  sustained by a thought, not an ordinary surviving historical location. The
+  attendant's Befriending the Noble cultivation depended on Jun; preserved here,
+  he survived but stagnated and lost clarity. Lü Yang's arrival prompts rebirth
+  under the new ten Daos. Known history already includes this intervention.
+- Recorder intends to return and guard the realm, revealing his identity as the
+  founding Trial Guardian. He links the dangerous book to the Supreme Source
+  Immortal, the two doctrines' greatest creation and Jun's enemy. Its cosmological
+  account names Three Qi, Nine Primordial Essences, Supreme Origin and Supreme
+  Change; that Immortal preferred the personal name Tai Yitian.
+
+## Chapters 1396-1397: a suspected second enemy and ten paths
+
+- Recorder confirms that changing name and appearance in the described way risks
+  possession. Lü Yang suspects that records in the golden book guided the Saint
+  toward the Seven Emotions Heaven-Fathoming Art and the enemy's nature. Original
+  Saint comprehension, unlike later borrowed wisdom light, supports his doubt.
+- Lü Yang further theorizes that the book protects the captive from restarts,
+  preserves his memories and may have had its seal loosened by repeated resets.
+  The previous life's suicide and glimpse of the book might have baited Lü Yang's
+  true body. His Dragon proxy avoided that suspected trap. None is verified.
+- Ancient Past ten Daos name successful approaches, ordered by first attainment,
+  not literal world-roads or relative strength. Practitioners can combine them.
+  Fate cultivators live as mortals while preparing remembered, improved rebirth;
+  the founder's story includes rebirth before an epoch as an Innate Dao God.
+- Ten founders and seven successors make seventeen Dao Ancestors. Jun arose
+  later from humble origins. Recorder does not know what the Ancestors did after
+  Jun transcended; departure into the Fathomless Void amid the Divine Land/Vast
+  Sea collision is his conjecture, not a verified destination or Transcendence.
+
+## Chapters 1398-1399: saving the Guardian and four traditions
+
+- Recorder gives the second Fate Dao Ancestor's rebirth method: sacrifice one's
+  cultivation, become mortal and seek death to attain a better rebirth. Lü Yang
+  can understand its detailed teaching without borrowed wisdom light. He places
+  a brand in Recorder's True Spirit before reincarnation and waits in the realm.
+- Jun's remembered placements prevent removal of objects. Lü Yang repeatedly
+  searches without finding the promised Transcendence secret. He speculates that
+  equal access requires all Primordial Spirit Dao Lords to participate.
+- The brand activates when the monk's foot shatters the trials and the Saint's
+  finger attacks Recorder. Lü Yang extracts his True Spirit and most disciples,
+  fulfilling established history. The Saint then is only peak Golden Core;
+  killing him would still trigger the prohibited historical interference.
+- Lü Yang deposits karmic bait, anticipating the Saint's later failed Guardian
+  resurrection. Recorder recovers pre-rebirth memories and explains that Revering
+  the Gods linked his disciples to him. During reincarnation he visited ruins
+  and acquaintances and acquired that method, Feng Shui and Study.
+- Revering the Gods has three Dao Ancestors: self-reverence through austerity,
+  others worshiping oneself, and worship of an imagined god later replaced by
+  the practitioner. The third transfers adverse effects to the god, but the god
+  rather than the practitioner proves the Dao; the first two reject the lineage.
+- Lü Yang infers the Heavenly Dao follows that third branch, with Si Sui as a
+  living pillar. Recorder attributes the Other Shore to Feng Shui and the Written
+  Word to Study. Fragmentary methods suit reference, not unmodified current use.
+- Four traditions in total: Fate, Revering the Gods, Feng Shui and Study. The
+  owner's correction replaces the source's erroneous five. Recorder can now seek
+  his Primordial Spirit in seclusion. Lü Yang has ample historical time to digest
+  the methods, but his hoped-for second transformation remains ahead of him.
+
+## Archived previous-life world notes (Ch. 1295-1339) at Chapter 1411
+
+These notes describe the life that ended in the Ch. 1340-1342 Final Kalpa.
+Divine-capital pronouns were lowercased before archiving; wording is otherwise
+unchanged from world-reference.md.
+
+### From Cosmology and domains
+
+- The Other Shore's fall weakens Dao Lord control and exposes them to the
+  void. Dao Tianqi's Underworld, his own Dao-attainment system, supports the
+  sea and survives damaged. The detachable Vajra Realm temporarily anchors
+  the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan outside the sea.
+- Lü Yang's Heavenly Palace governs the God-Sealing Method. The Heavenly Dao
+  and the Wilderness's God-Sealing cultivators complete it in Ch.1334, raising
+  his status. Earlier damage and access details are archived under Archived
+  Palace damage and access at Chapter 1334 in continuity-archive.md.
+
+### From Cultivation and Dao Lord status
+
+- Other Shore fragments can be replenished with living beings' seas of
+  consciousness to restore Dao Lord status. In Chapter 1295 the Primordial
+  Saint's preselected 140 million pure living souls fill his remaining gap.
+  This is the amount needed in his particular condition, not a universal cost.
+  Lü Yang deduces that his greater personal power reduces the burden on the
+  fragment compared with two lives earlier, when he killed the World-Honored
+  One and used that sea of consciousness.
+
+### Dao Heart, Nascent Soul, and Transcendence
+
+- A foundation Dao sustains a Primordial Spirit after bodily destruction.
+  Ordinarily, killing Du Xuan requires superior status or enough power to
+  sever and destroy his anchor over hundreds or thousands of years. The Dao
+  Heart supplies a third route: reversing Primordial Spirit cultivation.
+- Through Yin and Yang, Si Sui's blows damage matter and consciousness. Like
+  Heaven-Slayer, they injure Primordial Spirits and increase the risk of
+  becoming lost. His Empty Attainment Dao, the Dao Heart, complements the
+  Dharma Body; Du Xuan's regression leaves an ordinary soul, not no soul.
+- Si Sui gives the Dao Heart to Lü Yang and returns the Dharma Body and Yin
+  and Yang to the sea. Settling these karmic debts lets him transcend through
+  the Self without the Other Shore. Matter and consciousness united through
+  Yin and Yang give him the title Taiji Dao Lord.
+- Si Sui's nature becomes a second Sea of Light, with himself its Innate Dao
+  God. He endures like the sea and need not fear becoming lost. His status
+  equals the Other Shore's first layer, but his combat power surpasses what
+  the World-Honored One expects there; the latter says his own full strength
+  at his peak would be needed to suppress Si Sui. Victory is not established.
+- Nascent Soul's yuan refers to the Primordial Spirit and ying to the infant:
+  the Fathomless Void is the maternal body, the cultivator the unborn child,
+  and the Sea of Light the nourishment. Climbing the Other Shore develops the
+  infant until birth beyond the void means Transcendence. Chapter 1300 calls
+  this the fourth path, independently opened by the Primordial Saint.
+- The other Dao Lords understood yuan and used the Other Shore without
+  understanding ying. Their maximum was the fourth layer; the Sword Sovereign
+  reached the fifth through the Heavenly Dao. The Saint built the Other Shore
+  and reached the seventh; his changed nature survived the fall of his realm.
+  His true Nascent Soul anchors his Primordial Spirit in the Fathomless Void,
+  not the Other Shore. He survives while the void persists unless that Spirit
+  is forcibly separated from it.
+- Lü Yang can call on all three returned Daos, though less effectively than
+  Si Sui; he considers combining the Dao Heart with Heaven-Slayer. His own
+  anchor is the Heavenly Palace and its core. Like the former Karma path,
+  this leaves him easier to kill than Lords anchored in the sea's foundations.
+- In Chapter 1301 Si Sui creates a world with the same history, people, and
+  changes as the Sea of Light and superimposes them. Its Dao laws differ:
+  Destiny never existed there, so the Saint loses Destiny and Time. Si Sui
+  draws him into his transcendent nature; following a different path, the
+  Saint becomes mortal and loses his mighty power. This is not a final defeat.
+- The Saint calls Si Sui's attainment false Transcendence: freedom without
+  equivalent power. He estimates at least hundreds of millions of years to
+  ninth-layer status despite no final bottleneck, versus another 100,000 years
+  to glimpse higher Divine Transformation by exploiting the sea together. He
+  attributes the Ancient Past's destruction to sustaining the first transcender,
+  who used Primordial Spirit and the Dao Heart, and calls the Dragon's and
+  Si Sui's paths imitations. These are his claims and estimates.
+- The Saint could have stopped Si Sui before his final breakthrough but wanted
+  a second transcender as material for the Other Shore, believing that would
+  ensure his next Divine Transformation and Ascension. Si Sui's open scheme
+  exploits that desire; it was not the Saint's long-prepared plan. The Saint
+  allowed Du Xuan's death and helped resolve Si Sui's remaining inner obstacle.
+- Si Sui can withstand severe damage without true death, yet can be suppressed.
+  He helps from ordinary decency when the cost is affordable; he thinks he would
+  probably abandon the sea if his life were truly at risk. Transcendence lets
+  him make that choice. The Heavenly Scripture makes this rescue affordable.
+
+### The new world's separation from the old sea
+
+The new world's transcendent nature bars enemies while intact; the Saint's
+old sea erodes it. Variables remains outside. Si Sui retains Dao Lord status
+as a Spirit thought; the Saint lost Nascent Soul status. Full qualifications
+remain in continuity-archive.md under Archived world separation at Chapter 1333.

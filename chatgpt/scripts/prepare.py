@@ -27,18 +27,15 @@ NUMBER_RE = re.compile(
 )
 
 PROSE_REVIEW_REMINDERS = (
-    "Use natural contractions by default; expand only for emphasis, contrast, "
-    "formal cadence, or clarity, and never use contractions ending in 'd.",
-    "Audit English articles, prepositions, complements, and collocations instead "
-    "of carrying over Chinese syntax.",
-    "Link tightly related clauses inside each source paragraph when separate "
-    "sentences create stop-start flow; never merge source paragraphs.",
-    "Account for every source action, gesture, purpose, timing cue, degree, "
-    "and relationship; paragraph totals alone cannot detect small omissions.",
-    "Verify displayed inscriptions word for word, including bold corner "
-    "brackets; record reviewed scene-break positions, or explicitly none.",
-    "Read direct thoughts as natural mental speech with linked reasoning, "
-    "while preserving every premise and the source's time reference.",
+    "Stage 1: draft for meaning and agency; carry every source cause/contrast/"
+    "timing relation; one wording per repeated key phrase; thoughts as mental "
+    "speech.",
+    "Stage 1: verify every paragraph bilingually; Critical and Mechanical "
+    "findings only.",
+    "Stage 2: cold read, then the editing-spec checks; rebuild only for a "
+    "named principle.",
+    "Formatting: italics for direct thought only; bold displays exact; no "
+    "dashes; contractions except 'd forms; see Reference_Formatting_Rules.md.",
 )
 
 

@@ -65,8 +65,7 @@ class AuthorityTests(unittest.TestCase):
         for source, target in expected.items():
             with self.subTest(source=source):
                 self.assertEqual(glossary[source]["target"], target)
-        phrases = {r["source"]: r for r in common.load_phrase_memory(self.root)}
-        self.assertEqual(phrases["一线生机"]["target"], "sliver of hope")
+        self.assertEqual(glossary["一线生机"]["target"], "sliver of hope")
 
     def test_explicit_title_required_without_masking_supplied_title(self):
         glossary = common.load_glossary(self.root)

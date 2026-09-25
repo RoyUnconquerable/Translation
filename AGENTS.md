@@ -1,16 +1,11 @@
-# Translation project entry point
+# Agent entry point
 
-`chatgpt/` is the only active pipeline. Legacy Claude files are read-only.
+The active pipeline is `chatgpt/`. Legacy paths are read-only.
 
-Read `chatgpt/chapters/state.json`, then follow the single execution policy in
-`chatgpt/instructions/workflow.md`. The state manifest is a lookup map, not an
-instruction to read every authority on every turn. Reuse unchanged references;
-retrieve relevant history across all chapters, not only the recent window.
+1. Start at `chatgpt/PROJECT_INSTRUCTIONS.md`.
+2. Then read `chatgpt/chapters/state.json` and
+   `chatgpt/instructions/workflow.md`.
 
-The exact Chinese governs content. Verified owner decisions govern editorial
-choices; the canonical GitHub branch named in state is the durable authority,
-above conversation memory. The workflow defines review and feedback handling.
-
-Deliver complete chapters in chat before maintenance. Never commit chapter
-text or provisional handoffs. Preserve unrelated changes and every valid
-historical ruling. Claim persistence only after the atomic update is pushed.
+The exact Chinese governs content. Verified owner decisions in the canonical
+branch govern editorial choices. Deliver the complete chapter in chat before
+any maintenance. Never commit chapter prose or provisional handoffs.

@@ -5,7 +5,7 @@ Usage:
 
 This is NOT a translation tool. It exists for edits whose exact final text is
 already verified and decided, such as source-checked owner wording accepted
-under ``editing-spec.md`` or conductor-specified mechanical fixes (casing,
+under ``maintenance.md`` or conductor-specified mechanical fixes (casing,
 punctuation, quote marks, banned glyphs). Anything requiring translation
 judgment still needs a source-grounded translation pass.
 

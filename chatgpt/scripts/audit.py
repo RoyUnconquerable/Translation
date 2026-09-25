@@ -24,6 +24,7 @@ SIZE_LIMITS = {
     "reference/known-errors.md": 10000,
     "reference/continuity.md": 18000,
     "reference/world-reference.md": 22000,
+    "reference/craft-examples.md": 10000,
 }
 
 EXPECTED_AUTHORITIES = {
@@ -32,6 +33,7 @@ EXPECTED_AUTHORITIES = {
     "entities": "chatgpt/glossary/entities.tsv",
     "phrase_memory": "chatgpt/glossary/phrase-memory.tsv",
     "style": "chatgpt/reference/style-guide.md",
+    "craft_examples": "chatgpt/reference/craft-examples.md",
     "continuity": "chatgpt/reference/continuity.md",
     "continuity_archive": "chatgpt/reference/continuity-archive.md",
     "world_reference": "chatgpt/reference/world-reference.md",
@@ -39,6 +41,7 @@ EXPECTED_AUTHORITIES = {
     "owner_decisions": "chatgpt/reference/decision-log.tsv",
     "project_sources": "chatgpt/reference/project-source-registry.md",
     "workflow": "chatgpt/instructions/workflow.md",
+    "maintenance": "chatgpt/instructions/maintenance.md",
     "formatting_rules": "chatgpt/reference/Reference_Formatting_Rules.md",
     "idiom_reference": "chatgpt/reference/Reference_Idioms.md",
     "italicized_titles": "chatgpt/reference/Reference_Italicized_Titles.md",

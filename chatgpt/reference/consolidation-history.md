@@ -710,3 +710,107 @@ Fate in the maxim and named cultivation path, not every ordinary life reference.
 Ch.1396's title is I Almost Died for Real! Ch.1399 lists four traditions; the
 owner authorized correcting the contradictory count of five. These corrections
 do not establish whole-chapter owner-final approval.
+
+## 2026-09-24 two-stage instruction rewrite
+
+Baseline: a86eb33 on the canonical branch. The owner reported that recent
+chapters (through Ch. 1411) read stiff: weak agency, weak causal order, lost
+flow. He asked for the instructions to be improved rather than extended, for
+obsolete, duplicated, contradictory and unclear requirements to be removed
+with every valid ruling preserved, and for the workflow to be organized into
+two stages: Translation, then Editing and formatting. This is a maintenance
+record; it is not loaded for chapter work.
+
+### Evidence
+
+- Ch. 1411 diagnosed bilingually against the cached raw (83 paragraphs aligned
+  1:1, no term or typography violations). Five mechanisms recur in the long
+  paragraphs: repeated key phrases rotated (来时路 rendered six ways); source
+  cause, contrast and timing markers dropped or reduced to "and" (about 6 of
+  14); the climax demoted to a trailing participle or an explanation placed
+  after its question; small padding and hedges added; free indirect thought
+  turned into narrator report.
+- Instruction audit: about 320 requirements in 56 duplicate sets; 107
+  preserve/retain/keep tokens against 13 connect/build tokens; no before/after
+  examples; a priority list that ranked voice last; four rules against adding
+  connectors and none against losing them; six statements that there is no
+  polish pass. Owner rewrite rates rose from 6/64 paragraphs (Ch. 1385) to
+  44/76 (Ch. 1408) while each feedback round concluded that existing rules
+  already covered the lesson.
+- Professional practice: eight freely readable Wuxiaworld chapters (Renegade
+  Immortal 30 and 32, Desolate Era 1, A Will Eternal 1, Martial World 1 and 5,
+  Coiling Dragon 1, Sovereign of the Three Realms 1), practitioner statements
+  (Deathblade, Ken Liu, Jeremy Tiang, Nicky Harman, Xueting Christine Ni, Bao),
+  the Seven Seas translator-plus-adaptation-editor process as reported by
+  Anime News Network, and two peer-reviewed studies (ISSTH/Wuxiaworld
+  foreignization; a Sage Monarch domestication case study). Findings: the
+  translator-draft plus English-craft-edit split is the professional norm;
+  restructuring inside a paragraph is normal; register split between elevated
+  and colloquial speakers is the strongest consistent craft signal; stock
+  connectives are a documented professional-grade failure mode; subject choice
+  leaks from the person to the effect when a body or power changes.
+- Clarity literature: Williams (characters as subjects, actions as verbs,
+  old-before-new, stress position), Pinker (classic style, right-branching,
+  coherence arcs), Clark and Haviland (given-new contract), Pinkham (Chinglish
+  connectives and category nouns), Pellatt and Liu, Baker (explicitation as a
+  translation universal, with the caution that clarity pressure over-explains).
+- Source checks of four contradictory continuity facts against the cached raws
+  for Ch. 1365, 1401-1405 and 1409-1411 (results under D14 below).
+
+### Owner decisions (2026-09-24)
+
+D1 An unambiguous relation the Chinese conveys by juxtaposition, zero subject or
+aspect is stated in English; only an inferred relation is flagged. D2 Stage 2
+may rebuild whole sentences inside fixed limits; "equivalent wording is not a
+defect" covers single-word synonym swaps only. D3 Meaning, terminology and
+continuity are limits; natural vivid English is the goal inside them. D4
+Clauses may be reordered and sentences split or joined inside a paragraph;
+paragraph boundaries, revelation order and one-line beats stay. D5 Rebuild
+only for a named principle, never blanket smoothing. D6 Talent capitalized only
+inside approved displays. D7 Heaven in a Palm current. D8 Mahayana True
+Enlightenment Scripture current. D9 Reference_Idioms.md governs idiom wording;
+phrase memory aligned. D10 Push after every chapter ending in 0. D11 Pending
+rows at or below Ch. 1338 superseded by the approved manuscript, except 四等
+and 补天道. D12 God-Sealing Method roman. D13 sliver of hope and Delete become
+hard terms. D14 Source-verified corrections: Ch. 1401 the first Trial Guardian
+reads the Dao Register copy; Ch. 1402 the Primordial Saint erases Dao Tianqi
+(revived through the Infinite Loop), not the World-Honored One; Ch. 1405 the
+Ancestral Dragon disrupts the Five Elements seal; Ch. 1409-1411 narration
+returns to Soaring Firmament after the Ch. 1365 Skyward renaming. D15
+Instructions are platform-neutral; the paste targets a Claude Project; the
+local folder pointers are repointed to this repository.
+
+### Files changed
+
+- workflow.md rewritten as the ordered two-stage procedure; translation-spec.md
+  is the Stage 1 spec; editing-spec.md is the Stage 2 spec; maintenance.md
+  (new) holds feedback, promotion, cadence, validation and publication;
+  qa-rules.md is a pointer; chat-fast-path.md and file-backed-workflow.md
+  deleted (Git history keeps them).
+- style-guide.md rewritten with the book and reader, the limits-plus-goal rule,
+  the explicitation licence, and craft sections that state each rule, its
+  reader effect and an example; craft-examples.md (new) holds the exemplar
+  bank; known-errors.md reduced to meaning traps.
+- PROJECT_INSTRUCTIONS.md, AGENTS.md, CLAUDE.md, README.md, .claude/README.md
+  and chatgpt/README.md rewritten platform-neutral; audit markers kept.
+- Data: terminology (天赋, 掌中天, 大乘正觉根本经, 封神法, 光铸, 无限法, 太易天,
+  城头土, 牧长生, 凌霄, 昂霄, 太极道主; new 一线生机 and 删除), phrase memory
+  (six idiom rows aligned; two rows moved out; pronoun and note fixes),
+  entities, decision-log (statuses and 13 new rows), continuity.md (1401,
+  1402, 1405 corrections; 1401-1411 section; 1387-1399 archived), world
+  reference (pronouns; previous-life sections archived; duplicates merged),
+  continuity-archive.md, Reference_Italicized_Titles.md (God-Sealing Method;
+  historical marks), project-source-registry.md, state.json and audit.py
+  (manifest gains maintenance and craft_examples), prepare.py reminders,
+  patch.py docstring, one test assertion moved to the glossary.
+
+### Checks
+
+An independent review compared the result against the 78-item rulings
+checklist from the audit: none missing, two weakened items restored (the
+English-only guide rule and the Ch. 1359/1371 drafting rulings), and the
+listed duplicates, contradictions and broken references repaired. The four
+validation commands pass. Open items for the owner: the undecided idiom groups
+in Reference_Idioms.md; the 四等 and 补天道 questions; the owner library copy
+of Reference_Italicized_Titles.md needs re-sync; a prose "Talent" is not
+flagged by the checker now that both casings are variants.

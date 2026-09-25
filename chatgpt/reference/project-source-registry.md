@@ -38,6 +38,7 @@ checked it when it is unavailable.
   registered in state: Reference_Formatting_Rules.md, Reference_Idioms.md,
   Reference_Italicized_Titles.md, Reference_Talents_and_Hundred_Lives.md.
   These are targeted lookup authorities, not mandatory full reads each chapter.
+- 2026-09-24: Reference_Italicized_Titles.md edited (God-Sealing Method roman; Heaven Within a Palm and the Mahayana True Enlightenment Sutra rows marked historical); the owner's library copy needs re-sync and a new hash.
 - Reference inventories contain extracted spans, historical counts and suspected
   source glosses. Those are evidence, not new confirmed term or global style rulings.
 - Rules maintenance reviewed all supplied change categories, scanned the complete

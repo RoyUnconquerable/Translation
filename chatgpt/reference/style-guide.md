@@ -1,280 +1,130 @@
 # Style guide
 
-Use with the glossary, phrase memory, world and continuity records. Check
-matching entries in state's four owner references. Latest scoped rulings win;
-local edits and retained idioms become general only with evidence. Proposals
-are not canon.
+Use with the glossary, phrase memory, world and continuity records, and the four owner references in state. The latest scoped ruling wins; a local edit becomes general only with evidence; a proposal is not canon. Examples show a principle, not a template (more in craft-examples.md).
 
-When principles compete, use this order:
+## 1. The book and its reader
 
-1. complete source meaning and logic;
-2. canonical terminology, identity, and continuity;
-3. natural modern English;
-4. rhythm, voice, and elegance.
+A comic, system-driven xianxia serial told close to one protagonist. Lü Yang is blunt, sardonic, and shameless; the Dao Lords are composed. Chapters move fast, set one-line beats between long paragraphs, and end on a hook. Readers see only the English. The target reads like an English original set in a Chinese cultivation world. Lines in that voice (Ch. 1364 maintainer proposals and Ch. 1411 delivery, not owner-final):
 
-## Target register
+- "But on this one, he had no other choice."
+- "...a veil of shadows fell unnoticed over the eyes of everyone who turned to look."
+- "Times had changed."
+- *As expected of a True Monarch of my Saint Sect!*
 
-- Write natural modern American English rooted in the Chinese xianxia world.
-  Readers should follow action, reasoning and speech without reconstructing
-  Chinese syntax. Fit phrases to speaker and purpose; preserve detail and ambiguity.
-- Default to direct, modern prose. Formal speech is composed and precise,
-  not faux-Victorian; keep source-supported ritual courtesy.
-- Use elevated cadence only where the source warrants it, including poems,
-  scriptures, edicts, ritual declarations, classical maxims and major Dao
-  pronouncements.
-- Keep Daoist and Buddhist concepts, cultivation hierarchy, sect culture,
-  karma, incense, cause and effect, and Heaven-and-Earth imagery intact. Do not
-  replace them with unrelated Western fantasy language.
-- Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
-  intensifiers, or decorative metaphors absent from the source.
-- Let meaning set length. Clarify reactions without losing qualifications or
-  inventing settings or motives.
-- Preserve system/matchup humor through natural terms such as raw stats or
-  mechanics. Ease of use is not mindlessness; retain sourced idiot jokes without
-  elevating them into ceremonial martial abstraction.
+## 2. Limits and goal
 
-## Fidelity and paragraph structure
+Meaning, terminology, and continuity are fixed limits. Inside them, the goal is natural, vivid modern American English a reader follows without effort. The shape of the Chinese sentence is never a reason to keep awkward English. The limits are listed in editing-spec.md; paragraph mapping is in translation-spec.md.
 
-- Keep one target paragraph per source paragraph and the same order. The only
-  owner-approved layout exception is separating genuine display lines/menu items
-  and adjoining narration. Record each split's source index and target count;
-  retain all content in order. Never merge source paragraphs or split prose for flow.
-- Verify content and boundaries, including owner edits and short reactions.
-  Equal counts can conceal a split paired with a merge or omission.
-- Within a source paragraph, connect actions, questions and supporting thoughts;
-  give distinct beats room. Retain every premise, means, consequence, contrast, uncertainty
-  and emphasis. Keep conditions and exceptions beside their claims; preserve
-  causal punch lines.
-- Preserve every number, date, sequence, comparison, negation, title,
-  relationship, limit and degree of certainty. Keep restricted options distinct
-  from obligation, attempts from success, overlap from fusion, and understanding
-  from ability. Attribute experienced time to its observer, not everyone present.
-- Preserve intent, timing, posture, gestures, addressees, degree, totality and
-  bounded scale. Broad categories can lose concrete detail: study may omit
-  reading, cultivation may omit problems. Fluency and brevity prove neither
-  completeness nor accuracy.
-- Do not add motives, explanations, images, conclusions, emotional labels, or
-  connective logic that the source does not supply.
-- Preserve interrupted thoughts, setup/payoff and revelation order. Do not fill
-  deliberate gaps with later knowledge. Interpret 情 by context: feelings may
-  include friendship, family and romance; do not replace every love with feelings.
-- Retain source-isolated reactions, verdicts, images, punch lines and brief
-  unfinished setups that lead into the next paragraph. These deliberate beats
-  differ from accidentally fragmented action or exposition, which needs complete
-  sentences. Do not replace a source's anticipatory pause with detached summary.
+**Translation, not addition.** Chinese drops subjects, links clauses by juxtaposition, and marks time by aspect; English must say these things. When the relation is unambiguous, each of these is translation:
 
-## Sentence construction and pacing
+- supply the elided actor;
+- turn a topic-comment frame into subject and verb;
+- turn a nominal or four-character phrase into a verb;
+- state an implied cause, contrast, or time order;
+- reorder clauses so the decisive one lands last;
+- split or join sentences inside a paragraph;
+- resolve 他 to a name when a pronoun would be unclear;
+- drop an empty marker (然后, 于是, 只见, 不禁 as filler).
 
-- Build around the main action, perception or deduction with a clear subject
-  and ordinary verb. Rebuild awkward syntax, not just vocabulary. Actions
-  may be subjects; narration needs finite verbs, not commands or dangling
-  gerunds. Prefer concrete causes and agents to nominal padding or abstractions.
-- Arrange clauses so readers can follow premise, condition, limit and consequence.
-  Join dependent ideas; separate overloaded actions and distinct beats within
-  the source paragraph. Link known to new information without losing revelation
-  order, uncertainty or deliberate gaps. Mark event order when moving from origin
-  to result. When paired objectives span paragraphs, identify which succeeded
-  instead of relying on a distant "former" or "latter." Keep dialogue lists natural.
-- Develop spatial and sensory images coherently across their verbs: connect
-  movement, scale, light, shadow and the character's relation to them. Preserve
-  means, geography and ownership without abstract labels or invented movement,
-  direction or explanation. Sequence alone does not establish cause.
-- Keep perception, feeling and awareness with their experiencer. An effect can
-  be the subject without acquiring consciousness. Name perceived objects
-  directly and thoughts through their thinker, not an abstract act of viewing.
-- Choose complete, familiar expressions suited to the context, not isolated
-  synonyms or maximum brevity. Check articles, possessives, countability,
-  prepositions, complements, appositions and participle subjects. Keep paired
-  actions/modals parallel, qualifications and only beside what they modify,
-  and comparisons like for like: a Dao's strength with other Daos' strength.
-- Give verbs clear objects and quantities their referents. Use pronouns when clear;
-  use full names, titles or relational prepositions to untangle stacked labels.
-  Use the Primordial Saint or clear pronouns for 初圣, never the Saint: other
-  figures are Saints. Retain full source epithets such as the Ancestral Dragon
-  or use clear pronouns; do not clip them to the Dragon for variety.
-  Do not narrow an unstated subject or turn two labels into two objects. Distinguish
-  understanding from explanation and exercised authority from direct rule.
-  Forced combat movement must not become voluntary retreat.
-- Choose transitions by relationship and emphasis, not the Chinese connector
-  alone. Preserve immediate responses, next-moment actions, reversals and an
-  accomplished procedure's result. Remove doubled framing that conveys the same
-  beat without adding meaning; do not remove source qualifications or emphasis.
-- Vary sentence length with the scene's purpose. Connect sustained reasoning and
-  imagery, but preserve isolated reactions, interrupted setups and punch lines.
-  Show escalation through concrete change without explaining a completed reveal.
-  Retain repetition developing danger, rhetoric, humor or an emotional motif;
-  do not rotate synonyms for a fixed concept. Equivalent wording is not a defect.
+A relation you only infer goes in the delivery flags, not the text.
 
-## Voice
+**Invention.** Do not add motives, explanations, images, conclusions, emotional labels, hedges, or intensifiers the source lacks, resolve a deliberate ambiguity, or fill a withheld reveal. Fluency proves neither completeness nor accuracy.
 
-- Lü Yang may sound blunt, sardonic, contemporary, profane, or shameless when
-  the source does. Preserve the joke and let it land once.
-- Dao Lords and other formal speakers remain composed, confident and readable.
-- Preserve temperament, status and immediate purpose, including persuasion,
-  evasion and concealed intent. Phrase courtesies as natural requests,
-  invitations, acknowledgments or apologies; check whole spoken expressions.
-  Allow source-supported shifts from formality to colloquial urgency. Retain
-  this humble Daoist for self-effacing 贫道 where the persona matters.
-- Keep insults, threats, cruelty, slang, and comic reversals at source strength.
-  Let context carry implied exploitation; do not routinely label people human
-  material. Preserve explicit harvesting or sacrifice when the source states it.
-- Narratorial judgment stays close to the viewpoint character. Avoid turning a
-  sharp reaction into detached literary commentary.
+## 3. Agency
 
-## Thought, viewpoint, and tense
+- **Make the doer the subject and the doing a verb.** Unpack a noun that hides an actor; named concepts such as the Dao stay nouns. Narration uses finite verbs, not command-like notes or dangling gerunds. Why: the reader sees the event, not a summary. Ex: "The elder shattered the formation."
+- **Keep the person as subject when a body, power, or status changes.** Why: he acts rather than watching his own cultivation. Ex: "He broke through, and his aura soared."
+- **Keep perception and feeling with the experiencer;** name the thing perceived, not an act of viewing. An effect may be the grammatical subject, but it never perceives or decides. Why: a realization with no one realizing reads as report. Ex: "They could clearly feel it had been no hindrance."
+- **Use the passive only by choice,** when the patient is the topic or the agent is unknown. Why: a habitual passive hides who acted. Ex: "The sect was destroyed," told by its survivors.
+- **Resupply the right subject at each turn.** A pronoun once the referent is set; the name when the scene turns or a nearby noun could claim the pronoun. Do not narrow an unstated subject, do not turn two labels for one person into two people, and name paired items instead of a distant former or latter. Why: a wrong he costs more than a name. Ex: "a consciousness inside it grew impatient," not "his impatience... He."
+- **Keep kinds of action apart:** forced movement and retreat, exercised authority and direct rule, understanding and explanation. Why: the verb says who chose. Ex: "The blast hurled him back," not "He fell back."
+- **Attach an opening phrase to its real subject.** Why: a dangling modifier makes the wrong thing act. Ex: "After Lü Yang watched the Sword Sovereign leave, the Light of Order..." not "After watching..."
 
-- Narration is normally simple past. Use past perfect for needed anteriority,
-  not every earlier event; source-supported universal truths may use present.
-- Italicize unmistakable direct inner speech, including silent questions,
-  decisions, rebuttals and exclamations. In mixed paragraphs, mark only that span.
-  Narration, dialogue and free indirect questions remain roman; named titles
-  retain their own styling.
-- Italics mark direct thought, not tense. From the character's now, use present
-  for current perceptions, future for plans, conditional for hypotheticals,
-  and past or perfect for memories. Do not backshift immediate thoughts to
-  match narration. Free indirect narration stays roman and normally past.
-- Classify thought by voice and function, not quotation glyphs. Third-person
-  analysis and topical bridges may remain roman despite Chinese thought marks.
-  Unmistakable first-person wishes, decisions and private rhetorical speech
-  take italics even when unmarked. Keep source paragraphs separate; for elided
-  subjects, preserve immediate viewpoint rather than invent a third-person report.
-- When history is rewritten, use tense to show the new established past and
-  any event anterior to it. Do not backshift mechanically.
-- Direct thought is mental speech, not a report of reasoning. Connect observation,
-  intent, action and consequence; voice decisions and intended responses without
-  adding motives. Preserve conditions, self-correction, fragments, certainty,
-  sarcasm and viewpoint. Si Sui's everyday ethics may use ordinary decency for
-  moral conviction, not as a philosophy-wide substitution.
-- Do not add thought tags or restate in narration what an italicized thought
-  has already established.
+## 4. Causal order and information flow
 
-## Idioms, allusions, and Chinese texture
+Readers attach each new item to what they already know, so a sentence that runs from given to new reads as one motion. Cause before effect is the same rule: the reader has usually just seen the cause, and an effect stated first must be held in memory until its cause arrives. The last slot of a sentence or paragraph is the stress position, where attention lands; it holds the climax, reversal, or decision.
 
-- Classify the expression before translating it: an exact title, quotation,
-  verse, proverb, panel, formula, or other explicitly approved source-bound
-  line; a live image or linked image chain; or a lexicalized idiom whose image
-  is no longer doing narrative work.
-- Reference_Idioms.md governs approved choices and passage-specific exceptions.
-  Its suspected Chinese originals are retrieval hints, not verified mappings.
-  Use sliver of hope for the survival idiom; preserve contextual grammar.
-- Preserve an idiom's defining image when that image carries the argument,
-  joke, characterization, or a later metaphor chain.
-- Naturalize dormant idioms and conventional gestures by their contextual
-  function, without unpacking them. Keep meaning, force and
-  live images idiomatic: developed a taste can preserve appetite without literal
-  marrow. Retain imagery the source actively develops.
-- Apply this distinction within the same passage: a snake proverb may retain
-  its image while a figurative claim that someone is a spent force needs no
-  crossbow bolt. When applying a proverb to a person, natural phrasing can
-  carry its implication without repeating a literal anatomical image.
-- Make a cultural image's comparison immediately clear in natural English;
-  naming its animal or object is insufficient. Preserve deliberate contrasts,
-  such as a calm voice with a violent effect. Allusions do not license inversion,
-  filler, inflated diction, extra geography or explanatory glosses.
-- Translate linked imagery as a coherent chain across paragraphs and chapters.
-- Preserve wordplay and altered quotations. An explicit owner rendering of
-  a pun outranks a new compensating insult; retain its tone in context.
-- Use established English names for recognized Chinese allusions where
-  available. Do not swap a specifically Chinese image for an unrelated English
-  proverb.
-- Verify an allusion's subject, relationship and logic. Never complete a clipped
-  or altered quotation from memory without source and contextual support.
-- Preserve meaning, parallel relationships, and recurring images in verse,
-  vows, proclamations, maxims, and scripture. Cadence comes next. Archaic
-  diction is optional, not automatic, and elevated English must remain
-  intelligible.
-- Clarify an opaque image through natural sentence construction. Never add
-  translator notes or explanations absent from the source.
+- **Put cause before effect.** Why: the reader never waits for the reason. Ex: "The palm connected, and he flew backward." Exposition may open on the effect as a hook when the source does; confrontations and bargaining stay forward.
+- **Give every connector an English carrier.** Each source marker of cause, contrast, concession, a fortiori, or timing (只因, 因为, 因此, 所以, 既然, 毕竟, 何况, 反而, 更不会, 却, 顿时, 下一瞬, 陡然) gets a word (because, so, by contrast, all the less, but, the next instant) or a structure, never a bare "and". Why: otherwise the reader rebuilds the logic. Ex: "They, by contrast, had lingered, and so fell a step behind."
+- **Drop a connector only when it is empty filler** and English order already shows the relation. Why: stock signposts are the commonest stiffness in the genre. Ex: "The elder appeared," not "However, at this moment, the elder appeared."
+- **Give a timing jolt or reversal its own clause.** Why: the jolt pays off the setup. Ex: "The next instant... They reappeared, but they were stuck at the gate."
+- **Land the decisive clause last.** The source paragraph's final clause ends the English one. Do not demote a climactic verb to a trailing participle, follow a question with its explanation, or reverse 与其...不如. Why: the stress position weights the climax. Ex: "...and rammed into its gate," not ", slamming into its gate."
+- **Keep a setup before its ironic reaction.** Why: irony needs the description first. Ex: "They had long since extinguished their humanity. Yet now they too stood dazed."
+- **Keep the argument whole.** Join a premise to its consequence, keep conditions beside their claims, say whose time passed when one observer experienced it, and compare like with like. Sequence alone does not prove cause. Reorder within a sentence, never past a reveal or payoff. Ex: "It's Jun, so it won't open until everyone's here."
+- **Avoid three calques.** 如果说 X, 那 Y compares; it is not a condition. 才 is not always "only then"; keep "Only when... could..." for a true necessary condition. 另一边 is spatial "meanwhile," not "on the other hand." Why: each states a logic the source lacks. Ex: "Where the others had felt a flicker of emotion, he felt nothing."
+- A locative opening ("Within it surged...") may link a known place to a new phenomenon; it is an option, not a default.
 
-## Dialogue and formatting
+## 5. Rhythm and sentence shape
 
-- Use straight ASCII double quotes. Nested quotations and scare quotes use
-  straight ASCII single quotes.
-- Do not italicize dialogue as thought. Named titles within ordinary dialogue
-  still follow Reference_Italicized_Titles.md. Keep an already clear speaker bare.
-- Use speech tags sparingly; never invent gestures or tone. Preserve isolated
-  lead-ins while connecting their wording to the speech. Keep warnings' source
-  conditions and consequences in natural spoken syntax.
-- Mark a genuine hard change of place, time, or viewpoint with a line containing
-  only `---`. Review the boundary deliberately rather than omitting all breaks
-  because the Chinese has no printed separator. Do not add breaks solely for
-  visual pacing, a larger visual scale, or a continuous action beat. Record
-  the source indices and validate separators. A time-jump sentence can open the
-  new scene; place its break before that transition, not after it.
-- Environmental and impact sounds are uppercase, unquoted, and source-aligned.
-  Voiced breaths and coughs may stay quoted: "Haaah..." or "Ahem, ahem, ahem!"
-  Preserve meaningful repetitions and delivery, without treating vocalization
-  as an environmental effect.
-- Follow Reference_Formatting_Rules.md for **【...】** displays, ordinary inline
-  concepts and typography; Reference_Talents_and_Hundred_Lives.md for recurring
-  system text/numbering; Reference_Italicized_Titles.md for title styling and roman
-  exceptions. Preserve exact approved displays rather than paraphrasing or turning
-  them into dialogue. Sentences use sentence case. Never invent fields or infer
-  new rules/names from historical inventories.
-- Keep the source chapter title. A body-only owner edit never deletes it.
+Stress needs contrast. When every sentence has the same length and shape, none stands out, and a beat such as "Transcendence." loses force among flat rows.
 
-## Names, ranks, and capitalization
+- **Turn a long comma chain into two or three sentences of clearly different lengths,** with at least one relation word; keep one linked long sentence where the source builds. Why: the long one builds, the short one lands. Ex: "The nine Dao Lords blazed like the sun and moon, and even so the gate stayed shut."
+- **Keep short beats short and punch lines at source brevity,** landing once, with no second punch or repeated explanation. Why: anything after the punch dilutes it. Ex: "nothing but a punching bag."
+- **Branch to the right:** subject and verb early, modifiers after, no stacked openers. Why: an opener makes the reader hold a description unattached. Ex: "The stranger had crossed three provinces. At last he spoke."
+- **Write a serial verb chain as finite verbs sharing one subject,** the strongest last. Why: the last verb is the event. Ex: "He turned into jade-green light, shot toward the gate, and rammed into it."
+- **Repeat what the source repeats.** Anaphora doing rhetorical work (明明...明明, 诸多 four times) repeats as often in English; habitual filler may go. Why: the repetition is the rhythm. Ex: "He had reached supreme detachment. He had severed everything. And still his mind wavered."
+- **Give each repeated key phrase one wording,** chosen on first use and reused (来时路 is always "the road behind them"). No elegant variation for a fixed concept; a refrain keeps its words. "Equivalent wording is not a defect" covers single-word synonym swaps only. Why: the reader tracks a motif by its words. Ex: "Can't get in?... Without me, you can't get in!"
+- **Vary shape by purpose, not quota.** Connect sustained reasoning and imagery; isolate what the source isolates; cut doubled framing; show escalation through concrete change, never by explaining a completed reveal. Why: shape follows the scene. Ex: "Transcendence." stands alone.
 
-- Birth names use pinyin with established diacritics. Translate established Dao
-  titles, ranks, techniques, artifacts, realms and epithets. Use Dao title for
-  道号 and honorific title for 尊号; 尊名 retains its separate honorific name ruling.
-- Follow glossary capitalization without promoting generic nouns. Articles
-  depend on syntax: the Dao Heart, his Dao Heart, or attributive Dao Heart
-  tiers; the One Mind for the World-Honored One's method. Symbolic One, Two,
-  and Three may stand bare in creation formulas; anaphoric the One is valid.
-- Use nature for fundamental character or constitutive identity, including
-  differences expressed through cultivation realms. Retain essence for a
-  substance, refined essence, core, or another sense that warrants it. This
-  is a contextual distinction, not a global replacement.
-- Ordinary pronoun case applies to everyone, including Dao Lords. Follow the
-  formatting reference and entity registry for name/honorific exceptions and
-  gender timing, including singular they for Sword Sovereign/Vast Sky before
-  Ch.1129. Resolve identities and projections without revealing later knowledge.
-- `status` is lowercase unless it begins a sentence or appears in an exact
-  owner-approved interface phrase.
-- Keep distinct concepts distinct, especially cultivation versus Dao
-  Attainment, Fate versus Destiny versus Fortune, Spell Dao versus Spiritual
-  Power Dao, and True History versus False History.
-- Capitalize Spiritual Power when it names a cultivation foundation alongside
-  Spells and the Dharma Body. Keep spiritual power lowercase when it denotes
-  the resource a cultivator channels or expends; the source word alone does
-  not determine which meaning is present.
-- When 证 denotes establishing a Great Dao, prefer prove, proved, or proving,
-  including prove Time and prove Destiny. Inflect by the actual time reference;
-  a speaker reconstructing a cultivation sequence can use the schematic
-  present. Do not replace unrelated attainment, evidence, or comprehension.
-- Prefer Empty Attainment Dao where it fits. Rank syntax can expand naturally:
-  a Treading the Heavens Great True Monarch or a Great True Monarch of that
-  realm. Fixed terminology does not fix every surrounding construction.
-- Once mighty power is identified, plain power can refer back to it.
+## 6. Certainty and strength
 
-## Numbers and house mechanics
+- **Match hedges exactly.** Use a hedge (seemed, apparently, could only, barely, little, merely, just) only where the source hedges (似乎, 好像, 几乎, 只, 仿佛), and keep every hedge it has. Why: an added hedge makes a fact timid; a lost one makes doubt a verdict. Ex: "he hadn't seemed to matter much to her."
+- **Keep degrees apart:** difficulty and impossibility, attempt and success, overlap and fusion, understanding and ability, option and obligation, all and most, assumption and fact. Why: the plot turns on degree. Ex: "Realizing the trap was not escaping it."
+- **Keep litotes** (也不是没有 is "it wasn't as if"). Why: understatement carries a dry tone. Ex: "It wasn't as if the Primordial Saint had no way."
+- **Keep a rhetorical question a question.** Why: it is the character arguing. Ex: "But how could they allow that?" not "But what could they do?"
 
-- Use digits with commas for exact large values and words for rhetorical
-  magnitudes; countless can convey uncounted hyperbole, not a numeric mechanic.
-  Thirty to fifty percent rises twenty percentage points, not twenty percent.
-  Keep each quantity, comparison and dimension clear.
-- Convert ordinary physical measures with their values, not just unit labels.
-  Under the series policy, 100,000 li is about 31,000 miles, not 100,000 miles.
-- Use the serial comma, `toward`, and `farther` for physical distance.
-- Capitalize Yin and Yang. Use `Yin-Yang` only in established attributive
-  compounds.
-- Use natural contractions in speech, thoughts and contemporary narration.
-  Expand for emphasis, contrast, formal cadence or clarity. Never use forms
-  ending in `'d`, which obscure tense and mood.
+## 7. Voice and dialogue
 
-## Prohibited habits
+- Register is the cheapest lever. Maxims, scripture, edicts, and 吾 declarations are complete and uncontracted. Formal Dao Lord speech is composed and precise, not faux-Victorian, with source-supported ritual courtesy; it may expand a contraction for formal cadence, not by rule, and may shift to colloquial urgency when the source does. Lü Yang and colloquial speakers use contractions, fragments, and blunt diction, profane when the source is. This is the one list of uncontracted registers.
+- Purpose shapes the line: persuasion, evasion, concealed intent. A confident bargainer speaks in short, flat statements; a taunt keeps its refrain. Courtesies are natural requests or apologies; a warning keeps its condition. Insults, threats, slang, and comic reversals stay at source strength. Irony carries comedy; judgment stays close to the viewpoint character.
+- Speech tags are sparse. Never invent a gesture or tone, or replace a stated emotion with behavior. Keep a clear speaker bare; connect an isolated lead-in to its speech; a list inside dialogue sounds spoken. Dialogue is never italicized as thought.
 
-- No em dashes, en dashes, curly quotation marks, single-glyph ellipses, or
-  fullwidth punctuation in English prose, except the paired corner brackets
-  in the approved **【...】** display format. ASCII apostrophes still apply.
-- No fixed default sentence for routine transitions such as `然而`, `下一秒`,
-  `与此同时`, or `入目所见`.
-- Avoid decorative inversion when direct syntax is clearer. Keep Only when...could... for a necessary condition. A natural
-  locative opening, such as Within it surged..., may connect an established
-  place to a newly introduced phenomenon; it need not start a scene. This is
-  an option for information flow, not a default marker of grandeur.
-- No calqued Chinese syntax, comma splices, or unclear dangling modifiers.
-- No repeated explanation, second punch line, or added emotional conclusion.
-- No phrase-level owner preference promoted into a universal template without
-  evidence that it recurs as a real principle.
+## 8. Thought, viewpoint, and tense
+
+- Narration is simple past, past perfect only for needed anteriority; a source-supported universal truth may take the present.
+- Italicize unmistakable direct inner speech over its actual span. Its tense is the thinker's now: present for perception, future for plans, conditional for hypotheses, past or perfect for memories. No backshift, no thought tag, no narration restating it. Italics never decide tense.
+- Direct thought is mental speech, not a report of reasoning, with its conditions, interruptions, certainty, and sarcasm.
+- Free indirect thought is roman and past but keeps its voice: interjections (没错 is "It was true:"), rhetorical questions, litotes, 与其...不如 order, and the thinker as he, not his title.
+- Classify by voice and function, not glyphs: third-person analysis may stay roman despite thought marks; first-person wishes, decisions, and private rhetoric take italics even unmarked. With an elided subject, keep the immediate viewpoint.
+- Rewritten history uses tense to show the new established past, never a mechanical backshift. Reveal no later knowledge when resolving identities.
+
+## 9. Idioms and Chinese texture
+
+- Classify first. A fixed expression (title, quotation, verse, proverb, panel, formula) follows Reference_Idioms.md; its suspected Chinese originals are hints, not verified mappings. A live image or linked chain is kept and developed across chapters. A dormant idiom is rendered by function in plain words, without anatomy ("packed to the last seat").
+- Keep an image that carries an argument, joke, or later metaphor; make a cultural comparison clear at once. Keep deliberate contrasts (a calm voice, a violent effect) and coherent spatial images; keep means, geography, and ownership concrete, with no invented movement or abstract label.
+- The Ch. 1295 snake proverb keeps its image; spent force takes no crossbow bolt. Developed a taste keeps the appetite without literal marrow.
+- Keep system vocabulary (Dao, realms, Qi) and Daoist and Buddhist concepts, not Western fantasy terms. No translator notes. An allusion never licenses inversion, filler, or inflated diction.
+- Use established English names for recognized allusions, never an unrelated English proverb. Verify an allusion's subject and logic; never complete a clipped quotation from memory.
+- Keep wordplay or flag the loss (均 is "even, equal"). An owner's pun rendering outranks a compensating insult.
+- Verse and scripture keep meaning, parallelism, and images first, cadence next; archaic diction is optional and must stay intelligible.
+- Sliver of hope for 一线生机. Buddhist chant, or chant, never invocation, for 佛号. 情 by context (friendship, family, romance), not feelings for every love.
+
+## 10. Names, ranks, and capitalization
+
+- Pinyin with established diacritics for birth names; translate Dao titles, ranks, techniques, artifacts, realms, and epithets. Glossary capitalization, without promoting generic nouns.
+- The Primordial Saint for 初圣, never the Saint; repeat the title when a nearby male referent makes he ambiguous. Ch. 1341's "The Saint is not benevolent." is a scoped exception in phrase memory. Full epithets such as the Ancestral Dragon are never clipped.
+- Dao title for 道号, honorific title for 尊号; 尊名 keeps its own ruling. This humble Daoist for self-effacing 贫道 where the persona matters.
+- Prove, proved, proving for 证 when it means establishing a Great Dao (prove Time), inflected by actual time (a speaker reconstructing a sequence may use the schematic present); not for unrelated attainment, evidence, or comprehension.
+- Nature is fundamental character or identity, including differences of realm; essence is a substance, refined essence, or core. Decide by context, never by global replacement.
+- Spiritual Power is the foundation beside Spells and the Dharma Body; spiritual power is the resource spent. The source word alone does not decide.
+- Empty Attainment Dao where it fits; rank syntax may expand (a Treading the Heavens Great True Monarch). After mighty power, plain power refers back.
+- The Dao Heart, his Dao Heart, attributive Dao Heart; the One Mind for the World-Honored One's method; bare One, Two, and Three in creation formulas, anaphoric the One.
+- status lowercase except sentence-initially or in an exact approved interface phrase. Yin and Yang capitalized; Yin-Yang only in established attributive compounds. talent lowercase in prose; Talent only inside approved displays (Unique Talent, Golden Talent, the Talents: field).
+- Keep distinct: cultivation and Dao Attainment; Fate, Destiny, and Fortune; Spell Dao and Spiritual Power Dao; True and False History. Great Divine Ability for 大神通, divine ability for 神通. Martial Uncle as a specific sect-relative title, without capitalizing every kinship noun.
+- Ordinary pronoun case for everyone, Dao Lords included; the divine-capital convention is withdrawn. The Sword Sovereign and Vast Sky are singular they, with plural verbs, before Ch. 1129, then she and he. Other timing: Reference_Formatting_Rules.md.
+- Ordinary decency for Si Sui's everyday ethics, not a philosophy-wide substitution. Do not routinely label people human material; keep explicit harvesting or sacrifice. System and matchup humor in natural terms such as raw stats. Easy to use does not mean mindless; when the source calls someone an idiot, keep the joke plain.
+
+## 11. Numbers, units, and typography
+
+- Digits with commas for exact large values, words for rhetorical magnitudes, countless for hyperbole. Thirty to fifty percent rises twenty percentage points.
+- 100,000 li is about 31,000 miles: convert the value, not the label. Serial comma, toward, and farther for physical distance.
+- Contractions in speech, thought, and ordinary narration, but not in the formal registers of section 7; expanded for emphasis, contrast, or clarity. Never 'd forms.
+- Quotation marks (straight double; straight single for nested and scare quotes), sounds, sentence case, and the dash, quote, and ellipsis bans: Reference_Formatting_Rules.md. Scene breaks: translation-spec.md.
+- Bold **【...】** displays stay exact per Reference_Formatting_Rules.md; never paraphrase one, invent a field, or infer a rule from a historical inventory. Titles follow Reference_Italicized_Titles.md, system text Reference_Talents_and_Hundred_Lives.md.
+
+## 12. Prohibited habits
+
+- A fixed default sentence for 然而, 下一秒, 与此同时, or 入目所见.
+- Rare synonyms, stacked intensifiers, or decorative metaphors where an exact noun and a strong ordinary verb would do; a lone synonym or a clipped phrase where English has a complete, familiar expression; decorative inversion.
+- Comma splices and other calqued syntax.
+- A local owner preference made a template without evidence that it recurs as a principle.

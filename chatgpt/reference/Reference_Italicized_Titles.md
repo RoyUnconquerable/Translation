@@ -59,7 +59,7 @@ Occurrence counts and chapter ranges below are the historical inventory.
 | Evil-Breaking Righteousness-Revealing Sword Art | 1 | 387 | 387 |
 | Fate-Form Body Self-Refining Chapter | 2 | 676 | 695 |
 | Five Thunder Heavenly Heart Orthodox Method | 3 | 891 | 892 |
-| God-Sealing Method | 13 | 1235 | 1245 |
+| God-Sealing Method (historical italic spans; now roman, see B) | 13 | 1235 | 1245 |
 | Golden Book of Divination | 14 | 1028 | 1197 |
 | Grand Void Resonance Scripture | 4 | 1025 | 1050 |
 | Great Avatar Universal Assembly Divine Art | 2 | 90 | 133 |
@@ -80,7 +80,7 @@ Occurrence counts and chapter ranges below are the historical inventory.
 | Innate Golden Palace Jade Scripture | 1 | 232 | 232 |
 | Life-Taking Curse | 1 | 11 | 11 |
 | Mahayana True Enlightenment Scripture | 2 | 1313 | 1314 |
-| Mahayana True Enlightenment Sutra | 10 | 98 | 1134 |
+| Mahayana True Enlightenment Sutra (historical; current term is Scripture, see terminology.tsv) | 10 | 98 | 1134 |
 | Myriad Chariots Dragon Riding | 19 | 13 | 202 |
 | Myriad Chariots Dragon Riding Ascension Scroll | 12 | 13 | 127 |
 | Myriad Spirits Returning to the Void | 4 | 419 | 549 |
@@ -119,7 +119,7 @@ Occurrence counts and chapter ranges below are the historical inventory.
 | Taking Refuge in the True Dharma | 6 | 221 | 222 |
 | Tao Te Ching | 2 | 44 | 174 |
 | The Impurity-Purging Heart-Cleansing Chapter | 1 | 1208 | 1208 |
-| The Mahayana True Enlightenment Sutra | 1 | 260 | 260 |
+| The Mahayana True Enlightenment Sutra (historical; current term is Scripture) | 1 | 260 | 260 |
 | The Supreme Art of Slaying the Three Corpses | 1 | 1224 | 1224 |
 | The Supreme Unity's Containing Truth Qi | 1 | 398 | 398 |
 | the Sword Sovereign's Secret Chapter on the Profound Principles of Metal | 5 | 354 | 355 |
@@ -138,7 +138,7 @@ Occurrence counts and chapter ranges below are the historical inventory.
 | Yanzi Chunqiu | 1 | 1112 | 1112 |
 | Yellow Court Scripture | 1 | 47 | 47 |
 
-## B. Titles italicized in Pass 1 that the owner later set back to roman (20)
+## B. Titles italicized in Pass 1 that the owner later set back to roman (21)
 
 These names were returned to roman by the owner after Pass 1. Keep them roman as names,
 including names that otherwise appear to fit the generic title category. They may occur
@@ -161,11 +161,12 @@ inside italic direct thought; that does not revoke this exception. Do not re-ita
 | Knead Formula | 2 | 830 to 832 |
 | Invincible Dao Heart | 1 | 683 |
 | dual cultivation | 43 | 1 to 1232 |
-| Heaven Within a Palm | 3 | 1024 to 1090 |
+| Heaven Within a Palm (historical; current term is Heaven in a Palm, see terminology.tsv) | 3 | 1024 to 1090 |
 | Six Harmonies Bright Essence Dao Qi | 1 | 200 |
 | No Three Evil Paths in the Land | 1 | 98 |
 | Innate Arts | 1 | 4 |
 | Great Might Spirit Chief Dipper Righteous Qi | 18 | 724 to 1080 |
+| God-Sealing Method (method, not a work; owner 2026-09-24) | 13 | 1235 to 1245 |
 
 ## C. Direct thoughts and other italic spans (14523 distinct spans)
 
@@ -585,5 +586,6 @@ Fate cultivation, Revering the Gods, Feng Shui, Study and Befriending the Noble
 name paths, not italic scripture titles. Theory of the Five Innate Supremes names
 the theory discussed in Ch.1395. The existing *Utmost Nature Immortal-Seeking
 Scripture* remains italic. 七情参天决 in Ch.1396 is a source spelling variant of
-*Seven Emotions Heaven-Fathoming Art*, not a new work. God-Sealing Method remains
-roman under the explicit exception, despite historical extracted italic spans.
+*Seven Emotions Heaven-Fathoming Art*, not a new work. God-Sealing Method is
+roman under the explicit exception in B (a method, not a work; owner 2026-09-24),
+despite historical extracted italic spans.

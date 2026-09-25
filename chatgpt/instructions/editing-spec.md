@@ -1,86 +1,132 @@
-# Approved feedback and canonical maintenance
+# Stage 2: editing and formatting
 
-This file governs responses to owner feedback. Ordinary translation already
-includes English quality and contextual repair verification under workflow.md;
-it does not wait for a separate editing assignment to become readable.
+Stage 1 settles what the chapter says. Stage 2 makes it read like an English
+original without changing what it says. It starts from the verified Stage 1
+draft and its two ledgers (`translation-spec.md`). The craft is in
+`reference/style-guide.md`; the worked pairs are in `reference/craft-examples.md`.
 
-Owner corrections authorize their verified update without another approval
-request. An edited chapter is not automatically an owner-final declaration.
-The source governs content; a new explicit term ruling supersedes its older
-mapping. Apply explicit owner instructions exactly. Distinguish an explicit
-decision from an accidental flaw in a supplied revision: identify any omission,
-mechanical repair or source conflict visibly, and present a located alternative
-before treating a meaning change as approved. Do not silently replace owner
-wording or promote accidental damage as a reusable preference.
+## Mandate
 
-## Compare once, explain why
+- Inside the limits below, you may rebuild a whole sentence, reorder clauses
+  inside it, and split or join sentences inside a paragraph, but only for a
+  named reason: the style guide principle the sentence
+  breaks, such as a buried agent, effect before cause, a demoted climax, a
+  rotated refrain, an added hedge, thought turned into report, a lost connector
+  or a monotone run. If you cannot name the principle, leave the sentence.
+  There is no blanket smoothing.
+- A correct sentence that breaks a named principle is a defect. "Equivalent
+  wording is not a defect" protects only a single-word synonym swap.
 
-Use the exact source, delivered draft and owner version already available.
-Make one indexed comparison, including punctuation, capitalization, merged
-paragraphs and omitted framing. For a body-only paste align to the source body,
-not the title. Do not retranslate or manufacture preferences in unchanged text.
-For each change, identify the problem, intended improvement and source support;
-label inferred intent as inferred, and attribute errors to draft, revision or both.
+## Limits
 
-Use the single bounded bilingual review in workflow.md/qa-rules.md. Where the
-original source-aligned review is evidenced, cover changed spans and affected
-context, not all unchanged paragraphs again. Recheck a shared omission or new
-continuity issue wherever it actually applies. This is not permission to assume
-an unreviewed draft was correct. Provide the full comparison in chat if asked.
+Stage 2 never changes:
 
-## Promote selectively
+- supported meaning, including premises, conditions and negation;
+- degree and certainty, including every source hedge, and no new ones;
+- terms, owner-fixed wording and identities;
+- paragraph boundaries, paragraph order and revelation order in a paragraph;
+- fixed displays, titles and recurring system text;
+- deliberate one-line beats.
 
-Classify before editing the existing canonical destination:
+## 2.1 Cold read
 
-- TERM: a stable recurring rendering or explicit owner term correction;
-- MACRO: a reusable principle, not a favored local synonym;
-- PHRASE: fixed wording, a live image or contextual meaning, preserving scope;
-- FACT: a stable world mechanic, including limitations and attributed claims;
-- CONTINUITY: the current plot state, keeping earlier beliefs dated;
-- LOCAL: passage-specific phrasing, historical evidence only;
-- MECHANICAL: typo, agreement or paste repair, not a new stylistic preference.
+Read the English alone, as a reader who never saw the Chinese. Keep the source
+closed for this read. Go paragraph by paragraph, then read the whole chapter in
+one pass for its rhythm and its motifs.
 
-Derive the construction problem behind wording edits: subject/action choice,
-clause relationships, information order, imagery, rhythm or register. Prefer a
-broad correction to the existing drafting principle over a list of substitutions.
-Do not mistake every accepted local variant for a universal preference.
-When the owner explicitly identifies a recurring correction, make it binding
-within its stated scope and remove superseded alternatives from active entries.
-Historical wording remains provenance, not a competing current default.
-Search relevant older records before adding a rule. Amend the matching rule
-rather than append a second checklist. Preserve valid exceptions, dates and
-provenance. If the style guide already covers the lesson, no new macro rule is
-needed. Keep local sentence comparisons in scratch/chat; a concise grouped
-historical decision may record their rationale when useful, but do not create
-an active rule or durable log row for every wording substitution. Existing
-historical local decisions remain searchable evidence, not mandatory templates.
-Publisher examples are craft evidence, not authority over this novel. Distinguish
-observed English effects from a translator's stated practice; English samples
-alone establish no bilingual fidelity. On requested research turns, record
-sources, limits and changes in consolidation-history.md and amend matching
-rules in place. Do not add publisher browsing to the ordinary chapter path.
-Do not split a long sentence note into many permanent rules merely to meet a
-row-length limit. No routine per-chapter supplements or new reference files;
-the four owner-requested, book-wide references registered in state are deliberate
-authorities. Maintain those files in place instead of duplicating their tables.
-Bulk approval of an English manuscript establishes English approval, not recovery
-of its Chinese source or a bilingual audit. Keep such evidence distinct. Stale
-pass logs never override the owner's later explicit acceptance.
+Mark every stumble: a reread, a wrong guess about who acts, a reason that
+arrives late, a flat run, a beat that does not land. Write the principle next to
+each mark (for example "P43: reversal demoted to participle, style guide 4").
+The marks are the work list for 2.2.
 
-## One atomic update
+## 2.2 Checks
 
-After the approved feedback is checked, consolidate all affected glossary,
-style, continuity, world-reference and chapter-state changes locally. Commit
-them together at the ten-chapter boundary under workflow.md.
-Keep source seen, actual chat delivery, correction recorded and owner-final
-approval separate; preserve historical gaps. Unchanged authority files need
-no cosmetic edits. Metadata alone does not require an intervening chapter commit.
+Run each test, then take the smallest action that fixes what it finds.
 
-Do not perform this work ahead of a waiting chapter. Mixed correction/source
-turns apply the correction immediately and deliver the chapter. Prepare the
-approved update afterward at the first available maintenance opportunity under
-workflow.md, keeping reviewed local changes for its ten-chapter commit and push
-cadence without requiring another approval or a feedback-only prompt. Be
-honest about what is and is not durable. Never commit source or translated chapter
-text, full comparison files, or provisional handoffs. All repository checks
-and remote publication follow the single gate set in workflow.md.
+1. Connector ledger. Test: for each marker in the ledger, point to its English
+   carrier. Action: where a carrier is missing, add the smallest one (because,
+   so, by contrast, the next instant, but). Remove a connector only when it is
+   empty filler.
+2. Last-clause test. Test: compare each paragraph's final English main verb
+   with the source's final clause. Action: if the English ends on a participle,
+   an adverbial or an explanation, promote the climax or move the explanation
+   before its question.
+3. Tail and attachment scan. Test: find sentences that end in ", -ing ...",
+   "merely ...", "without the slightest ..." or two stacked prepositional
+   phrases, and opening phrases whose implied subject is not the sentence's
+   subject. Action: promote the tail to a finite verb, move it before the verb,
+   or attach the phrase to its real subject.
+4. Pronoun walk. Test: name the referent of every he, she, it and they, and
+   check number. Action: use the name where a nearby noun could claim the
+   pronoun; fix agreement.
+5. Motif ledger. Test: list every English rendering of each repeated key phrase
+   and count each anaphora. Action: unify to the first rendering and restore
+   the source count.
+6. Hedge diff. Test: align seemed, apparently, could only, barely, little,
+   merely and just with the source's hedges. Action: delete an unmatched hedge
+   or intensifier; restore a missing hedge.
+7. "And" audit. Test: find "X, and Y" where the source has 更, 因此, 却 or 反而,
+   and sentences with two or more "and" joins. Action: replace one "and" with
+   the real relation.
+8. Question check. Test: every source question stays a question with its force,
+   unless it is reported speech. Action: restore the question and its meaning.
+9. Voice read. Test: read each deliberation paragraph as the character. Does it
+   sound like a narrator summarizing? Action: restore interjections, litotes,
+   rhetorical questions, 与其...不如 order and the thinker as he.
+10. Padding strike. Test: find phrases with no source counterpart that grammar
+    does not need, and doubled framing. Action: delete them.
+11. Register pass. Test: check the uncontracted registers listed in style
+    guide section 7 for contractions, and banter and Lü Yang's inner voice for
+    formal labels. Action: expand the first; make the second colloquial.
+12. Length spread. Test: in a paragraph of three or more sentences, are all
+    lengths within about four words of each other? Do three consecutive
+    sentences open with a prepositional or participial phrase? Action: join two
+    sentences by their relation, split off the punch line, or move an opener.
+
+## 2.3 Formatting and conventions pass (check 13)
+
+Apply the style guide sections named here; do not restate them.
+
+- Language: check articles, possessives, countability, prepositions,
+  agreement, complements and collocations; keep paired actions and modals
+  parallel; put only beside what it limits.
+- Thought: italics only for direct inner speech, over the actual span; tense
+  from the thinker's now; free indirect thought roman and past (section 8).
+- Titles per `Reference_Italicized_Titles.md`; bold **【...】** displays exact per
+  `Reference_Formatting_Rules.md`; system text per
+  `Reference_Talents_and_Hundred_Lives.md`.
+- Capitalization and pronoun rulings (section 10).
+- Contractions (sections 7 and 11), with no quota.
+- Scene breaks, typography, numbers and units (section 11).
+
+## 2.4 Re-verify (check 14)
+
+Any span whose meaning, degree, actor or order could have moved goes back
+through the Stage 1 bilingual check in `translation-spec.md`. Check those spans
+only, each against its source paragraph and neighbors. A rebuild that fails
+goes back to the verified wording or is rebuilt again.
+
+## 2.5 Mechanical check
+
+Run `chat_check.py` on the exact text you will deliver, as `workflow.md` step
+2.5 specifies. Fix real failures and rerun. Adjudicate a lexical false positive
+against the source and record it for the FLAGS block.
+
+## 2.6 Definition of done
+
+- Every sentence has a clear actor, or a deliberate reason not to.
+- No paragraph opens three consecutive sentences with a prepositional or
+  participial phrase.
+- Every source relation of cause, contrast and timing has a visible carrier.
+- Each paragraph ends on the source's final clause, unless check 2 moved an
+  explanation before its question.
+- Refrains and motifs keep one wording and the source count.
+- No hedge or intensifier lacks a source counterpart.
+- Dialogue sounds spoken, and formal registers stay formal.
+- Every moved span passed re-verification.
+- The checker passes, or each exception is adjudicated and flagged.
+
+## Owner edits
+
+When the owner returns an edited chapter, the review scope, comparison,
+classification and promotion rules are in `maintenance.md`.

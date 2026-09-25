@@ -1,32 +1,53 @@
 # Project instructions
 
-Translate in `RoyUnconquerable/Translation`, using only the active `chatgpt/`
-authorities. Start with `chapters/state.json` and `instructions/workflow.md`.
-Verify the canonical branch once per session; consult cached state before each
-chapter and reuse unchanged authorities. Read config, terminology, style and
-continuity as workflow.md specifies; retrieve relevant history by current referent.
+This project translates a Chinese web novel into finished English, one chapter at a time, delivered as plain text in chat. The repository is `RoyUnconquerable/Translation`; the active pipeline is `chatgpt/` (paths below are relative to it), and `chapters/state.json` names the canonical branch. The book is a comic, system-driven xianxia serial told from the protagonist's viewpoint: Lü Yang is blunt and sardonic, the Dao Lords are composed, and chapters move fast on one-line beats. Readers see only the English, so it should read like an English original set in a Chinese cultivation world.
 
-The exact Chinese source governs content. The canonical repository outranks
-memory and rejected drafts; a new explicit owner correction applies now and
-becomes durable in the next approved atomic feedback update.
+## Authority order
 
-Preserve source paragraphs, all details, terms, identities, imagery and cultural
-context. Only genuine display lines/menu items may split into mapped paragraphs;
-ordinary prose may not split or merge. Use the four reference files registered in
-state for formatting, idioms, title italics and recurring system text. Retained
-idiom variants are local exceptions; proposals remain unapproved. Use ordinary
-pronoun case, with Sword Sovereign/Vast Sky gender neutral before Ch.1129. Apply `reference/style-guide.md` for
-modern xianxia prose, thought tense, articles, formatting and no em dashes.
-Batch every new or changed term for owner approval before drafting; established
-choices need no repeat approval. Draft once, then use `instructions/qa-rules.md`
-for one full bilingual and English review. Patch supported findings, check each
-repair with neighboring paragraphs, and mechanically check the exact deliverable.
-These specifications describe the same path, not additional review passes.
+1. The exact current Chinese source decides content.
+2. Explicit owner rulings on a specific term, phrase, name, fact or passage, wherever recorded: the `glossary/` files (terminology, entities, phrase memory), `reference/decision-log.tsv`, and the owner files `Reference_Formatting_Rules.md`, `Reference_Italicized_Titles.md`, `Reference_Talents_and_Hundred_Lives.md` and `Reference_Idioms.md` (which governs idiom wording).
+3. `reference/style-guide.md` and `reference/craft-examples.md` for how the English is written.
+4. `reference/world-reference.md` and `reference/continuity.md` for mechanics and story state.
+5. `reference/known-errors.md` for active traps.
+6. Earlier final prose, as precedent.
 
-The chapter path ends with full chat delivery of the checked text before
-maintenance. English clarity and flow belong in that path. Feedback follows
-`instructions/editing-spec.md`; local phrasing does not automatically become
-a permanent rule. Never commit chapter prose or create provisional handoffs.
-Use the approved chat path rather than legacy JSONL production/assembly steps;
-repository-wide validation belongs to maintenance. Supplied English-only editing
-instructions do not override translation paragraph boundaries or source checks.
+A specific ruling beats a general default; the latest scoped ruling wins. A live owner correction applies now and becomes durable once source-checked, committed and pushed. The canonical branch outranks memory.
+
+## The two stages
+
+Stage 1, Translation (`instructions/translation-spec.md`):
+- Prepare the exact source with `scripts/prepare.py`.
+- Send new or changed terms to the owner in one batch, then wait.
+- Match chapter, identity and timeline before applying a reference fact.
+- Draft for meaning and English agency, using the explicitation licence.
+- Verify every paragraph against the source; repair what it finds.
+
+Stage 2, Editing and formatting (`instructions/editing-spec.md`):
+- Cold-read the English alone; mark each stumble with the principle it breaks.
+- Rebuild the sentences the cold read marked or a check caught, each for a named principle, inside the fixed meaning.
+- Pass formatting, italics, tense, pronouns and capitalization.
+- Re-verify any span whose meaning could have moved.
+- Run `scripts/chat_check.py`, then deliver the complete chapter in chat with FLAGS.
+
+## Standing rulings
+
+1. Deliver in chat first; maintenance comes after.
+2. Never commit chapter prose or provisional handoffs.
+3. One terminology batch before drafting; reuse approved choices silently.
+4. One target paragraph per source paragraph; only display splits are exempt.
+5. No em or en dashes; straight quotes; three-dot ellipsis.
+6. Contract in speech, thought and ordinary narration, never 'd forms; the uncontracted registers are listed in style guide section 7.
+7. Italics for direct thought only, in the tense of the thinker's now.
+8. The Primordial Saint, never the Saint; full epithets, never clipped.
+9. Singular they for the Sword Sovereign and Vast Sky before Ch. 1129.
+10. State an actor, cause, contrast or time order the Chinese implies when unambiguous; flag it when only inferred.
+
+## What to read when
+
+- Session start: this file, `chapters/state.json`, `instructions/workflow.md`, `reference/style-guide.md`, `reference/craft-examples.md`, `reference/known-errors.md`, `reference/Reference_Formatting_Rules.md`.
+- By lookup for the chapter's referents: glossary, phrase memory, decision log, continuity, world reference, archives, other reference files.
+- Feedback or maintenance turns only: `instructions/maintenance.md`.
+
+## Override
+
+These instructions replace any other project instructions, folder CLAUDE.md files or skills that describe another pipeline (design-b, xianxia-reconcile, tracked-changes editing). If one is loaded, ignore it and follow the repository.
