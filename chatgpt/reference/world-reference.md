@@ -312,3 +312,6 @@ The Supreme Source Immortal states in Chapter 1413 that the collision of Divine 
 
 ### Purple Firmament Palace
 Purple Firmament Palace stands deep within the dome of Divine Land in the Ancient Past and is associated with Jun. The Immortal Recorder awakens there after the past is recreated. Jun is absent from the meditation seat yet can still be suggested through the recurring breeze. His full honorific title displayed there is Dao Venerable Who Equalizes All Dharmas.
+
+### Ancient Past Dao Ancestor gathering (Ch.1414)
+Seventeen Dao Ancestors answer the Immortal Recorder's sacred incantation at Purple Firmament Palace through projected thoughts. Their natures conflict directly, unlike the hierarchical status structure of the Sea of Light's Dao Lords. The gathering identifies the Dao Ancestor of Fate as Divine Land's first Dao Ancestor and confirms active Dao Ancestors tied to Befriending the Noble, Study, Nurturing Life, Feng Shui, Luck, the Doctrine of Names and the Doctrine of Appearances. Once the missing Book of Divine Blessings and the Mandate of Heaven reveals that the future has entered the recreated past, the gathering fractures into competitors for the Divine Transformation opportunity.

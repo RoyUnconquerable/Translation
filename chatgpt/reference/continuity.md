@@ -161,3 +161,12 @@ traditions remain prerequisites. The live positions above supersede that window.
 - The Dao Ancestor of Fate has reincarnated in an Ancient Past city and intends to preach the Dao and transmit teachings.
 - The Immortal Recorder awakens in Purple Firmament Palace and understands that Jun himself remains outside the rewritten cycle: even if another person wins the recreated opportunity, the already-transcended Jun is unaffected.
 - Jun is honored there as Dao Venerable Who Equalizes All Dharmas.
+
+## Chapter 1414: the Ancient Past stirs
+
+- The Immortal Recorder's sacred incantation causes all seventeen Dao Ancestors of the Ancient Past's Divine Land to sense Purple Firmament Palace and send thoughts there. Even their thoughts clash because their natures are mutually incompatible, unlike status-ranked Dao Lords.
+- The Dao Ancestor of Fate is identified as Divine Land's first Dao Ancestor. The Dao Ancestor of Befriending the Noble is hostile toward the Immortal Recorder because he missed the chance to become Jun's attendant and bitterly regrets it.
+- The disappearance of the Ancient Past copy of the Book of Divine Blessings and the Mandate of Heaven proves to the Dao Ancestors that a future copy has arrived. They conclude Jun left the recreated contest open to Divine Land, the Sea of Light, past and future alike.
+- The Dao Ancestors of the Doctrine of Names and Doctrine of Appearances immediately leave to seek the Supreme Source Immortal. Nurturing Life withdraws entirely because that path prioritizes avoiding calamity. The remaining Dao Ancestors recognize that they are now rivals for the Divine Transformation opportunity.
+- Lü Yang senses the Ancient Past's order becoming unstable through the Ring of Infinity and Order, correctly infers that the Dao Ancestors learned of the newcomers through the book's uniqueness, and reaches the courtyard of the reincarnated Dao Ancestor of Fate.
+- The newborn Dao Ancestor of Fate recognizes Lü Yang as Junior Brother Profound Virtue.
