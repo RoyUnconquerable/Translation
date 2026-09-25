@@ -74,13 +74,16 @@ goes in FLAGS, not into the text.
 - The one exception is a display-only split. Genuine panel lines or menu items
   and the narration that adjoins them may become separate paragraphs. Record
   each split as SOURCE:COUNT for the checker.
-- Keep the title and the ending. A body-only paste from the owner never deletes
-  them.
+- Keep the title and the chapter's final prose. Omit the source's closing
+  (本章完) marker (owner Ch.1411-1413): delete that last line from the prepared
+  source file before running the scripts, so the counts still match. A
+  body-only paste from the owner never deletes the title.
 - A split or merge in the owner's own revision is a local approval, not a
   licence for later drafts. An English-only editing guide never overrides
   paragraph boundaries or source checks.
 - Use `---` only for a genuine hard change of place, time or viewpoint, never
-  for pacing. A cut to another place and viewpoint, such as 与此同时，…另一处 (owner Ch.1412), takes one. Place it before a time-jump sentence so that sentence opens the
+  for pacing. A cut to another place and viewpoint, such as 与此同时，…另一处 (owner Ch.1412), takes one, and so does a short time skip such as 片刻过后 that
+  closes one scene and opens the next (owner Ch.1413). Place it before a time-jump sentence so that sentence opens the
   new scene. Keep every separator the source prints, and record the reviewed
   positions, or none, for the checker.
 

@@ -66,3 +66,4 @@ addendum; unapproved proposals remain unapproved. No chapter prose is included.
 | 02_BOOK_REFERENCE.md | libfile_9a5ebb0293e48191afcfd2a6cd7316d9 | fe5e47b77a22b907f2f396be667305309dbd8a57bc544075ee9a67d59864a985 |
 
 Saved version numbers: ChatGPT_Rules.md v1; Reference_Italicized_Titles.md v2; Reference_Talents_and_Hundred_Lives.md v2; Rule_Update_and_Proposed_Resolutions.md v1; Reference_Idioms.md v2; Reference_Formatting_Rules.md v2; 02_BOOK_REFERENCE.md v1.
+- 2026-09-25: Reference_Formatting_Rules.md gained the owner Ch.1413 sound example (哗哗 as RUSTLE... RUSTLE...); the owner library copy is out of sync by that line.

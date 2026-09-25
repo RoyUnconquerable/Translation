@@ -23,7 +23,7 @@ located proposal, not an automatic new rule or permission to edit the novel.
   Remove trailing heading whitespace. Use natural contractions except those ending in 'd.
 - No em or en dashes, including interruptions. Preserve the unfinished word or thought
   using allowed punctuation; do not finish the sentence or invent an interruption action.
-- Environmental and impact sounds are uppercase and unquoted, with meaningful punctuation
+- Environmental and impact sounds are uppercase and unquoted (owner Ch.1413: wind 哗哗 is RUSTLE... RUSTLE..., a doubled sound repeated), with meaningful punctuation
   and repetition intact. Voiced breaths, coughs and laughter may remain quoted dialogue.
 - Use ordinary English pronoun case for everyone, including Dao Lords. Capitalize sentence
   starts, the pronoun I, names and established honorifics such as Your Majesty, His Highness

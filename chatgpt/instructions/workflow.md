@@ -28,7 +28,7 @@ and no step exists only for process.
 
 ## Stage 1: translation (what is said)
 
-1.1 Prepare. Save the exact supplied Chinese to a file outside Git and run:
+1.1 Prepare. Save the exact supplied Chinese, minus its closing (本章完) line, to a file outside Git and run:
 
 ```text
 python3 chatgpt/scripts/prepare.py <source-file>

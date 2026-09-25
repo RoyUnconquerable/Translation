@@ -85,7 +85,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - Italicize unmistakable direct inner speech over its actual span. Its tense is the thinker's now: present for perception, future for plans, conditional for hypotheses, past or perfect for memories. No backshift, no thought tag, no narration restating it. Italics never decide tense.
 - Direct thought is mental speech, not a report of reasoning, with its conditions, interruptions, certainty, and sarcasm.
 - Free indirect thought is roman and past but keeps its voice: interjections (没错 is "It was true:"), rhetorical questions, litotes, 与其...不如 order, and the thinker as he, not his title.
-- Classify by voice and function, not glyphs: third-person analysis may stay roman despite thought marks; first-person wishes, decisions, and private rhetoric take italics even unmarked. A viewpoint character's unmarked rhetorical questions and rants that follow his own reasoning default to italic direct thought in his present (owner Ch.1412: *Where is the opportunity?*; the Ancestral Dragon's "Senior" rant). With an elided subject, keep the immediate viewpoint.
+- Classify by voice and function, not glyphs: third-person analysis may stay roman despite thought marks; first-person wishes, decisions, and private rhetoric take italics even unmarked. A viewpoint character's unmarked rhetorical questions and rants that follow his own reasoning default to italic direct thought in his present (owner Ch.1412: *Where is the opportunity?*; the Ancestral Dragon's "Senior" rant). Quoted words introduced as thinking (心中揣摩：“…”) are italic thought, not dialogue, and an attitude glossed as unspoken words (一副我不和你说话的模样) may be rendered as a short italic line (owner Ch.1413). With an elided subject, keep the immediate viewpoint.
 - Rewritten history uses tense to show the new established past, never a mechanical backshift. Reveal no later knowledge when resolving identities.
 
 ## 9. Idioms and Chinese texture
@@ -116,7 +116,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 ## 11. Numbers, units, and typography
 
 - Digits with commas for exact large values, words for rhetorical magnitudes, countless for hyperbole. Thirty to fifty percent rises twenty percentage points.
-- 100,000 li is about 31,000 miles: convert the value, not the label. Serial comma, toward, and farther for physical distance.
+- 100,000 li is about 31,000 miles: convert the value, not the label, and give the converted figure in digits even for a set phrase (owner Ch.1413: 三万里 is 9,300 miles). Serial comma, toward, and farther for physical distance.
 - Contractions in speech, thought, and ordinary narration, but not in the formal registers of section 7; expanded for emphasis, contrast, or clarity. Never 'd forms.
 - Quotation marks (straight double; straight single for nested and scare quotes), sounds, sentence case, and the dash, quote, and ellipsis bans: Reference_Formatting_Rules.md. Scene breaks: translation-spec.md.
 - Bold **【...】** displays stay exact per Reference_Formatting_Rules.md; never paraphrase one, invent a field, or infer a rule from a historical inventory. Titles follow Reference_Italicized_Titles.md, system text Reference_Talents_and_Hundred_Lives.md.
