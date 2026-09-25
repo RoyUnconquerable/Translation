@@ -299,5 +299,5 @@ the mechanics.
   World-Honored One relent. The Heaven Beyond the Heavens manifests, but its
   gate will not admit the nine Dao Lords without the sealed Ancestral Dragon,
   and freeing his body would collapse the Shore. Entry also needs a Primordial
-  Spirit; Soaring Firmament proposes using only a portion of the Ancestral
+  Spirit; Soaring Firmament proposes using only a strand of the Ancestral
   Dragon's Primordial Spirit. The outcome remains open.

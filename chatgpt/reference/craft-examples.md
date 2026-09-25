@@ -38,8 +38,8 @@ principle.
 
 - Chinese: At once [顿时] the Primordial Spirits turned their heads in some higher dimension and looked at the road they came by [来时路].
 - Stiff: ...every Dao Lord's Primordial Spirit turned back from a higher dimension and looked along the paths they had taken to get here.
-- Repaired: At once, in some higher dimension..., the Primordial Spirits of all the Dao Lords turned and looked back at the road behind them.
-- Mechanism: 顿时 lets the maxim cause the look; "the road behind them" is fixed here and reused in every later paragraph.
+- Repaired: At once, in some higher dimension..., the Primordial Spirits of all the Dao Lords turned and looked back at the path behind them.
+- Mechanism: 顿时 lets the maxim cause the look; "the path behind them" is fixed here and reused in every later paragraph.
 
 ## 3. Doer as subject, no imposed agent (Ch. 1411 P28)
 
@@ -50,16 +50,16 @@ principle.
 
 ## 4. Calque trap: 如果说...那 (Ch. 1411 P32)
 
-- Chinese: If we say [如果说] the others still felt a flicker toward the road behind them, then [那] he truly felt nothing.
+- Chinese: If we say [如果说] the others still felt a flicker toward the path behind them, then [那] he truly felt nothing.
 - Stiff: If the Sword Sovereign and the others had felt at least a flicker of emotion when they looked back, he felt nothing at all.
-- Repaired: Where the Sword Sovereign and the others had still felt a flicker of emotion toward the road behind them, he truly felt nothing.
+- Repaired: Where the Sword Sovereign and the others had still felt a flicker of emotion toward the path behind them, he truly felt nothing.
 - Mechanism: the frame is a contrast, not a condition; the motif returns.
 
 ## 4. Every connector carried (Ch. 1411 P37)
 
-- Chinese: By contrast [反而] the four, because [因为] they were more absorbed in the road behind them, were a beat slow and so [因此] fell behind.
+- Chinese: By contrast [反而] the four, because [因为] they were more absorbed in the path behind them, were a beat slow and so [因此] fell behind.
 - Stiff: ...lingered over their memories a moment longer. They were slower to move and fell a step behind.
-- Repaired: ..., by contrast, had been more absorbed in the road behind them. They started a beat late and so fell a step behind.
+- Repaired: ..., by contrast, had been more absorbed in the path behind them. They started a beat late and so fell a step behind.
 - Mechanism: three dropped markers get carriers; "memories" had rotated the motif.
 
 ## 4. Timing jolt and reversal (Ch. 1411 P43)

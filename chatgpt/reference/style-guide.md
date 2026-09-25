@@ -63,7 +63,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - **Branch to the right:** subject and verb early, modifiers after, no stacked openers. Why: an opener makes the reader hold a description unattached. Ex: "The stranger had crossed three provinces. At last he spoke."
 - **Write a serial verb chain as finite verbs sharing one subject,** the strongest last. Why: the last verb is the event. Ex: "He turned into jade-green light, shot toward the gate, and rammed into it."
 - **Repeat what the source repeats.** Anaphora doing rhetorical work (明明...明明, 诸多 four times) repeats as often in English; habitual filler may go. Why: the repetition is the rhythm. Ex: "He had reached supreme detachment. He had severed everything. And still his mind wavered."
-- **Give each repeated key phrase one wording,** chosen on first use and reused (来时路 is always "the road behind them"). No elegant variation for a fixed concept; a refrain keeps its words. "Equivalent wording is not a defect" covers single-word synonym swaps only. Why: the reader tracks a motif by its words. Ex: "Can't get in?... Without me, you can't get in!"
+- **Give each repeated key phrase one wording,** chosen on first use and reused (来时路 is always "the path behind them"). No elegant variation for a fixed concept; a refrain keeps its words. "Equivalent wording is not a defect" covers single-word synonym swaps only. Why: the reader tracks a motif by its words. Ex: "Can't get in?... Without me, you can't get in!"
 - **Vary shape by purpose, not quota.** Connect sustained reasoning and imagery; isolate what the source isolates; cut doubled framing; show escalation through concrete change, never by explaining a completed reveal. Why: shape follows the scene. Ex: "Transcendence." stands alone.
 
 ## 6. Certainty and strength
@@ -124,6 +124,6 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 ## 12. Prohibited habits
 
 - A fixed default sentence for 然而, 下一秒, 与此同时, or 入目所见.
-- Rare synonyms, stacked intensifiers, or decorative metaphors where an exact noun and a strong ordinary verb would do; a lone synonym or a clipped phrase where English has a complete, familiar expression; decorative inversion.
+- Rare synonyms, stacked intensifiers, or decorative metaphors where an exact noun and a strong ordinary verb would do; a lone synonym or a clipped phrase where English has a complete, familiar expression; a literal gloss of a set phrase where English has a stock idiom (owner Ch.1411: "poured out," not "surged out of it"; "beyond measure or understanding," not "beyond fathoming"; "When she looked back, she saw," not "what met her eyes was"; "doing whatever it takes"); decorative inversion.
 - Comma splices and other calqued syntax.
 - A local owner preference made a template without evidence that it recurs as a principle.
