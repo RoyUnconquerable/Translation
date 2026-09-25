@@ -68,7 +68,7 @@ source	target	notes
 踏天	Treading the Heavens	realm; provenance terminology.tsv
 大真君	Great True Monarch	踏天大真君 = Treading the Heavens Great True Monarch (word order per Ch. 1147); owner Ch.1355 also prefers this compact order for 踏天境的大真君. Preserve other source ranks and contextual syntax; provenance terminology.tsv
 正史	True History	capitalized; pairs with the False History; usually takes 'the'; provenance terminology.tsv
-玄妙	Mystery|Mysteries	number follows the raw for the cultivation concept; adjectival 步法玄妙 is subtle footwork in owner-final Ch.1290, not a named Mystery [except: 步法玄妙]; provenance terminology.tsv and owner-final Ch.1290
+玄妙	Mystery|Mysteries	number follows the raw for the cultivation concept; adjectival 步法玄妙 is subtle footwork in owner-final Ch.1290, not a named Mystery [except: 步法玄妙]; provenance terminology.tsv and owner-final Ch.1290; owner Ch.1413 and Ch.1415 use plural Mysteries for the resource a cultivator has or waters with; singular only for one named Mystery
 天宫	Heavenly Palace	with 'the' (Ch. 1196 ruling); provenance terminology.tsv
 位格	status	lowercase except at sentence start; the legacy phrase 踏天境的高位格 was translated compositionally [except: 踏天境的高位格]; provenance terminology.tsv
 现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世|重现世间]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
@@ -471,3 +471,5 @@ source	target	notes
 运修	Luck cultivation	Owner-kept Ch.1414: 运修道祖 is the Dao Ancestor of Luck, matching 二运 Luck in the ten-Dao maxim and the Dao Ancestor of Fate pattern.
 无限之环	Ring of Infinity	Owner-kept Ch.1414: the ring turning in Lü Yang's eyes; pairs the Infinity nature with the Ring concept. Roman.
 名相二教	the Doctrines of Names and Appearances	Owner-kept Ch.1414: the two Dao Ancestors of the Doctrine of Names and the Doctrine of Appearances, referred to together.
+归命	Returning Fate	Owner-kept Ch.1415: the second Dao Ancestor of Fate cultivation; Dao Ancestor Returning Fate, Senior Brother Returning Fate. Reborn as a baby in Ch.1415.
+大道之种	Seed of the Great Dao	Owner-kept Ch.1415: the Divine Transformation opportunity; pairs with the Tree of the Great Dao (Ch.1413).
