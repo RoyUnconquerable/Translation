@@ -14,7 +14,7 @@ positions when the source now answers them.
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Returned from Jun's remembered realm after 129,600 years; his second nature transformation produces the Infinite Method without raising his status. Infinity rapidly heals minor injuries and lets him fight the fifth-layer Primordial Saint, who retains greater raw force. In Ch.1410 he refines the strengthened Dao Heart that Si Sui sheds, resolving the hidden flaw in his Primordial Spirit cultivation. He arranges the seven remnant fragments and the opening of the Heaven Beyond the Heavens. Ch.1411: he waits for all entrants at its gate. |
+| Lü Yang | Returned from Jun's remembered realm after 129,600 years; his second transformation of his nature produces the Infinite Method without raising his status. Infinity rapidly heals minor injuries and lets him fight the fifth-layer Primordial Saint, who retains greater raw force. In Ch.1410 he refines the strengthened Dao Heart that Si Sui sheds, resolving the hidden flaw in his Primordial Spirit cultivation. He arranges the seven remnant fragments and the opening of the Heaven Beyond the Heavens. Ch.1411: he waits for all entrants at its gate. |
 | Primordial Saint | On layer five; the golden book's occupant engineered his detachment. In Ch.1405 the Ancestral Dragon disrupts the Five Elements seal he maintains to support the Other Shore, stalling his finishing strike on the World-Honored One. His rational response to Lü Yang's challenge assists the latter's transformation. He judges sixth-layer status needed to suppress Lü Yang, seventh-layer peak status to kill him, though he hopes to seal Lü Yang's divine sense. The Ch.1398 peak Golden Core past is a separate time. Ch.1410 he drops his Final Kalpa attempt to release Grand Ancestral Master; Ch.1411 he cannot enter the gate without the Ancestral Dragon. |
 | Si Sui | Escapes False History, recovers his original Other Shore place, which the World-Honored One had occupied and abandons, and reaches the fifth layer. Ch.1409: sheds Dharma Body, Yin and Yang and the enhanced Dao Heart, completes his false Transcendence beyond the Fathomless Void, and sends the discarded Daos to Soaring Firmament. Lü Yang refines the Dao Heart in Ch.1410. False Transcendence is not true Transcendence. |
 | Sword Sovereign and Vast Sky | Heavenly Dao support collapses with False History's return; the Sword Sovereign falls back to layer four. Ch.1408 she attacks Si Sui's breakthrough, Vast Sky follows, and Si Sui strikes her into the Fathomless Void. Both Vast Sky and Myriad Spells are constrained by her threads of affection. |
@@ -45,7 +45,7 @@ positions when the source now answers them.
   nine Dao Lords at the gate are insufficient without the sealed Ancestral
   Dragon; Soaring Firmament also needs a Primordial Spirit to enter. No entry
   or transcendence is yet shown for the proposed joint attempt.
-- Ch.1406 completes Lü Yang's second nature transformation; the flaw in his
+- Ch.1406 completes Lü Yang's second transformation of his nature; the flaw in his
   Primordial Spirit persists through Ch.1408, then is repaired by the enhanced
   Dao Heart in Ch.1410. Keep earlier damage and this later repair distinct.
 
@@ -114,7 +114,7 @@ traditions remain prerequisites. The live positions above supersede that window.
   real target is Dao Tianqi, erased at the Underworld gate; he revives at once
   through the Infinite Loop. Lü Yang suspects the Supreme Source Immortal is in
   the book; narration does not confirm it. After 129,600 years Lü Yang has
-  reserves for a second nature transformation, not yet begun.
+  reserves for a second transformation of his nature, not yet begun.
 - Ch.1403: the Underworld expands and the plan to release Si Sui proceeds.
   Having walked Profound Virtue's path, Dao Tianqi no longer needs the
   Underworld to keep Dao Lord status, leaving its Lord's seat vacant.
@@ -127,7 +127,7 @@ traditions remain prerequisites. The live positions above supersede that window.
   the World-Honored One's brow when the Ancestral Dragon strikes the Five
   Elements seal, costing him the kill. The World-Honored One takes the
   Underworld Lord's seat, his Primordial Spirit merging with the Underworld.
-- Ch.1406: the second nature transformation succeeds, producing the Infinite
+- Ch.1406: the second transformation of his nature succeeds, producing the Infinite
   Method (owner's Continue on the proposed name); status is unchanged.
 - Ch.1407: Lü Yang fights the fifth-layer Primordial Saint head-on.
 - Ch.1408: Si Sui attempts false Transcendence from layer five while an

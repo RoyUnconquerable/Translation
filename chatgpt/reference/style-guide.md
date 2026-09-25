@@ -85,7 +85,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - Italicize unmistakable direct inner speech over its actual span. Its tense is the thinker's now: present for perception, future for plans, conditional for hypotheses, past or perfect for memories. No backshift, no thought tag, no narration restating it. Italics never decide tense.
 - Direct thought is mental speech, not a report of reasoning, with its conditions, interruptions, certainty, and sarcasm.
 - Free indirect thought is roman and past but keeps its voice: interjections (没错 is "It was true:"), rhetorical questions, litotes, 与其...不如 order, and the thinker as he, not his title.
-- Classify by voice and function, not glyphs: third-person analysis may stay roman despite thought marks; first-person wishes, decisions, and private rhetoric take italics even unmarked. With an elided subject, keep the immediate viewpoint.
+- Classify by voice and function, not glyphs: third-person analysis may stay roman despite thought marks; first-person wishes, decisions, and private rhetoric take italics even unmarked. A viewpoint character's unmarked rhetorical questions and rants that follow his own reasoning default to italic direct thought in his present (owner Ch.1412: *Where is the opportunity?*; the Ancestral Dragon's "Senior" rant). With an elided subject, keep the immediate viewpoint.
 - Rewritten history uses tense to show the new established past, never a mechanical backshift. Reveal no later knowledge when resolving identities.
 
 ## 9. Idioms and Chinese texture
