@@ -116,7 +116,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 ## 11. Numbers, units, and typography
 
 - Digits with commas for exact large values, words for rhetorical magnitudes, countless for hyperbole. Thirty to fifty percent rises twenty percentage points.
-- 100,000 li is about 31,000 miles: convert the value, not the label, and give the converted figure in digits even for a set phrase (owner Ch.1413: 三万里 is 9,300 miles). Serial comma, toward, and farther for physical distance.
+- 100,000 li is about 31,000 miles: convert the value, not the label, and give the converted figure in digits even for a set phrase (owner Ch.1413: 三万里 is 9,300 miles); a round source figure takes "some" (owner Ch.1414: 万里 is some 3,100 miles). Serial comma, toward, and farther for physical distance.
 - Contractions in speech, thought, and ordinary narration, but not in the formal registers of section 7; expanded for emphasis, contrast, or clarity. Never 'd forms.
 - Quotation marks (straight double; straight single for nested and scare quotes), sounds, sentence case, and the dash, quote, and ellipsis bans: Reference_Formatting_Rules.md. Scene breaks: translation-spec.md.
 - Bold **【...】** displays stay exact per Reference_Formatting_Rules.md; never paraphrase one, invent a field, or infer a rule from a historical inventory. Titles follow Reference_Italicized_Titles.md, system text Reference_Talents_and_Hundred_Lives.md.

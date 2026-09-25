@@ -55,7 +55,10 @@ Run each test, then take the smallest action that fixes what it finds.
    "merely ...", "without the slightest ..." or two stacked prepositional
    phrases, and opening phrases whose implied subject is not the sentence's
    subject. Action: promote the tail to a finite verb, move it before the verb,
-   or attach the phrase to its real subject.
+   or attach the phrase to its real subject. Exception (owner Ch.1411-1414): a
+   participle tail that adds a secondary result or an accompanying state may
+   stay ("deepening his sense of...", "intense emotion rising in their eyes");
+   only a climactic action or a reversal must be promoted.
 4. Pronoun walk. Test: name the referent of every he, she, it and they, and
    check number. Action: use the name where a nearby noun could claim the
    pronoun; fix agreement.
