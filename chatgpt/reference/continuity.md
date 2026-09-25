@@ -145,3 +145,19 @@ traditions remain prerequisites. The live positions above supersede that window.
 - Ch.1411: nine Dao Lords cannot pass the gate without the Ancestral Dragon.
   Soaring Firmament proposes taking a strand of his Primordial Spirit; the
   bargain remains unresolved.
+
+## Chapter 1412: the transcender's recollection
+
+- The Primordial Saint agrees to release a Primordial Spirit thought of the Ancestral Dragon. The Dragon splits off nearly half of his Primordial Spirit and merges it into Soaring Firmament, which lets Soaring Firmament pass the Heaven Beyond the Heavens' restriction.
+- Ten Dao Lords enter the Heaven Beyond the Heavens: the Primordial Saint, Sword Sovereign, Vast Sky, Myriad Spells, Du Xuan, Si Sui, Lü Yang, Soaring Firmament, Dao Tianqi and the World-Honored One.
+- Lü Yang realizes the realm is Jun's final recollection of the Ancient Past from before Transcendence. It is only a reflection of the past, but its Absolute Truth property means events occurring there can alter factual past history.
+- The consciousness in the Book of Divine Blessings and the Mandate of Heaven recognizes the setup as a second chance for both the current Dao Lords and the Ancient Past's Dao Ancestors to contend for Transcendence.
+
+## Chapter 1413: the Divine Transformation opportunity
+
+- The Supreme Source Immortal openly explains the original contest. When Divine Land and the Sea of Light collided, an unprecedented opportunity appeared. The Dao Ancestors fought over it until only the Supreme Source Immortal and Jun remained; Jun won by one move and transcended, after which the Supreme Source Immortal was sealed.
+- The opportunity is a seed. Watered with Mysteries, it grows into a Tree of the Great Dao leading to Divine Transformation. The Dao Ancestors' own Dao arts fed the seed while they fought for it.
+- Lü Yang independently concludes that the Ancient Past's Dao Ancestors are participants rather than tools. He plans to contact and ally with them because the Primordial Saint has the Supreme Source Immortal's historical knowledge.
+- The Dao Ancestor of Fate has reincarnated in an Ancient Past city and intends to preach the Dao and transmit teachings.
+- The Immortal Recorder awakens in Purple Firmament Palace and understands that Jun himself remains outside the rewritten cycle: even if another person wins the recreated opportunity, the already-transcended Jun is unaffected.
+- Jun is honored there as Dao Venerable Who Equalizes All Dharmas.

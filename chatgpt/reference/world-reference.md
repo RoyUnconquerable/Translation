@@ -301,3 +301,14 @@ the mechanics.
   and freeing his body would collapse the Shore. Entry also needs a Primordial
   Spirit; Soaring Firmament proposes using only a portion of the Ancestral
   Dragon's Primordial Spirit. The outcome remains open.
+
+## Late Ancient Past additions: Chapters 1412-1413
+
+### Heaven Beyond the Heavens
+By Chapter 1412, Lü Yang identifies the Heaven Beyond the Heavens as Jun's final recollection of the Ancient Past before Transcendence. It is a reflection rather than the original past, but it possesses Absolute Truth: changes made inside it alter what is factually true of the past. This is the mechanism by which the current Dao Lords and the Ancient Past's Dao Ancestors can contend again over the old opportunity.
+
+### Divine Transformation opportunity
+The Supreme Source Immortal states in Chapter 1413 that the collision of Divine Land and the Sea of Light produced a seed. When fed with Mysteries and the Dao arts of competing Dao Ancestors, the seed grows into a Tree of the Great Dao. Reaching its summit means attaining Divine Transformation. In the original contest, Jun defeated the Supreme Source Immortal by one move and obtained the opportunity.
+
+### Purple Firmament Palace
+Purple Firmament Palace stands deep within the dome of Divine Land in the Ancient Past and is associated with Jun. The Immortal Recorder awakens there after the past is recreated. Jun is absent from the meditation seat yet can still be suggested through the recurring breeze. His full honorific title displayed there is Dao Venerable Who Equalizes All Dharmas.
