@@ -48,10 +48,10 @@ Readers attach each new item to what they already know, so a sentence that runs 
 - **Give every connector an English carrier.** Each source marker of cause, contrast, concession, a fortiori, or timing (只因, 因为, 因此, 所以, 既然, 毕竟, 何况, 反而, 更不会, 却, 顿时, 下一瞬, 陡然) gets a word (because, so, by contrast, all the less, but, the next instant) or a structure, never a bare "and". Why: otherwise the reader rebuilds the logic. Ex: "They, by contrast, had lingered, and so fell a step behind."
 - **Drop a connector only when it is empty filler** and English order already shows the relation. Why: stock signposts are the commonest stiffness in the genre. Ex: "The elder appeared," not "However, at this moment, the elder appeared."
 - **Give a timing jolt or reversal its own clause.** Why: the jolt pays off the setup. Ex: "The next instant... They reappeared, but they were stuck at the gate."
-- **Land the decisive clause last.** The source paragraph's final clause ends the English one. Do not demote a climactic verb to a trailing participle, follow a question with its explanation, or reverse 与其...不如. Why: the stress position weights the climax. Ex: "...and rammed into its gate," not ", slamming into its gate."
+- **Land the decisive clause last.** The source paragraph's final clause ends the English one. Do not bury a reversal or a decision in a trailing participle or follow a question with its explanation; a participle may carry an accompanying action or a result (owner Ch.1411 "charged toward…, slamming headfirst into its gate"; Ch.1417 "changing the fate of the Divine Land's destruction once and for all"). Why: the stress position weights the climax. Ex: "But the first Dao Ancestor of Fate was different."
 - **Keep a setup before its ironic reaction.** Why: irony needs the description first. Ex: "They had long since extinguished their humanity. Yet now they too stood dazed."
 - **Keep the argument whole.** Join a premise to its consequence, keep conditions beside their claims, say whose time passed when one observer experienced it, and compare like with like. Sequence alone does not prove cause. Reorder within a sentence, never past a reveal or payoff. Ex: "It's Jun, so it won't open until everyone's here."
-- **Avoid three calques.** 如果说 X, 那 Y compares; it is not a condition. 才 is not always "only then"; keep "Only when... could..." for a true necessary condition. 另一边 is spatial "meanwhile," not "on the other hand." Why: each states a logic the source lacks. Ex: "Where the others had felt a flicker of emotion, he felt nothing."
+- **Avoid three calques.** 如果说 X, 那 Y compares; render it as a contrast ("Where…", or an idiomatic contrastive "If X, Y", which the owner accepts, Ch.1411). 才 is not always "only then"; keep "Only when... could..." for a true necessary condition. 另一边 is spatial "meanwhile," not "on the other hand." Why: each states a logic the source lacks. Ex: "Where the others had felt a flicker of emotion, he felt nothing."
 - A locative opening ("Within it surged...") may link a known place to a new phenomenon; it is an option, not a default.
 
 ## 5. Rhythm and sentence shape
@@ -62,8 +62,17 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - **Keep short beats short and punch lines at source brevity,** landing once, with no second punch or repeated explanation. Why: anything after the punch dilutes it. Ex: "nothing but a punching bag."
 - **Branch to the right:** subject and verb early, modifiers after, no stacked openers. Why: an opener makes the reader hold a description unattached. Ex: "The stranger had crossed three provinces. At last he spoke."
 - **Write a serial verb chain as finite verbs sharing one subject,** the strongest last. Why: the last verb is the event. Ex: "He turned into jade-green light, shot toward the gate, and rammed into it."
-- **Repeat what the source repeats.** Anaphora doing rhetorical work (明明...明明, 诸多 four times) repeats as often in English; habitual filler may go. Why: the repetition is the rhythm. Ex: "He had reached supreme detachment. He had severed everything. And still his mind wavered."
+- **Repeat what the source repeats.** Anaphora doing rhetorical work (明明...明明, 诸多 four times) repeats as often in English; habitual filler may go. Why: the repetition is the rhythm. Ex: "Strange, very strange" for 古怪古怪 (owner Ch.1417). The owner may merge a clause-level repetition into one flowing sentence (Ch.1411 P8); that is acceptable.
 - **Give each repeated key phrase one wording,** chosen on first use and reused (来时路 is always "the path behind them"). No elegant variation for a fixed concept; a refrain keeps its words. "Equivalent wording is not a defect" covers single-word synonym swaps only. Why: the reader tracks a motif by its words. Ex: "Can't get in?... Without me, you can't get in!"
+- **Owner flow patterns (Ch.1411-1417 revisions).** Apply these by default:
+  - Name the real subject or noun a claim is about ("Cultivators of the Ancient Past…", "many Dao Ancestors who…", "one who seeks Transcendence") instead of a bare topic or an elided head.
+  - Unpack a coined noun compound into a verb phrase ("piggybacking on another's Transcendence", "the fate of the Divine Land's destruction").
+  - Split stacked observations in speech into separate beats, with an ellipsis pause before a searching question.
+  - When a second clause shifts focus (state to value, fact to judgment), give it its own sentence and a frame such as "In their eyes,".
+  - Fold a colon or "and" consequence into one main verb plus a result tail.
+  - Prefer "previously X" and similar premodifiers to "once X, now Y" appositive chains.
+  - Narration and composed speakers use precise standard words (viable, precisely, necessary, undergone, ingenious, intends, symbolizes); Lü Yang and colloquial speakers stay casual.
+  - Mark a key contrast with an explicit "But" even when the source contrast sits in 却 mid-sentence.
 - **Vary shape by purpose, not quota.** Connect sustained reasoning and imagery; isolate what the source isolates; cut doubled framing; show escalation through concrete change, never by explaining a completed reveal. Why: shape follows the scene. Ex: "Transcendence." stands alone.
 
 ## 6. Certainty and strength

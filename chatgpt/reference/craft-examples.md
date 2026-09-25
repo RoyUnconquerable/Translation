@@ -8,17 +8,18 @@ Examples show a principle. They are not sentence templates; do not copy their
 wording into other scenes.
 
 The bank is capped and refreshed under the exemplar-bank rule in
-`instructions/maintenance.md`. The current seed is the Ch. 1411 diagnosis
-(maintainer repairs, not owner text) and one recorded Ch. 1359 repair; owner
-rewrites replace seed entries first, then the oldest entry showing the same
-principle.
+`instructions/maintenance.md`. Entries marked owner come from the owner's
+Ch. 1417 revision and replace seed entries the owner's Ch. 1411 revision
+reversed; the rest are the Ch. 1411 maintainer seed and one Ch. 1359 repair.
+Owner rewrites replace seed entries first, then the oldest entry showing the
+same principle.
 
-## 5. Repeat what the source repeats (Ch. 1411 P8)
+## 3. Name the real subject (owner Ch. 1417 P7)
 
-- Chinese: Clearly [明明] he had reached supreme detachment, clearly [明明] severed everything, and still his mind wavered.
-- Stiff: He had attained supreme detachment and severed everything, yet his mind still wavered.
-- Repaired: He had reached supreme detachment. He had severed everything. And still his mind wavered.
-- Mechanism: the repeated frame restores the insistence, so the last sentence lands as the punch.
+- Chinese: The Ancient Past cultivates [修] nature.
+- Stiff: The Ancient Past cultivates nature.
+- Repaired: Cultivators of the Ancient Past cultivate their nature.
+- Mechanism: a topic-comment claim gets its human subject and a possessive, so the thought reads as a statement about people.
 
 ## 4. Connector carrier; 3. right referent (Ch. 1411 P9)
 
@@ -41,19 +42,19 @@ principle.
 - Repaired: At once, in some higher dimension..., the Primordial Spirits of all the Dao Lords turned and looked back at the path behind them.
 - Mechanism: 顿时 lets the maxim cause the look; "the path behind them" is fixed here and reused in every later paragraph.
 
-## 3. Doer as subject, no imposed agent (Ch. 1411 P28)
+## 3. Unpack a coined compound (owner Ch. 1417 P27)
 
-- Chinese: She felt not the slightest attachment [留恋]; the scene before her shattered [破灭].
-- Stiff: Without the slightest reluctance, the Sword Sovereign shattered the scene before her.
-- Repaired: The Sword Sovereign felt not the slightest attachment, and the scene before her shattered.
-- Mechanism: 破灭 is intransitive, so the cause comes first and the scene breaks by itself.
+- Chinese: this attached [挂靠] Transcendence needs no supreme detachment; they keep the self.
+- Stiff: this piggyback Transcendence didn't require supreme detachment. They kept their selves intact
+- Repaired: piggybacking on another's Transcendence didn't require supreme detachment. They could preserve their sense of self
+- Mechanism: a noun coinage becomes a verb phrase with its object; an awkward plural abstraction becomes a familiar expression.
 
-## 4. Calque trap: 如果说...那 (Ch. 1411 P32)
+## 4. Give a shift of focus its own frame (owner Ch. 1417 P30)
 
-- Chinese: If we say [如果说] the others still felt a flicker toward the path behind them, then [那] he truly felt nothing.
-- Stiff: If the Sword Sovereign and the others had felt at least a flicker of emotion when they looked back, he felt nothing at all.
-- Repaired: Where the Sword Sovereign and the others had still felt a flicker of emotion toward the path behind them, he truly felt nothing.
-- Mechanism: the frame is a contrast, not a condition; the motif returns.
+- Chinese: They had long forgotten feeling [忘情]; in their eyes there was only Transcendence.
+- Stiff: They had long since forgotten all feeling, and Transcendence was all they could see.
+- Repaired: Both had long since cast aside their emotions. In their eyes, only Transcendence mattered.
+- Mechanism: the second claim turns from state to value, so it gets its own sentence and an "In their eyes" frame instead of "and".
 
 ## 4. Every connector carried (Ch. 1411 P37)
 
@@ -83,19 +84,19 @@ principle.
 - Repaired: But how could they allow that? ... Let him out, and wouldn't the Other Shore simply collapse?
 - Mechanism: the questions stay questions, and the first keeps its meaning: unthinkable, not helpless.
 
-## 5. Serial verbs, strongest last (Ch. 1411 P55)
+## 5. Split stacked observations into beats (owner Ch. 1417 P11)
 
-- Chinese: ...became jade-green light, a forest of towering trees, sped toward the Heaven Beyond the Heavens, and rammed [撞在] into the gate.
-- Stiff: ...and charged toward the Heaven Beyond the Heavens, slamming headfirst into its gate.
-- Repaired: ...shot toward the Heaven Beyond the Heavens, and rammed headfirst into its gate.
-- Mechanism: the climactic verb gets its own finite slot at the end.
+- Chinese: Purely external; the status is the Dao Venerable's method? Strange, strange [古怪古怪].
+- Stiff: It's purely external, and the status is a technique of the Dao Venerable's? How strange.
+- Repaired: It's entirely external. And that status... is it one of the Dao Venerable's methods? Strange, very strange.
+- Mechanism: each observation gets its own beat, the question gets a pause, and the doubled word repeats.
 
-## 4. The loaded question lands last (Ch. 1411 P68)
+## 4. One main verb, result as a tail (owner Ch. 1417 P70)
 
-- Chinese: Will you follow the other Dao Lords, or me, who has no Primordial Spirit and can only enter through you?
-- Stiff: "So who will it be? One of the other Dao Lords, or me? I don't have a Primordial Spirit, so I can only get inside with your help."
-- Repaired: "So will you follow one of them, or me, who has no Primordial Spirit and can only get in with your help?"
-- Mechanism: the premise moves inside the question, so the speech ends on it.
+- Chinese: settle it once and for all [一劳永逸], end the Kalpa before it begins, thereby [继而] change the ending of destruction.
+- Stiff: That would settle it once and for all: the Final Kalpa would end before it even began, and the ending of destruction would change.
+- Repaired: That would end the Final Kalpa before it even begins, changing the fate of the Divine Land's destruction once and for all.
+- Mechanism: the action takes the main verb, the consequence rides as a participle, and the abstract "ending" becomes a concrete fate.
 
 ## 5. Parallel frame; 6. no added hedge (Ch. 1411 P72)
 
@@ -104,12 +105,12 @@ principle.
 - Repaired: Put an Innate Dao God in the Ancient Era, and... Put him in the present age, and... he was nothing but a punching bag.
 - Mechanism: the doubled "Put" carries the comparison; "nothing but" matches 纯粹 instead of hedging the punch.
 
-## 8. Free indirect order (Ch. 1411 P75)
+## 10. Separate two holders of one title (owner Ch. 1417 P72)
 
-- Chinese: In that case, rather than [与其] follow the Primordial Saint, better [不如] to team up with Soaring Firmament.
-- Stiff: Given those options, he would rather work with Soaring Firmament than go with the Primordial Saint.
-- Repaired: In that case, rather than follow the Primordial Saint, better to team up with Soaring Firmament.
-- Mechanism: source order puts the choice last in the Dragon's own voice; "Given those options" was padding.
+- Chinese: The Dao Ancestor of Fate [命修道祖], however [却], was different.
+- Stiff: The Dao Ancestor of Fate was different.
+- Repaired: But the first Dao Ancestor of Fate was different.
+- Mechanism: "first" keeps him apart from Returning Fate, the second, and "But" carries 却.
 
 ## 4. Calque trap: 另一边; 5. punch last (Ch. 1411 P82)
 
