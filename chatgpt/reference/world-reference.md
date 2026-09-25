@@ -1,7 +1,7 @@
 # Consolidated world reference
 
-Stable mechanics and relationships. See continuity for current positions and
-the ledger for reviews. Character claims are explicitly attributed.
+Mechanics and relationships. See continuity for positions and the ledger for
+reviews. Character claims are attributed.
 
 ## Cosmology and domains
 
@@ -13,15 +13,15 @@ the ledger for reviews. Character claims are explicitly attributed.
   void. Dao Tianqi's Underworld, his own Dao-attainment system, supports the
   sea and survives damaged. The detachable Vajra Realm temporarily anchors
   the Sword Sovereign, Vast Sky, Myriad Spells, and Du Xuan outside the sea.
-- The Heavenly Palace is Lü Yang's Dao-attainment system and governs the
-  God-Sealing Method. Ch.1334 completes it with the Heavenly Dao and support
-  from the Wilderness's God-Sealing cultivators, raising his status. Earlier
-  damage and remnant-access details are archived under Archived Palace damage
-  and access at Chapter 1334 in continuity-archive.md.
-- Lü Yang and Vast Sky identify the Ancestral Dragon's Detached Court as a
-  hidden void realm possibly left by an upper-realm cultivator. The Dragon,
-  Si Sui, and the Saint entered it; other Dao Lords cannot locate it even with
-  Si Sui guiding Them. Its isolation has power comparable to the remnant realms' protection. Ch.1339 then shows Lü Yang returning with it, dismantling it, and sending all its pieces into the Underworld for repairs.
+- Lü Yang's Heavenly Palace governs the God-Sealing Method. The Heavenly Dao
+  and the Wilderness's God-Sealing cultivators complete it in Ch.1334, raising
+  his status. Earlier damage and access details are archived under Archived
+  Palace damage and access at Chapter 1334 in continuity-archive.md.
+- Lü Yang and Vast Sky suspect the Ancestral Dragon's Detached Court is an
+  upper-realm void relic. The Ancestral Dragon, Si Sui and the Primordial Saint
+  entered it; others cannot locate it even with Si Sui's guidance. Its
+  isolation rivals remnant-realm protection. Lü Yang dismantles it for
+  Underworld repairs in Ch.1339.
 - The void is a Ring and cradle: branching Past and Future return to one
   source. The Saint's true Nascent Soul draws its light into nested, reflecting
   Rings and His light body. His Primordial Spirit forms an umbilical cord to
@@ -33,10 +33,9 @@ the ledger for reviews. Character claims are explicitly attributed.
 
 ## History and causality: lookup
 
-Full notes remain verbatim in continuity-archive.md under Archived history and
-causality world notes at Chapter 1362. They cover era origins, False History's
-convergence/divergence, Variables and Karma, and the limits and costs of the
-Saint's temporal maneuvers. Apply current ordinary pronoun case.
+See Archived history and causality world notes at Chapter 1362 in
+continuity-archive.md for era origins, True/False History, Variables, Karma
+and the Primordial Saint's temporal limits and costs. Use ordinary pronouns.
 
 ## Cultivation and Dao Lord status
 
@@ -284,7 +283,9 @@ Current developments below supersede earlier deferral or unresolved claims.
 - A second Infinite Loop practitioner is possible: the Underworld's accumulated
   dead spirits provide a Dao Fruit foundation, as the Palace's living multitude
   did for Order. Dao Tianqi completes this transformation in secret; no general
-  claim that every Dao Lord can copy it follows.
+  claim that every Dao Lord can copy it follows. Ch.1402: he instantly returns
+  after the Primordial Saint erases him. Even the Underworld's destruction
+  would no longer kill Dao Tianqi, according to this scene.
 - Ancient Past cultivation refines one's nature rather than climbing an external
   status structure. The ten paths are successful methods in order of first
   attainment, not ranked powers or necessarily manifested cosmic roads. Their
@@ -298,12 +299,42 @@ Current developments below supersede earlier deferral or unresolved claims.
   Lü Yang links this to the Heavenly Dao. Recorder links Feng Shui to the Other
   Shore and Study to the Written Word. Preserve these attributions.
 - The Dao Register's seventeen entries become eighteen with Profound Virtue.
-  The original was merged into the golden book to restrict the False Immortal;
-  a later copy can receive manually written names. Recorder names that enemy the
-  Supreme Source Immortal, also called Tai Yitian. Possession is a stated risk;
-  successful possession, record tampering and weakened seals remain Lü Yang's
-  theories. Ch.1400 confirms an intelligent book occupant who remembers a
-  previous life and shaped the Saint's supreme detachment to make him receptive
-  to merger. The occupant says he cannot leave the book without being destroyed
-  by a world restart. The occupant is not explicitly identified as the
-  Supreme Source Immortal; no merger with the Saint has occurred.
+  Its original merged into the golden book to restrict the False Immortal;
+  a copy can accept manually added names. The first Trial Guardian reads that
+  copy in Ch.1401. The book occupant calls the original a transcender's failed
+  attempt at another kind of book, listing Dao Ancestors' honorific titles;
+  the source also calls entries names without classifying each one. The
+  Immortal Recorder names the enemy the Supreme Source Immortal, Tai Yitian.
+  Possession, tampering and weakened seals remain Lü Yang's theories. Ch.1400
+  confirms a conscious book occupant who remembers a previous life, shaped
+  the Primordial Saint's detachment toward merger, and says leaving the book
+  would destroy him at the next restart. No merger or explicit identification
+  with the Supreme Source Immortal occurs. Lü Yang takes the occupant's
+  recognition of the Ch.1402 Dao Register bait and move toward the Underworld
+  as proof of that identity; this is Lü Yang's inference.
+
+## Other Shore, Underworld and opening (Chapters 1403-1411)
+
+- The Underworld expands sea-wide. Dao Tianqi's Infinite Loop lets him yield
+  its seat to the World-Honored One, who keeps Karma but changes his past
+  choice. False History returns, Si Sui regains his Other Shore seat, and the
+  Sword Sovereign loses fifth-layer Heavenly Dao support.
+- The Ancestral Dragon remains the Shore's sealed foundation. Nurturing Life
+  let him interrupt the Primordial Saint's Five Elements seal after 100,000
+  years, not survive the Shore's collapse.
+- The Primordial Saint breaks Lü Yang's Infinite Loop at its join; reversed
+  surfaces form the Infinite Method. Infinity enlarges his nature without
+  raising status and repairs minor injuries. The fifth-layer Saint retains
+  greater raw force. Lü Yang's Primordial Spirit flaw lasts through Ch.1408.
+- Si Sui climbs to layer five, sheds the Dharma Body, Yin and Yang, the
+  enhanced Dao Heart and Shore support, and completes false Transcendence in
+  Ch.1409. These Daos raise Soaring Firmament from his Tribulation-fueled
+  second-layer ascent to layer three, without a Primordial Spirit; the
+  God-Sealing Method lets Lü Yang use the Daos given to him. In Ch.1410 Lü
+  Yang refines the enhanced Dao Heart and repairs his own Spirit flaw.
+- In Ch.1410 the seven named Heavenly Person's Remnant Consciousness fragments
+  reconnect. Grand Ancestral Master escapes Time and Karma when the Primordial
+  Saint and World-Honored One relent. The Heaven Beyond the Heavens manifests;
+  nine Dao Lords cannot enter without the sealed Ancestral Dragon in Ch.1411.
+  Freeing his body would collapse the Shore. Soaring Firmament proposes using
+  only a portion of his Primordial Spirit; the outcome remains open.

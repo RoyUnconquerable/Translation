@@ -5,7 +5,7 @@ source	target	notes
 万宝	Myriad Treasures	World-Honored One alias; no article in direct address; provenance Ch.1266 and later owner finals
 剑主	Sword Sovereign	"Dao Lord; usually takes ""the""; ordinary pronouns; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md"
 剑尊	Sword Sovereign	same being as 剑主; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
-初圣	Primordial Saint	Dao Lord; usually takes "the"; provenance terminology.tsv
+初圣	Primordial Saint	Dao Lord; usually takes "the". Use he/him/his where clear; do not abbreviate this title as "the Saint," which can name another figure. Owner Ch.1401 correction; provenance terminology.tsv.
 昊天	Vast Sky	Dao Lord; ordinary pronouns; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 苍昊	Vast Sky	alternate name for the same Dao Lord; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 万法	Myriad Spells	the Spell Dao Lord; addressed as Fellow Daoist Myriad Spells; 万法不侵 describes immunity to spells, not this person [except: 万法不侵]; provenance terminology.tsv and Ch.1291 source review
@@ -33,7 +33,7 @@ source	target	notes
 冥府	Underworld	usually takes "the"; provenance terminology.tsv
 伪史	False History	usually takes "the"; provenance terminology.tsv
 光海	Sea of Light	usually takes "the"; provenance terminology.tsv
-变数	Variable|Variables	Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in his favor. Ordinary variable(s) follow the source number. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数]
+变数	Variable|Variables	Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in his favor. Ordinary variable(s) follow the source number. Owner Ch.1402 uses A Variable for Dao Tianqi's bracketed classification, a scoped singular title rather than a renaming of the Great Dao or all ordinary variables. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数]
 百世书	Book of a Hundred Lives	normally takes the definite article; provenance owner-rulings-ch1221-ch1243.tsv
 天道	Heavenly Dao	usually takes "the"; provenance terminology.tsv
 大道	Great Dao	usually takes "the"; provenance terminology.tsv
@@ -44,7 +44,7 @@ source	target	notes
 心斋	Heart Fasting	a Dao Heart tier; provenance terminology.tsv
 元神	Primordial Spirit	provenance terminology.tsv
 果位	Fruition Attainment	named Dao Fruit Secret Art recipes keep "Dao Fruit"; provenance terminology.tsv
-道果	Fruition Attainment|Dao Fruit	general sense "Fruition Attainment"; named recipes and fused products keep "Dao Fruit". Owner Ch.1339 retains Dao Fruit for the Heavenly Calendar Numbers as the fruit cultivated by the Heavenly Palace; preserve the linked tree/root/fruit image. Provenance terminology.tsv and Ch.1339 owner revision
+道果	Fruition Attainment|Dao Fruit	General sense "Fruition Attainment"; named recipes and fused products keep "Dao Fruit". Owner Ch.1339 retains Dao Fruit for the Heavenly Calendar Numbers as the fruit cultivated by the Heavenly Palace; preserve the linked tree/root/fruit image. Owner Ch.1408 chooses "Dao Fruit" for Lü Yang holding his own fruit steady (持定道果), a contextual choice, not a global replacement of Fruition Attainment.
 真身	true body|true bodies	lowercase; number follows syntax. Ch.1348 confirms the ordinary plural with plural Dao Lords; do not force singular wording to satisfy a lexical checker.
 报身	Reward Body	standalone only; 法外报身 is its own entry; provenance terminology.tsv
 法外报身	Dharma Transcending Avatar	distinct from standalone 报身; provenance terminology.tsv
@@ -427,9 +427,9 @@ source	target	notes
 引路人	Guide	Owner approved before Ch.1378; plural Guides. Jun's designated role in the remnant/eighth-realm arrangement. Ordinary guides in unrelated contexts remain lowercase.
 转轮池	Wheel-Turning Pool	Owner approved before Ch.1380. Trial Guardian lineage treasure and trial foundation within Responding to Emperors and Kings; restoration claims are attributed to Long Tu.
 相见两忘	Meet and Forget	Owner approved before Ch.1382. Cultivating Truth's escape/memory technique; roman name. Once per target, with memories restored on meeting again; not permanent erasure.
-录仙	Immortal Recorder	Approved Ch.1394; Jun's attendant and, after reincarnation, the founding Trial Guardian (reveal Ch.1395-1398). Ch.1398 寻仙 is a source typo, not another person.
+录仙	Immortal Recorder	Approved Ch.1394; Jun's attendant and, after reincarnation, the founding Trial Guardian (reveal Ch.1395-1398). Owner Ch.1402 uses "the Immortal Recorder" in narration; omit the article in direct address. Ch.1398 寻仙 is a source typo, not another person.
 均平历	Calendar of Balance	Approved Ch.1394; year 129,600 belongs to the remembered Heaven Beyond the Heavens. Do not confuse its date with the time outside that realm.
-天外天	Heaven Beyond the Heavens	Approved Ch.1394 for the named realm; complete expression takes precedence over 天外 / Outer Heavens. Roman place name.
+天外天	Heaven Beyond the Heavens	Approved Ch.1394 for the named realm; complete expression takes precedence over 天外 / Outer Heavens. Owner Ch.1402 repeatedly uses "the Heaven Beyond the Heavens" in narration, locatives and dialogue. Roman place name.
 道册	Dao Register	Approved Ch.1393; roman artifact. Original merged into the golden book; a copy can accept names added by a later writer. Do not collapse original and copy.
 道尊	Dao Venerable	Approved Ch.1393; title for Jun in the Ancient Past account, distinct from Dao Ancestor and Dao Lord.
 假仙	False Immortal	Approved Ch.1393; preserve reveal order before the Supreme Source Immortal explanation.
@@ -454,3 +454,12 @@ source	target	notes
 瀚海	Vast Sea	Approved Ch.1397; distinct from 光海 / Sea of Light.
 七情参天决	Seven Emotions Heaven-Fathoming Art	Ch.1396 source variant of 七情参天诀, the same italic named work; not a new method.
 鸠占鹊巢	Cuckoo Occupying the Magpie's Nest	Established roman Talent, canonical Ch.435 description in the Talent reference. Ch.1391 conceals identity and karma but needs Cultivating Truth to mask the Primordial Spirit.
+知天命	Knowing Heaven's Mandate	Dao Register entry / Dao Ancestor designation in Ch.1401; owner approved before delivery. Proper title with this wording; do not mechanically replace its substring 天命 with the generic Mandate of Heaven rendering.
+大运来	Great Luck Comes	Dao Register entry / Dao Ancestor designation. Owner correction after Ch.1401 delivery replaces the provisional Great Luck Arrives.
+住旒仙	Tassel Immortal	Dao Register entry / Dao Ancestor designation. Owner correction after Ch.1401 delivery replaces the provisional pinyin Zhu Liuxian; do not infer a personal birth name.
+至上名	Supreme Name	Dao Register entry; founder designation associated with the Doctrine of Names in Ch.1401. Owner approved before delivery; preserve distinction from the separate Supreme Source Immortal.
+无我相	Selfless Appearance	Dao Register entry; founder designation associated with the Doctrine of Appearances in Ch.1401. Owner approved before delivery.
+泥丸宫	Niwan Palace	Approved before Ch.1405 delivery for the Primordial Saint's upper spiritual center; normally takes his/the as appropriate.
+【空】	Emptiness	Approved before Ch.1405 delivery for the World-Honored One's Buddhist insight; keep ordinary empty/emptiness contextual elsewhere.
+无限法	Infinite Method	Named evolution of Lü Yang's Infinite Loop, proposed before Ch.1406 and used after the owner's instruction to continue. Distinct from the Loop; roman inline title.
+【无限】	Infinity	Lü Yang's transformed nature in Ch.1407-1408; owner Ch.1408 retains this noun twice. Capitalize for this named aspect, lowercase ordinary infinity.

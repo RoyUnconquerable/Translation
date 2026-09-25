@@ -200,18 +200,16 @@ Explicit owner corrections already authorize their verified update; do not
 ask again for whole-chapter approval. Supplied edits receive one indexed
 comparison and the same bounded bilingual check, not two additional reviews.
 If feedback and a new chapter arrive together, apply the live correction to
-that chapter and deliver it first. Publish the approved consolidated update
-after delivery at the first available maintenance opportunity, subject to
-the ten-chapter publication cadence below. Prepare verified local updates
-without waiting for the push boundary. If final chat delivery ends the turn,
-resume the authorized update on the next available turn; no feedback-only
-prompt or renewed approval is required. A waiting chapter still comes first. Do not claim
-unpublished changes are saved.
+that chapter and deliver it first. Prepare verified local updates after delivery
+without waiting for the ten-chapter commit boundary; keep them uncommitted until
+then. If final chat delivery ends the turn, resume the authorized update on the
+next available turn; no feedback-only prompt or renewed approval is required.
+A waiting chapter still comes first. Do not claim unpublished changes are saved.
 
 Compare against the source and delivered draft, asking why each changed sentence
 changed. Record inferred intent as inferred. Update the existing glossary,
-style, continuity, world reference and state together where affected, in one
-atomic commit. Preserve untouched valid records; changing every file is not a
+style, continuity, world reference and state together where affected, keeping
+the changes ready for one batch commit. Preserve untouched valid records; changing every file is not a
 goal. Never add chapter-specific supplements, commit chapter text, create
 provisional handoffs or infer approval from the next chapter arriving.
 
@@ -231,14 +229,14 @@ real defect, rerun only affected checks after fixing it. Size warnings prompt
 focused consolidation on maintenance turns; preserve valid rules and do not
 raise limits or reclassify a real term just to silence a warning.
 
-The owner requested pushes every ten chapters starting with the Ch.1340
-request. Apply feedback immediately and prepare coherent local commits on
-maintenance turns; push the accumulated reviewed updates after each ten new
-chapter deliveries (first batch Ch.1340-1349), or on an explicit earlier push
-request. Editing feedback does not count as another delivered chapter. A
-local commit is queued work, not published persistence.
+The owner requests one commit and push every ten new chapter deliveries,
+starting with the Ch.1340 request (first batch Ch.1340-1349). Apply feedback
+immediately and keep reviewed local changes uncommitted until the batch boundary,
+unless the owner explicitly requests an earlier commit. Editing feedback does
+not count as another delivered chapter. An uncommitted local edit is not
+published persistence.
 
-At the batch boundary, publish the reviewed commits to the canonical branch
+At the batch boundary, publish the reviewed commit to the canonical branch
 and, when different, the working branch without force-pushing. Fetch/check the
 current remote before publication; if it moved, reconcile without overwriting external work. Use the
 normal authenticated Git path when available; otherwise use the existing GitHub

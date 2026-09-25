@@ -70,16 +70,17 @@ pass logs never override the owner's later explicit acceptance.
 ## One atomic update
 
 After the approved feedback is checked, consolidate all affected glossary,
-style, continuity, world-reference and chapter-state changes in one commit.
+style, continuity, world-reference and chapter-state changes locally. Commit
+them together at the ten-chapter boundary under workflow.md.
 Keep source seen, actual chat delivery, correction recorded and owner-final
 approval separate; preserve historical gaps. Unchanged authority files need
 no cosmetic edits. Metadata alone does not require an intervening chapter commit.
 
 Do not perform this work ahead of a waiting chapter. Mixed correction/source
-turns apply the correction immediately and deliver the chapter. Publish the
+turns apply the correction immediately and deliver the chapter. Prepare the
 approved update afterward at the first available maintenance opportunity under
-workflow.md, queuing reviewed local changes for its ten-chapter push cadence
-without requiring another approval or a feedback-only prompt. Be
+workflow.md, keeping reviewed local changes for its ten-chapter commit and push
+cadence without requiring another approval or a feedback-only prompt. Be
 honest about what is and is not durable. Never commit source or translated chapter
 text, full comparison files, or provisional handoffs. All repository checks
 and remote publication follow the single gate set in workflow.md.

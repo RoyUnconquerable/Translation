@@ -36,6 +36,11 @@ Within this same source-aligned reading, judge each paragraph's purpose in its
 scene. In action, track actor, means, sequence and consequence; in explanation,
 track rule, condition, limit and deduction; in dialogue or thought, track
 immediate purpose, register and viewpoint. Mixed paragraphs can do several.
+When checking English, catch unnecessarily expanded negatives and modals in
+contemporary narration and direct thought as well as speech. Contract them when
+natural, keeping expanded forms for emphasis, contrast, formal cadence or clarity;
+never use forms ending in 'd. Check the chapter's ordinary narrative sentences,
+not only dialogue, without imposing a contraction quota.
 Judge complete English expressions and their connection to neighboring clauses,
 not just component words or terms. Follow the movement through an image and the
 steps through an argument; grammatical fragments of meaning can still combine

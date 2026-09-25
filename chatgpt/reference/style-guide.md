@@ -1,10 +1,9 @@
 # Style guide
 
-Use this prose authority with the glossary, phrase memory and world/continuity
-records. Retrieve matching entries from state's four owner references for
-formatting, idioms, titles and Talents/Hundred Lives. Latest scoped rulings win;
-local edits and retained idiom variants become general only with evidence.
-Proposals are not canon.
+Use with the glossary, phrase memory, world and continuity records. Check
+matching entries in state's four owner references. Latest scoped rulings win;
+local edits and retained idioms become general only with evidence. Proposals
+are not canon.
 
 When principles compete, use this order:
 
@@ -29,10 +28,10 @@ When principles compete, use this order:
 - Prefer exact nouns and strong ordinary verbs to rare synonyms, stacked
   intensifiers, or decorative metaphors absent from the source.
 - Let meaning set length. Clarify reactions without losing qualifications or
-  inventing explanation, setting or lineage.
-- Preserve modern system/matchup humor through natural terms such as raw stats
-  or mechanics. Ease of use is not mindlessness; retain an accompanying idiot
-  joke only when sourced. Do not elevate it into ceremonial martial abstraction.
+  inventing settings or motives.
+- Preserve system/matchup humor through natural terms such as raw stats or
+  mechanics. Ease of use is not mindlessness; retain sourced idiot jokes without
+  elevating them into ceremonial martial abstraction.
 
 ## Fidelity and paragraph structure
 
@@ -89,8 +88,10 @@ When principles compete, use this order:
   actions/modals parallel, qualifications and only beside what they modify,
   and comparisons like for like: a Dao's strength with other Daos' strength.
 - Give verbs clear objects and quantities their referents. Use pronouns when clear;
-  use names or relational prepositions when stacked labels obscure ownership.
-  Retain a full title if an abbreviation could refer to another nearby person.
+  use full names, titles or relational prepositions to untangle stacked labels.
+  Use the Primordial Saint or clear pronouns for 初圣, never the Saint: other
+  figures are Saints. Retain full source epithets such as the Ancestral Dragon
+  or use clear pronouns; do not clip them to the Dragon for variety.
   Do not narrow an unstated subject or turn two labels into two objects. Distinguish
   understanding from explanation and exercised authority from direct rule.
   Forced combat movement must not become voluntary retreat.

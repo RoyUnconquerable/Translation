@@ -1,35 +1,31 @@
-# Current continuity: verified Chapters 1387-1400 and earlier prerequisites
+# Current continuity: verified Chapters 1387-1411 and earlier prerequisites
 
-Source facts are independent of English approval. Review status is in the
-ledger. The complete previous active window is preserved in continuity-archive.md
-under Archived active window through Chapter 1309. This window supersedes its
-positions and hypotheses where the source now answers them. Exact Chinese and
-chat-delivery evidence for Chapters 1335-1338 remains unretrieved; approved English
-coverage is separate. Chapters 1339-1349 are verified from the current supplied sources.
-Chapters1310-1311 remain verbatim in that archive. Chapter1354 was supplied and
-retranslated directly, then owner-edited. Sources and chat deliveries through
-1400 are verified; owner revisions cover1354,1355,1358,1359,1361-1365,1371,1377,1385 and1400, with a term correction
-for1357 and explicit term/title/source corrections through1399. These do not establish owner-final approval. Sources and deliveries for1350-1353
-remain unretrieved here; no events or approvals are inferred for that gap.
+Source facts and English approval are distinct; see the ledger for owner edits
+and review status. Earlier active windows and Chapters 1310-1311 are preserved
+in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1411
+have verified sources and chat delivery. Chapters 1335-1338 have approved
+English but unretrieved exact Chinese and delivery; Chapters 1350-1353 remain
+unretrieved. Neither gap establishes missing events or approval. This window
+supersedes earlier positions when the source now answers them.
 
 ## Current positions and live questions
 
 | Actor | Latest established state |
 | --- | --- |
-| Lü Yang | Ch.1391-1400: entered the intact Ancient Era trials and eighth realm. In Heaven Beyond the Heavens he saves the first Trial Guardian and most disciples, obtains four Ancient Past traditions, and has over 100,000 years before his departure era. A second nature transformation is hoped for, not achieved. His karmic bait draws the Saint's investigation in Ch.1400; its result remains unseen. |
-| Primordial Saint | Outside present: layer five, supporting the Other Shore and suppressing False History; recovered the golden book after ten years (Ch.1388). His supreme detachment was engineered by its occupant; he now welcomes that mind as an ally. Following the book's warning, he investigates the first Trial Guardian's survival through the Great Net of Karma (Ch.1400). In the past witnessed in Ch.1398 he has only just defeated Si Sui, remains peak Golden Core and has not ascended the Other Shore. Keep the two times distinct. |
-| Si Sui | Still sealed in the outside present. The repeated assaults and lower-cultivator infiltration do not establish a successful rescue. |
-| Sword Sovereign and Vast Sky | She used Heavenly Dao support for layer five; he remains on four. Her temporary Underworld confinement ends in Ch.1391. She siphoned Myriad Spells' power through threads of affection to empower Vast Sky. |
-| Myriad Spells and Du Xuan | Layers four and three; support rescue attempts. Myriad Spells suffers the affection-thread siphon; Du Xuan's Primordial Spirit flaw remains. |
-| Ancestral Dragon | Original remains sealed. His shadows' search recovers the golden book for the Saint by Ch.1388. |
-| Dao Tianqi | Secretly completed an Infinite Loop transformation over ten years, enabling the injured Lü Yang impersonation revealed in Ch.1391. The Underworld is his foundation; the Order attack was stored power supplied by Lü Yang. |
-| World-Honored One | Layer one; repeatedly dies and revives through his Dao Lord place during the decade. Has not abandoned Karma. Supports Dao Tianqi and the concealed entry plan. |
+| Lü Yang | Returned from Jun's remembered realm after 129,600 years; his second nature transformation produces the Infinite Method without raising his status. Infinity rapidly heals minor injuries and lets him fight the fifth-layer Primordial Saint, who retains greater raw force. In Ch.1410 he refines the strengthened Dao Heart that Si Sui sheds, resolving the hidden flaw in his Primordial Spirit cultivation. He arranges the seven remnant fragments and the opening of the Heaven Beyond the Heavens. Ch.1411: he waits for all entrants at its gate. |
+| Primordial Saint | On layer five; the golden book's occupant engineered his detachment. The Ancestral Dragon interrupts his three-body attack in Ch.1405, and his rational response to Lü Yang's challenge assists the latter's transformation. He judges sixth-layer status needed to suppress Lü Yang, seventh-layer peak status to kill him, though he hopes to seal Lü Yang's divine sense. The Ch.1398 peak Golden Core past is a separate time. Ch.1410 he drops his Final Kalpa attempt to release Grand Ancestral Master; Ch.1411 he cannot enter the gate without the Ancestral Dragon. |
+| Si Sui | Escapes False History, recovers the World-Honored One's abandoned Other Shore place and reaches the fifth layer. Ch.1409: sheds Dharma Body, Yin and Yang and the enhanced Dao Heart, completes his false Transcendence beyond the Fathomless Void, and sends the discarded Daos to Soaring Firmament. Lü Yang refines the Dao Heart in Ch.1410. False Transcendence is not true Transcendence. |
+| Sword Sovereign and Vast Sky | Heavenly Dao support collapses with False History's return; the Sword Sovereign falls back to layer four. Ch.1408 she attacks Si Sui's breakthrough, Vast Sky follows, and Si Sui strikes her into the Fathomless Void. Both Vast Sky and Myriad Spells are constrained by her threads of affection. |
+| Myriad Spells and Du Xuan | Myriad Spells is on layer four, constrained with Vast Sky by the Sword Sovereign's threads. Du Xuan has an incomplete Primordial Spirit and elevated risk of becoming lost. Soaring Firmament clouds his mind and strikes him on layer three in Ch.1409; Du Xuan retreats. |
+| Ancestral Dragon | Remains sealed as the Other Shore's foundation. Nurturing Life let him store power to interrupt the Primordial Saint in Ch.1405, not enough to survive earlier collapses of the Shore. Ch.1411: the gate will not admit the nine Dao Lords without him, but freeing his true body would collapse the Shore. Soaring Firmament proposes taking a portion of his Primordial Spirit as his own; the Dragon sees its appeal, but no agreement or release has occurred. |
+| Dao Tianqi | Secretly completes an Infinite Loop and impersonates Lü Yang in Ch.1391 with a stored Order strike. Erased in Ch.1402, he revives through the Loop. He yields the Underworld seat without losing immortality and supplies Carefree Wandering for Ch.1410's opening. |
+| World-Honored One | Ch.1404 retains Karma but changes his earlier self's choice, allowing False History to return and forfeiting his Other Shore place. Ch.1405 narrowly survives the Saint's attack and proves the Dao through the expanded Underworld, taking its Lord's seat; Ch.1407 approaches his former peak there. This does not mean Karma was surrendered or the Underworld position remains Dao Tianqi's. |
 | Lian Tiandou and Bu Tianque | Rescued and in the Underworld; tend Dao Tianqi's injuries in Ch.1391. |
-| Skyward and Sublime Bliss | Sent toward False History in Ch.1387. Skyward receives the Traversing the Mortal Dust Method; no completed new Primordial Spirit attainment is shown. |
+| Soaring Firmament (Skyward) and Sublime Bliss | Sent toward False History in Ch.1387. Soaring Firmament proves Tribulation, uses Crooked and Straight and Si Sui's discarded Daos to reach layer three without a Primordial Spirit in Ch.1409. He offers to borrow part of the Ancestral Dragon's Primordial Spirit to enter the Heaven Beyond the Heavens in Ch.1411. Sublime Bliss's later progress is unknown. |
 | Cultivating Truth | Unknowingly directed by the Observer's Script; self-detonates and is erased in Ch.1390. The Saint restores Demon-Subduing True Person's karma but finds no consciousness. Lü Yang's real disguise is revealed only afterward. |
-| Immortal Recorder / first Trial Guardian | Reincarnated from Jun's remembered realm, then saved by Lü Yang in Ch.1398. Most disciples escape through True-Spirit links made with Revering the Gods. Returns to the eighth realm; has practiced the Utmost Nature Immortal-Seeking Scripture but has yet to complete his Primordial Spirit. "Founding Trial Guardian" in older records is the same man. |
+| The Immortal Recorder / first Trial Guardian | Reincarnated from Jun's remembered realm, then saved by Lü Yang in Ch.1398. Most disciples escape through True-Spirit links made with Revering the Gods. Returns to the eighth realm; has practiced the Utmost Nature Immortal-Seeking Scripture but has yet to complete his Primordial Spirit. Ch.1402: karmic detection of his feigned death gravely injures him, but he welcomes the released danger and announces that the Heaven Beyond the Heavens is about to open. |
 | Supreme Source Immortal | Jun's former enemy and the two doctrines' creation is called Tai Yitian. The golden book's occupant is not explicitly identified as this immortal, despite Lü Yang's theory and their matching methods. |
-| Golden book's occupant | Ch.1400 confirms a consciousness who shaped the Saint's detachment, recalls a previous life and planned to seize Jun's successor's true body. He stays inside the book to survive a future restart. He is not explicitly identified with the Supreme Source Immortal. |
+| Golden book's occupant | Ch.1400 confirms a consciousness who shaped the Primordial Saint's detachment, recalls a previous life and planned to seize Jun's successor's true body. He stays inside the book to survive a future restart. Ch.1401: sees the Dao Register copy; his recollection of the eighteen Dao Ancestors feels authentic to him, leading him to suspect Jun changed the past without his detecting it. In Ch.1402 Lü Yang concludes this consciousness is the Supreme Source Immortal, but his test and deduction do not explicitly confirm the occupant's identity in narration. |
 | Nether Whisper Ancestor, Demon-Purging True Person, Suo Huan and Empress Xiao | Last directly established at Ch.1343 greeting Lü Yang in the Palace. No subsequent erasure is inferred. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
@@ -42,12 +38,22 @@ remain unretrieved here; no events or approvals are inferred for that gap.
   the book as a restriction on the False Immortal.
 - Heaven Beyond the Heavens cannot host Lü Yang's actual breakthrough while his
   Order Dao is rooted elsewhere. He can study and simulate it there.
-- No complete Transcendence method has been obtained. Requiring every Primordial
-  Spirit Dao Lord to enter before Jun's opportunity activates is Lü Yang's guess.
-- His permanent wisdom-light flaw and a safe second transformation remain unresolved.
-- Lü Yang's karmic bait has drawn the Saint's attention to the Trial Guardians,
-  and a presence in Heaven Beyond the Heavens detects the resulting ripple.
-  The outcome of the investigation remains unknown at Ch.1400.
+- No complete Transcendence method has been obtained. Ch.1411 confirms that
+  nine Dao Lords at the gate are insufficient without the sealed Ancestral
+  Dragon; Soaring Firmament also needs a Primordial Spirit to enter. No entry
+  or transcendence is yet shown for the proposed joint attempt.
+- Ch.1406 completes Lü Yang's second nature transformation; the flaw in his
+  Primordial Spirit persists through Ch.1408, then is repaired by the enhanced
+  Dao Heart in Ch.1410. Keep earlier damage and this later repair distinct.
+- Lü Yang's karmic bait draws the Saint to the first Trial Guardian's karmic
+  scene. The Guardian's refusal causes that scene to break. The Saint enters
+  again without drawing attention to himself and reads the copy's final entry:
+  Profound Virtue. The Saint and the book occupant both turn against Lü Yang.
+- Ch.1409 identifies the Tribulation cultivator as Soaring Firmament. After
+  he climbs to the second layer, Si Sui sheds his Daos and completes false
+  Transcendence; the added power carries Soaring Firmament to layer three.
+  Ch.1410: the book occupant suspects Lü Yang indirectly wields Tribulation,
+  a thought he has from within the book, not independent confirmation.
 
 ## Earlier history lookup
 
