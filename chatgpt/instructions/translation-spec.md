@@ -71,8 +71,11 @@ goes in FLAGS, not into the text.
 
 - Write one target paragraph per source paragraph, in the same order. Do not
   merge or split prose paragraphs except as listed below.
-- A bare one-line lead-in (然而就在这时。, 话音未落。, 与此同时。) joins the next
-  paragraph as its opening words (owner Ch.1414, 1415, 1418); a fragment that
+- A bare one-line lead-in (就在这时。, 然而就在这时。, 话音未落。, 与此同时。) joins
+  the next paragraph as its opening words (owner Ch.1414, 1415, 1418;
+  professional practice never leaves "Just then." standing alone). When the
+  next paragraph is speech, add the smallest speaker frame ("Just then, a
+  voice called out: ..."). A fragment that
   sets a place (几乎同时，神州各地。) stays its own paragraph and ends with a
   period. Record each merge by the lead-in's source index for
   `chat_check.py --merge-into-next`.

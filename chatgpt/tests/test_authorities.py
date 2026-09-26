@@ -571,6 +571,22 @@ class AuthorityTests(unittest.TestCase):
             with self.subTest(bad=bad):
                 self.assertTrue(chat_check.apply_lead_in_merges(["t", "a", "b", "c"], bad)[2])
 
+    def test_prose_findings_flag_tells(self):
+        target = ["Chapter 1: Test", "Just then.", "\"Woe is me!\" he cried.",
+                  "Only then did he nod.", "You could see the lake. The lake is wide.",
+                  "He sat. He ate. He slept. He woke. Then he left the hall at dawn.",
+                  "With that, he left. With that, he returned. With that, he sat."]
+        errors, warnings = chat_check.prose_findings(target)
+        joined = "\n".join(errors + warnings)
+        for fragment in ("standalone lead-in", "archaism", "banned tell", "'you' in narration",
+                         "present-tense", "short narration sentences", "'with that' used 3"):
+            self.assertIn(fragment, joined)
+        clean = ["Chapter 1: Test", "*I'm doomed,* he thought, and the hall is irrelevant here in thought only.",
+                 "\"You are late,\" the elder said."]
+        errors, warnings = chat_check.prose_findings(clean[:1] + clean[2:])
+        self.assertEqual(errors, [])
+        self.assertEqual(warnings, [])
+
     def test_display_split_cannot_authorize_arbitrary_prose_splits(self):
         src = ["title", "source"]
         target = ["title", "He looked.", "Then he left."]

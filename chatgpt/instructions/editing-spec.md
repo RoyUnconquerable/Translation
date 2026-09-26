@@ -62,8 +62,12 @@ natural English outrank keeping the source's clause shape.
    explanation. A participle tail that carries a secondary result or an
    accompanying state may stay. Attach every opening phrase to its real
    subject.
-4. One claim per sentence. Test: check that one-line paragraphs sit at
-   turns and that exclamations and ellipses cluster at climaxes; then find sentences that carry two ideas, two
+4. Sentence architecture. Test: read each narration paragraph aloud. Are
+   causes, concessions and conditions linked to their results in one sentence?
+   Are there four or more short unlinked sentences in a row outside action,
+   three openers with the same word, or an echoed verb, emotion word or
+   connector? Do one-line paragraphs sit at turns, and do exclamations and
+   ellipses cluster at climaxes? Then find sentences that carry two ideas, two
    actors, a nested clause chain, or a shift of focus, and descriptions made of
    stacked modifiers. Action: split them, untangle the nesting into plain
    order, or break the description into concrete beats.
@@ -82,17 +86,21 @@ natural English outrank keeping the source's clause shape.
    Action: replace one "and" with the relation or split the sentence.
 9. Question check. Test: every source question stays a question with its force,
    unless it is reported speech. Action: restore the question and its meaning.
-10. Thought and voice. Test: apply the style guide's one italics test to each
-    thought span; read each deliberation as the character. Action: italicize
-    first-person or addressed inner speech in the thinker's present, romanize
-    third-person comments, and restore interjections, litotes and rhetorical
-    questions a narrator summary lost.
+10. Tense, person and thought. Test: search narration (outside quotes and
+    italics) for is, are, has, does, will, you and your; mark every thought run
+    and check it keeps one mode and one tense, switching only at a paragraph
+    break or an action beat; read each deliberation as the character. Action:
+    backshift free indirect thought to third person past, italicize direct
+    first-person thought in the present, remove generic "you", and restore
+    interjections, litotes and rhetorical questions a narrator summary lost.
 11. Idiom and diction pass. Test: find literal glosses of set phrases, stock
     signposts, stacked intensifiers and the other tells in style guide
     section 12. Action: use a natural English translation of the idiom or the
     stock English idiom, keep a meaningful image,
     cut the tell.
-12. Register pass. Test: check the uncontracted registers in style guide
+12. Register pass. Test: check every exclamation against the genre table in
+    phrase memory and the speaker's voice (no archaism, no stagey English); check
+    honorifics against the glossary; check the uncontracted registers in style guide
     section 7 for contractions, narration and composed speech for loose
     diction, Lü Yang's voice for formal labels, and dialogue for one speaker per
     paragraph and tags chosen by cast size. Action: fix each.

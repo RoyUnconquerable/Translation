@@ -86,6 +86,10 @@ python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-
 - Fix real failures in the affected spans and rerun. Adjudicate a lexical false
   positive against the source, record it for maintenance, and never call it a
   clean PASS. Resolve digit warnings against the source quantities.
+- The checker also reports prose tells: standalone lead-in fragments, archaisms
+  and banned calques (errors), and 'you' or present tense in narration, runs of
+  short sentences, overused connectors and long paragraphs (warnings). Resolve
+  every warning or justify it in FLAGS.
 - The checker proves mechanics only, not meaning. If a tool cannot run, do its
   checks by hand and say so.
 

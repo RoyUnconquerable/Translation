@@ -78,6 +78,54 @@ def chapter_input_errors(source: list[str], target: list[str]) -> list[str]:
     return errors
 
 
+ARCHAISM_RE = re.compile(r"\b(woe is me|alas|verily|forsooth|prithee|lo and behold|thee|thou|thy)\b", re.I)
+BANNED_PHRASE_RE = re.compile(r"\b(only then did|at this moment|just at this moment|revealed an expression of)\b", re.I)
+REPEAT_CONNECTORS = ("with that", "at that", "just then", "meanwhile", "after all", "however", "in that case", "at this point")
+PRESENT_RE = re.compile(r"\b(is|are|am|has|does|isn't|aren't|doesn't)\b", re.I)
+YOU_RE = re.compile(r"\b(you|your|yours)\b", re.I)
+SENT_RE = re.compile(r"[^.!?]+[.!?]+")
+
+
+def narration_only(paragraph: str) -> str:
+    """Strip quoted speech and italic thought, leaving narration."""
+    text = re.sub(r'"[^"]*"', " ", paragraph)
+    return re.sub(r"\*[^*]+\*", " ", text)
+
+
+def prose_findings(target: list[str]) -> tuple[list[str], list[str]]:
+    """Return (errors, warnings) for chapter-level prose tells."""
+    errors: list[str] = []
+    warnings: list[str] = []
+    body = target[1:]
+    joined = "\n".join(body).lower()
+    for index, para in enumerate(body, 2):
+        if para.strip().rstrip(".").strip().lower() in {"just then", "but just then", "at that moment"}:
+            errors.append(f"paragraph {index}: standalone lead-in fragment")
+        if ARCHAISM_RE.search(para):
+            errors.append(f"paragraph {index}: archaism {ARCHAISM_RE.search(para).group(0)!r}")
+        if BANNED_PHRASE_RE.search(para):
+            errors.append(f"paragraph {index}: banned tell {BANNED_PHRASE_RE.search(para).group(0)!r}")
+        words = len(para.split())
+        if words > 120:
+            warnings.append(f"paragraph {index}: {words} words (ceiling 120)")
+        narration = narration_only(para)
+        if YOU_RE.search(narration):
+            warnings.append(f"paragraph {index}: 'you' in narration")
+        if PRESENT_RE.search(narration):
+            warnings.append(f"paragraph {index}: present-tense verb in narration ({PRESENT_RE.search(narration).group(0)})")
+        run = 0
+        for sentence in SENT_RE.findall(narration):
+            run = run + 1 if len(sentence.split()) < 8 else 0
+            if run >= 4:
+                warnings.append(f"paragraph {index}: four or more short narration sentences in a row")
+                break
+    for phrase in REPEAT_CONNECTORS:
+        count = len(re.findall(r"\b" + phrase + r"\b", joined))
+        if count > 2:
+            warnings.append(f"connector {phrase!r} used {count} times (limit 2)")
+    return errors, warnings
+
+
 def apply_lead_in_merges(
     source: list[str], declarations: list[int],
 ) -> tuple[list[str], dict[int, int], list[str]]:
@@ -243,6 +291,10 @@ def main() -> None:
         missing = [value for value in lint.digit_seqs(src) if value not in target_numbers]
         if missing:
             warnings.append(f"paragraph {index}: check digits {', '.join(missing)}")
+
+    prose_errors, prose_warnings = prose_findings(target)
+    errors.extend(prose_errors)
+    warnings.extend(prose_warnings)
 
     if warnings:
         print(f"chat check: {len(warnings)} warning(s)")
