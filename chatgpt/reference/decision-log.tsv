@@ -523,3 +523,5 @@ date	chapter	category	decision	promoted_to	status
 2026-09-26	1420	PHRASE	Owner final (9/10): 老前辈 Senior (with name); 这位可不得了 He's no ordinary figure; 任性 a tiny act of willfulness; 一愣 froze; 漫步 wandered; plus three question and idiom rows.	phrase-memory.tsv	active
 2026-09-26	all	MACRO	Owner final 1420: "With that thought" and owned "within X's expectations" allowed; reports name the listener; plain stock gestures; settle a scene, then turn with "however".	style-guide.md, craft-examples.md	active
 2026-09-26	1420	STATE	Owner-edited final received and recorded, rated 9/10. P26 reading divergence ignored per standing instruction.	ledger.tsv	active
+2026-09-26	all	TERM	Owner: Purple Firmament Palace takes "the" situationally, as natural English decides.	terminology.tsv	active
+2026-09-26	1421	STATE	Delivered: 72/71 paragraphs, lead-in merge 4, no breaks. 养生地 (P42) kept as Nurturing Life Land and flagged as a likely variant of the Immortal-Nurturing Land.	ledger.tsv	active
