@@ -1,6 +1,6 @@
 # Style guide
 
-How the English is written. Terms, names and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles only. Provenance is in decision-log.tsv and consolidation-history.md (owner revisions of Ch. 1411-1420 (1420 final rated 9/10) and professional craft studies of 35 sampled Wuxiaworld chapters). Worked pairs are in craft-examples.md.
+How the English is written. Terms, names and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles only. Provenance is in decision-log.tsv and consolidation-history.md (owner revisions of Ch. 1411-1421 (1420 final rated 9/10; 1421 draft 7, owner edit 8.5) and professional craft studies of 35 sampled Wuxiaworld chapters). Worked pairs are in craft-examples.md.
 
 **How to use owner revisions.** The owner's edited chapters are better than the drafts and show the owner's preferences, but they are not a ceiling. Take the principle a revision shows, not its exact wording, and aim for professional light-novel quality beyond it. Explicit term, name and fixed-wording rulings are binding.
 
@@ -34,6 +34,8 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 - **Events in the order they happened; cause before effect; basis before inference before decision.**
 - **Keep a cause and its effect, a concession and its claim, a condition and its result in one sentence,** joined by because, so, but, although, if or since. Split only for a new actor or a change of focus.
+- **A discovered cause that is itself an exclamation** (只因…竟然…！) takes its own sentence after the reaction: "...only to freeze in astonishment. This place actually gave him a faint sense of the Other Shore!"
+- **Contrast openers:** 然而 and 不过 usually become a sentence-initial "But". "Yet" and mid-sentence "however" are occasional variety, not the default.
 - **Connectors match the logic:** after all gives a reason already known; so and therefore give a result; but and however a contrast; of course a concession; besides a further reason. A source marker needs a carrier unless English order already shows the relation.
 - **Frame markers vanish or fold into the action.** 想到这里, 一念至此 and 说到这里 are usually rendered as nothing, or as the action itself ("His mind made up, he went on"). "With that" alone follows only speech; after a thought use "With that thought," or fold it into the action. No connector phrase more than twice in a chapter.
 - **说到这里 before another character's action is an interruption:** "Before he could finish, ...". 之所以…是为了 is "The reason... was to...". An overlap takes "Even as".
@@ -55,7 +57,11 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 **Fragments** are rare and functional: sound effects, a time-lapse list, an appositive inside free indirect thought, a deliberate one-word beat. Zero to four per chapter, never two in a row except sounds. A bare lead-in such as 就在这时。 is never a standalone "Just then."; it becomes the opening of the next paragraph (translation-spec.md), with a speaker frame when the next line is speech ("Just then, a voice called out: ...").
 
-**Repetition.** A refrain, taunt or doubled word keeps its repetition, and a repeated source phrase keeps one English wording in the chapter (唯有 X 不同 twice is "different" twice). Everything else avoids echo: the same verb, emotion word or connector twice in a paragraph, or a fixed term twice in one sentence, is a defect.
+**Long sentences in speech and thought.** A sentence carrying an embedded list, or three steps of a plan, splits into two or three plain sentences ("...are usually like X, Y, or Z. Their foundation is status, and...").
+
+**Repetition.** A refrain, taunt or doubled word keeps its repetition, and a repeated source phrase keeps one English wording in the chapter (唯有 X 不同 twice is "different" twice). Everything else avoids echo: the same verb, emotion word or connector twice in a paragraph, or a fixed term twice in one sentence, is a defect. A long term repeated in the next clause becomes "one of them" or a pronoun; a concept whose key term was just named is described plainly ("a split between good and evil").
+
+**Description.** Panoramas use concrete, active verbs (forests blanketed the land, metal and stone slumbered, streams murmured, fire blazed; he swept his gaze across it) and usually end on a period. The sight takes its own main verb ("sprawled across the earth below"), never "came into view". Compress elaborated noun phrases ("a faint sense of the Other Shore", not "a hint of the feeling that only the Other Shore could give"). An emphatic 是X！ may take "itself".
 
 **Scene devices.** A self-answering question can deliver an outcome; an escalation climbs one short paragraph per rung; a power reveal gives the result, then one-line reactions, then the insider's view; a comic coda closes on a short, petty or smug line. Chapters end on the hook. A deal or scene closes with a short settling clause, then turns to the protagonist ("With the deal settled, X departed. Lü Yang, however, was in no hurry...").
 
@@ -73,6 +79,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **No archaism from anyone** (woe, alas, verily, pray, lo, thee) outside verse and quotation. Exclamations follow the genre table in phrase memory: short, spoken, and matched to the speaker (a coward whines, an elder snaps, Lü Yang swears or quips).
 - **Honorific compounds are fixed in the glossary** (老前辈, 师弟, 道友); never an ad hoc "old Senior".
 - **Tags by cast size;** one attribution per line; a beat can replace said; never invent a gesture or tone. Dialogue is never italicized.
+- **Casual and complaining speakers talk in short spoken sentences:** contractions, declarative questions ("You're confident you can survive...?"), quick tags ("Why bother?"), "either" on a parallel line, present perfect ("I've already made up my mind").
 - **Negotiation shows the gap between face and mind.**
 
 ## 8. Tense, person and thought
@@ -92,13 +99,15 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 ## 10. Names and terms
 
+- A source variant of an established name (养生地 for 养仙地) takes the established name. An appositive title after a name takes "the" (Dan Qiuhuo, the Dao Ancestor of Nurturing Life).
 - Pinyin with diacritics for birth names unless the glossary translates them; translate Dao titles, ranks, techniques, artifacts, realms and epithets. Full epithets are never clipped. Pronouns per entities.tsv and Reference_Formatting_Rules.md; singular they for an unidentified person.
 - Standing conventions: prove for 证 establishing a Great Dao; nature for fundamental character, essence for substance; Spiritual Power the foundation, spiritual power the resource; status and talent lowercase in prose; Great Divine Ability for 大神通. The glossary governs every other term.
 
 ## 11. Numbers and typography
 
-- Digits with commas for exact values, words for rhetorical magnitudes; li converted to miles by value, in digits, with "some" for a round figure.
+- Digits with commas for exact values, words for rhetorical magnitudes; li converted to miles by value, in digits, with "some" for a round figure. Scenic vastness (涵盖万里) is rhetorical: "thousands of miles". Proportions of likeness (八分相似) are idiomatic: "nearly identical".
 - Contractions except the registers in section 7; never 'd forms.
+- A lone "." or "…" in the pasted Chinese is a flattened ellipsis: keep it as "..." (the checker warns when one is lost).
 - Quotation marks, sounds, ellipses, the dash ban and bold 【...】 displays follow Reference_Formatting_Rules.md; titles and system text follow their owner references.
 
 ## 12. Tells to avoid

@@ -587,6 +587,12 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(errors, [])
         self.assertEqual(warnings, [])
 
+    def test_paste_ellipsis_marks_are_counted(self):
+        pattern = chat_check.PASTE_ELLIPSIS_RE
+        self.assertEqual(len(pattern.findall("他了解不深.我这位道友")), 1)
+        self.assertEqual(len(pattern.findall("‘.嚯嚯。’ 然后……")), 2)
+        self.assertEqual(len(pattern.findall("第3.5章 v1.2")), 0)
+
     def test_display_split_cannot_authorize_arbitrary_prose_splits(self):
         src = ["title", "source"]
         target = ["title", "He looked.", "Then he left."]

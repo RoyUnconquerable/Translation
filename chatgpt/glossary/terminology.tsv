@@ -101,7 +101,7 @@ source	target	notes
 古修	ancient cultivator	owner-approved 2026-08-19; provenance terminology.tsv
 琉璃	glazed	owner-approved 2026-08-19; 琉璃小球 = 'glazed sphere'; provenance terminology.tsv
 道行	Dao Attainment	道行 = Dao Attainment; 修为 = cultivation - two distinct terms (owner clarification 2026-08-19); provenance terminology.tsv
-意象	imagery	owner edit Ch. 1209; provenance terminology.tsv
+意象	imagery|scenes	owner edit Ch. 1209; owner Ch.1421 dazzling scenes for a visual panorama; provenance terminology.tsv
 维度	dimension	owner edit Ch. 1209; provenance terminology.tsv
 真君中期	mid-stage True Monarch	owner edit Ch. 1209; provenance terminology.tsv
 无穷伟力	boundless power|power was boundless	owner edit Ch. 1209; overrides bare 伟力 in this collocation; provenance terminology.tsv
@@ -245,7 +245,7 @@ source	target	notes
 夭时	Time of Withering	owner-final Ch.1255 contextual rendering in the paired Willow Wood cycle; when referenced descriptively later, Untimely Death may be used if the source refers to the effect rather than the formal cycle label; provenance owner-rulings-ch1255.tsv
 真实世界	real world	owner-final Ch.1257; use in contrast with the False History and illusory worlds; supersedes "true world" in this context; provenance owner-rulings-ch1257.tsv
 苦海	Sea of Suffering	owner-final Ch.1257; supersedes "Sea of Bitterness"; provenance owner-rulings-ch1257.tsv
-筑基境	Foundation Establishment Realm	owner-final Ch.1257; here it names an absent realm of existence, not the Foundation Establishment cultivation stage; provenance owner-rulings-ch1257.tsv
+筑基境	Foundation Establishment Realm|Foundation Establishment	Owner Ch.1421: Foundation Establishment alone in a list of treasured lands. owner-final Ch.1257; here it names an absent realm of existence, not the Foundation Establishment cultivation stage; provenance owner-rulings-ch1257.tsv
 至性求仙经	Utmost Nature Immortal-Seeking Scripture	owner-final Ch.1258 and verified project-reference rendering; Beast-Taming's Primordial Spirit scripture; provenance owner-rulings-ch1258.tsv
 海外真龙	Overseas True Dragons	owner-final Ch.1258; capitalize as the named group; provenance owner-rulings-ch1258.tsv
 大乘正觉根本经	Mahayana True Enlightenment Scripture	owner-final Ch.1260; the scripture the World-Honored One promoted while founding the Pure Land; provenance owner-rulings-ch1260.tsv; Sutra rows in Reference_Italicized_Titles.md are historical; Scripture is current (owner 2026-09-24)
@@ -436,7 +436,7 @@ source	target	notes
 交贵人	Befriending the Noble	Explicit owner correction after Ch.1395, superseding Befriending Benefactors. Named Ancient Past path, roman; ordinary benefactors remain contextual.
 积功德	Accumulating Merit	Approved Ch.1393 ten-Dao maxim; roman path name.
 敬神	Revering the Gods	Approved Ch.1393 ten-Dao maxim; roman path name, expanded into three branches in Ch.1399.
-养生	Nurturing Life	Approved Ch.1393 ten-Dao maxim; named path, not every ordinary reference to health or longevity.
+养生	Nurturing Life	Approved Ch.1393 ten-Dao maxim; named path, not every ordinary reference to health or longevity. [except: 养生地]
 风水	Feng Shui	Approved Ch.1393 ten-Dao maxim; named path. Ch.1399 describes secret-realm construction.
 【读书】	Study	Approved Ancient Past path. Unbracketed ordinary reading is not automatically a named Dao.
 命修道祖	Dao Ancestor of Fate	Approved Ch.1397; title of the Fate path founder in the narrated example. Later another Fate cultivator attains Dao Ancestor status.
@@ -475,3 +475,4 @@ source	target	notes
 大道之种	Seed of the Great Dao	Owner-kept Ch.1415: the Divine Transformation opportunity; pairs with the Tree of the Great Dao (Ch.1413).
 单求活	Dan Qiuhuo	Owner Ch.1419: pinyin name of the Dao Ancestor of Nurturing Life (Dan Qiuhuo, the Dao Ancestor of Nurturing Life); replaces provisional Life-Seeker Shan.
 养仙地	Immortal-Nurturing Land	Owner-kept Ch.1419: Dan Qiuhuo's domain, a Grotto-Heaven; takes the.
+养生地	Immortal-Nurturing Land	Owner Ch.1421: a source variant of 养仙地; use the established name, not Nurturing Life Land.

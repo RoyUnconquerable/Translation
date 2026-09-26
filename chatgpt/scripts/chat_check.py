@@ -80,6 +80,8 @@ def chapter_input_errors(source: list[str], target: list[str]) -> list[str]:
 
 ARCHAISM_RE = re.compile(r"\b(woe is me|alas|verily|forsooth|prithee|lo and behold|thee|thou|thy)\b", re.I)
 BANNED_PHRASE_RE = re.compile(r"\b(only then did|at this moment|just at this moment|revealed an expression of)\b", re.I)
+# A lone ASCII period or a run of '…' in pasted Chinese is a flattened ellipsis.
+PASTE_ELLIPSIS_RE = re.compile(r"(?<![0-9A-Za-z])\.(?![0-9A-Za-z])|…+")
 REPEAT_CONNECTORS = ("with that", "at that", "just then", "meanwhile", "after all", "however", "in that case", "at this point")
 PRESENT_RE = re.compile(r"\b(is|are|am|has|does|isn't|aren't|doesn't)\b", re.I)
 YOU_RE = re.compile(r"\b(you|your|yours)\b", re.I)
@@ -287,6 +289,12 @@ def main() -> None:
                 errors.append(
                     f"paragraph {index}: {entry['source']!r} requires {entry['target']}"
                 )
+        source_ellipses = len(PASTE_ELLIPSIS_RE.findall(src))
+        if source_ellipses > tgt.count("..."):
+            warnings.append(
+                f"paragraph {index}: source has {source_ellipses} ellipsis mark(s) "
+                f"(pasted '.' or '…'), target has {tgt.count('...')}"
+            )
         target_numbers = set(lint.digit_seqs(tgt))
         missing = [value for value in lint.digit_seqs(src) if value not in target_numbers]
         if missing:
