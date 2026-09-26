@@ -62,7 +62,8 @@ natural English outrank keeping the source's clause shape.
    explanation. A participle tail that carries a secondary result or an
    accompanying state may stay. Attach every opening phrase to its real
    subject.
-4. One claim per sentence. Test: find sentences that carry two ideas, two
+4. One claim per sentence. Test: check that one-line paragraphs sit at
+   turns and that exclamations and ellipses cluster at climaxes; then find sentences that carry two ideas, two
    actors, a nested clause chain, or a shift of focus, and descriptions made of
    stacked modifiers. Action: split them, untangle the nesting into plain
    order, or break the description into concrete beats.
@@ -93,7 +94,8 @@ natural English outrank keeping the source's clause shape.
     cut the tell.
 12. Register pass. Test: check the uncontracted registers in style guide
     section 7 for contractions, narration and composed speech for loose
-    diction, and Lü Yang's voice for formal labels. Action: fix each.
+    diction, Lü Yang's voice for formal labels, and dialogue for one speaker per
+    paragraph and tags chosen by cast size. Action: fix each.
 13. Padding strike. Test: find phrases with no source counterpart that grammar
     does not need, and doubled framing. Action: delete them.
 

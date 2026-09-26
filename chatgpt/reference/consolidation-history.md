@@ -836,3 +836,37 @@ drafts and show preferences, but are not perfect models.
   policy (wuxiaworld.com, webnovel.com); the owner then opened network access,
   and the study was relaunched. Its findings are added as a second pass.
 
+### Professional craft study (2026-09-26, second pass)
+
+Four subagents read 24 randomly sampled chapters (one each from the first 10%,
+the middle 40-60% and the last 10% of each novel) for craft analysis only. No
+chapter text was stored; findings were written as principles in our own words.
+Middle and late chapters on wuxiaworld.com are paywalled, so they were read
+from Wayback Machine captures of the official wuxiaworld.com pages or, with
+the owner's authorization (the owner holds unlocked access), from an
+aggregator copy of the same translation.
+
+- I Shall Seal the Heavens: 20, 36, 50 (live); 668, 1456 (aggregator); 807,
+  1600 (Wayback).
+- A Will Eternal: 50 (live); 783, 1229 (aggregator).
+- Coiling Dragon: 6 (live); 351, 772 (Wayback).
+- Desolate Era: 128, 706, 1362 (Wayback).
+- Martial World: 34 (live); 1254, 2220 (Wayback).
+- Renegade Immortal: 106, 1194, 1892 (Wayback).
+- Warlock of the Magus World: 94, 559, 1171 (Wayback).
+
+Judged models: middle and late ISSTH, Warlock 559 and 1171, Desolate Era 706
+and Martial World 1254. Literal or rough: Renegade Immortal, Warlock 94,
+early Martial World. Measured Deathblade texture: sentences average 12-15
+words, about a fifth of them six words or fewer, a quarter to nearly half of
+paragraphs single sentences in action scenes. Principles added to the style
+guide: re-anchoring names, involuntary-only emotion subjects, time anchors,
+flagged cause-after-effect, reveal last, participle tails limited to
+simultaneity or an immediate result, one-line beats at turns, scene devices
+(self-answering question, escalation ladder, onlooker staircase, bathos),
+exposition in one-idea paragraphs, one speaker per paragraph, tags by cast
+size, modern dignified elders, face-versus-mind in negotiation, sparing
+exclamations and stock reactions, and more tells. Where the studies
+conflicted with owner rulings (quoted thoughts, bare onomatopoeia, dashes,
+translated names), the owner rulings stand.
+
