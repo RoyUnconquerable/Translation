@@ -528,3 +528,4 @@ date	chapter	category	decision	promoted_to	status
 2026-09-26	1421	PHRASE	Owner edit (draft 7, edit 8.5): 16 phrase rows (万里 thousands of miles, 八分相似 nearly identical, 没兴趣 I'm not interested in...); 养生地 is the Immortal-Nurturing Land; 意象 may be scenes.	phrase-memory.tsv, terminology.tsv	active
 2026-09-26	all	MACRO	Owner Ch.1421: But over Yet/however; discovered cause as its own exclamation; concrete panorama verbs; split list-bearing sentences in speech; spoken complainer dialogue; keep pasted ellipses.	style-guide.md, craft-examples.md, chat_check.py	active
 2026-09-26	1422	STATE	Delivered: 65/64 paragraphs, lead-in merge 7, no breaks. Provisional: Absolute Perfection, Relative Perfection, destructive light, Feng Shui grand formation.	ledger.tsv	active
+2026-09-26	all	MACRO	Owner: priority 3 now optimizes for the English web-novel reading experience, within fixed content, degree, certainty, actor and order.	style-guide.md	active

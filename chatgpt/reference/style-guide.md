@@ -16,7 +16,7 @@ A comic, system-driven xianxia serial told close to one protagonist. Lü Yang is
 
 1. **Meaning.** Content, degree, certainty, terms and identities are fixed (editing-spec.md).
 2. **Clarity.** The reader always knows who acts, why, and in what order.
-3. **Natural English.** Words, sentence shapes and rhythm a native writer would choose.
+3. **Natural English and the reading experience.** Optimize for the reading experience of an English web-novel reader, within fixed meaning: never change content, degree, certainty, actor or order. Among faithful options, choose the words, sentence shapes and rhythm a native writer would choose, not the safest literal one.
 4. **Source shape.** Chinese clause order, markers, repetition and sentence boundaries are kept only when they serve 2 and 3.
 
 Supplying what Chinese leaves implicit (the elided actor, an implied cause or time order, a verb for a four-character phrase, the name for an unclear 他) is translation. Inventing motives, explanations, images, emotional labels, hedges or intensifiers is not. A relation you only infer goes in the flags.
