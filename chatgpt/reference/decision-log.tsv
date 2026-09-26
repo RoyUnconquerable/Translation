@@ -489,3 +489,6 @@ date	chapter	category	decision	promoted_to	status
 2026-09-25	1414	TERM	Use Dao Ancestor of Luck for 【运修】道祖, Ring of Infinity for 无限之环, and sacred incantation for 宝诰 in this liturgical context.	terminology.tsv	active
 2026-09-25	1414	PHRASE	Use the Great Dao is/was equal for 大道均平 when the source directly states universal equality of opportunity; keep 均平大道 as equal access to the Great Dao.	phrase-memory.tsv	active
 2026-09-25	1414	PHRASE	Use the Dao Venerable's attendant boy when 道尊童子 emphasizes the youthful attendant role; plain attendant remains contextual.	phrase-memory.tsv	active
+2026-09-25	1415	TERM	Use Returning Fate for 归命 and Seed of the Great Dao for 大道之种.	terminology.tsv	active
+2026-09-25	1416	TERM	Use Anchor Points for 锚点数 and preserve singular anchor point in prose.	terminology.tsv	active
+2026-09-25	1417-1418	MACRO	Owner revisions reinforce premise-to-punchline flow, shared-goal-before-contrast structure, concise close-viewpoint phrasing, and concrete physical wording when source imagery supports it.	style-guide.md	active

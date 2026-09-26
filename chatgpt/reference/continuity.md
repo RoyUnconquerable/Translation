@@ -170,3 +170,12 @@ traditions remain prerequisites. The live positions above supersede that window.
 - The Dao Ancestors of the Doctrine of Names and Doctrine of Appearances immediately leave to seek the Supreme Source Immortal. Nurturing Life withdraws entirely because that path prioritizes avoiding calamity. The remaining Dao Ancestors recognize that they are now rivals for the Divine Transformation opportunity.
 - Lü Yang senses the Ancient Past's order becoming unstable through the Ring of Infinity and Order, correctly infers that the Dao Ancestors learned of the newcomers through the book's uniqueness, and reaches the courtyard of the reincarnated Dao Ancestor of Fate.
 - The newborn Dao Ancestor of Fate recognizes Lü Yang as Junior Brother Profound Virtue.
+
+## Chapters 1415-1418: Ancient Past contest developments
+
+- Returning Fate is the second Dao Ancestor of Fate cultivation. He recognizes Lü Yang through the Dao Register and explains that the Seed of the Great Dao is the center of the renewed Divine Transformation contest.
+- Fate cultivation can cross time through reincarnation. Returning Fate appears in the recreated past as an infant with no cultivation power.
+- The Book of a Hundred Lives confirms that its refined restart function still works inside Absolute Truth. Lü Yang uses one Anchor Point inside the recollection world.
+- Several Ancient Past Dao Ancestors pursue their own paths instead of the Seed. Their plans differ sharply in method even when they share the goal of surviving or resolving the Final Kalpa.
+- Returning Fate entrusts Lü Yang with the means to recognize part of his future reincarnation's memories. His Primordial Spirit flame then disappears from the recreated past, indicating that his path has moved beyond the current point in time.
+- The World-Honored One senses an unexplained connection to that disappearance and identifies it as a possible opportunity.

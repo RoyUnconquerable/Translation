@@ -127,3 +127,12 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - Rare synonyms, stacked intensifiers, or decorative metaphors where an exact noun and a strong ordinary verb would do; a lone synonym or a clipped phrase where English has a complete, familiar expression; decorative inversion.
 - Comma splices and other calqued syntax.
 - A local owner preference made a template without evidence that it recurs as a principle.
+
+### Owner flow refinements from Chapters 1415-1418
+
+- In close Lü Yang viewpoint, prefer the shortest natural line that preserves the source logic. Let the setup establish the absurdity, then let the reaction land without explanatory padding.
+- When a paragraph contains premise, inference, and conclusion, order them so each sentence answers the previous one. Do not preserve Chinese clause order when it makes English hold the subject, cause, or target too long.
+- In explanatory dialogue, repeat the technical noun when it anchors the argument, but replace unclear pronoun chains with the actor or lineage name.
+- For comic escalation, preserve the source sequence: reasonable premise, increasingly extreme plan, then Lü Yang's blunt reaction.
+- When contrasting approaches to the same problem, state the shared goal first and the different method second.
+- Prefer concrete physical English when the Chinese uses a vivid everyday image, provided the image remains clear in context.
