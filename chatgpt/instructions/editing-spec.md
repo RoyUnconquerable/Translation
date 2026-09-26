@@ -88,7 +88,8 @@ natural English outrank keeping the source's clause shape.
     questions a narrator summary lost.
 11. Idiom and diction pass. Test: find literal glosses of set phrases, stock
     signposts, stacked intensifiers and the other tells in style guide
-    section 12. Action: use the stock English idiom, keep a meaningful image,
+    section 12. Action: use a natural English translation of the idiom or the
+    stock English idiom, keep a meaningful image,
     cut the tell.
 12. Register pass. Test: check the uncontracted registers in style guide
     section 7 for contractions, narration and composed speech for loose

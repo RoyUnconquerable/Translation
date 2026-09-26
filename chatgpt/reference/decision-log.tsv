@@ -514,3 +514,4 @@ date	chapter	category	decision	promoted_to	status
 2026-09-26	1419	TERM	Owner: 单求活 is Dan Qiuhuo (pinyin); Immortal-Nurturing Land kept.	terminology.tsv	active
 2026-09-26	1419	PHRASE	Owner: Three Powers of Heaven, Earth, and Man; theft proverb kept; Son of a bitch!; proven the Dao and become a Dao Lord; dormant; command.	phrase-memory.tsv	active
 2026-09-26	all	MACRO	Owner-requested rule review: style guide rebuilt on a priority order (meaning, clarity, natural English, source shape); checks realigned; exemplars all owner triples; owner revisions are direction, not a ceiling.	style-guide.md, editing-spec.md, craft-examples.md, maintenance.md	active
+2026-09-26	all	MACRO	Owner: English translations of Chinese idioms are allowed when they read naturally and the meaning is clear; otherwise a stock English idiom. The owner corrects any that do not land. Prose quality is a priority.	style-guide.md section 9	active

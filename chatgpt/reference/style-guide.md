@@ -82,7 +82,7 @@ When principles pull against each other, the higher one wins:
 ## 9. Idioms and Chinese texture
 
 - **Classify first.** Fixed expressions (titles, quotations, verses, proverbs, panels, formulas) follow Reference_Idioms.md and phrase memory; suspected originals there are hints.
-- **A dormant idiom becomes the stock English idiom** a native writer would use, never a literal gloss ("poured out", "doing whatever it takes").
+- **A Chinese idiom may be rendered as its English translation** (the image carried over, such as "kill the chicken to scare the monkey") when it reads naturally and its meaning is clear in context; otherwise use the stock English idiom a native writer would reach for ("poured out", "doing whatever it takes"). Never a literal gloss followed by an explanation. The owner corrects any translated idiom that does not land (owner ruling 2026-09-26).
 - **A live image that carries meaning is kept:** a proverb whose picture is the point ("when circumstances were stronger than he was"), a measure image ("ten thousand fathoms of red dust"), a linked chain across chapters.
 - Well-known sayings use their established English form ("If I do not enter hell, who will?"). Verify an allusion's logic; never complete a clipped quotation from memory.
 - Keep wordplay or flag the loss. Keep system vocabulary and Daoist and Buddhist concepts, never Western fantasy terms. No translator notes.
@@ -105,7 +105,7 @@ When principles pull against each other, the higher one wins:
 - "And" chains that hide a cause or contrast; two or more "and" joins in one sentence.
 - Stacked adverbs and intensifiers, rare synonyms, decorative metaphors, decorative inversion.
 - Participle pileups and dangling openers; noun stacks that hide the actor.
-- Literal idiom followed by a gloss; elegant variation of a fixed phrase.
+- A translated idiom followed by an explanatory gloss; elegant variation of a fixed phrase.
 - Comma splices and other calqued syntax.
 - A pronoun whose referent a nearby noun could claim.
 - A one-chapter owner word choice treated as a general rule (it belongs in phrase memory).
