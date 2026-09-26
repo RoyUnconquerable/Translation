@@ -315,3 +315,6 @@ Purple Firmament Palace stands deep within the dome of Divine Land in the Ancien
 
 ### Ancient Past Dao Ancestor gathering (Ch.1414)
 Seventeen Dao Ancestors answer the Immortal Recorder's sacred incantation at Purple Firmament Palace through projected thoughts. Their natures conflict directly, unlike the hierarchical status structure of the Sea of Light's Dao Lords. The gathering identifies the Dao Ancestor of Fate as Divine Land's first Dao Ancestor and confirms active Dao Ancestors tied to Befriending the Noble, Study, Nurturing Life, Feng Shui, Luck, the Doctrine of Names and the Doctrine of Appearances. Once the missing Book of Divine Blessings and the Mandate of Heaven reveals that the future has entered the recreated past, the gathering fractures into competitors for the Divine Transformation opportunity.
+
+### Immortal-Nurturing Land and Dan Qiuhuo (Ch.1419)
+Immortal-Nurturing Land is a separate Grotto-Heaven within Divine Land, with its own day-night cycle and four seasons. It is controlled by Dan Qiuhuo, the Dao Ancestor of Nurturing Life. Tassel Immortal's grand Feng Shui formation covers almost all of Divine Land except this region, and he wants a white-jade pillar installed there to complete it.

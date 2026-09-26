@@ -136,3 +136,11 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - For comic escalation, preserve the source sequence: reasonable premise, increasingly extreme plan, then Lü Yang's blunt reaction.
 - When contrasting approaches to the same problem, state the shared goal first and the different method second.
 - Prefer concrete physical English when the Chinese uses a vivid everyday image, provided the image remains clear in context.
+
+### Owner flow refinements from Chapter 1419
+
+- Prefer concrete bargaining language over abstract paraphrase: name the price, the service, and the leverage directly.
+- Break deductions into short sequential steps when the viewpoint character is actively reasoning; let each step unlock the next instead of compressing the whole inference into one sentence.
+- When a source idiom is vivid and immediately understandable in English, preserve its physical force rather than flattening it into abstraction.
+- In comic or colloquial beats, let the last line carry the punch and avoid explaining it afterward.
+- For location descriptions, lead with the place, then its defining environmental features, then the visual centerpiece.

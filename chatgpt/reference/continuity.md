@@ -179,3 +179,12 @@ traditions remain prerequisites. The live positions above supersede that window.
 - Several Ancient Past Dao Ancestors pursue their own paths instead of the Seed. Their plans differ sharply in method even when they share the goal of surviving or resolving the Final Kalpa.
 - Returning Fate entrusts Lü Yang with the means to recognize part of his future reincarnation's memories. His Primordial Spirit flame then disappears from the recreated past, indicating that his path has moved beyond the current point in time.
 - The World-Honored One senses an unexplained connection to that disappearance and identifies it as a possible opportunity.
+
+## Chapter 1419: Tassel Immortal and the Immortal-Nurturing Land
+
+- Returning Fate's True Spirit remains active and resonates across time, implying his reincarnation successfully reached the future Sea of Light and regained Dao Lord standing under a new identity.
+- Tassel Immortal, the Dao Ancestor of Feng Shui, attempts to seize Returning Fate's True Spirit but is stopped by Lü Yang's Order.
+- Tassel Immortal admits Returning Fate's plan has a sliver of hope only because Jun's promised opportunity has arrived. He must stop it because the death of all inhabitants would leave Heaven, Earth and Man incomplete and flaw his grand Feng Shui formation.
+- Lü Yang recognizes the True Spirit as leverage. He agrees to hand it over in exchange for immediate transport to the Seed of the Great Dao when it appears and help holding off one opponent.
+- Tassel Immortal demands an additional service: Lü Yang must install a white-jade pillar in the Immortal-Nurturing Land, the only major gap in his formation.
+- The Immortal-Nurturing Land is controlled by Dan Qiuhuo, the Dao Ancestor of Nurturing Life, whose methods excel at seeking fortune and avoiding calamity.
