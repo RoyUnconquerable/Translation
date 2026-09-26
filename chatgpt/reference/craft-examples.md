@@ -124,3 +124,16 @@ mechanism, not the wording.
 - Repaired: one of the Sea of Light's Dao Lords... is actually his reincarnated self, with their memories simply yet to awaken?
 - Mechanism: the unidentified Dao Lord takes they, so "his" no longer claims Returning Fate.
 
+
+## 4. Condition before inference in a thought (owner Ch. 1420 final P46)
+
+- Chinese: 他既然擅长趋吉避凶, 那么我决定找他的时候...
+- Stiff: He is good at seeking fortune and avoiding calamity. So when I decided to look for him, did he already sense it?
+- Repaired: *If he's that good at seeking fortune and avoiding calamity, then the moment I decided to go looking for him... he may already have sensed it?*
+- Mechanism: the basis becomes an if-clause, the timing becomes "the moment", and the inference lands last with the source hedge.
+
+## 5. Settle the scene, then turn to the protagonist (owner Ch. 1420 final)
+
+- Stiff: The Dao Ancestor of Feng Shui left after the deal. Lü Yang was not in a hurry.
+- Repaired: With the deal settled, the Dao Ancestor of Feng Shui departed. Lü Yang, however, was in no hurry...
+- Mechanism: an absolute clause closes the deal, and "however" marks the change of focal character.

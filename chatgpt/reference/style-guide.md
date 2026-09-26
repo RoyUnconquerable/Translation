@@ -1,6 +1,6 @@
 # Style guide
 
-How the English is written. Terms, names and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles only. Provenance is in decision-log.tsv and consolidation-history.md (owner revisions of Ch. 1411-1420 and professional craft studies of 35 sampled Wuxiaworld chapters). Worked pairs are in craft-examples.md.
+How the English is written. Terms, names and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles only. Provenance is in decision-log.tsv and consolidation-history.md (owner revisions of Ch. 1411-1420 (1420 final rated 9/10) and professional craft studies of 35 sampled Wuxiaworld chapters). Worked pairs are in craft-examples.md.
 
 **How to use owner revisions.** The owner's edited chapters are better than the drafts and show the owner's preferences, but they are not a ceiling. Take the principle a revision shows, not its exact wording, and aim for professional light-novel quality beyond it. Explicit term, name and fixed-wording rulings are binding.
 
@@ -26,6 +26,8 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **The doer is the subject and the doing is a verb.** Name the real subject of a claim; lead with the agent, not an "At the cost of..." opener; unpack nouns that hide actions. Check the subject against the source's actor: 对方, and the objects of 逼, 借助, 让, decide who acts. No "anyone" or "could be used to" when the source implies a doer.
 - **Emotions and body parts are subjects only for involuntary reactions.** He sensed danger, not a sense of danger appeared in his heart.
 - **Re-anchor with the name, continue with pronouns.** Name a character at the start of a paragraph, at a change of focal mind, and whenever another character of the same gender has just acted. Faceless figures take a role or count. A multiword title appears at most once per sentence; never hang a possessive on a phrase longer than three words ("the name of the second Dao Ancestor of Nurturing Life", not "the second Dao Ancestor of Nurturing Life's name").
+- **Reports name the listener and the content** ("He then told the Immortal Recorder everything about Returning Fate's plan"), never a bare "He explained".
+- **Generic members of a class take singular they** ("each Dao Ancestor has their own").
 - **Passive only by choice;** attach every opening phrase to its real subject; keep kinds of action apart (forced movement and retreat, authority and rule).
 
 ## 4. Cause, time and reasoning
@@ -33,7 +35,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **Events in the order they happened; cause before effect; basis before inference before decision.**
 - **Keep a cause and its effect, a concession and its claim, a condition and its result in one sentence,** joined by because, so, but, although, if or since. Split only for a new actor or a change of focus.
 - **Connectors match the logic:** after all gives a reason already known; so and therefore give a result; but and however a contrast; of course a concession; besides a further reason. A source marker needs a carrier unless English order already shows the relation.
-- **Frame markers vanish or fold into the action.** 想到这里, 一念至此 and 说到这里 are usually rendered as nothing, or as the action itself ("His mind made up, he went on"). "With that" follows only speech. No connector phrase more than twice in a chapter.
+- **Frame markers vanish or fold into the action.** 想到这里, 一念至此 and 说到这里 are usually rendered as nothing, or as the action itself ("His mind made up, he went on"). "With that" alone follows only speech; after a thought use "With that thought," or fold it into the action. No connector phrase more than twice in a chapter.
 - **说到这里 before another character's action is an interruption:** "Before he could finish, ...". 之所以…是为了 is "The reason... was to...". An overlap takes "Even as".
 - **Anchor time at the start of a sentence or paragraph.** For backstory, past perfect for the first verb or two, then simple past. When an effect appears before its cause, flag the explanation ("In truth,", "As it turned out,").
 - **One main verb carries the key action;** a participle tail carries only a simultaneous action or an immediate result, at most one per sentence. Untangle nested clauses into plain order.
@@ -55,12 +57,13 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 **Repetition.** A refrain, taunt or doubled word keeps its repetition, and a repeated source phrase keeps one English wording in the chapter (唯有 X 不同 twice is "different" twice). Everything else avoids echo: the same verb, emotion word or connector twice in a paragraph, or a fixed term twice in one sentence, is a defect.
 
-**Scene devices.** A self-answering question can deliver an outcome; an escalation climbs one short paragraph per rung; a power reveal gives the result, then one-line reactions, then the insider's view; a comic coda closes on a short, petty or smug line. Chapters end on the hook.
+**Scene devices.** A self-answering question can deliver an outcome; an escalation climbs one short paragraph per rung; a power reveal gives the result, then one-line reactions, then the insider's view; a comic coda closes on a short, petty or smug line. Chapters end on the hook. A deal or scene closes with a short settling clause, then turns to the protagonist ("With the deal settled, X departed. Lü Yang, however, was in no hurry...").
 
 ## 6. Certainty and strength
 
 - **Match hedges.** Keep every source hedge (似乎, 好像, 几乎, 仿佛, 恐怕, 未必 "may not", 或许 "might") and add none. 堪称 is a plain assertion ("is the best"), not "may well be". "That could only mean" is an inference, not a hedge.
 - **Keep degrees apart** (difficulty and impossibility, attempt and success, all and most); keep litotes; keep a rhetorical question a question.
+- **Stock gestures stay plain:** frowned, furrowed his brows, froze; no "deeply" or "slightly" unless the source grades them.
 - **Exclamations and ellipses cluster at climaxes;** never "!!". One stock reaction per beat, attached to a person.
 
 ## 7. Voice, register and dialogue
@@ -100,7 +103,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 ## 12. Tells to avoid
 
-- Stock signposts and calques: "at this moment", "right now" as filler, "only then", "with that" after a thought, "one after another" as filler, "in his heart", "couldn't help but", "revealed an expression of", "it's just that" as a reflex for 只是, "within expectations".
+- Stock signposts and calques: "at this moment", "right now" as filler, "only then", bare "with that" after a thought, "one after another" as filler, "in his heart", "couldn't help but", "revealed an expression of", "it's just that" as a reflex for 只是 (it is fine when it opens a real qualification: "It's just that aside from Dan Qiuhuo, ..."), bare "within expectations" (with an owner it is fine: "within the Dao Venerable's expectations").
 - Standalone "Just then." or any bare-lead-in fragment.
 - Choppy runs of short unlinked sentences outside action; or the opposite, a sentence carrying a nested chain.
 - "And" chains hiding a cause or contrast; participle pileups; dangling openers; noun stacks and long possessives.
