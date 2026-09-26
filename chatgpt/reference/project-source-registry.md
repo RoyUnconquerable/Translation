@@ -67,3 +67,4 @@ addendum; unapproved proposals remain unapproved. No chapter prose is included.
 
 Saved version numbers: ChatGPT_Rules.md v1; Reference_Italicized_Titles.md v2; Reference_Talents_and_Hundred_Lives.md v2; Rule_Update_and_Proposed_Resolutions.md v1; Reference_Idioms.md v2; Reference_Formatting_Rules.md v2; 02_BOOK_REFERENCE.md v1.
 - 2026-09-25: Reference_Formatting_Rules.md gained the owner Ch.1413 sound example (哗哗 as RUSTLE... RUSTLE...); the owner library copy is out of sync by that line.
+- 2026-09-26: Reference_Formatting_Rules.md paragraph rule now names the owner-style one-line lead-in merge (owner Ch.1414-1419); the owner library copy is out of sync by that line.

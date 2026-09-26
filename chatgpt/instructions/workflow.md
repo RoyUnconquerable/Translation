@@ -34,7 +34,7 @@ and no step exists only for process.
 python3 chatgpt/scripts/prepare.py <source-file>
 ```
 
-Keep the file intact. `translation-spec.md` explains the paragraph numbering
+Keep the file otherwise intact. `translation-spec.md` explains the paragraph numbering
 and how to repair a paste that lost its boundaries. If `prepare.py` reports
 that repository state trails the conversation, rerun it with
 `--observed-through N`, where N is the last source chapter you have verified

@@ -8,11 +8,9 @@ Examples show a principle. They are not sentence templates; do not copy their
 wording into other scenes.
 
 The bank is capped and refreshed under the exemplar-bank rule in
-`instructions/maintenance.md`. Entries marked owner come from the owner's
-Ch. 1417 revision and replace seed entries the owner's Ch. 1411 revision
-reversed; the rest are the Ch. 1411 maintainer seed and one Ch. 1359 repair.
-Owner rewrites replace seed entries first, then the oldest entry showing the
-same principle.
+`instructions/maintenance.md`. Every entry comes from an owner revision
+(Ch. 1412-1419). Owner lines show direction, not a ceiling: copy the
+mechanism, not the wording.
 
 ## 3. Name the real subject (owner Ch. 1417 P7)
 
@@ -21,26 +19,26 @@ same principle.
 - Repaired: Cultivators of the Ancient Past cultivate their nature.
 - Mechanism: a topic-comment claim gets its human subject and a possessive, so the thought reads as a statement about people.
 
-## 4. Connector carrier; 3. right referent (Ch. 1411 P9)
+## 4. Time order and an explicit inference (owner Ch. 1419 P9)
 
-- Chinese: All because [只因] the aura was real; because of it [因此] the Book trembled, and a powerful consciousness showed impatience.
-- Stiff: The aura... was unmistakably real. The Book... shook..., and the powerful consciousness within could barely contain his impatience.
-- Repaired: All because the aura... was unmistakably real. It set the Book... shaking, and a powerful consciousness inside it grew openly impatient.
-- Mechanism: "All because" and a causal verb carry the markers; "his" no longer points at the Primordial Saint; the added "barely" goes.
+- Chinese: this shows [说明] he not only reincarnated but, as he said, proved the Dao Lord position under a new identity and came here.
+- Stiff: That meant Returning Fate had not only reincarnated into the future Sea of Light, but had also, just as he had said, proved his way to the position of Dao Lord and come here under a brand-new identity.
+- Repaired: That could only mean Returning Fate had not merely reincarnated..., but had also done exactly as he claimed: under an entirely new identity, he had once again proven the Dao and become a Dao Lord, then entered this place.
+- Mechanism: the inference is stated, and the steps run in the order they happened after a colon.
 
-## 4. Setup before the ironic reaction (Ch. 1411 P11)
+## 3. Agent first, not a cost opener (owner Ch. 1419 P45)
 
-- Chinese: The four, who had long since extinguished [灭绝] their humanity, also [也] stood dumbstruck.
-- Stiff: The four... stood dazed. These Dao Lords had long since lost their humanity...
-- Repaired: The four... had long since extinguished their humanity... Yet now they too stood dazed.
-- Mechanism: description first, reaction last, so "they too" reads as irony; "extinguished" keeps the agent.
+- Chinese: at the price [以...为代价] of giving up the self and reincarnating as another, he bought a near-perfect setup.
+- Stiff: At the cost of giving up his self entirely and being reborn wholly as someone else, Returning Fate had bought a nearly perfect arrangement.
+- Repaired: Returning Fate had traded away his old self completely, reincarnating as an entirely different person in exchange for a nearly perfect setup.
+- Mechanism: the doer and his act open the sentence; the price becomes the action.
 
-## 5. One wording per key phrase; 4. trigger (Ch. 1411 P17)
+## 4. Untangle a nested clause (owner Ch. 1419 P31)
 
-- Chinese: At once [顿时] the Primordial Spirits turned their heads in some higher dimension and looked at the road they came by [来时路].
-- Stiff: ...every Dao Lord's Primordial Spirit turned back from a higher dimension and looked along the paths they had taken to get here.
-- Repaired: At once, in some higher dimension..., the Primordial Spirits of all the Dao Lords turned and looked back at the path behind them.
-- Mechanism: 顿时 lets the maxim cause the look; "the path behind them" is fixed here and reused in every later paragraph.
+- Chinese: [now is] the time the Dao Venerable promised, when the opportunity arrives; all things have a sliver of hope.
+- Stiff: The time the Dao Venerable personally promised us, when the opportunity arrives, has come. At this moment, all things have a sliver of hope.
+- Repaired: The Dao Venerable personally promised us that when the opportunity arrived, all things would possess a sliver of hope.
+- Mechanism: the promise becomes the main verb and the time clause sits inside it in plain order.
 
 ## 3. Unpack a coined compound (owner Ch. 1417 P27)
 
@@ -56,33 +54,33 @@ same principle.
 - Repaired: Both had long since cast aside their emotions. In their eyes, only Transcendence mattered.
 - Mechanism: the second claim turns from state to value, so it gets its own sentence and an "In their eyes" frame instead of "and".
 
-## 4. Every connector carried (Ch. 1411 P37)
+## 4. Say the consequence (owner Ch. 1419 P63)
 
-- Chinese: By contrast [反而] the four, because [因为] they were more absorbed in the path behind them, were a beat slow and so [因此] fell behind.
-- Stiff: ...lingered over their memories a moment longer. They were slower to move and fell a step behind.
-- Repaired: ..., by contrast, had been more absorbed in the path behind them. They started a beat late and so fell a step behind.
-- Mechanism: three dropped markers get carriers; "memories" had rotated the motif.
+- Chinese: only one place is the exception; that place keeps the formation from completeness.
+- Stiff: There's only one exception, and that one place keeps my formation from being complete.
+- Repaired: Only one place lies beyond its reach, and because of that, the formation remains incomplete.
+- Mechanism: "because of that" makes the causal step visible instead of an "and".
 
-## 4. Timing jolt and reversal (Ch. 1411 P43)
+## 5. Break a description into beats (owner Ch. 1419 P5)
 
-- Chinese: The next instant [下一瞬], a Dao resonance shook heaven and earth; the others reappeared, yet [却] stuck before the gate.
-- Stiff: A thunderous Dao resonance sounded..., and the others reappeared, stranded outside its gate.
-- Repaired: The next instant, a Dao resonance that shook heaven and earth rang out... The others reappeared, but they were stuck at its gate.
-- Mechanism: the jolt gets its own clause; the reversal gets "but" and the final slot instead of a participle tail.
+- Chinese: a round, shining pill-like thing, beating like a heart, its light flickering.
+- Stiff: a pill-like object, perfectly round and brilliantly shining, pulsing like a heart as its light flickered.
+- Repaired: a round, radiant object shaped like a pill. It pulsed like a heart, its glow brightening and dimming with every beat.
+- Mechanism: the stacked modifiers become two sentences, each with a concrete verb.
 
-## 5. A refrain keeps its words (Ch. 1411 P46)
+## 6. Keep the source hedge (owner Ch. 1419 P40)
 
-- Chinese: Can't get in [进不去]? You can't get in! You're one short: me... Without me you can't get in [进不去]!
-- Stiff: "...You're missing me... Without me, you'll never get inside!"
-- Repaired: "...You're one short, and it's me... Without me, you can't get in!"
-- Mechanism: the taunt is a chant, and varying its last instance breaks it; "missing me" read as longing.
+- Chinese: keeping his True Spirit is not necessarily [未必] needed.
+- Stiff: keeping Returning Fate's True Spirit isn't actually necessary.
+- Repaired: preserving Returning Fate's True Spirit may not actually be necessary.
+- Mechanism: 未必 is a hedge; "may not" restores the doubt the draft turned into a verdict.
 
-## 6. Rhetorical question keeps its force (Ch. 1411 P49-P50)
+## 8. Roman comment, not italic thought (owner Ch. 1418 P2)
 
-- Chinese: But how could that be allowed [怎么行]? ... Let him out, and wouldn't the Other Shore collapse [不就崩了]?
-- Stiff: But what could they do? ... If they released him, the Other Shore would collapse...
-- Repaired: But how could they allow that? ... Let him out, and wouldn't the Other Shore simply collapse?
-- Mechanism: the questions stay questions, and the first keeps its meaning: unthinkable, not helpless.
+- Chinese: The Dao Ancestors all have their work [都有活啊].
+- Stiff: *Every one of these Dao Ancestors has some grand project going.*
+- Repaired: The Dao Ancestors really did have plans of their own.
+- Mechanism: an exclamatory comment with no first person is free indirect narration, roman and past.
 
 ## 5. Split stacked observations into beats (owner Ch. 1417 P11)
 
@@ -98,12 +96,12 @@ same principle.
 - Repaired: That would end the Final Kalpa before it even begins, changing the fate of the Divine Land's destruction once and for all.
 - Mechanism: the action takes the main verb, the consequence rides as a participle, and the abstract "ending" becomes a concrete fate.
 
-## 5. Parallel frame; 6. no added hedge (Ch. 1411 P72)
+## 8. Quoted thinking is thought (owner Ch. 1413 P20)
 
-- Chinese: Put [放在] an Innate Dao God in the Ancient Era...; put [放在] him in the present age, and he is nothing but [纯粹] a punching bag.
-- Stiff: As an Innate Dao God, he might have dominated... In the present age, though, anyone... was little more than a punching bag.
-- Repaired: Put an Innate Dao God in the Ancient Era, and... Put him in the present age, and... he was nothing but a punching bag.
-- Mechanism: the doubled "Put" carries the comparison; "nothing but" matches 纯粹 instead of hedging the punch.
+- Chinese: pondering in his heart [心中揣摩]: "With a Divine Transformation presiding, the Ancient Past should endure."
+- Stiff: Lü Yang paced as he turned over the same question. "With someone at Divine Transformation watching over it, the Ancient Past should have endured..."
+- Repaired: Lü Yang paced along while pondering the same question. *With a Divine Transformation cultivator presiding over it, the Ancient Past should have endured forever.*
+- Mechanism: words introduced as thinking are italic inner speech, not dialogue.
 
 ## 10. Separate two holders of one title (owner Ch. 1417 P72)
 
@@ -112,16 +110,17 @@ same principle.
 - Repaired: But the first Dao Ancestor of Fate was different.
 - Mechanism: "first" keeps him apart from Returning Fate, the second, and "But" carries 却.
 
-## 4. Calque trap: 另一边; 5. punch last (Ch. 1411 P82)
+## 9. Keep a proverb's image (owner Ch. 1412 P27)
 
-- Chinese: Over on the other side [另一边], Lü Yang, unrestrained, clapped his hands and burst out laughing.
-- Stiff: Lü Yang, on the other hand, clapped his hands and burst out laughing without the slightest restraint.
-- Repaired: Lü Yang, meanwhile, made no effort to hold back. He clapped his hands and burst out laughing.
-- Mechanism: spatial 另一边 is "meanwhile"; the laugh ends the paragraph instead of a trailing adverbial.
+- Chinese: sealing taught him what "the situation is stronger than the man" [形势比人强] means.
+- Stiff: More than a hundred thousand years of sealing had finally taught him to bow to circumstances.
+- Repaired: More than a hundred thousand years of sealing had finally taught him to recognize when circumstances were stronger than he was.
+- Mechanism: the proverb's picture carries the Dragon's humiliation, so it stays instead of a stock substitute.
 
-## 3. Opening phrase on its real subject (Ch. 1359 P40)
+## 3. Singular they for an unknown person (owner Ch. 1418 P24)
 
-- Chinese: not recorded; an owner revision reworded the opening clause.
-- Stiff: After watching the Sword Sovereign leave, the Light of Order around him...
-- Repaired: After Lü Yang watched the Sword Sovereign leave, the Light of Order around him...
-- Mechanism: the phrase attached to the Light and made it the watcher; naming Lü Yang keeps the revised time order.
+- Chinese: one of the Dao Lords is his reincarnation, memories not yet awake [识忆未醒].
+- Stiff: one of the Sea of Light's Dao Lords... is really his reincarnation, just with his memories still asleep?
+- Repaired: one of the Sea of Light's Dao Lords... is actually his reincarnated self, with their memories simply yet to awaken?
+- Mechanism: the unidentified Dao Lord takes they, so "his" no longer claims Returning Fate.
+

@@ -34,10 +34,10 @@ Stage 2, Editing and formatting (`instructions/editing-spec.md`):
 1. Deliver in chat first; maintenance comes after.
 2. Never commit chapter prose or provisional handoffs.
 3. One terminology batch before drafting; reuse approved choices silently.
-4. One target paragraph per source paragraph; only display splits are exempt.
+4. One target paragraph per source paragraph; only display splits and owner-style lead-in merges are exempt.
 5. No em or en dashes; straight quotes; three-dot ellipsis.
 6. Contract in speech, thought and ordinary narration, never 'd forms; the uncontracted registers are listed in style guide section 7.
-7. Italics for direct thought only, in the tense of the thinker's now.
+7. Italics for first-person or addressed inner speech only, in the tense of the thinker's now.
 8. Full epithets are never clipped.
 9. State an actor, cause, contrast or time order the Chinese implies when unambiguous; flag it when only inferred.
 

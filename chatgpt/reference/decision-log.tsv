@@ -513,3 +513,4 @@ date	chapter	category	decision	promoted_to	status
 2026-09-26	1419	STATE	Source and full chat delivery: 74 source/72 target paragraphs (lead-in merges 12, 20), break before 69; verbal 现世 exception. Life-Seeker Shan and Immortal-Nurturing Land provisional.	ledger.tsv and state.json	active
 2026-09-26	1419	TERM	Owner: 单求活 is Dan Qiuhuo (pinyin); Immortal-Nurturing Land kept.	terminology.tsv	active
 2026-09-26	1419	PHRASE	Owner: Three Powers of Heaven, Earth, and Man; theft proverb kept; Son of a bitch!; proven the Dao and become a Dao Lord; dormant; command.	phrase-memory.tsv	active
+2026-09-26	all	MACRO	Owner-requested rule review: style guide rebuilt on a priority order (meaning, clarity, natural English, source shape); checks realigned; exemplars all owner triples; owner revisions are direction, not a ceiling.	style-guide.md, editing-spec.md, craft-examples.md, maintenance.md	active

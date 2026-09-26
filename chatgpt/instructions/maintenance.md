@@ -19,6 +19,10 @@ and dropped framing. Align a body-only paste to the source body, not the title.
 
 - For each changed sentence, ask why it changed: the problem, the intended
   improvement and the source support. Label inferred intent as inferred.
+- Owner revisions show direction and preference, not a finished standard.
+  Promote the principle behind a pattern that recurs; keep single word
+  choices in phrase memory; never promote an owner slip or a line that is
+  merely better than the draft but still weak.
 - Attribute each error to the draft, the revision or both.
 - Check the changed spans and the causal and referent links next to them. Do
   not recheck unchanged text that already had a full review unless a new

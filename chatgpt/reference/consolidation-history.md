@@ -814,3 +814,25 @@ validation commands pass. Open items for the owner: the undecided idiom groups
 in Reference_Idioms.md; the 四等 and 补天道 questions; the owner library copy
 of Reference_Italicized_Titles.md needs re-sync; a prose "Talent" is not
 flagged by the checker now that both casings are variants.
+
+## 2026-09-26 owner-requested rule review
+
+After Ch. 1419 the owner asked for a review of the rules: some Ch. 1411-1419
+changes were one-offs, some original rules needed rewriting, and the prose
+still lacked professional light-novel quality, especially flow, agency and
+causal order. The owner clarified that the edited chapters are better than the
+drafts and show preferences, but are not perfect models.
+
+- A read-only audit found contradictions (paragraph merges, participle tails,
+  italics scope, repetition counts, connector-for-every-marker, length quotas,
+  closing-marker handling), six duplicated rule clusters, one-off word choices
+  promoted to principles, and gaps (explicit causal inference, one claim per
+  sentence, clarity priority, a single italics test).
+- style-guide.md was rebuilt from 3,206 to about 1,900 words around a priority
+  order; lexical one-offs stay in phrase memory; seed-era rules the owner
+  reversed were rewritten; editing-spec.md checks were renumbered and
+  realigned; all craft examples now come from owner revisions.
+- A professional middle-chapter craft study was first blocked by the network
+  policy (wuxiaworld.com, webnovel.com); the owner then opened network access,
+  and the study was relaunched. Its findings are added as a second pass.
+

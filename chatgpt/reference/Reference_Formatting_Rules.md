@@ -58,7 +58,7 @@ located proposal, not an automatic new rule or permission to edit the novel.
 - The owner authorizes an exception to one-source-paragraph/one-target-paragraph for
   display layout only: separate actual panel lines or menu items and their adjoining
   narration without changing wording, information or order. Record the source paragraph
-  and resulting target count. All other source paragraphs remain intact; never merge them.
+  and resulting target count. All other source paragraphs remain intact; the only merge is the owner-style one-line lead-in merge in translation-spec.md (owner Ch.1414-1419).
 - Source brackets alone do not make a display. Inline concepts, names and attack call-outs
   remain ordinary inline text unless source context or an explicit owner ruling makes them
   displays. Do not promote every existing manuscript bracket to a universal panel rule.

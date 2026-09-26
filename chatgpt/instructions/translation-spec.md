@@ -69,8 +69,8 @@ goes in FLAGS, not into the text.
 
 ## Paragraph mapping
 
-- Write one target paragraph per source paragraph, in the same order. Never
-  merge or split prose paragraphs.
+- Write one target paragraph per source paragraph, in the same order. Do not
+  merge or split prose paragraphs except as listed below.
 - A bare one-line lead-in (然而就在这时。, 话音未落。, 与此同时。) joins the next
   paragraph as its opening words (owner Ch.1414, 1415, 1418); a fragment that
   sets a place (几乎同时，神州各地。) stays its own paragraph and ends with a
@@ -87,7 +87,7 @@ goes in FLAGS, not into the text.
   licence for later drafts. An English-only editing guide never overrides
   paragraph boundaries or source checks.
 - Use `---` only for a genuine hard change of place, time or viewpoint, never
-  for pacing. A cut to another place and viewpoint, such as 与此同时，…另一处 (owner Ch.1412), takes one, and so does a short time skip such as 片刻过后 that
+  merely for pacing. A cut to another place and viewpoint, such as 与此同时，…另一处 (owner Ch.1412), takes one, and so does a short time skip such as 片刻过后 that
   closes one scene and opens the next (owner Ch.1413). Place it before a time-jump sentence so that sentence opens the
   new scene. Keep every separator the source prints, and record the reviewed
   positions, or none, for the checker.
@@ -142,9 +142,9 @@ Findings stay in chat or scratch, never in a repository report.
 Build both ledgers during verification and hand them to Stage 2.
 
 - Connector ledger: each source marker of cause, contrast, concession, a
-  fortiori reasoning or timing, with the English word or structure that
+  fortiori reasoning or timing, with the English word, structure or order that
   carries it.
 - Motif ledger: each repeated key phrase in the source, with its single English
-  rendering and the number of times it appears.
+  rendering, and each refrain whose repetition must survive.
 
 Write each row as `P<index> | <source marker or phrase> | <English carrier>`.
