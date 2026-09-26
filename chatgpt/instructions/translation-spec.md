@@ -71,7 +71,12 @@ goes in FLAGS, not into the text.
 
 - Write one target paragraph per source paragraph, in the same order. Never
   merge or split prose paragraphs.
-- The one exception is a display-only split. Genuine panel lines or menu items
+- A bare one-line lead-in (然而就在这时。, 话音未落。, 与此同时。) joins the next
+  paragraph as its opening words (owner Ch.1414, 1415, 1418); a fragment that
+  sets a place (几乎同时，神州各地。) stays its own paragraph and ends with a
+  period. Record each merge by the lead-in's source index for
+  `chat_check.py --merge-into-next`.
+- The other exception is a display-only split. Genuine panel lines or menu items
   and the narration that adjoins them may become separate paragraphs. Record
   each split as SOURCE:COUNT for the checker.
 - Keep the title and the chapter's final prose. Omit the source's closing

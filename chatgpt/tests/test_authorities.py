@@ -549,6 +549,28 @@ class AuthorityTests(unittest.TestCase):
         self.assertNotEqual(inner_break.returncode, 0)
         self.assertIn("scene break inside a display split", inner_break.stdout)
 
+    def test_lead_in_merges_join_fragment_to_next_paragraph(self):
+        source_text = "第1章 测试\n\n他走了。\n\n与此同时。\n\n道天齐借出慧光。\n"
+        target_text = "Chapter 1: Test\n\nHe left.\n\n---\n\nMeanwhile, Dao Tianqi lent him wisdom light.\n"
+        with tempfile.TemporaryDirectory() as tmp:
+            source, target = Path(tmp) / "source.txt", Path(tmp) / "target.txt"
+            source.write_text(source_text, encoding="utf-8")
+            target.write_text(target_text, encoding="utf-8")
+            base = [sys.executable, str(SCRIPTS / "chat_check.py"), str(source), str(target)]
+            undeclared = subprocess.run(base + ["--scene-break-before", "3"], capture_output=True, text=True)
+            merged = subprocess.run(base + ["--scene-break-before", "3", "--merge-into-next", "3"],
+                                    capture_output=True, text=True)
+            inner = subprocess.run(base + ["--scene-break-before", "4", "--merge-into-next", "3"],
+                                   capture_output=True, text=True)
+        self.assertNotEqual(undeclared.returncode, 0)
+        self.assertEqual(merged.returncode, 0, merged.stdout + merged.stderr)
+        self.assertIn("4 source paragraphs, 3 target paragraphs", merged.stdout)
+        self.assertNotEqual(inner.returncode, 0)
+        self.assertIn("inside a lead-in merge", inner.stdout)
+        for bad in ([1], [4], [2, 3], [2, 2]):
+            with self.subTest(bad=bad):
+                self.assertTrue(chat_check.apply_lead_in_merges(["t", "a", "b", "c"], bad)[2])
+
     def test_display_split_cannot_authorize_arbitrary_prose_splits(self):
         src = ["title", "source"]
         target = ["title", "He looked.", "Then he left."]

@@ -78,6 +78,8 @@ python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-
   checker skips the reviewed-position check.
 - Indices are source content indices: the title is 1, and a standalone `---`
   is not counted.
+- For an owner-style lead-in merge, add `--merge-into-next SOURCE`, where
+  SOURCE is the lead-in's source index (`translation-spec.md`).
 - For a display-only split, add `--display-splits SOURCE:COUNT` (for example
   `8:3`). COUNT is the total number of target paragraphs for that source
   paragraph, and SOURCE is 2 or higher.

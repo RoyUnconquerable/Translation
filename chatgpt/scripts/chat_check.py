@@ -78,6 +78,39 @@ def chapter_input_errors(source: list[str], target: list[str]) -> list[str]:
     return errors
 
 
+def apply_lead_in_merges(
+    source: list[str], declarations: list[int],
+) -> tuple[list[str], dict[int, int], list[str]]:
+    """Join each declared one-line lead-in with the source paragraph after it.
+
+    The owner folds a bare lead-in fragment (然而就在这时。, 与此同时。) into the
+    next paragraph. Each declaration is the one-based source index of the
+    lead-in. Returns the merged source, a map from original to merged indices,
+    and errors. A merged tail keeps no index of its own.
+    """
+    errors: list[str] = []
+    merges = sorted(set(declarations))
+    if len(merges) != len(declarations):
+        errors.append("duplicate lead-in merge")
+    for index in merges:
+        if not 2 <= index < len(source):
+            errors.append(f"invalid lead-in merge {index}; no title/final paragraph merge")
+        elif index - 1 in merges:
+            errors.append(f"lead-in merge {index} would chain onto merge {index - 1}")
+    if errors:
+        return source, {i: i for i in range(1, len(source) + 1)}, errors
+    merged: list[str] = []
+    mapping: dict[int, int] = {}
+    skip = set(m + 1 for m in merges)
+    for index, text in enumerate(source, 1):
+        if index in skip:
+            merged[-1] = merged[-1] + "\n" + text
+            continue
+        merged.append(text)
+        mapping[index] = len(merged)
+    return merged, mapping, errors
+
+
 def align_display_splits(
     source: list[str], target: list[str], declarations: list[str],
 ) -> tuple[list[list[str]], dict[int, int], list[str]]:
@@ -138,6 +171,10 @@ def main() -> None:
         "--display-splits", nargs="*", default=[], metavar="SOURCE:COUNT",
         help="Reviewed display-only splits: source index and total target paragraphs.",
     )
+    parser.add_argument(
+        "--merge-into-next", type=int, nargs="*", default=[], metavar="SOURCE",
+        help="Owner-style merges: source index of a one-line lead-in joined to the next paragraph.",
+    )
     args = parser.parse_args()
     root = common.find_root()
     glossary = common.load_glossary(root)
@@ -147,6 +184,9 @@ def main() -> None:
     source = paragraphs(source_text, allow_scene_breaks=True)
     target = paragraphs(target_text, allow_scene_breaks=True)
     errors = chapter_input_errors(source, target)
+    original_count = len(source)
+    source, merge_map, merge_errors = apply_lead_in_merges(source, args.merge_into_next)
+    errors.extend(merge_errors)
     warnings: list[str] = []
     groups, target_starts, alignment_errors = align_display_splits(
         source, target, args.display_splits
@@ -157,6 +197,11 @@ def main() -> None:
     source_breaks = scene_break_positions(source_text)
     if source_breaks:
         required_breaks = sorted(set(source_breaks + (required_breaks or [])))
+    if required_breaks is not None and args.merge_into_next:
+        inside = [i for i in required_breaks if i not in merge_map and 1 <= i <= original_count]
+        if inside:
+            errors.append(f"scene break inside a lead-in merge before source paragraph(s): {inside}")
+        required_breaks = [merge_map[i] for i in required_breaks if i in merge_map]
     target_breaks = None
     if required_breaks is not None:
         unknown = sorted(set(required_breaks) - set(target_starts))
@@ -208,7 +253,9 @@ def main() -> None:
         for error in errors:
             print(f"  - {error}")
         raise SystemExit(1)
-    if args.display_splits:
+    if args.merge_into_next:
+        print(f"chat check: PASS ({original_count} source paragraphs, {len(target)} target paragraphs; lead-in merges)")
+    elif args.display_splits:
         print(f"chat check: PASS ({len(source)} source paragraphs, {len(target)} target paragraphs; mapped displays)")
     else:
         print(f"chat check: PASS ({len(source)} paragraphs)")
