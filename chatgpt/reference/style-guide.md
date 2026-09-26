@@ -144,3 +144,20 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - When a source idiom is vivid and immediately understandable in English, preserve its physical force rather than flattening it into abstraction.
 - In comic or colloquial beats, let the last line carry the punch and avoid explaining it afterward.
 - For location descriptions, lead with the place, then its defining environmental features, then the visual centerpiece.
+
+### Owner prose baseline after Chapters 1413-1419
+
+Repeated owner revisions establish the following default English tendencies when they do not conflict with source meaning or fixed terminology:
+
+- Prefer direct, ordinary verbs over elevated paraphrase: pulled it off, went out, caught on, spun around, overstepped, speak freely.
+- Keep Lü Yang's viewpoint brisk and colloquial. His internal reactions should sound like immediate thought, not explanatory narration.
+- State the actor and consequence early. Avoid delaying the subject behind long introductory clauses.
+- When reasoning unfolds in stages, use short sequential sentences so each inference visibly leads to the next.
+- Preserve concrete Chinese images when they remain instantly understandable in English; do not flatten them merely for smoothness.
+- In bargaining or strategy scenes, name the asset, price, service, leverage, and consequence directly.
+- For comic escalation, keep setup, absurd reveal, then reaction in that order. The reaction should land last with no added explanation.
+- Prefer familiar English collocations over literal-but-stiff wording, especially in dialogue and close narration.
+- Use contractions freely in ordinary speech and thought unless a formal register or emphasis calls for expansion.
+- Preserve the source's short isolated beats. Do not pad a one-line realization, reversal, or punch line.
+- When two approaches share a goal, state the common goal first and the differing method second so the contrast lands cleanly.
+- Do not over-polish away the serial-web-novel energy. Clarity and momentum outrank ornamental elegance after fidelity.

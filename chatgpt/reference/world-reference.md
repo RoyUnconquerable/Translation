@@ -318,3 +318,8 @@ Seventeen Dao Ancestors answer the Immortal Recorder's sacred incantation at Pur
 
 ### Immortal-Nurturing Land and Dan Qiuhuo (Ch.1419)
 Immortal-Nurturing Land is a separate Grotto-Heaven within Divine Land, with its own day-night cycle and four seasons. It is controlled by Dan Qiuhuo, the Dao Ancestor of Nurturing Life. Tassel Immortal's grand Feng Shui formation covers almost all of Divine Land except this region, and he wants a white-jade pillar installed there to complete it.
+
+### Nurturing Life's two paths (Ch.1420-1421)
+Dan Qiuhuo and Bu Changming are two Dao Ancestor identities produced by one cultivator walking two different paths within Nurturing Life. Dan Qiuhuo emphasizes survival and avoidance; Bu Changming manifests as a more aggressive second state. The exact Primordial Spirit mechanism remains open.
+
+Immortal-Nurturing Land is a high-order Feng Shui treasure land whose nature is comparable to a Dao Ancestor without consciousness or movement. Its later remains are identified with the source jade found in Carefree Wandering and used by Dao Tianqi in constructing the Underworld.
