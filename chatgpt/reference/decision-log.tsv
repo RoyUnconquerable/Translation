@@ -533,3 +533,5 @@ date	chapter	category	decision	promoted_to	status
 2026-09-27	1422	PHRASE	Owner edit: 22 phrase rows (I understand now, Tell him to stop dreaming, What a pity, None of that has anything to do with me, and even then...).	phrase-memory.tsv	active
 2026-09-27	all	MACRO	Owner Ch.1422: colloquial not slang for Dao Ancestors; vivid but exact verbs; one word chain per argument; speaker splits; With that thought for 一念至此; name over role.	style-guide.md, translation-spec.md, chat_check.py	active
 2026-09-27	1423	STATE	Delivered: 66/65 paragraphs, merges 36 and 58, display split 8:2, break before 43. Provisional: Dan Qingjian (丹青简), true spirit (真灵).	ledger.tsv	active
+2026-09-27	1423	PHRASE	Owner edit (8/10): 真灵 True Spirit; 16 phrase rows (direct disciple, As expected of, How does that sound?, fool from an elder...). Paragraph joins were unintentional; source mapping stands.	terminology.tsv, phrase-memory.tsv	active
+2026-09-27	all	MACRO	Owner Ch.1423: Only when/after X did Y allowed for 才; impersonal source thought may be roman narration; records use present/future for standing plans; composed elders stay restrained.	style-guide.md	active

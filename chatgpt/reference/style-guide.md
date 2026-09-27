@@ -1,6 +1,6 @@
 # Style guide
 
-How the English is written. Terms, names and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles only. Provenance is in decision-log.tsv and consolidation-history.md (owner revisions of Ch. 1411-1422 (1420 final rated 9/10; 1421 draft 7, owner edit 8.5) and professional craft studies of 35 sampled Wuxiaworld chapters). Worked pairs are in craft-examples.md.
+How the English is written. Terms, names and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles only. Provenance is in decision-log.tsv and consolidation-history.md (owner revisions of Ch. 1411-1423 (1420 final 9/10; 1421 draft 7, owner edit 8.5; 1423 owner edit 8) and professional craft studies of 35 sampled Wuxiaworld chapters). Worked pairs are in craft-examples.md.
 
 **How to use owner revisions.** The owner's edited chapters are better than the drafts and show the owner's preferences, but they are not a ceiling. Take the principle a revision shows, not its exact wording, and aim for professional light-novel quality beyond it. Explicit term, name and fixed-wording rulings are binding.
 
@@ -42,7 +42,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **说到这里 before another character's action is an interruption:** "Before he could finish, ...". 之所以…是为了 is "The reason... was to...". An overlap takes "Even as".
 - **Anchor time at the start of a sentence or paragraph.** For backstory, past perfect for the first verb or two, then simple past. When an effect appears before its cause, flag the explanation ("In truth,", "As it turned out,").
 - **One main verb carries the key action;** a participle tail carries only a simultaneous action or an immediate result, at most one per sentence. Untangle nested clauses into plain order.
-- **Calques.** 如果说 X, 那 Y is a contrast. 才 is not automatically "only then", and "only then" is banned. 另一边 is "meanwhile". 还 in a counterfactual is "never", not "still".
+- **Calques.** 如果说 X, 那 Y is a contrast. 才 is not automatically "only then", and a bare "only then" is banned; "Only when X did Y" or "Only after X did Y" is the owner's form for 直到…才 and 做完…才 (Ch.1423). 另一边 is "meanwhile". 还 in a counterfactual is "never", not "still".
 - **Negotiation and hesitation run in order.** An offer, then the other side's private assessment, then the reply. Before a reveal, hesitation is one to three sentences: a visible signal, the option, the reason, the counterweight, the decision, then the line.
 
 ## 5. Rhythm
@@ -81,6 +81,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **No archaism from anyone** (woe, alas, verily, pray, lo, thee) outside verse and quotation. Exclamations follow the genre table in phrase memory: short, spoken, and matched to the speaker (a coward whines, an elder snaps, Lü Yang swears or quips).
 - **Honorific compounds are fixed in the glossary** (老前辈, 师弟, 道友); never an ad hoc "old Senior".
 - **Tags by cast size;** one attribution per line; a beat can replace said; never invent a gesture or tone. Dialogue is never italicized.
+- **Composed elders and scholars** speak uncontracted and restrained ("It has its use"); their insults are measured ("that fool").
 - **Colloquial is not slang.** Dao Ancestors, even brash ones, speak plain modern English: "I understand now", "afraid", "ruin", "that fellow", "Tell him to stop dreaming"; never "I get it", "scared", "wreck", "that guy", "dream on". The reading-experience priority does not license slang above a speaker's rank. A source parallel stays only when it reads naturally ("I'll run. Let's see how he finds me then!" beats "I'll dare to run").
 - **Casual and complaining speakers talk in short spoken sentences:** contractions, declarative questions ("You're confident you can survive...?"), quick tags ("Why bother?"), "either" on a parallel line, present perfect ("I've already made up my mind").
 - **Negotiation shows the gap between face and mind.**
@@ -92,6 +93,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - A fragment that sums up the focal character's stance (什么X，Y。 before his line) is direct thought, italic: *The fall of the Ancient Past? The Final Kalpa of the Divine Land?*
 - **Free indirect thought** is third person, past tense, roman, with backshifted modals: 他怎么可能输 is "How could he possibly lose?", never "How can I lose?". Its markers are rhetorical questions, "Yes... but...", "After all,", exclamations.
 - **One thought run, one mode.** Adjacent sentences or paragraphs of the same thought, with no narrated action between them, stay in one mode and one tense. Switch between thought and narration only at a paragraph break or an action beat, never mid-sentence. An unmarked run takes the mode of its first sentence; a source-marked run is italic throughout.
+- Impersonal reasoning in source thought marks (no I, no address) may join the narration as roman past tense (owner Ch.1423: "Nurturing Life centered on the self... Their Daos were simply different."); first-person or addressed thought stays italic.
 - Rewritten history uses tense to show the new established past; reveal no later knowledge.
 
 ## 9. Idioms, images and wordplay
@@ -112,11 +114,12 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - Digits with commas for exact values, words for rhetorical magnitudes; li converted to miles by value, in digits, with "some" for a round figure. Scenic vastness (涵盖万里) is rhetorical: "thousands of miles". Proportions of likeness (八分相似) are idiomatic: "nearly identical".
 - Contractions except the registers in section 7; never 'd forms.
 - A lone "." or "…" in the pasted Chinese is a flattened ellipsis: keep it as "..." (the checker warns when one is lost).
+- Written records (a chronicle, a ledger) state past events in past tense and standing arrangements in present or future ("Returning Fate's True Spirit serves as collateral. Profound Virtue will travel...").
 - Quotation marks, sounds, ellipses, the dash ban and bold 【...】 displays follow Reference_Formatting_Rules.md; titles and system text follow their owner references.
 
 ## 12. Tells to avoid
 
-- Stock signposts and calques: "at this moment", "right now" as filler, "only then", bare "with that" after a thought, "one after another" as filler, "in his heart", "couldn't help but", "revealed an expression of", "it's just that" as a reflex for 只是 (it is fine when it opens a real qualification: "It's just that aside from Dan Qiuhuo, ..."), bare "within expectations" (with an owner it is fine: "within the Dao Venerable's expectations").
+- Stock signposts and calques: "at this moment", "right now" as filler, a bare "only then", bare "with that" after a thought, "one after another" as filler, "in his heart", "couldn't help but", "revealed an expression of", "it's just that" as a reflex for 只是 (it is fine when it opens a real qualification: "It's just that aside from Dan Qiuhuo, ..."), bare "within expectations" (with an owner it is fine: "within the Dao Venerable's expectations").
 - Standalone "Just then." or any bare-lead-in fragment.
 - Choppy runs of short unlinked sentences outside action; or the opposite, a sentence carrying a nested chain.
 - "And" chains hiding a cause or contrast; participle pileups; dangling openers; noun stacks and long possessives.
