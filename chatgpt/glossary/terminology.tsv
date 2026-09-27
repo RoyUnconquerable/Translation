@@ -59,7 +59,7 @@ source	target	notes
 剑君	Sword Sovereign	same being as 剑主/剑尊; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 法术道主	Spell Dao Lord	usually takes 'the'; provenance terminology.tsv
 法力道主	Spiritual Power Dao Lord	a distinct Dao Lord who aids the Spell Dao Lord; usually takes 'the'; provenance terminology.tsv
-法力	spiritual power|Spiritual Power	Lowercase the cultivator's usable power; capitalize Spiritual Power when naming the cultivation foundation or Dao category. Owner-final Ch.1293 confirms the named Three Foundations context.
+法力	spiritual power|Spiritual Power	Lowercase the cultivator's usable power; capitalize Spiritual Power when naming the cultivation foundation or Dao category. Owner-final Ch.1293 confirms the named Three Foundations context. [except: 倾注法力]
 因果大网	Great Net of Karma	normally takes the definite article; provenance owner-rulings-ch1260.tsv
 城头土	Rampart Earth	True Monarch; a bare 【城头土】 call-out renders plain per Reference_Formatting_Rules.md (inline call-outs); provenance terminology.tsv
 大剑宗	Grand Sword Patriarch	a person, not a sect; usually takes 'the'; provenance terminology.tsv
@@ -436,7 +436,7 @@ source	target	notes
 交贵人	Befriending the Noble	Explicit owner correction after Ch.1395, superseding Befriending Benefactors. Named Ancient Past path, roman; ordinary benefactors remain contextual.
 积功德	Accumulating Merit	Approved Ch.1393 ten-Dao maxim; roman path name.
 敬神	Revering the Gods	Approved Ch.1393 ten-Dao maxim; roman path name, expanded into three branches in Ch.1399.
-养生	Nurturing Life	Approved Ch.1393 ten-Dao maxim; named path, not every ordinary reference to health or longevity. [except: 养生地]
+养生	Nurturing Life|nurture life	Owner Ch.1422: verb form nurture life in a gloss of the Dao (the more you mend, the more you nurture life). Approved Ch.1393 ten-Dao maxim; named path, not every ordinary reference to health or longevity. [except: 养生地]
 风水	Feng Shui	Approved Ch.1393 ten-Dao maxim; named path. Ch.1399 describes secret-realm construction.
 【读书】	Study	Approved Ancient Past path. Unbracketed ordinary reading is not automatically a named Dao.
 命修道祖	Dao Ancestor of Fate	Approved Ch.1397; title of the Fate path founder in the narrated example. Later another Fate cultivator attains Dao Ancestor status.
@@ -476,3 +476,7 @@ source	target	notes
 单求活	Dan Qiuhuo	Owner Ch.1419: pinyin name of the Dao Ancestor of Nurturing Life (Dan Qiuhuo, the Dao Ancestor of Nurturing Life); replaces provisional Life-Seeker Shan.
 养仙地	Immortal-Nurturing Land	Owner-kept Ch.1419: Dan Qiuhuo's domain, a Grotto-Heaven; takes the.
 养生地	Immortal-Nurturing Land	Owner Ch.1421: a source variant of 养仙地; use the established name, not Nurturing Life Land.
+毁灭之光	light of annihilation	Owner Ch.1422; the Feng Shui strike of Tassel Immortal and Bu Changming; not destructive light.
+风水大阵	grand Feng Shui formation|Feng Shui formation	Owner Ch.1422: Tassel Immortal's formation; his Feng Shui formation on a second mention.
+绝对圆满	Absolute Perfection	Owner-kept Ch.1422; concept, roman; paired with Relative Perfection.
+相对圆满	Relative Perfection	Owner-kept Ch.1422; the state a Dao Ancestor's Mysteries reach.

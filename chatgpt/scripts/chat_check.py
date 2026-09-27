@@ -163,6 +163,7 @@ def apply_lead_in_merges(
 
 def align_display_splits(
     source: list[str], target: list[str], declarations: list[str],
+    speaker_splits: list[str] | None = None,
 ) -> tuple[list[list[str]], dict[int, int], list[str]]:
     """Map only declared display-layout splits, retaining original source indices.
 
@@ -170,8 +171,9 @@ def align_display_splits(
     that a source span is a panel or that its translation preserves meaning.
     """
     counts: dict[int, int] = {}
+    speakers: set[int] = set()
     errors: list[str] = []
-    for value in declarations:
+    for value in [*declarations, *(speaker_splits or [])]:
         match = re.fullmatch(r"([0-9]+):([0-9]+)", value)
         if not match:
             errors.append(f"invalid display split {value!r}; use SOURCE:COUNT")
@@ -183,6 +185,8 @@ def align_display_splits(
             errors.append(f"duplicate display split for source paragraph {index}")
         else:
             counts[index] = count
+            if value in (speaker_splits or []):
+                speakers.add(index)
 
     expected = len(source) + sum(count - 1 for count in counts.values())
     if len(target) != expected:
@@ -199,7 +203,10 @@ def align_display_splits(
         group = target[offset:offset + count]
         groups.append(group)
         offset += count
-        if index in counts:
+        if index in speakers:
+            if any(not part.startswith('"') for part in group[1:]):
+                errors.append(f"source paragraph {index}: speaker split must start each new paragraph with a quoted line")
+        elif index in counts:
             displays = [bool(lint.DISPLAY_RE.fullmatch(part)) for part in group]
             if not any(displays):
                 errors.append(f"source paragraph {index}: display split contains no standalone panel")
@@ -222,6 +229,10 @@ def main() -> None:
         help="Reviewed display-only splits: source index and total target paragraphs.",
     )
     parser.add_argument(
+        "--speaker-splits", nargs="*", default=[], metavar="SOURCE:COUNT",
+        help="Owner-style splits of a source paragraph holding two speakers; each new part opens with a quote.",
+    )
+    parser.add_argument(
         "--merge-into-next", type=int, nargs="*", default=[], metavar="SOURCE",
         help="Owner-style merges: source index of a one-line lead-in joined to the next paragraph.",
     )
@@ -238,8 +249,15 @@ def main() -> None:
     source, merge_map, merge_errors = apply_lead_in_merges(source, args.merge_into_next)
     errors.extend(merge_errors)
     warnings: list[str] = []
+    # Speaker splits name original source indices; shift them past lead-in merges.
+    speaker_splits = []
+    for value in args.speaker_splits:
+        match = re.fullmatch(r"([0-9]+):([0-9]+)", value)
+        if match and int(match.group(1)) in merge_map:
+            value = f"{merge_map[int(match.group(1))]}:{match.group(2)}"
+        speaker_splits.append(value)
     groups, target_starts, alignment_errors = align_display_splits(
-        source, target, args.display_splits
+        source, target, args.display_splits, speaker_splits
     )
     errors.extend(alignment_errors)
 
@@ -315,7 +333,7 @@ def main() -> None:
         raise SystemExit(1)
     if args.merge_into_next:
         print(f"chat check: PASS ({original_count} source paragraphs, {len(target)} target paragraphs; lead-in merges)")
-    elif args.display_splits:
+    elif args.display_splits or args.speaker_splits:
         print(f"chat check: PASS ({len(source)} source paragraphs, {len(target)} target paragraphs; mapped displays)")
     else:
         print(f"chat check: PASS ({len(source)} paragraphs)")

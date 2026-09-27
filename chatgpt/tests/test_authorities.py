@@ -587,6 +587,13 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(errors, [])
         self.assertEqual(warnings, [])
 
+    def test_speaker_split_separates_two_speakers(self):
+        src = ["title", "他说：“走吧。”“谁？”"]
+        good = ["title", "He said, \"Let's go.\"", "\"Who?\""]
+        self.assertEqual(chat_check.align_display_splits(src, good, [], ["2:2"])[2], [])
+        bad = ["title", "He said, \"Let's go.\"", "Someone asked who."]
+        self.assertTrue(chat_check.align_display_splits(src, bad, [], ["2:2"])[2])
+
     def test_paste_ellipsis_marks_are_counted(self):
         pattern = chat_check.PASTE_ELLIPSIS_RE
         self.assertEqual(len(pattern.findall("他了解不深.我这位道友")), 1)

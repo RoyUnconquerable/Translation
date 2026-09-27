@@ -80,6 +80,8 @@ python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-
   is not counted.
 - For an owner-style lead-in merge, add `--merge-into-next SOURCE`, where
   SOURCE is the lead-in's source index (`translation-spec.md`).
+- For a two-speaker paragraph split, add `--speaker-splits SOURCE:COUNT`
+  (original source index; each new part opens with a quote).
 - For a display-only split, add `--display-splits SOURCE:COUNT` (for example
   `8:3`). COUNT is the total number of target paragraphs for that source
   paragraph, and SOURCE is 2 or higher.

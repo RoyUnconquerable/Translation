@@ -79,6 +79,9 @@ goes in FLAGS, not into the text.
   sets a place (几乎同时，神州各地。) stays its own paragraph and ends with a
   period. Record each merge by the lead-in's source index for
   `chat_check.py --merge-into-next`.
+- A source paragraph that holds two speakers' lines is split so the second
+  speaker opens a new paragraph (owner Ch.1422). Record it as SOURCE:COUNT
+  for `chat_check.py --speaker-splits`; each new paragraph opens with a quote.
 - The other exception is a display-only split. Genuine panel lines or menu items
   and the narration that adjoins them may become separate paragraphs. Record
   each split as SOURCE:COUNT for the checker.
