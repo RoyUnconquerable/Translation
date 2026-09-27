@@ -538,3 +538,4 @@ date	chapter	category	decision	promoted_to	status
 2026-09-27	1424	STATE	Delivered: 72/71 paragraphs, lead-in merge 65, no breaks. 入道 gains [except: 遁入道尊]. Present tense kept in the P52 maxim.	ledger.tsv, terminology.tsv	active
 2026-09-27	1424	PHRASE	Owner edit: 22 phrase rows (back down, doomed from the start, sucked in a sharp breath, Good lord!, bare reveal names...); 文字 may be character.	phrase-memory.tsv, terminology.tsv	active
 2026-09-27	all	MACRO	Owner Ch.1424: unquoted sounds (checker error); no invented ellipsis for a run-on; unmarked shocked reaction is italic direct thought.	style-guide.md, chat_check.py	active
+2026-09-27	1425	STATE	Delivered: 79/79 paragraphs, merges 9 and 58, display split, speaker split 42. Dan Qingjian added; 命修 may be Fate cultivator. 横亘在天机 read as 天际 (sky).	ledger.tsv, terminology.tsv	active
