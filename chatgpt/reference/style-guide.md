@@ -161,3 +161,12 @@ Repeated owner revisions establish the following default English tendencies when
 - Preserve the source's short isolated beats. Do not pad a one-line realization, reversal, or punch line.
 - When two approaches share a goal, state the common goal first and the differing method second so the contrast lands cleanly.
 - Do not over-polish away the serial-web-novel energy. Clarity and momentum outrank ornamental elegance after fidelity.
+
+### Owner flow refinements from Chapter 1422
+
+- Prefer dense action sentences when several source actions form one continuous motion. Link them with strong finite verbs instead of stopping to explain each beat.
+- Use compact comparison sentences when the source stacks traits before a reaction. Let the list build, then place the viewpoint judgment last.
+- Prefer idiomatic consequence phrasing over abstract explanation: "reap the rewards of my labor," "you can forget about leaving," "the whole world had turned against him," when supported by the source.
+- Preserve comic character contrast in the sentence itself. Bu Changming may sound arrogant while immediately proposing to run; do not smooth away that contradiction.
+- In combat, describe mechanism first only when the viewpoint character is actively diagnosing it. Otherwise prioritize visible action, impact, then interpretation.
+- When a repeated technical image is already clear, use a shorter natural callback instead of re-explaining the mechanic.
