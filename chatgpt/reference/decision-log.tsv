@@ -540,3 +540,4 @@ date	chapter	category	decision	promoted_to	status
 2026-09-27	all	MACRO	Owner Ch.1424: unquoted sounds (checker error); no invented ellipsis for a run-on; unmarked shocked reaction is italic direct thought.	style-guide.md, chat_check.py	active
 2026-09-27	1425	STATE	Delivered: 79/79 paragraphs, merges 9 and 58, display split, speaker split 42. Dan Qingjian added; 命修 may be Fate cultivator. 横亘在天机 read as 天际 (sky).	ledger.tsv, terminology.tsv	active
 2026-09-27	all	MACRO	Owner: match the raw paragraph layout line for line; bare lead-ins stay on their own line; lead-in merges and speaker/display splits superseded. chat_check --by-line.	translation-spec.md, PROJECT_INSTRUCTIONS.md, chat_check.py	active
+2026-09-27	1426	STATE	Delivered by raw line: 80/80, no breaks. Provisional: anchor point (锚点); restart kept for 重开. 入道 gains [except: 入道门].	ledger.tsv, terminology.tsv	active
