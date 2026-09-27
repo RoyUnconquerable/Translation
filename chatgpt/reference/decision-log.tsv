@@ -499,3 +499,6 @@ date	chapter	category	decision	promoted_to	status
 2026-09-26	1420	TERM	Use Bu Changming for 卜长命; retain Divination Immortal for the separate 卜仙 punchline.	terminology.tsv	active
 2026-09-26	1422	TERM	Use Absolute Perfection for 绝对圆满, Relative Perfection for 相对圆满, and three spirits as one for 三灵一体.	terminology.tsv	active
 2026-09-26	1422	MACRO	Owner revision favors denser action prose, compact trait lists before reactions, idiomatic consequence phrasing, and preserving comic contradiction without explanatory smoothing.	style-guide.md	active
+2026-09-27	1423	TERM	Use Dan Qingjian for 丹青简, the Dao Ancestor of Study.	terminology.tsv	active
+2026-09-27	1423	MACRO	Owner revision favors complete visual openings, compact principle-to-consequence exposition, contextual legacy/inheritance distinction, and immediate reaction before self-correction.	style-guide.md	active
+2026-09-27	1423	MECHANICAL	Do not promote paste artifacts (escaped ellipsis, doubled punctuation, FForgive) or the owner revision's merged source paragraphs; the standing one-target-paragraph-per-source-paragraph rule remains active.	translation-spec.md	active

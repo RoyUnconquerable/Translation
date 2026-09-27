@@ -170,3 +170,12 @@ Repeated owner revisions establish the following default English tendencies when
 - Preserve comic character contrast in the sentence itself. Bu Changming may sound arrogant while immediately proposing to run; do not smooth away that contradiction.
 - In combat, describe mechanism first only when the viewpoint character is actively diagnosing it. Otherwise prioritize visible action, impact, then interpretation.
 - When a repeated technical image is already clear, use a shorter natural callback instead of re-explaining the mechanic.
+
+### Owner flow refinements from Chapter 1423
+
+- In descriptive openings, preserve one strong image and make the English image complete: establish the visual field, then introduce the figure entering it.
+- Prefer compact exposition that moves from principle to consequence without restating the same conclusion in different words.
+- Use stronger contextual nouns when they carry the argument better: legacy for what a civilization passes forward, inheritance for an actual cultivation lineage or transmitted teaching.
+- Let transitions such as "At that thought," "As he mused," and "But he quickly caught himself" carry viewpoint movement without adding explanatory narration.
+- When praise or charm affects Lü Yang, show the immediate reaction first, then the realization that something influenced him.
+- Preserve the source's contrast between ideological positions without making either side more sympathetic than the Chinese does.

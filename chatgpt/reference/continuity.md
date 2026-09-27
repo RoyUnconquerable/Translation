@@ -204,3 +204,11 @@ traditions remain prerequisites. The live positions above supersede that window.
 - Bu Changming can calculate flaws even in a peer's relatively perfected Dao operation and exploit them directly.
 - He reveals that if he completed Feng Shui as well, he expected to split off another divine sense and reach three spirits as one, using Feng Shui to fill the weakness in his offensive methods.
 - Lü Yang connects that proposed three-spirit state to the Grand Sword Patriarch, Sanhe. The connection is a new suspicion, not yet confirmed identity or lineage.
+
+## Chapter 1423: Dan Qingjian and Dan Qiuhuo's agreement
+
+- Dan Qingjian, the Dao Ancestor of Study, records Divine Land's history as his path through the Final Kalpa. He values preserving civilization and transmitted cultivation legacy even if Divine Land and its people perish.
+- Tassel Immortal dislikes this path but does not oppose it because historical recording does not interfere with his grand Feng Shui formation.
+- Dan Qingjian reaches the entrance to the Immortal-Nurturing Land but cannot enter. He then notices a highly talented scholarly young man approaching and judges him suited to Study.
+- Inside the Immortal-Nurturing Land, Lü Yang rejects the idea that Dan Qiuhuo/Bu Changming and the Grand Sword Patriarch Sanhe are the same person; any relation is only a surviving trace.
+- Bu Changming concedes after Lü Yang traps rather than injures him. Dan Qiuhuo re-emerges, uses his Befriending the Noble attainments on Lü Yang, and agrees to let Tassel Immortal's Feng Shui formation foundation be planted inside the Immortal-Nurturing Land.
