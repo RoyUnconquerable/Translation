@@ -536,3 +536,5 @@ date	chapter	category	decision	promoted_to	status
 2026-09-27	1423	PHRASE	Owner edit (8/10): 真灵 True Spirit; 16 phrase rows (direct disciple, As expected of, How does that sound?, fool from an elder...). Paragraph joins were unintentional; source mapping stands.	terminology.tsv, phrase-memory.tsv	active
 2026-09-27	all	MACRO	Owner Ch.1423: Only when/after X did Y allowed for 才; impersonal source thought may be roman narration; records use present/future for standing plans; composed elders stay restrained.	style-guide.md	active
 2026-09-27	1424	STATE	Delivered: 72/71 paragraphs, lead-in merge 65, no breaks. 入道 gains [except: 遁入道尊]. Present tense kept in the P52 maxim.	ledger.tsv, terminology.tsv	active
+2026-09-27	1424	PHRASE	Owner edit: 22 phrase rows (back down, doomed from the start, sucked in a sharp breath, Good lord!, bare reveal names...); 文字 may be character.	phrase-memory.tsv, terminology.tsv	active
+2026-09-27	all	MACRO	Owner Ch.1424: unquoted sounds (checker error); no invented ellipsis for a run-on; unmarked shocked reaction is italic direct thought.	style-guide.md, chat_check.py	active

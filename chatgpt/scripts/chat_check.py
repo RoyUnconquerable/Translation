@@ -80,6 +80,7 @@ def chapter_input_errors(source: list[str], target: list[str]) -> list[str]:
 
 ARCHAISM_RE = re.compile(r"\b(woe is me|alas|verily|forsooth|prithee|lo and behold|thee|thou|thy)\b", re.I)
 BANNED_PHRASE_RE = re.compile(r"\b(only then did|at this moment|just at this moment|revealed an expression of)\b", re.I)
+QUOTED_SOUND_RE = re.compile(r'"[A-Z]{3,}[A-Z .!?]*"')
 # A lone ASCII period or a run of '…' in pasted Chinese is a flattened ellipsis.
 PASTE_ELLIPSIS_RE = re.compile(r"(?<![0-9A-Za-z])\.(?![0-9A-Za-z])|…+")
 REPEAT_CONNECTORS = ("with that", "at that", "just then", "meanwhile", "after all", "however", "in that case", "at this point")
@@ -103,6 +104,8 @@ def prose_findings(target: list[str]) -> tuple[list[str], list[str]]:
     for index, para in enumerate(body, 2):
         if para.strip().rstrip(".").strip().lower() in {"just then", "but just then", "at that moment"}:
             errors.append(f"paragraph {index}: standalone lead-in fragment")
+        if QUOTED_SOUND_RE.search(para):
+            errors.append(f"paragraph {index}: quoted sound effect {QUOTED_SOUND_RE.search(para).group(0)}; sounds are unquoted")
         if ARCHAISM_RE.search(para):
             errors.append(f"paragraph {index}: archaism {ARCHAISM_RE.search(para).group(0)!r}")
         if BANNED_PHRASE_RE.search(para):

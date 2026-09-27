@@ -594,6 +594,10 @@ class AuthorityTests(unittest.TestCase):
         bad = ["title", "He said, \"Let's go.\"", "Someone asked who."]
         self.assertTrue(chat_check.align_display_splits(src, bad, [], ["2:2"])[2])
 
+    def test_quoted_sound_effect_is_an_error(self):
+        errors, _ = chat_check.prose_findings(["Chapter 1: Test", "\"BOOM!\"", "BOOM!", "\"Oho...\""])
+        self.assertEqual(len([e for e in errors if "quoted sound" in e]), 1)
+
     def test_paste_ellipsis_marks_are_counted(self):
         pattern = chat_check.PASTE_ELLIPSIS_RE
         self.assertEqual(len(pattern.findall("他了解不深.我这位道友")), 1)

@@ -92,7 +92,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **Direct thought** is first person, present tense, italic: source '…' marking, words introduced as thinking, and first-person private speech.
 - A fragment that sums up the focal character's stance (什么X，Y。 before his line) is direct thought, italic: *The fall of the Ancient Past? The Final Kalpa of the Divine Land?*
 - **Free indirect thought** is third person, past tense, roman, with backshifted modals: 他怎么可能输 is "How could he possibly lose?", never "How can I lose?". Its markers are rhetorical questions, "Yes... but...", "After all,", exclamations.
-- **One thought run, one mode.** Adjacent sentences or paragraphs of the same thought, with no narrated action between them, stay in one mode and one tense. Switch between thought and narration only at a paragraph break or an action beat, never mid-sentence. An unmarked run takes the mode of its first sentence; a source-marked run is italic throughout.
+- **One thought run, one mode.** Adjacent sentences or paragraphs of the same thought, with no narrated action between them, stay in one mode and one tense. Switch between thought and narration only at a paragraph break or an action beat, never mid-sentence. An unmarked run takes the mode of its first sentence; a source-marked run is italic throughout. An unmarked burst of shocked reaction in the character's own voice (…居然是世尊！？开什么玩笑！) is italic direct thought (owner Ch.1424).
 - Impersonal reasoning in source thought marks (no I, no address) may join the narration as roman past tense (owner Ch.1423: "Nurturing Life centered on the self... Their Daos were simply different."); first-person or addressed thought stays italic.
 - Rewritten history uses tense to show the new established past; reveal no later knowledge.
 
@@ -113,7 +113,8 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 - Digits with commas for exact values, words for rhetorical magnitudes; li converted to miles by value, in digits, with "some" for a round figure. Scenic vastness (涵盖万里) is rhetorical: "thousands of miles". Proportions of likeness (八分相似) are idiomatic: "nearly identical".
 - Contractions except the registers in section 7; never 'd forms.
-- A lone "." or "…" in the pasted Chinese is a flattened ellipsis: keep it as "..." (the checker warns when one is lost).
+- A lone "." or "…" in the pasted Chinese is a flattened ellipsis: keep it as "..." (the checker warns when one is lost). Two sentences run together with no mark are a sentence break, not an ellipsis (owner Ch.1423, 1424).
+- Sounds stay unquoted even when the source quotes them ("轰隆！" is BOOM!); the checker errors on a quoted sound.
 - Written records (a chronicle, a ledger) state past events in past tense and standing arrangements in present or future ("Returning Fate's True Spirit serves as collateral. Profound Virtue will travel...").
 - Quotation marks, sounds, ellipses, the dash ban and bold 【...】 displays follow Reference_Formatting_Rules.md; titles and system text follow their owner references.
 
