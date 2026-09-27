@@ -594,6 +594,13 @@ class AuthorityTests(unittest.TestCase):
         bad = ["title", "He said, \"Let's go.\"", "Someone asked who."]
         self.assertTrue(chat_check.align_display_splits(src, bad, [], ["2:2"])[2])
 
+    def test_raw_lines_mirror_raw_layout(self):
+        text = "第1章 题\n\n  甲说：\n  “走吧。”\n\n  然而就在这时。\n\n  ---\n\n  乙。"
+        self.assertEqual(chat_check.paragraphs(chat_check.raw_lines(text), allow_scene_breaks=True),
+                         ["第1章 题", "甲说：", "“走吧。”", "然而就在这时。", "乙。"])
+        errors, _ = chat_check.prose_findings(["Chapter 1: T", "But just then."], by_line=True)
+        self.assertFalse(any("standalone lead-in" in e for e in errors))
+
     def test_quoted_sound_effect_is_an_error(self):
         errors, _ = chat_check.prose_findings(["Chapter 1: Test", "\"BOOM!\"", "BOOM!", "\"Oho...\""])
         self.assertEqual(len([e for e in errors if "quoted sound" in e]), 1)

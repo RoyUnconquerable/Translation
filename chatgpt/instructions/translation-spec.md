@@ -69,22 +69,20 @@ goes in FLAGS, not into the text.
 
 ## Paragraph mapping
 
-- Write one target paragraph per source paragraph, in the same order. Do not
-  merge or split prose paragraphs except as listed below.
-- A bare one-line lead-in (就在这时。, 然而就在这时。, 话音未落。, 与此同时。) joins
-  the next paragraph as its opening words (owner Ch.1414, 1415, 1418;
-  professional practice never leaves "Just then." standing alone). When the
-  next paragraph is speech, add the smallest speaker frame ("Just then, a
-  voice called out: ..."). A fragment that
-  sets a place (几乎同时，神州各地。) stays its own paragraph and ends with a
-  period. Record each merge by the lead-in's source index for
-  `chat_check.py --merge-into-next`.
-- A source paragraph that holds two speakers' lines is split so the second
-  speaker opens a new paragraph (owner Ch.1422). Record it as SOURCE:COUNT
-  for `chat_check.py --speaker-splits`; each new paragraph opens with a quote.
-- The other exception is a display-only split. Genuine panel lines or menu items
-  and the narration that adjoins them may become separate paragraphs. Record
-  each split as SOURCE:COUNT for the checker.
+- Match the raw layout (owner Ch.1425): write one target paragraph for every
+  non-empty line of the raw, in the same order, including lines the raw breaks
+  inside one block (a narration line and the speech line under it, a bold
+  display under its lead-in, two speakers' lines). Do not merge or split.
+- A bare lead-in line (就在这时。, 然而就在这时。, 与此同时。) stays its own line
+  ("But just then.", "Meanwhile."), exactly as the raw has it. The Ch.1414-1418
+  lead-in merges are superseded.
+- When a narration line leads into speech on the next line, end it with a
+  period (owner Ch.1424); a colon still leads into a bold display.
+- A refrain split over two raw lines becomes two complete sentences, never one
+  sentence broken across paragraphs.
+- Check with `chat_check.py --by-line`. `--merge-into-next`, `--speaker-splits`
+  and `--display-splits` remain only for old chapters mapped by blank-line
+  blocks.
 - Keep the title and the chapter's final prose. Omit the source's closing
   (本章完) marker (owner Ch.1411-1413): delete that last line from the prepared
   source file before running the scripts, so the counts still match. A

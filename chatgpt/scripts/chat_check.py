@@ -95,14 +95,20 @@ def narration_only(paragraph: str) -> str:
     return re.sub(r"\*[^*]+\*", " ", text)
 
 
-def prose_findings(target: list[str]) -> tuple[list[str], list[str]]:
+def raw_lines(text: str) -> str:
+    """Treat every non-empty raw line as its own paragraph (owner Ch.1425)."""
+    normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
+    return "\n\n".join(line.strip() for line in normalized.split("\n") if line.strip())
+
+
+def prose_findings(target: list[str], *, by_line: bool = False) -> tuple[list[str], list[str]]:
     """Return (errors, warnings) for chapter-level prose tells."""
     errors: list[str] = []
     warnings: list[str] = []
     body = target[1:]
     joined = "\n".join(body).lower()
     for index, para in enumerate(body, 2):
-        if para.strip().rstrip(".").strip().lower() in {"just then", "but just then", "at that moment"}:
+        if not by_line and para.strip().rstrip(".").strip().lower() in {"just then", "but just then", "at that moment"}:
             errors.append(f"paragraph {index}: standalone lead-in fragment")
         if QUOTED_SOUND_RE.search(para):
             errors.append(f"paragraph {index}: quoted sound effect {QUOTED_SOUND_RE.search(para).group(0)}; sounds are unquoted")
@@ -232,6 +238,10 @@ def main() -> None:
         help="Reviewed display-only splits: source index and total target paragraphs.",
     )
     parser.add_argument(
+        "--by-line", action="store_true",
+        help="Map one target paragraph to every non-empty raw line, matching the raw layout (owner Ch.1425).",
+    )
+    parser.add_argument(
         "--speaker-splits", nargs="*", default=[], metavar="SOURCE:COUNT",
         help="Owner-style splits of a source paragraph holding two speakers; each new part opens with a quote.",
     )
@@ -244,6 +254,8 @@ def main() -> None:
     glossary = common.load_glossary(root)
     phrases = common.load_phrase_memory(root)
     source_text = args.source.read_text(encoding="utf-8")
+    if args.by_line:
+        source_text = raw_lines(source_text)
     target_text = args.target.read_text(encoding="utf-8")
     source = paragraphs(source_text, allow_scene_breaks=True)
     target = paragraphs(target_text, allow_scene_breaks=True)
@@ -321,7 +333,7 @@ def main() -> None:
         if missing:
             warnings.append(f"paragraph {index}: check digits {', '.join(missing)}")
 
-    prose_errors, prose_warnings = prose_findings(target)
+    prose_errors, prose_warnings = prose_findings(target, by_line=args.by_line)
     errors.extend(prose_errors)
     warnings.extend(prose_warnings)
 

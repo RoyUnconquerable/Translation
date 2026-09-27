@@ -70,8 +70,11 @@ through the Stage 1 bilingual check.
 2.5 Run the mechanical check on the exact text you will deliver:
 
 ```text
-python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-before <indices>
+python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --by-line --scene-break-before <indices>
 ```
+
+- Always pass `--by-line`: one target paragraph per non-empty raw line (owner
+  Ch.1425). Scene-break indices then count raw lines.
 
 - Always pass `--scene-break-before`. With no reviewed breaks, pass the flag
   with no indices. If you omit the flag and the source has no `---`, the

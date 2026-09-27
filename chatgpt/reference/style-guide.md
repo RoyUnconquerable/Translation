@@ -49,15 +49,15 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 **Sentences.** Narration sentences average about 14 to 19 words and vary: a subordinate cause, a main action, a short landing. Outside action, never four or more consecutive narration sentences under eight words. About half to two thirds of sentences open subject-first; the rest open with a time clause, a cause or a connector. Never start three sentences in a row with the same word.
 
-**Paragraphs.** Paragraph boundaries follow the source (translation-spec.md), so rhythm is built inside them:
+**Paragraphs.** Paragraphs match the raw line for line (translation-spec.md), so rhythm is built inside them:
 - A speaker's beat and line share a paragraph; the listener's reaction belongs to the next source paragraph. One focal mind per paragraph.
 - A run of one-line paragraphs is capped at three or four and resolves into a fuller paragraph, except a burst of voices or sounds at a climax.
 - A paragraph's last sentence lands on a consequence or evaluation of normal length; stingers and punch lines are rationed to a handful per chapter, at turns and at the end.
 - A narration paragraph ends in a colon only when the speech follows in the same paragraph. A complete action sentence before speech ends with a period ("went straight to the point.", "came rumbling over."); a colon follows a speech verb or a voice arriving.
-- Two speakers in one source paragraph are split so each has their own paragraph (owner Ch.1422; translation-spec.md).
+- Every raw line is its own paragraph, so two speakers never share one (translation-spec.md).
 - A long speech keeps one argument step per paragraph, as the source divides it.
 
-**Fragments** are rare and functional: sound effects, a time-lapse list, an appositive inside free indirect thought, a deliberate one-word beat. Zero to four per chapter, never two in a row except sounds. A bare lead-in such as 就在这时。 is never a standalone "Just then."; it becomes the opening of the next paragraph (translation-spec.md), with a speaker frame when the next line is speech ("Just then, a voice called out: ...").
+**Fragments** are rare and functional: sound effects, a time-lapse list, an appositive inside free indirect thought, a deliberate one-word beat. Zero to four per chapter, never two in a row except sounds. A bare lead-in line such as 然而就在这时。 stays its own line ("But just then."), because paragraphs match the raw layout line for line (owner Ch.1425; translation-spec.md).
 
 **Long sentences in speech and thought.** A sentence carrying an embedded list, three steps of a plan, or a counterfactual tail splits into two or three plain sentences ("...are usually like X, Y, or Z. Their foundation is status, and..."; "I haven't mastered Feng Shui yet. Otherwise, I should've been able to..."). A consequence joined by "so" or "and" in narration may also take its own sentence.
 
@@ -121,7 +121,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 ## 12. Tells to avoid
 
 - Stock signposts and calques: "at this moment", "right now" as filler, a bare "only then", bare "with that" after a thought, "one after another" as filler, "in his heart", "couldn't help but", "revealed an expression of", "it's just that" as a reflex for 只是 (it is fine when it opens a real qualification: "It's just that aside from Dan Qiuhuo, ..."), bare "within expectations" (with an owner it is fine: "within the Dao Venerable's expectations").
-- Standalone "Just then." or any bare-lead-in fragment.
+- A lead-in fragment the raw does not have on its own line.
 - Choppy runs of short unlinked sentences outside action; or the opposite, a sentence carrying a nested chain.
 - "And" chains hiding a cause or contrast; participle pileups; dangling openers; noun stacks and long possessives.
 - A thought that switches between italic and roman, or between present and past, with no break.
