@@ -1,16 +1,12 @@
 # Style guide
 
-How the English is written. Terms, names and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles only. Provenance is in decision-log.tsv and consolidation-history.md (owner revisions of Ch. 1411-1423 (1420 final 9/10; 1421 draft 7, owner edit 8.5; 1423 owner edit 8) and professional craft studies of 35 sampled Wuxiaworld chapters). Worked pairs are in craft-examples.md.
+How the English is written. Terms and fixed wording live in the glossary, phrase memory and the four owner references; this file holds principles. Provenance: decision-log.tsv and consolidation-history.md (owner revisions Ch.1411-1426; craft studies of 35 Wuxiaworld chapters). Worked pairs: craft-examples.md.
 
 **How to use owner revisions.** The owner's edited chapters are better than the drafts and show the owner's preferences, but they are not a ceiling. Take the principle a revision shows, not its exact wording, and aim for professional light-novel quality beyond it. Explicit term, name and fixed-wording rulings are binding.
 
 ## 1. The book and its reader
 
-A comic, system-driven xianxia serial told close to one protagonist. Lü Yang is blunt, sardonic and shameless; the Dao Lords and Dao Ancestors are composed. Chapters move fast and end on a hook. The English should read like the polished middle and late work of professional xianxia translators: clear, quick, idiomatic, with real sentence architecture. Lines in that voice, from owner revisions:
-
-- "The Dao Ancestors really did have plans of their own."
-- "Only one place lies beyond its reach, and because of that, the formation remains incomplete."
-- *This bastard dragged me into it!*
+A comic, system-driven xianxia serial told close to one protagonist. Lü Yang is blunt, sardonic and shameless; the Dao Lords and Dao Ancestors are composed. Chapters move fast and end on a hook. The English should read like the polished middle and late work of professional xianxia translators: clear, quick, idiomatic, with real sentence architecture. In that voice: "The Dao Ancestors really did have plans of their own." *This bastard dragged me into it!*
 
 ## 2. Priorities
 
@@ -24,7 +20,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 ## 3. Agency
 
 - **The doer is the subject and the doing is a verb.** Name the real subject of a claim; lead with the agent, not an "At the cost of..." opener; unpack nouns that hide actions. Check the subject against the source's actor: 对方, and the objects of 逼, 借助, 让, decide who acts. No "anyone" or "could be used to" when the source implies a doer.
-- **Emotions and body parts are subjects only for involuntary reactions.** He sensed danger, not a sense of danger appeared in his heart.
+- **Emotions and body parts are subjects only for involuntary reactions.** He sensed danger, not a sense of danger appeared in his heart; "Si Sui showed a rare trace of displeasure", not "displeasure showed on his face". A shared look that "says" something takes italics ("wore expressions that said, *Then that's not surprising.*").
 - **Re-anchor with the name, continue with pronouns.** Name a character at the start of a paragraph, at a change of focal mind, and whenever another character of the same gender has just acted. Faceless figures take a role or count. A multiword title appears at most once per sentence; never hang a possessive on a phrase longer than three words ("the name of the second Dao Ancestor of Nurturing Life", not "the second Dao Ancestor of Nurturing Life's name").
 - **Reports name the listener and the content** ("He then told the Immortal Recorder everything about Returning Fate's plan"), never a bare "He explained".
 - **Generic members of a class take singular they** ("each Dao Ancestor has their own").
@@ -38,11 +34,11 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **A discovered cause that is itself an exclamation** (只因…竟然…！) takes its own sentence after the reaction: "...only to freeze in astonishment. This place actually gave him a faint sense of the Other Shore!"
 - **Contrast openers:** 然而 and 不过 usually become a sentence-initial "But". "Yet" and mid-sentence "however" are occasional variety, not the default.
 - **Connectors match the logic:** after all gives a reason already known; so and therefore give a result; but and however a contrast; of course a concession; besides a further reason. A source marker needs a carrier unless English order already shows the relation.
-- **Frame markers vanish or fold into the action.** 想到这里, 一念至此 and 说到这里 are usually rendered as nothing, or as the action itself ("His mind made up, he went on"). "With that" alone follows only speech. When a thought leads to an action, "With that thought," is the owner default (Ch.1420, 1422); otherwise fold it into the action. No connector phrase more than twice in a chapter.
+- **Frame markers.** 一念至此 and 想到这里 before an action are "With that thought," or "At that thought," (owner default); 说到这里 folds into the action ("At the question,", "At this,"). "With that" alone follows only speech. No connector phrase more than twice in a chapter.
 - **说到这里 before another character's action is an interruption:** "Before he could finish, ...". 之所以…是为了 is "The reason... was to...". An overlap takes "Even as".
 - **Anchor time at the start of a sentence or paragraph.** For backstory, past perfect for the first verb or two, then simple past. When an effect appears before its cause, flag the explanation ("In truth,", "As it turned out,").
 - **One main verb carries the key action;** a participle tail carries only a simultaneous action or an immediate result, at most one per sentence. Untangle nested clauses into plain order.
-- **Calques.** 如果说 X, 那 Y is a contrast. 才 is not automatically "only then", and a bare "only then" is banned; "Only when X did Y" or "Only after X did Y" is the owner's form for 直到…才 and 做完…才 (Ch.1423). 另一边 is "meanwhile". 还 in a counterfactual is "never", not "still".
+- **Calques.** 如果说 X, 那 Y is a contrast. 才 is not automatically "only then", and a bare "only then" is banned; "Only when X did Y" or "Only after X did Y" is the owner's form for 直到…才 and 做完…才 (Ch.1423). 另一边 is "On the other side" within one scene and "Meanwhile" for a cut elsewhere. 还 in a counterfactual is "never", not "still".
 - **Negotiation and hesitation run in order.** An offer, then the other side's private assessment, then the reply. Before a reveal, hesitation is one to three sentences: a visible signal, the option, the reason, the counterweight, the decision, then the line.
 
 ## 5. Rhythm
@@ -50,8 +46,8 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 **Sentences.** Narration sentences average about 14 to 19 words and vary: a subordinate cause, a main action, a short landing. Outside action, never four or more consecutive narration sentences under eight words. About half to two thirds of sentences open subject-first; the rest open with a time clause, a cause or a connector. Never start three sentences in a row with the same word.
 
 **Paragraphs.** Paragraphs match the raw line for line (translation-spec.md), so rhythm is built inside them:
-- A speaker's beat and line share a paragraph; the listener's reaction belongs to the next source paragraph. One focal mind per paragraph.
-- A run of one-line paragraphs is capped at three or four and resolves into a fuller paragraph, except a burst of voices or sounds at a climax.
+- A beat and a line share a paragraph only when the raw puts them on one line. One focal mind per paragraph.
+- Runs of one-line raw paragraphs cannot be merged; vary sentence length and shape across them instead.
 - A paragraph's last sentence lands on a consequence or evaluation of normal length; stingers and punch lines are rationed to a handful per chapter, at turns and at the end.
 - A narration paragraph ends in a colon only when the speech follows in the same paragraph. A complete action sentence before speech ends with a period ("went straight to the point.", "came rumbling over."); a colon follows a speech verb or a voice arriving.
 - Every raw line is its own paragraph, so two speakers never share one (translation-spec.md).
@@ -59,13 +55,13 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 
 **Fragments** are rare and functional: sound effects, a time-lapse list, an appositive inside free indirect thought, a deliberate one-word beat. Zero to four per chapter, never two in a row except sounds. A bare lead-in line such as 然而就在这时。 stays its own line ("But just then."), because paragraphs match the raw layout line for line (owner Ch.1425; translation-spec.md).
 
-**Long sentences in speech and thought.** A sentence carrying an embedded list, three steps of a plan, or a counterfactual tail splits into two or three plain sentences ("...are usually like X, Y, or Z. Their foundation is status, and..."; "I haven't mastered Feng Shui yet. Otherwise, I should've been able to..."). A consequence joined by "so" or "and" in narration may also take its own sentence.
+**Long sentences in speech and thought.** A sentence carrying an embedded list, three steps of a plan, or a counterfactual tail splits into two or three plain sentences ("I haven't mastered Feng Shui yet. Otherwise, I should've been able to..."). A consequence joined by "so" or "and" in narration may also take its own sentence.
 
 **Repetition.** A refrain, taunt or doubled word keeps its repetition, and a repeated source phrase keeps one English wording in the chapter (唯有 X 不同 twice is "different" twice). Everything else avoids echo: the same verb, emotion word or connector twice in a paragraph, or a fixed term twice in one sentence, is a defect. An argument keeps one word chain across its paragraphs (破绽, 缺漏 and 缺 are all flaws; 修复 and 补 are mend). A long term repeated in the next clause becomes "one of them" or a pronoun; a concept whose key term was just named is described plainly ("a split between good and evil").
 
-**Description.** Panoramas use concrete, active verbs (forests blanketed the land, metal and stone slumbered, streams murmured, fire blazed; he swept his gaze across it) and usually end on a period. The sight takes its own main verb ("sprawled across the earth below"), never "came into view". Compress elaborated noun phrases ("a faint sense of the Other Shore", not "a hint of the feeling that only the Other Shore could give"). An emphatic 是X！ may take "itself". Vivid must stay exact: the verb keeps the source action ("allowed the light to strike him head-on", not "let it crash over him"; "calculated the flaw", not "pinpointed where it falters").
+**Description.** Panoramas use concrete, active verbs (forests blanketed the land, metal and stone slumbered, streams murmured, fire blazed; he swept his gaze across it) and usually end on a period. The sight takes its own main verb ("sprawled across the earth below"), never "came into view". Compress elaborated noun phrases ("a faint sense of the Other Shore"). An emphatic 是X！ may take "itself". Vivid must stay exact: the verb keeps the source action ("allowed the light to strike him head-on", not "let it crash over him"; "calculated the flaw", not "pinpointed where it falters").
 
-**Scene devices.** A self-answering question can deliver an outcome; an escalation climbs one short paragraph per rung; a power reveal gives the result, then one-line reactions, then the insider's view; a comic coda closes on a short, petty or smug line. Chapters end on the hook. A deal or scene closes with a short settling clause, then turns to the protagonist ("With the deal settled, X departed. Lü Yang, however, was in no hurry...").
+**Scene devices.** A self-answering question can deliver an outcome; an escalation climbs one rung per paragraph; a power reveal gives the result, the reactions, then the insider's view; a comic coda closes short, petty or smug. Chapters end on the hook. A deal or scene closes with a short settling clause, then turns to the protagonist ("With the deal settled, X departed. Lü Yang, however, was in no hurry...").
 
 ## 6. Certainty and strength
 
@@ -82,9 +78,8 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - **Honorific compounds are fixed in the glossary** (老前辈, 师弟, 道友); never an ad hoc "old Senior".
 - **Tags by cast size;** one attribution per line; a beat can replace said; never invent a gesture or tone. Dialogue is never italicized.
 - **Composed elders and scholars** speak uncontracted and restrained ("It has its use"); their insults are measured ("that fool").
-- **Colloquial is not slang.** Dao Ancestors, even brash ones, speak plain modern English: "I understand now", "afraid", "ruin", "that fellow", "Tell him to stop dreaming"; never "I get it", "scared", "wreck", "that guy", "dream on". The reading-experience priority does not license slang above a speaker's rank. A source parallel stays only when it reads naturally ("I'll run. Let's see how he finds me then!" beats "I'll dare to run").
+- **Colloquial is not slang.** Dao Ancestors, even brash ones, speak plain modern English ("I understand now", "afraid", "ruin", "that fellow"), never "I get it", "scared", "wreck", "that guy"; the reading-experience priority does not license slang above a speaker's rank. A source parallel stays only when it reads naturally ("I'll run. Let's see how he finds me then!" beats "I'll dare to run").
 - **Casual and complaining speakers talk in short spoken sentences:** contractions, declarative questions ("You're confident you can survive...?"), quick tags ("Why bother?"), "either" on a parallel line, present perfect ("I've already made up my mind").
-- **Negotiation shows the gap between face and mind.**
 
 ## 8. Tense, person and thought
 
@@ -93,7 +88,7 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - A fragment that sums up the focal character's stance (什么X，Y。 before his line) is direct thought, italic: *The fall of the Ancient Past? The Final Kalpa of the Divine Land?*
 - **Free indirect thought** is third person, past tense, roman, with backshifted modals: 他怎么可能输 is "How could he possibly lose?", never "How can I lose?". Its markers are rhetorical questions, "Yes... but...", "After all,", exclamations.
 - **One thought run, one mode.** Adjacent sentences or paragraphs of the same thought, with no narrated action between them, stay in one mode and one tense. Switch between thought and narration only at a paragraph break or an action beat, never mid-sentence. An unmarked run takes the mode of its first sentence; a source-marked run is italic throughout. An unmarked burst of shocked reaction in the character's own voice (…居然是世尊！？开什么玩笑！) is italic direct thought (owner Ch.1424).
-- Impersonal reasoning in source thought marks (no I, no address) may join the narration as roman past tense (owner Ch.1423: "Nurturing Life centered on the self... Their Daos were simply different."); first-person or addressed thought stays italic.
+- Impersonal reasoning in source thought marks (no I, no address) may join the narration as roman past tense (owner Ch.1423); first-person or addressed thought stays italic.
 - Rewritten history uses tense to show the new established past; reveal no later knowledge.
 
 ## 9. Idioms, images and wordplay
@@ -115,12 +110,12 @@ Supplying what Chinese leaves implicit (the elided actor, an implied cause or ti
 - Contractions except the registers in section 7; never 'd forms.
 - A lone "." or "…" in the pasted Chinese is a flattened ellipsis: keep it as "..." (the checker warns when one is lost). Two sentences run together with no mark are a sentence break, not an ellipsis (owner Ch.1423, 1424).
 - Sounds stay unquoted even when the source quotes them ("轰隆！" is BOOM!); the checker errors on a quoted sound.
-- Written records (a chronicle, a ledger) state past events in past tense and standing arrangements in present or future ("Returning Fate's True Spirit serves as collateral. Profound Virtue will travel...").
+- Written records state past events in past tense and standing arrangements in present or future ("...serves as collateral. Profound Virtue will travel...").
 - Quotation marks, sounds, ellipses, the dash ban and bold 【...】 displays follow Reference_Formatting_Rules.md; titles and system text follow their owner references.
 
 ## 12. Tells to avoid
 
-- Stock signposts and calques: "at this moment", "right now" as filler, a bare "only then", bare "with that" after a thought, "one after another" as filler, "in his heart", "couldn't help but", "revealed an expression of", "it's just that" as a reflex for 只是 (it is fine when it opens a real qualification: "It's just that aside from Dan Qiuhuo, ..."), bare "within expectations" (with an owner it is fine: "within the Dao Venerable's expectations").
+- Stock signposts and calques: "at this moment", filler "right now", a bare "only then", bare "with that" after a thought, filler "one after another", "in his heart", "couldn't help but", "revealed an expression of", reflex "it's just that" for 只是 (fine for a real qualification), bare "within expectations" (fine with an owner: "within the Dao Venerable's expectations").
 - A lead-in fragment the raw does not have on its own line.
 - Choppy runs of short unlinked sentences outside action; or the opposite, a sentence carrying a nested chain.
 - "And" chains hiding a cause or contrast; participle pileups; dangling openers; noun stacks and long possessives.

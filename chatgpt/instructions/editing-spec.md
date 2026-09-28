@@ -25,7 +25,7 @@ Stage 2 never changes:
 - supported meaning, including premises, conditions and negation;
 - degree and certainty, including every source hedge, and no new ones;
 - terms, owner-fixed wording and identities;
-- paragraph boundaries (except the lead-in merges in `translation-spec.md`),
+- paragraph boundaries (one paragraph per raw line, `translation-spec.md`),
   paragraph order and revelation order in a paragraph;
 - fixed displays, titles and recurring system text;
 - deliberate one-line beats.

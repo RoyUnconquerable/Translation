@@ -55,10 +55,9 @@ located proposal, not an automatic new rule or permission to edit the novel.
 - No terminal period or exclamation mark immediately before the closing bracket. Keep
   terminal question marks and three-dot ellipses, and preserve punctuation inside the text.
   Use `Reference_Talents_and_Hundred_Lives.md` for exact recurring text and menu numbering.
-- The owner authorizes an exception to one-source-paragraph/one-target-paragraph for
-  display layout only: separate actual panel lines or menu items and their adjoining
-  narration without changing wording, information or order. Record the source paragraph
-  and resulting target count. All other source paragraphs remain intact; the only merge is the owner-style one-line lead-in merge in translation-spec.md (owner Ch.1414-1419).
+- Paragraphs match the raw layout line for line (owner Ch.1425): each display line
+  is already its own raw line, so no display split, lead-in merge or other regrouping
+  is made.
 - Source brackets alone do not make a display. Inline concepts, names and attack call-outs
   remain ordinary inline text unless source context or an explicit owner ruling makes them
   displays. Do not promote every existing manuscript bracket to a universal panel rule.

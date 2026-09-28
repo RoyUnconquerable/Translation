@@ -79,19 +79,14 @@ python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --by-line --sc
 - Always pass `--scene-break-before`. With no reviewed breaks, pass the flag
   with no indices. If you omit the flag and the source has no `---`, the
   checker skips the reviewed-position check.
-- Indices are source content indices: the title is 1, and a standalone `---`
-  is not counted.
-- For an owner-style lead-in merge, add `--merge-into-next SOURCE`, where
-  SOURCE is the lead-in's source index (`translation-spec.md`).
-- For a two-speaker paragraph split, add `--speaker-splits SOURCE:COUNT`
-  (original source index; each new part opens with a quote).
-- For a display-only split, add `--display-splits SOURCE:COUNT` (for example
-  `8:3`). COUNT is the total number of target paragraphs for that source
-  paragraph, and SOURCE is 2 or higher.
+- Indices count raw lines: the title is 1, and a standalone `---` is not
+  counted.
+- Old flags (`--merge-into-next`, `--speaker-splits`, `--display-splits`)
+  apply only to chapters before Ch.1425; never use them for new chapters.
 - Fix real failures in the affected spans and rerun. Adjudicate a lexical false
   positive against the source, record it for maintenance, and never call it a
   clean PASS. Resolve digit warnings against the source quantities.
-- The checker also reports prose tells: standalone lead-in fragments, archaisms
+- The checker also reports prose tells: quoted sound effects, archaisms
   and banned calques (errors), and 'you' or present tense in narration, runs of
   short sentences, overused connectors and long paragraphs (warnings). Resolve
   every warning or justify it in FLAGS.

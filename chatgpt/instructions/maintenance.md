@@ -11,6 +11,27 @@ runs only after delivery (`workflow.md`).
 - An explicit owner correction authorizes its own verified update. Do not ask
   for whole-chapter approval, and do not wait for a feedback-only prompt.
 
+## Standing owner conventions
+
+- A turn is either a Chinese chapter (translate, deliver the complete chapter
+  in chat with FLAGS, then log it) or the owner's edited English ("note the
+  changes"): compare, record durable rules, validate, commit, push, summarize.
+- Grammar or typing slips in the owner's edit are slips, not preferences.
+  Where the owner reads the Chinese differently, ignore it without flagging.
+- Owner paragraph joins or splits are unintentional; the raw layout governs.
+  When the owner asks for their chapter back, return it on the raw layout with
+  slips and glossary misses fixed and nothing else changed.
+- Record the owner's rating, when given, in the ledger evidence.
+- Push only to the working branch named in the session's opening message
+  (claude/compassionate-johnson-0ql4ot since 2026-09-26), never the canonical
+  branch in state.json.
+- Gate commits on the checks with `set -o pipefail`, so a failing test stops
+  the commit.
+- Research samples are random and spread across the beginning, middle and end
+  of novels; aggregators only, read-only, no chapter text saved, quotes under
+  ten words.
+- Replies to the owner never use em dashes.
+
 ## Compare once
 
 Use the exact source, the delivered draft and the owner's version. Make one

@@ -9,7 +9,7 @@ wording into other scenes.
 
 The bank is capped and refreshed under the exemplar-bank rule in
 `instructions/maintenance.md`. Every entry comes from an owner revision
-(Ch. 1412-1419). Owner lines show direction, not a ceiling: copy the
+(Ch. 1412-1421). Owner lines show direction, not a ceiling: copy the
 mechanism, not the wording.
 
 ## 3. Name the real subject (owner Ch. 1417 P7)
@@ -82,13 +82,6 @@ mechanism, not the wording.
 - Repaired: The Dao Ancestors really did have plans of their own.
 - Mechanism: an exclamatory comment with no first person is free indirect narration, roman and past.
 
-## 5. Split stacked observations into beats (owner Ch. 1417 P11)
-
-- Chinese: Purely external; the status is the Dao Venerable's method? Strange, strange [古怪古怪].
-- Stiff: It's purely external, and the status is a technique of the Dao Venerable's? How strange.
-- Repaired: It's entirely external. And that status... is it one of the Dao Venerable's methods? Strange, very strange.
-- Mechanism: each observation gets its own beat, the question gets a pause, and the doubled word repeats.
-
 ## 4. One main verb, result as a tail (owner Ch. 1417 P70)
 
 - Chinese: settle it once and for all [一劳永逸], end the Kalpa before it begins, thereby [继而] change the ending of destruction.
@@ -138,7 +131,7 @@ mechanism, not the wording.
 - Repaired: With the deal settled, the Dao Ancestor of Feng Shui departed. Lü Yang, however, was in no hurry...
 - Mechanism: an absolute clause closes the deal, and "however" marks the change of focal character.
 
-## 6. Panorama verbs and a discovered cause (owner Ch. 1421)
+## 5. Panorama verbs and a discovered cause (owner Ch. 1421)
 
 - Stiff: he was instantly stunned, because this place actually gave him a hint of the feeling that only the Other Shore could give!
 - Repaired: ...only to freeze in astonishment. This place actually gave him a faint sense of the Other Shore!
