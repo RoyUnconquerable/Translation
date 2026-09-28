@@ -870,3 +870,13 @@ exclamations and stock reactions, and more tells. Where the studies
 conflicted with owner rulings (quoted thoughts, bare onomatopoeia, dashes,
 translated names), the owner rulings stand.
 
+
+## 2026-09-28: Ch.1427 owner edit
+
+The owner judged parts of the draft indistinct or off. Promoted: contractions
+for every speaker and the book's panels; comma after speech verbs; named
+viewers and witnesses; plain acts over figurative paraphrase; claim-first
+speech; clear source idiom images over culture-bound English idioms; per-line
+mode in unmarked thought runs. Style guide trimmed to stay under its target;
+seven older craft triples replaced by four Ch.1427 ones (cap 16). The by-line
+checker now accepts an inline display on a narration lead-in line.

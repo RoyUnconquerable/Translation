@@ -491,6 +491,23 @@ class AuthorityTests(unittest.TestCase):
         self.assertNotEqual(missing.returncode, 0)
         self.assertIn("missing reviewed scene break", missing.stdout)
 
+    def test_by_line_keeps_inline_display_on_its_raw_line(self):
+        self.assertTrue(chat_check.inline_display_line("书上浮现字迹：【测试。】"))
+        self.assertFalse(chat_check.inline_display_line("【测试。】"))
+        self.assertFalse(chat_check.inline_display_line("【养仙地】，他转过身。"))
+        source_text = "第1章 测试\n书上浮现字迹：【测试。】\n"
+        target_text = "Chapter 1: Test\n\nWords appeared: **【Test】**\n"
+        with tempfile.TemporaryDirectory() as tmp:
+            source, target = Path(tmp) / "source.txt", Path(tmp) / "target.txt"
+            source.write_text(source_text, encoding="utf-8")
+            target.write_text(target_text, encoding="utf-8")
+            by_line = subprocess.run(
+                [sys.executable, str(SCRIPTS / "chat_check.py"), str(source),
+                 str(target), "--by-line", "--scene-break-before"],
+                capture_output=True, text=True,
+            )
+        self.assertNotIn("must occupy its own paragraph", by_line.stdout)
+
     def test_approved_scripture_display_cannot_be_flattened(self):
         source = "【吾疾天地不仁，大道不均，今为尔等均之！】"
         phrases = common.load_phrase_memory(self.root)

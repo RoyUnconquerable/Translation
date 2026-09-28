@@ -9,15 +9,8 @@ wording into other scenes.
 
 The bank is capped and refreshed under the exemplar-bank rule in
 `instructions/maintenance.md`. Every entry comes from an owner revision
-(Ch. 1412-1421). Owner lines show direction, not a ceiling: copy the
+(Ch. 1413-1427). Owner lines show direction, not a ceiling: copy the
 mechanism, not the wording.
-
-## 3. Name the real subject (owner Ch. 1417 P7)
-
-- Chinese: The Ancient Past cultivates [修] nature.
-- Stiff: The Ancient Past cultivates nature.
-- Repaired: Cultivators of the Ancient Past cultivate their nature.
-- Mechanism: a topic-comment claim gets its human subject and a possessive, so the thought reads as a statement about people.
 
 ## 4. Time order and an explicit inference (owner Ch. 1419 P9)
 
@@ -40,27 +33,6 @@ mechanism, not the wording.
 - Repaired: The Dao Venerable personally promised us that when the opportunity arrived, all things would possess a sliver of hope.
 - Mechanism: the promise becomes the main verb and the time clause sits inside it in plain order.
 
-## 3. Unpack a coined compound (owner Ch. 1417 P27)
-
-- Chinese: this attached [挂靠] Transcendence needs no supreme detachment; they keep the self.
-- Stiff: this piggyback Transcendence didn't require supreme detachment. They kept their selves intact
-- Repaired: piggybacking on another's Transcendence didn't require supreme detachment. They could preserve their sense of self
-- Mechanism: a noun coinage becomes a verb phrase with its object; an awkward plural abstraction becomes a familiar expression.
-
-## 4. Give a shift of focus its own frame (owner Ch. 1417 P30)
-
-- Chinese: They had long forgotten feeling [忘情]; in their eyes there was only Transcendence.
-- Stiff: They had long since forgotten all feeling, and Transcendence was all they could see.
-- Repaired: Both had long since cast aside their emotions. In their eyes, only Transcendence mattered.
-- Mechanism: the second claim turns from state to value, so it gets its own sentence and an "In their eyes" frame instead of "and".
-
-## 4. Say the consequence (owner Ch. 1419 P63)
-
-- Chinese: only one place is the exception; that place keeps the formation from completeness.
-- Stiff: There's only one exception, and that one place keeps my formation from being complete.
-- Repaired: Only one place lies beyond its reach, and because of that, the formation remains incomplete.
-- Mechanism: "because of that" makes the causal step visible instead of an "and".
-
 ## 5. Break a description into beats (owner Ch. 1419 P5)
 
 - Chinese: a round, shining pill-like thing, beating like a heart, its light flickering.
@@ -75,20 +47,6 @@ mechanism, not the wording.
 - Repaired: preserving Returning Fate's True Spirit may not actually be necessary.
 - Mechanism: 未必 is a hedge; "may not" restores the doubt the draft turned into a verdict.
 
-## 8. Roman comment, not italic thought (owner Ch. 1418 P2)
-
-- Chinese: The Dao Ancestors all have their work [都有活啊].
-- Stiff: *Every one of these Dao Ancestors has some grand project going.*
-- Repaired: The Dao Ancestors really did have plans of their own.
-- Mechanism: an exclamatory comment with no first person is free indirect narration, roman and past.
-
-## 4. One main verb, result as a tail (owner Ch. 1417 P70)
-
-- Chinese: settle it once and for all [一劳永逸], end the Kalpa before it begins, thereby [继而] change the ending of destruction.
-- Stiff: That would settle it once and for all: the Final Kalpa would end before it even began, and the ending of destruction would change.
-- Repaired: That would end the Final Kalpa before it even begins, changing the fate of the Divine Land's destruction once and for all.
-- Mechanism: the action takes the main verb, the consequence rides as a participle, and the abstract "ending" becomes a concrete fate.
-
 ## 8. Quoted thinking is thought (owner Ch. 1413 P20)
 
 - Chinese: pondering in his heart [心中揣摩]: "With a Divine Transformation presiding, the Ancient Past should endure."
@@ -102,13 +60,6 @@ mechanism, not the wording.
 - Stiff: The Dao Ancestor of Fate was different.
 - Repaired: But the first Dao Ancestor of Fate was different.
 - Mechanism: "first" keeps him apart from Returning Fate, the second, and "But" carries 却.
-
-## 9. Keep a proverb's image (owner Ch. 1412 P27)
-
-- Chinese: sealing taught him what "the situation is stronger than the man" [形势比人强] means.
-- Stiff: More than a hundred thousand years of sealing had finally taught him to bow to circumstances.
-- Repaired: More than a hundred thousand years of sealing had finally taught him to recognize when circumstances were stronger than he was.
-- Mechanism: the proverb's picture carries the Dragon's humiliation, so it stays instead of a stock substitute.
 
 ## 3. Singular they for an unknown person (owner Ch. 1418 P24)
 
@@ -142,3 +93,31 @@ mechanism, not the wording.
 - Stiff: "Why go out of your way to come all this distance to find me? I made up my mind long ago not to get involved with any side."
 - Repaired: "You came all this way just to find me? Why bother? I've already made up my mind. I'm not getting involved with anyone."
 - Mechanism: short spoken sentences, contractions, and a quick tag carry the whine.
+
+## 3. Name the witness and the viewer (owner Ch. 1427 P48, P271)
+
+- Chinese: Jun transcended through it [有目共睹]; [抬头望去] the formation collapsed.
+- Stiff: Jun transcended with it, for all to see. / Overhead, as the formation collapsed...
+- Repaired: Everyone witnessed Jun attain Transcendence through it. / Looking up, Lü Yang watched the formation collapse.
+- Mechanism: the hidden witnesses and the viewer become subjects with main verbs.
+
+## 12. Plain act, not a figurative paraphrase (owner Ch. 1427 P8)
+
+- Chinese: Lü Yang instinctively began to think [下意识开始思考].
+- Stiff: Lü Yang's mind set to work on its own.
+- Repaired: Lü Yang instinctively began to analyze.
+- Mechanism: the source states an act, so the English names the act instead of a vaguer image.
+
+## 7. Lead with the claim in speech (owner Ch. 1427 P31)
+
+- Chinese: [turning every cultivator into 耗材] perhaps [或许] this is his true goal.
+- Stiff: "Turning every cultivator... into consumable materials: perhaps that is his true goal."
+- Repaired: "Perhaps his true goal is to turn every cultivator... into fuel. If so, then..."
+- Mechanism: the hedge and claim open, the gerund subject becomes a verb, and "If so" carries the consequence. The elder contracts, like every speaker.
+
+## 9. Keep a clear source image (owner Ch. 1427 P270)
+
+- Chinese: 一根筋变两头堵 (a one-track road blocked at both ends).
+- Stiff: *A textbook catch-22.*
+- Repaired: A straight road had somehow become blocked at both ends.
+- Mechanism: the picture reads clearly, so it beats a culture-bound English idiom; a third-person comment is roman past.

@@ -95,6 +95,13 @@ def narration_only(paragraph: str) -> str:
     return re.sub(r"\*[^*]+\*", " ", text)
 
 
+def inline_display_line(src: str) -> bool:
+    """A raw line with a narration lead-in and a bracketed display keeps both (owner Ch.1427)."""
+    text = src.strip()
+    start = text.find("【")
+    return start > 0 and text.rstrip("。").endswith("】")
+
+
 def raw_lines(text: str) -> str:
     """Treat every non-empty raw line as its own paragraph (owner Ch.1425)."""
     normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
@@ -307,7 +314,10 @@ def main() -> None:
         cjk_punct = lint.punctuation_residue("", tgt, allow_displays=True)
         if cjk_punct:
             errors.append(f"paragraph {index}: CJK punctuation {''.join(cjk_punct)}")
+        inline_ok = args.by_line and index <= len(source) and inline_display_line(source[index - 1])
         for detail in lint.display_format_errors(tgt):
+            if inline_ok and detail.startswith("each display line must occupy"):
+                continue
             errors.append(f"target paragraph {index}: {detail}")
         if lint.D_CONTRACTION_RE.search(tgt):
             errors.append(f"paragraph {index}: contraction ending in 'd")
