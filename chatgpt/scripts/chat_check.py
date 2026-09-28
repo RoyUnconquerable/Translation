@@ -18,8 +18,14 @@ import common
 import lint
 
 
+PARAGRAPH_INDENT_RE = re.compile(r"[ \t]*\n(?=(?:[ \t]{2,}|　)\S)")
+
+
 def paragraphs(text: str, *, allow_scene_breaks: bool = False) -> list[str]:
     normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
+    # A pasted line that opens with the paragraph indent is its own paragraph
+    # even when the blank line before it was lost (owner Ch.1428 revision).
+    normalized = PARAGRAPH_INDENT_RE.sub("\n\n", normalized)
     parts = [part.strip() for part in re.split(r"\n\s*\n", normalized) if part.strip()]
     if allow_scene_breaks:
         return [part for part in parts if part != "---"]

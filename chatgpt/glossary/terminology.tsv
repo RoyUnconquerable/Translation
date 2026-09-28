@@ -36,7 +36,7 @@ source	target	notes
 变数	Variable|Variables	Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in his favor. Ordinary variable(s) follow the source number. Owner Ch.1402 uses A Variable for Dao Tianqi's bracketed classification, a scoped singular title rather than a renaming of the Great Dao or all ordinary variables. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数]
 百世书	Book of a Hundred Lives	normally takes the definite article; provenance owner-rulings-ch1221-ch1243.tsv
 天道	Heavenly Dao	usually takes "the"; provenance terminology.tsv
-大道	Great Dao	usually takes "the"; provenance terminology.tsv
+大道	Great Dao	usually takes "the" [except: 最大道脉]; 最大道脉 is the greatest Dao lineage (owner Ch.1428); provenance terminology.tsv
 金刚界	Vajra Realm	usually takes "the"; provenance terminology.tsv
 红尘	red dust	lowercase; distinct from 现世 "the mortal world"; provenance terminology.tsv
 三界	Three Realms	usually takes "the"; provenance terminology.tsv
@@ -54,7 +54,7 @@ source	target	notes
 灵气	qi|spiritual qi	lowercase; provenance terminology.tsv
 灵石	spirit stone	provenance terminology.tsv
 遁光	escape light	一道遁光 = "a streak of escape light"; provenance terminology.tsv
-一心	One Mind|One Heart	"the One Mind" only for the World-Honored One / Pure Land concept; the Outer Path Alliance's 一心 is "One Heart"; ordinary adverbial 一心 means wholeheartedly or with one's full attention [except: 一心逃遁|一心只想着]; provenance terminology.tsv
+一心	One Mind|One Heart	"the One Mind" only for the World-Honored One / Pure Land concept; the Outer Path Alliance's 一心 is "One Heart"; ordinary adverbial 一心 means wholeheartedly or with one's full attention [except: 一心逃遁|一心只想着|一心记录]; provenance terminology.tsv
 妙乐	Sublime Bliss	the Spell Dao Lord's eldest disciple; true body is Taiyi; locked Ch. 1186; provenance terminology.tsv
 剑君	Sword Sovereign	same being as 剑主/剑尊; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 法术道主	Spell Dao Lord	usually takes 'the'; provenance terminology.tsv
@@ -71,7 +71,7 @@ source	target	notes
 玄妙	Mystery|Mysteries	number follows the raw for the cultivation concept; adjectival 步法玄妙 is subtle footwork in owner-final Ch.1290, not a named Mystery [except: 步法玄妙]; provenance terminology.tsv and owner-final Ch.1290
 天宫	Heavenly Palace	with 'the' (Ch. 1196 ruling); provenance terminology.tsv
 位格	status	lowercase except at sentence start; the legacy phrase 踏天境的高位格 was translated compositionally [except: 踏天境的高位格]; provenance terminology.tsv
-现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世|重现世间]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
+现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世|重现世间|无法再现世]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
 仙桥	Immortal Bridge	provenance terminology.tsv
 改因易果	altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; provenance terminology.tsv
 伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力|排山倒海的伟力]; 降世的伟力 = 'the might of their descent' (owner Ch.1210); 排山倒海的伟力 permits 'an overwhelming power' with the mountain-and-sea image retained (owner Ch.1295). Neither compound changes the default for bare 伟力.
@@ -280,7 +280,7 @@ source	target	notes
 本真	true nature	owner-final Ch.1267 contextual rendering for the Primordial Saint's last authentic fragment; distinct from 真我 = True Self; provenance owner-rulings-ch1267.tsv
 佛法	Buddhist Dharma	owner-final Ch.1268 capitalization in reference to the World-Honored One's teaching; provenance owner-rulings-ch1268.tsv
 人财	human capital	owner-final Ch.1268; deliberate modern economic wording in the gods' view of prosperous worshippers; provenance owner-rulings-ch1268.tsv
-天命	Mandate of Heaven	owner-final Ch.1268 formal proclamation rendering; provenance owner-rulings-ch1268.tsv
+天命	Mandate of Heaven	owner-final Ch.1268 formal proclamation rendering; owner Ch.1428 renders 遵从天命 (a being accepting its fated end) as obey its destiny [except: 遵从天命]; provenance owner-rulings-ch1268.tsv
 神道	Divine Dao	owner-final Ch.1268 formal proclamation rendering; provenance owner-rulings-ch1268.tsv
 天神地祇	gods of heaven and earth	owner-final Ch.1268 formal proclamation rendering; provenance owner-rulings-ch1268.tsv
 至高道化	Supreme Dao Transformation	owner-final Ch.1269 talent; standalone activation is "Supreme Dao Transformation, activate!"; provenance owner-rulings-ch1269.tsv
@@ -326,7 +326,7 @@ source	target	notes
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁|维系住了他的性命|延续自己的性命|目标的性命]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
 神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase generic use; Title Case in a chapter title or established name. The more specific category 大神通 is Great Divine Ability/Abilities under the Ch.1346 owner correction.
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
@@ -450,7 +450,7 @@ source	target	notes
 先天五太论	Theory of the Five Innate Supremes	Owner-approved after Ch.1395 terminology check. Roman theory name in the delivered discussion; external cosmology does not override the novel's stated sequence.
 太初	Supreme Origin	Approved Ch.1395 cosmological stage; keep distinct from Primordial Saint and the Source Immortal.
 太易	Supreme Change	Approved Ch.1395 cosmological stage. The complete personal name 太易天 remains Tai Yitian; never translate a substring of that name.
-神州	Divine Land	Approved Ch.1397; one of the colliding regions. Distinct from Vast Sea and Sea of Light.
+神州	Divine Land	Approved Ch.1397; one of the colliding regions. Owner Ch.1428 takes the definite article throughout: the Divine Land, the Divine Land of the Ancient Past. Distinct from Vast Sea and Sea of Light.
 瀚海	Vast Sea	Approved Ch.1397; distinct from 光海 / Sea of Light.
 七情参天决	Seven Emotions Heaven-Fathoming Art	Ch.1396 source variant of 七情参天诀, the same italic named work; not a new method.
 鸠占鹊巢	Cuckoo Occupying the Magpie's Nest	Established roman Talent, canonical Ch.435 description in the Talent reference. Ch.1391 conceals identity and karma but needs Cultivating Truth to mask the Primordial Spirit.
@@ -484,3 +484,14 @@ source	target	notes
 相对圆满	Relative Perfection	Owner-approved through Ch.1422 delivery/revision. Paired with Absolute Perfection as a cultivation-state concept; inline, not a display.
 三灵一体	three spirits as one	Owner Ch.1422 revision. Descriptive formulation for Bu Changming's proposed three-spirit state; keep lowercase unless later promoted by source.
 丹青简	Dan Qingjian	Owner-approved before Ch.1423 delivery. Personal name of the Dao Ancestor of Study.
+玉寰君	Jade Realm Sovereign	Approved Ch.1428 (Continue). Honorific title of the founder and first Dao Ancestor of Revering the Gods; no article. Slain in Ch.1428 by Shi Weixiong.
+吉应兆	Auspicious Omen	Owner Ch.1428 revision replaces the proposed Good Fortune Answers Omens. Honorific title of a later Luck cultivation Dao Ancestor; paired with Calamitous Sign.
+凶示灾	Calamitous Sign	Owner Ch.1428 revision replaces the proposed Ill Fortune Heralds Calamity. Honorific title of a later Luck cultivation Dao Ancestor; paired with Auspicious Omen.
+奉拜吾	Worship Me	Approved Ch.1428 (Continue). Honorific title of the second Revering the Gods Dao Ancestor, whose road is 'all living beings worship me.'
+真蘧庐	True Waystation	Owner Ch.1428 revision replaces the proposed True Wayside Lodge. Honorific title of the third Revering the Gods Dao Ancestor (Zhuangzi's wayside inn allusion); proves the Dao through external things.
+师全贤	Shi Quanxian	Approved Ch.1428 (Continue). Personal name of the founder of Accumulating Merit; Shi Weixiong's father.
+师为雄	Shi Weixiong	Approved Ch.1428 (Continue). Personal name of the second Accumulating Merit Dao Ancestor; Fellow Daoist Shi.
+焦贵仁	Jiao Guiren	Approved Ch.1428 (Continue). Personal name of the Dao Ancestor of Befriending the Noble; Fellow Daoist Jiao. Homophone pun on 交贵人 is not carried.
+【功德】	Accumulating Merit	Approved Ch.1428 (Continue). Bracketed short form of the 积功德 path and lineage. Unbracketed 功德 is merit; 功德圆满 is merit and virtue complete.
+末劫道神	Dao God of the Final Kalpa	Approved Ch.1428 (Continue). Owner revision also writes Innate Dao God of the Final Kalpa in five of seven uses; which wording to fix awaits an owner ruling.
+质变	transformation	Approved Ch.1428. Nature transformation (本质蜕变/质变): owner prefers a third transformation of nature, three transformations of nature, the second transformation; compressed lists may keep third nature transformation.

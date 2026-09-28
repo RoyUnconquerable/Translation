@@ -6,9 +6,12 @@ The exact supplied Chinese governs content.
 
 ## Source and paragraph numbering
 
-- A paragraph is a unit separated by blank lines. Soft line wraps stay inside
-  their paragraph. The title is paragraph 1. A standalone `---` is a separator
-  and gets no number. `prepare.py` and `chat_check.py` use this numbering.
+- A paragraph is a unit separated by blank lines. A pasted line that opens
+  with the paragraph indent (two spaces or an ideographic space) is also its
+  own paragraph, even when the blank line before it was lost; unindented
+  wraps stay inside their paragraph. The title is paragraph 1. A standalone
+  `---` is a separator and gets no number. `prepare.py` and `chat_check.py`
+  use this numbering (owner Ch.1428 separated every such line).
 - If a paste lost its paragraph boundaries, recover them from the supplied
   source. Never guess a new layout. Report the repair in FLAGS.
 

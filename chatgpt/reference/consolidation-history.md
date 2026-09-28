@@ -814,3 +814,11 @@ validation commands pass. Open items for the owner: the undecided idiom groups
 in Reference_Idioms.md; the 四等 and 补天道 questions; the owner library copy
 of Reference_Italicized_Titles.md needs re-sync; a prose "Talent" is not
 flagged by the checker now that both casings are variants.
+
+## 2026-09-28 maintenance after Chapter 1428
+
+The owner revision separated every indent-marked pasted line that had lost its
+blank line, so chat_check.py now treats such a line as its own paragraph
+(test added). The five per-chapter owner flow sections in the style guide
+were merged into one baseline, and continuity for Chapters 1400-1419 moved to
+the archive with lookup pointers to meet the size targets.

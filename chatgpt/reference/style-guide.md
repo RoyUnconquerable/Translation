@@ -128,54 +128,16 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - Comma splices and other calqued syntax.
 - A local owner preference made a template without evidence that it recurs as a principle.
 
-### Owner flow refinements from Chapters 1415-1418
+### Owner prose baseline (Chapters 1413-1428)
 
-- In close Lü Yang viewpoint, prefer the shortest natural line that preserves the source logic. Let the setup establish the absurdity, then let the reaction land without explanatory padding.
-- When a paragraph contains premise, inference, and conclusion, order them so each sentence answers the previous one. Do not preserve Chinese clause order when it makes English hold the subject, cause, or target too long.
-- In explanatory dialogue, repeat the technical noun when it anchors the argument, but replace unclear pronoun chains with the actor or lineage name.
-- For comic escalation, preserve the source sequence: reasonable premise, increasingly extreme plan, then Lü Yang's blunt reaction.
-- When contrasting approaches to the same problem, state the shared goal first and the different method second.
-- Prefer concrete physical English when the Chinese uses a vivid everyday image, provided the image remains clear in context.
+Consolidated from repeated owner revisions. It applies where it does not conflict with source meaning or fixed terms; a single owner edit stays local (decision log).
 
-### Owner flow refinements from Chapter 1419
-
-- Prefer concrete bargaining language over abstract paraphrase: name the price, the service, and the leverage directly.
-- Break deductions into short sequential steps when the viewpoint character is actively reasoning; let each step unlock the next instead of compressing the whole inference into one sentence.
-- When a source idiom is vivid and immediately understandable in English, preserve its physical force rather than flattening it into abstraction.
-- In comic or colloquial beats, let the last line carry the punch and avoid explaining it afterward.
-- For location descriptions, lead with the place, then its defining environmental features, then the visual centerpiece.
-
-### Owner prose baseline after Chapters 1413-1419
-
-Repeated owner revisions establish the following default English tendencies when they do not conflict with source meaning or fixed terminology:
-
-- Prefer direct, ordinary verbs over elevated paraphrase: pulled it off, went out, caught on, spun around, overstepped, speak freely.
-- Keep Lü Yang's viewpoint brisk and colloquial. His internal reactions should sound like immediate thought, not explanatory narration.
-- State the actor and consequence early. Avoid delaying the subject behind long introductory clauses.
-- When reasoning unfolds in stages, use short sequential sentences so each inference visibly leads to the next.
-- Preserve concrete Chinese images when they remain instantly understandable in English; do not flatten them merely for smoothness.
-- In bargaining or strategy scenes, name the asset, price, service, leverage, and consequence directly.
-- For comic escalation, keep setup, absurd reveal, then reaction in that order. The reaction should land last with no added explanation.
-- Prefer familiar English collocations over literal-but-stiff wording, especially in dialogue and close narration.
-- Use contractions freely in ordinary speech and thought unless a formal register or emphasis calls for expansion.
-- Preserve the source's short isolated beats. Do not pad a one-line realization, reversal, or punch line.
-- When two approaches share a goal, state the common goal first and the differing method second so the contrast lands cleanly.
-- Do not over-polish away the serial-web-novel energy. Clarity and momentum outrank ornamental elegance after fidelity.
-
-### Owner flow refinements from Chapter 1422
-
-- Prefer dense action sentences when several source actions form one continuous motion. Link them with strong finite verbs instead of stopping to explain each beat.
-- Use compact comparison sentences when the source stacks traits before a reaction. Let the list build, then place the viewpoint judgment last.
-- Prefer idiomatic consequence phrasing over abstract explanation: "reap the rewards of my labor," "you can forget about leaving," "the whole world had turned against him," when supported by the source.
-- Preserve comic character contrast in the sentence itself. Bu Changming may sound arrogant while immediately proposing to run; do not smooth away that contradiction.
-- In combat, describe mechanism first only when the viewpoint character is actively diagnosing it. Otherwise prioritize visible action, impact, then interpretation.
-- When a repeated technical image is already clear, use a shorter natural callback instead of re-explaining the mechanic.
-
-### Owner flow refinements from Chapter 1423
-
-- In descriptive openings, preserve one strong image and make the English image complete: establish the visual field, then introduce the figure entering it.
-- Prefer compact exposition that moves from principle to consequence without restating the same conclusion in different words.
-- Use stronger contextual nouns when they carry the argument better: legacy for what a civilization passes forward, inheritance for an actual cultivation lineage or transmitted teaching.
-- Let transitions such as "At that thought," "As he mused," and "But he quickly caught himself" carry viewpoint movement without adding explanatory narration.
-- When praise or charm affects Lü Yang, show the immediate reaction first, then the realization that something influenced him.
-- Preserve the source's contrast between ideological positions without making either side more sympathetic than the Chinese does.
+- **Voice.** Keep Lü Yang's viewpoint brisk and colloquial: the shortest natural line that keeps the source logic, reactions as immediate thought, not explanatory narration. Clarity and momentum outrank ornament after fidelity; do not polish away the serial's energy.
+- **Diction.** Prefer direct, ordinary verbs and familiar collocations over elevated paraphrase or literal-but-stiff wording (pulled it off, caught on, took advantage of his weakened state, struck from the shadows, collected himself, pieced together), and idiomatic consequence phrasing the source supports ("you can forget about leaving").
+- **Actor first.** State actor and consequence early instead of holding the subject behind long openers. When a turn changes who acts, name the new actor ("Before Lü Yang had even finished").
+- **Reasoning.** Order premise, inference, conclusion in short sequential sentences so each step unlocks the next; exposition moves from principle to consequence without restating the conclusion. A long time span leads with the span, then the result. In explanatory dialogue, repeat the anchoring technical noun and replace unclear pronoun chains with the actor or lineage name.
+- **Contrasts.** When approaches share a goal, state the goal first and the differing method second; keep ideological contrasts as even-handed as the Chinese.
+- **Comedy and beats.** Keep setup, absurd reveal, then reaction, with the reaction last and unexplained; keep comic contradiction inside the sentence. Preserve short isolated beats. When praise or charm affects Lü Yang, show the reaction first, then the realization.
+- **Images.** Keep concrete images and the physical force of vivid idioms when instantly clear in English. Openings establish the visual field, then bring in the figure; locations run place, environment, centerpiece. Link one continuous action with strong finite verbs; combat shows action, impact, interpretation unless the viewpoint character is diagnosing the mechanism. Let a trait list build before the judgment; a clear repeated image takes a short callback.
+- **Bargaining and nouns.** Name the asset, price, service, leverage and consequence. Legacy is what a civilization passes forward; inheritance is a transmitted cultivation teaching.
+- **Thought spans (Ch.1428).** Italicize only what the thinker voices in the first person or as a direct mental question, including an unmarked deliberation ("Could it be...?"). Third-person evaluation in the same paragraph stays roman, so a paragraph may move from roman report to one italic line. Transitions such as "At that thought" carry the viewpoint without added narration.

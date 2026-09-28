@@ -520,6 +520,12 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(chat_check.paragraphs(target, allow_scene_breaks=True),
                          chat_check.paragraphs(plain))
 
+    def test_indented_line_without_blank_line_is_its_own_paragraph(self):
+        source = "第1章 测试\n\n  原来的呢？\n  霎时间，他感觉到了寒意。   \n  “不一样的。”\n续行。"
+        self.assertEqual(chat_check.paragraphs(source),
+                         ["第1章 测试", "原来的呢？", "霎时间，他感觉到了寒意。",
+                          "“不一样的。”\n续行。"])
+
     def test_heavenly_scripture_replaces_previous_name(self):
         glossary = common.load_glossary(self.root)
         self.assertEqual(glossary["天书"]["target"], "Heavenly Scripture")

@@ -1,9 +1,10 @@
-# Current continuity: verified Chapters 1400-1411 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1428 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
-in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1411
-have verified sources and chat delivery. Chapters 1335-1338 have approved
+in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
+and 1428, have verified sources and chat delivery; 1424-1427 are not
+recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
 independently retrieved; Chapters 1350-1353 remain unretrieved. No gap
@@ -83,111 +84,20 @@ Archived Chapters 1387-1399 at Chapter 1411. The concealed entry, Dao Tianqi's
 secret Infinite Loop, Jun's remembered realm, the Guardian rescue and the four
 traditions remain prerequisites. The live positions above supersede that window.
 
-## Chapter 1400: the Primordial Saint takes the bait
+## Chapters 1400-1411: lookup
 
-- In True History, the day after Cultivating Truth's death, the Primordial
-  Saint studies the Great Net of Karma on the Other Shore's fifth layer. The
-  golden book's occupant is openly responsive to him after engineering his
-  supreme detachment and the severing of his fear. Both would willingly
-  surrender their selves to merge for Transcendence, but the occupant stays in
-  the book to survive a future restart.
-- The occupant's primary attempt to catch Jun's successor failed because the
-  Ancestral Dragon came to read the book in the successor's place. He recognizes
-  the first Trial Guardian as the little attendant beside Jun and realizes the
-  Guardian and his followers escaped rather than dying. He directs the
-  Primordial Saint to investigate that karma; a faint presence in Heaven Beyond
-  the Heavens detects the ripple and treats it as the big fish taking the bait.
+The complete detailed window is preserved in continuity-archive.md under
+Archived Chapters 1400-1411 at Chapter 1428. The Register bait, Dao Tianqi's
+Loop revival, the World-Honored One's Underworld seat, the second nature
+transformation (Infinite Method) and the gate entry remain prerequisites. The
+live positions above supersede that window.
 
-## Chapters 1401-1411: the Register, the Underworld seat and the gate
+## Chapters 1412-1419: lookup
 
-- Ch.1401: Lü Yang's karmic bait draws the Primordial Saint to the first Trial
-  Guardian's karmic scene. The Guardian mocks him as a remnant of the two
-  doctrines, refuses to cooperate and, detecting that the scene is past, breaks
-  it. The Primordial Saint enters again unnoticed and watches the Guardian turn
-  a Dao Register copy to its last entry, Profound Virtue. The book occupant only
-  comments: he calls the original a failed attempt and suspects Jun changed
-  history, an unproved inference. Approved titles in the Register include
-  Knowing Heaven's Mandate, Great Luck Comes, Tassel Immortal, Supreme Name and
-  Selfless Appearance; no distinct personal-name/title pairs are established.
-- Ch.1402: the Primordial Saint's white light strikes the World-Honored One's
-  projection in the causality vision, and he briefly believes he has died. The
-  real target is Dao Tianqi, erased at the Underworld gate; he revives at once
-  through the Infinite Loop. Lü Yang suspects the Supreme Source Immortal is in
-  the book; narration does not confirm it. After 129,600 years Lü Yang has
-  reserves for a second nature transformation, not yet begun.
-- Ch.1403: the Underworld expands and the plan to release Si Sui proceeds.
-  Having walked Profound Virtue's path, Dao Tianqi no longer needs the
-  Underworld to keep Dao Lord status, leaving its Lord's seat vacant.
-- Ch.1404: last life the World-Honored One gave up Karma; this time he keeps it
-  to convert his proof toward the Underworld and gives up besieging Si Sui and
-  ascending the Other Shore. False History returns; the Heavenly Dao collapses
-  and the Sword Sovereign falls from layer five.
-- Ch.1405: Niwan Palace and Emptiness are approved terms. The Primordial
-  Saint's three split bodies dissolve after an instant; his finger then nears
-  the World-Honored One's brow when the Ancestral Dragon strikes the Five
-  Elements seal, costing him the kill. The World-Honored One takes the
-  Underworld Lord's seat, his Primordial Spirit merging with the Underworld.
-- Ch.1406: the second nature transformation succeeds, producing the Infinite
-  Method (owner's Continue on the proposed name); status is unchanged.
-- Ch.1407: Lü Yang fights the fifth-layer Primordial Saint head-on.
-- Ch.1408: Si Sui attempts false Transcendence from layer five while an
-  unidentified cultivator's Tribulation Dao rises. The Sword Sovereign attacks
-  his breakthrough, Vast Sky follows, and Si Sui strikes her into the Fathomless
-  Void. Lü Yang's Primordial Spirit flaw persists.
-- Ch.1409: the Tribulation cultivator is Soaring Firmament. After he climbs to
-  layer two, Si Sui completes false Transcendence from layer five and sheds the
-  Dharma Body, Yin and Yang and the Dao Heart onto him; Soaring Firmament
-  reaches the Other Shore's third layer without a Primordial Spirit.
-- Ch.1410: Lü Yang refines Si Sui's strengthened Dao Heart. The book occupant
-  suspects Lü Yang indirectly wields Tribulation, a thought he has from within
-  the book, not independent confirmation. The seven remnant fragments assemble
-  and the Heaven Beyond the Heavens manifests.
-- Ch.1411: nine Dao Lords cannot pass the gate without the Ancestral Dragon.
-  Soaring Firmament proposes taking a strand of his Primordial Spirit; the
-  bargain remains unresolved.
-
-## Chapter 1412: the transcender's recollection
-
-- The Primordial Saint agrees to release a Primordial Spirit thought of the Ancestral Dragon. The Dragon splits off nearly half of his Primordial Spirit and merges it into Soaring Firmament, which lets Soaring Firmament pass the Heaven Beyond the Heavens' restriction.
-- Ten Dao Lords enter the Heaven Beyond the Heavens: the Primordial Saint, Sword Sovereign, Vast Sky, Myriad Spells, Du Xuan, Si Sui, Lü Yang, Soaring Firmament, Dao Tianqi and the World-Honored One.
-- Lü Yang realizes the realm is Jun's final recollection of the Ancient Past from before Transcendence. It is only a reflection of the past, but its Absolute Truth property means events occurring there can alter factual past history.
-- The consciousness in the Book of Divine Blessings and the Mandate of Heaven recognizes the setup as a second chance for both the current Dao Lords and the Ancient Past's Dao Ancestors to contend for Transcendence.
-
-## Chapter 1413: the Divine Transformation opportunity
-
-- The Supreme Source Immortal openly explains the original contest. When Divine Land and the Sea of Light collided, an unprecedented opportunity appeared. The Dao Ancestors fought over it until only the Supreme Source Immortal and Jun remained; Jun won by one move and transcended, after which the Supreme Source Immortal was sealed.
-- The opportunity is a seed. Watered with Mysteries, it grows into a Tree of the Great Dao leading to Divine Transformation. The Dao Ancestors' own Dao arts fed the seed while they fought for it.
-- Lü Yang independently concludes that the Ancient Past's Dao Ancestors are participants rather than tools. He plans to contact and ally with them because the Primordial Saint has the Supreme Source Immortal's historical knowledge.
-- The Dao Ancestor of Fate has reincarnated in an Ancient Past city and intends to preach the Dao and transmit teachings.
-- The Immortal Recorder awakens in Purple Firmament Palace and understands that Jun himself remains outside the rewritten cycle: even if another person wins the recreated opportunity, the already-transcended Jun is unaffected.
-- Jun is honored there as Dao Venerable Who Equalizes All Dharmas.
-
-## Chapter 1414: the Ancient Past stirs
-
-- The Immortal Recorder's sacred incantation causes all seventeen Dao Ancestors of the Ancient Past's Divine Land to sense Purple Firmament Palace and send thoughts there. Even their thoughts clash because their natures are mutually incompatible, unlike status-ranked Dao Lords.
-- The Dao Ancestor of Fate is identified as Divine Land's first Dao Ancestor. The Dao Ancestor of Befriending the Noble is hostile toward the Immortal Recorder because he missed the chance to become Jun's attendant and bitterly regrets it.
-- The disappearance of the Ancient Past copy of the Book of Divine Blessings and the Mandate of Heaven proves to the Dao Ancestors that a future copy has arrived. They conclude Jun left the recreated contest open to Divine Land, the Sea of Light, past and future alike.
-- The Dao Ancestors of the Doctrine of Names and Doctrine of Appearances immediately leave to seek the Supreme Source Immortal. Nurturing Life withdraws entirely because that path prioritizes avoiding calamity. The remaining Dao Ancestors recognize that they are now rivals for the Divine Transformation opportunity.
-- Lü Yang senses the Ancient Past's order becoming unstable through the Ring of Infinity and Order, correctly infers that the Dao Ancestors learned of the newcomers through the book's uniqueness, and reaches the courtyard of the reincarnated Dao Ancestor of Fate.
-- The newborn Dao Ancestor of Fate recognizes Lü Yang as Junior Brother Profound Virtue.
-
-## Chapters 1415-1418: Ancient Past contest developments
-
-- Returning Fate is the second Dao Ancestor of Fate cultivation. He recognizes Lü Yang through the Dao Register and explains that the Seed of the Great Dao is the center of the renewed Divine Transformation contest.
-- Fate cultivation can cross time through reincarnation. Returning Fate appears in the recreated past as an infant with no cultivation power.
-- The Book of a Hundred Lives confirms that its refined restart function still works inside Absolute Truth. Lü Yang uses one Anchor Point inside the recollection world.
-- Several Ancient Past Dao Ancestors pursue their own paths instead of the Seed. Their plans differ sharply in method even when they share the goal of surviving or resolving the Final Kalpa.
-- Returning Fate entrusts Lü Yang with the means to recognize part of his future reincarnation's memories. His Primordial Spirit flame then disappears from the recreated past, indicating that his path has moved beyond the current point in time.
-- The World-Honored One senses an unexplained connection to that disappearance and identifies it as a possible opportunity.
-
-## Chapter 1419: Tassel Immortal and the Immortal-Nurturing Land
-
-- Returning Fate's True Spirit remains active and resonates across time, implying his reincarnation successfully reached the future Sea of Light and regained Dao Lord standing under a new identity.
-- Tassel Immortal, the Dao Ancestor of Feng Shui, attempts to seize Returning Fate's True Spirit but is stopped by Lü Yang's Order.
-- Tassel Immortal admits Returning Fate's plan has a sliver of hope only because Jun's promised opportunity has arrived. He must stop it because the death of all inhabitants would leave Heaven, Earth and Man incomplete and flaw his grand Feng Shui formation.
-- Lü Yang recognizes the True Spirit as leverage. He agrees to hand it over in exchange for immediate transport to the Seed of the Great Dao when it appears and help holding off one opponent.
-- Tassel Immortal demands an additional service: Lü Yang must install a white-jade pillar in the Immortal-Nurturing Land, the only major gap in his formation.
-- The Immortal-Nurturing Land is controlled by Dan Qiuhuo, the Dao Ancestor of Nurturing Life, whose methods excel at seeking fortune and avoiding calamity.
+Preserved in continuity-archive.md under Archived Chapters 1412-1419 at
+Chapter 1428: the ten entrants to Jun's recollection, the Seed of the Great
+Dao contest, the seventeen Dao Ancestors, Returning Fate's reincarnation and
+True Spirit, and Tassel Immortal's bargain over the white-jade pillar.
 
 ## Chapters 1420-1421: the two Nurturing Life paths
 
@@ -212,3 +122,15 @@ traditions remain prerequisites. The live positions above supersede that window.
 - Dan Qingjian reaches the entrance to the Immortal-Nurturing Land but cannot enter. He then notices a highly talented scholarly young man approaching and judges him suited to Study.
 - Inside the Immortal-Nurturing Land, Lü Yang rejects the idea that Dan Qiuhuo/Bu Changming and the Grand Sword Patriarch Sanhe are the same person; any relation is only a surviving trace.
 - Bu Changming concedes after Lü Yang traps rather than injures him. Dan Qiuhuo re-emerges, uses his Befriending the Noble attainments on Lü Yang, and agrees to let Tassel Immortal's Feng Shui formation foundation be planted inside the Immortal-Nurturing Land.
+
+## Chapter 1428: the third transformation and Shi Weixiong
+
+- Tassel Immortal, aged to the limit but alive through his second transformation, reports that in the Final Kalpa's depths he saw an Innate Dao God carrying Knowing Heaven's Mandate's aura. The reincarnation failed but half succeeded: True Spirit fragments, memories and intelligence about the Dao Ancestors lie around the Dao God of the Final Kalpa, one step from forming a consciousness.
+- Knowing Heaven's Mandate and Shi Weixiong are the only Dao Ancestors to complete a third transformation of nature. Knowing Heaven's Mandate replaced Divine Land's original, pitiless Innate Dao God by reincarnating to its beginning; only Dao Ancestors perceive that rewrite.
+- Tassel Immortal now concludes Jun could only delay the Final Kalpa 129,600 years, not remove it, so its Dao God exceeds three transformations. This is his inference.
+- Lü Yang judges that awakening its spirituality (a Names/Appearances skill) would make it fight to survive, as in the last life, and suspects the Dao Ancestors' rescue attempts, including Tassel Immortal's formation and time-space passage, helped destroy the Ancient Past. Suspicion only.
+- Shi Weixiong, second Accumulating Merit Dao Ancestor, kills Jade Realm Sovereign, founder of Revering the Gods, severing his immortality, with Jiao Guiren of Befriending the Noble pinning him. His plan: kill every Dao Ancestor, gather their power, then fight the Final Kalpa; he spares the savers for now and names his father Shi Quanxian as next target. Dan Qingjian records the death.
+- Befriending the Noble: whoever the cultivator designates a Noble and befriends falls under his control. Jiao Guiren calls the Immortal Recorder's patron-clinging a deviation and now backs Shi Weixiong.
+- Camps per Dan Qingjian: Names/Appearances with the Supreme Source Immortal and the Primordial Saint; Tassel Immortal, Dan Qiuhuo/Bu Changming with Lü Yang, Returning Fate's reincarnation and Si Sui; the Sword Sovereign, Vast Sky, Myriad Spells and Du Xuan with Worship Me and True Waystation, trapping Soaring Firmament and Dao Tianqi. Great Luck Comes's Luck lineage has not moved.
+- Lü Yang's Infinite Method will grow only to the second transformation's peak, about Other Shore layer six; layer seven needs a third transformation, for which he has no direction.
+- The Doctrine of Names' founder arrives wearing the Primordial Saint's name, removes it, offers cooperation and the trap's location. His motive, and whether the Primordial Saint directs him, stays open.
