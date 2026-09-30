@@ -83,7 +83,60 @@ Run each test, then take the smallest action that fixes what it finds.
     sentences open with a prepositional or participial phrase? Action: join two
     sentences by their relation, split off the punch line, or move an opener.
 
-## 2.3 Formatting and conventions pass (check 13)
+## 2.3 Mechanics pass (owner manuscript V2 review)
+
+Read the whole English chapter once more for mechanics only, after the
+rebuilds. The owner's review of the full manuscript (V2, Ch.1-1429) found
+these faults across the novel; each one is a defect, not a preference.
+`chat_check.py` flags the mechanical cases (errors for certain faults,
+warnings for candidates), but the read decides; resolve every warning or
+record why it stands.
+
+Agreement, forms and reference
+- Tense: simple past for narration. Past perfect only to mark an event
+  earlier than the narrated moment, then return to simple past; no present
+  slips in narration. Direct thought takes the thinker's present.
+- Agreement: find the head noun of a long phrase or a collective noun and
+  make its verb agree.
+- Pronouns: case and number; after any intervening named person, re-check
+  that he, she, it or they still points to the intended referent.
+- Comparisons: compare like with like (his level with her level, not with
+  her).
+- Word pairs: then/than, lay/lie, passed/past, affect/effect; missing or
+  extra "that", "the" or "to".
+
+Phrasing and rhythm
+- Calques: no nominalized verbs (carry out an inspection: inspect), "at this
+  time", "in a short while", "it can be said that", "As for X, he..." (make X
+  the subject), stacked intensifiers.
+- Verbs: replace a weak or vague verb with the precise one the scene means.
+- Doublets: cut a second word or qualifier doing the first one's job.
+- Repetition: no word or root three times in a paragraph and no identical
+  opener on consecutive sentences, unless it is a source refrain (motif
+  ledger).
+- Diction: plain prepositions in a casual voice (on, while, amid, among), not
+  upon, whilst, amidst, amongst; fixed phrases such as layer upon layer stay.
+- Dialogue register: each line sounds like its speaker; juniors joking are
+  not stiff, and an idiomatic line gets an idiomatic English line.
+- Trailing participles: when a scene needs the action, give it a finite verb
+  (style guide 4 and check 3).
+
+Register and consistency
+- Contractions in casual dialogue and thought (style guide 7 and 11).
+- Capitalization of each established term identical throughout the chapter.
+- Serial comma in every list; one number style per chapter (section 11).
+
+Paragraph boundaries
+- One target paragraph per source paragraph, including each indented line
+  the paste ran together (translation-spec).
+- A lead-in never stands alone ending in a comma. Keep a comma lead-in with
+  the sentence it introduces; if the source isolates it, end it as a full
+  sentence or with an ellipsis ("Just then." or "But just then..."). A colon
+  lead-in before a quoted line may stand alone.
+- Never break one sentence across paragraphs, and never merge two speakers
+  into one paragraph.
+
+## 2.4 Formatting and conventions pass (check 13)
 
 Apply the style guide sections named here; do not restate them.
 
@@ -99,20 +152,20 @@ Apply the style guide sections named here; do not restate them.
 - Contractions (sections 7 and 11), with no quota.
 - Scene breaks, typography, numbers and units (section 11).
 
-## 2.4 Re-verify (check 14)
+## 2.5 Re-verify (check 14)
 
 Any span whose meaning, degree, actor or order could have moved goes back
 through the Stage 1 bilingual check in `translation-spec.md`. Check those spans
 only, each against its source paragraph and neighbors. A rebuild that fails
 goes back to the verified wording or is rebuilt again.
 
-## 2.5 Mechanical check
+## 2.6 Mechanical check
 
 Run `chat_check.py` on the exact text you will deliver, as `workflow.md` step
-2.5 specifies. Fix real failures and rerun. Adjudicate a lexical false positive
+2.6 specifies. Fix real failures and rerun. Adjudicate a lexical false positive
 against the source and record it for the FLAGS block.
 
-## 2.6 Definition of done
+## 2.7 Definition of done
 
 - Every sentence has a clear actor, or a deliberate reason not to.
 - No paragraph opens three consecutive sentences with a prepositional or
@@ -124,6 +177,8 @@ against the source and record it for the FLAGS block.
 - No hedge or intensifier lacks a source counterpart.
 - Dialogue sounds spoken, and formal registers stay formal.
 - Every moved span passed re-verification.
+- The mechanics pass is complete and every checker warning is resolved or
+  justified.
 - The checker passes, or each exception is adjudicated and flagged.
 
 ## Owner edits

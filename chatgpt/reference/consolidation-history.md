@@ -822,3 +822,12 @@ blank line, so chat_check.py now treats such a line as its own paragraph
 (test added). The five per-chapter owner flow sections in the style guide
 were merged into one baseline, and continuity for Chapters 1400-1419 moved to
 the archive with lookup pointers to meet the size targets.
+
+## 2026-09-30 owner manuscript V2 review
+
+The owner supplied Edited_Draft_V2.docx and a list of recurring faults. A
+survey of the manuscript located split lead-ins and broken sentences and
+compared the owner's Ch.1428 text with the delivered draft. The editing spec
+gained a mechanics pass (2.3), the checker gained prose_check.py with tests,
+the translation spec dropped the end line and added the lead-in rule, and three
+seed craft examples were replaced with owner Ch.1428 rewrites.

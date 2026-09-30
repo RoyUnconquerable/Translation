@@ -16,6 +16,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common
 import lint
+import prose_check
 
 
 PARAGRAPH_INDENT_RE = re.compile(r"[ \t]*\n(?=(?:[ \t]{2,}|　)\S)")
@@ -29,6 +30,16 @@ def paragraphs(text: str, *, allow_scene_breaks: bool = False) -> list[str]:
     parts = [part.strip() for part in re.split(r"\n\s*\n", normalized) if part.strip()]
     if allow_scene_breaks:
         return [part for part in parts if part != "---"]
+    return parts
+
+
+END_MARKERS = {"(本章完)", "（本章完）", "本章完", "(End of Chapter)"}
+
+
+def strip_end_marker(parts: list[str]) -> list[str]:
+    """The source end line is framing, not content; the owner manuscript omits it."""
+    if parts and parts[-1].strip() in END_MARKERS:
+        return parts[:-1]
     return parts
 
 
@@ -150,8 +161,8 @@ def main() -> None:
     phrases = common.load_phrase_memory(root)
     source_text = args.source.read_text(encoding="utf-8")
     target_text = args.target.read_text(encoding="utf-8")
-    source = paragraphs(source_text, allow_scene_breaks=True)
-    target = paragraphs(target_text, allow_scene_breaks=True)
+    source = strip_end_marker(paragraphs(source_text, allow_scene_breaks=True))
+    target = strip_end_marker(paragraphs(target_text, allow_scene_breaks=True))
     errors = chapter_input_errors(source, target)
     warnings: list[str] = []
     groups, target_starts, alignment_errors = align_display_splits(
@@ -189,6 +200,10 @@ def main() -> None:
             errors.append(f"target paragraph {index}: {detail}")
         if lint.D_CONTRACTION_RE.search(tgt):
             errors.append(f"paragraph {index}: contraction ending in 'd")
+    errors.extend(prose_check.paragraph_errors(target))
+    glossary_targets = sorted({variant for entry in glossary.values() for variant in entry["variants"]})
+    warnings.extend(prose_check.paragraph_warnings(target, prose_check.protected_words(glossary_targets)))
+    warnings.extend(prose_check.chapter_warnings(target, glossary_targets))
     for index, (src, group) in enumerate(zip(source, groups), 1):
         tgt = "\n\n".join(group)
         for detail in lint.fixed_display_errors(src, tgt, phrases):

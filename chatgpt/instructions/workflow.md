@@ -62,12 +62,15 @@ breaks.
 2.2 Rebuild the sentences the cold read marked or a check caught, each for a
 named principle, inside the fixed limits.
 
-2.3 Run the formatting and conventions pass.
+2.3 Run the mechanics pass (tense, agreement, reference, calques, repetition,
+register, consistency, paragraph boundaries).
 
-2.4 Send every span whose meaning, degree, actor or order could have moved back
+2.4 Run the formatting and conventions pass.
+
+2.5 Send every span whose meaning, degree, actor or order could have moved back
 through the Stage 1 bilingual check.
 
-2.5 Run the mechanical check on the exact text you will deliver:
+2.6 Run the mechanical check on the exact text you will deliver:
 
 ```text
 python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-before <indices>
@@ -87,9 +90,9 @@ python3 chatgpt/scripts/chat_check.py <source-file> <target-file> --scene-break-
 - The checker proves mechanics only, not meaning. If a tool cannot run, do its
   checks by hand and say so.
 
-2.6 Confirm the definition of done in `editing-spec.md`.
+2.7 Confirm the definition of done in `editing-spec.md`.
 
-`editing-spec.md` holds the checks for steps 2.1 to 2.6.
+`editing-spec.md` holds the checks for steps 2.1 to 2.7.
 
 ## Deliver
 

@@ -520,6 +520,36 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(chat_check.paragraphs(target, allow_scene_breaks=True),
                          chat_check.paragraphs(plain))
 
+    def test_prose_check_catches_split_lead_ins_and_confusions(self):
+        import prose_check
+        target = ["Chapter 1: Test", "But just then,", "BOOM!", "thick with tension.",
+                  "He was stronger then her.", "It was was over.", "He could of won."]
+        errors = "\n".join(prose_check.paragraph_errors(target))
+        self.assertIn("paragraph 2: ends with a comma", errors)
+        self.assertIn("paragraph 4: starts in lowercase", errors)
+        self.assertIn("then/than", errors)
+        self.assertIn("doubled word", errors)
+        self.assertIn("modal + of", errors)
+        self.assertEqual(prose_check.paragraph_errors(["Chapter 1: Test", "Even so, he spoke up at once:", "\"Wait!\""]), [])
+
+    def test_prose_check_warns_on_calques_register_and_repetition(self):
+        import prose_check
+        target = ["Chapter 1: Test",
+                  "At this time, he stood upon the peak amidst the clouds.",
+                  "\"I do not know,\" he said. \"It is late.\"",
+                  "The sword cut. The sword sang. The sword fell."]
+        warnings = "\n".join(prose_check.paragraph_warnings(target, set()))
+        self.assertIn("calque 'at this time'", warnings)
+        self.assertIn("bookish diction", warnings)
+        self.assertIn("uncontracted 'do not'", warnings)
+        self.assertIn("three or more times: sword", warnings)
+        self.assertIn("consecutive sentences open with 'the sword'", warnings)
+        self.assertNotIn("bookish", "\n".join(prose_check.paragraph_warnings(["T", "Layer upon layer rose."], set())))
+
+    def test_end_marker_is_framing_not_a_paragraph(self):
+        self.assertEqual(chat_check.strip_end_marker(["第1章 测试", "正文。", "(本章完)"]), ["第1章 测试", "正文。"])
+        self.assertEqual(chat_check.strip_end_marker(["Chapter 1: Test", "Body."]), ["Chapter 1: Test", "Body."])
+
     def test_indented_line_without_blank_line_is_its_own_paragraph(self):
         source = "第1章 测试\n\n  原来的呢？\n  霎时间，他感觉到了寒意。   \n  “不一样的。”\n续行。"
         self.assertEqual(chat_check.paragraphs(source),

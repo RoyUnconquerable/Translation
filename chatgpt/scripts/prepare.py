@@ -41,7 +41,7 @@ PROSE_REVIEW_REMINDERS = (
 
 def paragraphs(text: str) -> list[str]:
     """Use the checker's content indices; separators are not content rows."""
-    return chat_check.paragraphs(text, allow_scene_breaks=True)
+    return chat_check.strip_end_marker(chat_check.paragraphs(text, allow_scene_breaks=True))
 
 
 def scoped_pronouns(entity: dict, chapter: int | None) -> str:

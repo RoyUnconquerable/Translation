@@ -77,8 +77,14 @@ goes in FLAGS, not into the text.
 - The one exception is a display-only split. Genuine panel lines or menu items
   and the narration that adjoins them may become separate paragraphs. Record
   each split as SOURCE:COUNT for the checker.
-- Keep the title and the ending. A body-only paste from the owner never deletes
-  them.
+- Keep the title. The source end line (本章完) is framing, not content: the
+  owner manuscript V2 carries no end line in any chapter, so do not translate
+  it, and the checker ignores it. A body-only paste from the owner never
+  deletes the title.
+- A lead-in never ends a paragraph with a comma. If the source isolates a
+  lead-in, make it a complete short sentence or end it with an ellipsis; if
+  the source joins it to the next line, keep one paragraph. Never split a
+  sentence across paragraphs (editing-spec 2.3).
 - A split or merge in the owner's own revision is a local approval, not a
   licence for later drafts. An English-only editing guide never overrides
   paragraph boundaries or source checks.

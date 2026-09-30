@@ -127,6 +127,7 @@ Stress needs contrast. When every sentence has the same length and shape, none s
 - Rare synonyms, stacked intensifiers, or decorative metaphors where an exact noun and a strong ordinary verb would do; a lone synonym or a clipped phrase where English has a complete, familiar expression; decorative inversion.
 - Comma splices and other calqued syntax.
 - A local owner preference made a template without evidence that it recurs as a principle.
+- The mechanics the owner's V2 review of the whole manuscript flagged: tense drift and needless past perfect, agreement across long phrases, stale pronoun referents, unlike comparisons, then/than and similar pairs, calques (carry out an inspection, at this time, in a short while, it can be said that, As for X, he), vague verbs, doublets, a root three times in a paragraph, repeated openers, upon/whilst/amidst in a casual voice, stiff dialogue, limp trailing participles, missing contractions, and inconsistent capitals, serial commas or numbers. The checklist is editing-spec 2.3.
 
 ### Owner prose baseline (Chapters 1413-1428)
 

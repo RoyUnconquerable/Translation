@@ -34,13 +34,6 @@ principle.
 - Repaired: The four... had long since extinguished their humanity... Yet now they too stood dazed.
 - Mechanism: description first, reaction last, so "they too" reads as irony; "extinguished" keeps the agent.
 
-## 5. One wording per key phrase; 4. trigger (Ch. 1411 P17)
-
-- Chinese: At once [顿时] the Primordial Spirits turned their heads in some higher dimension and looked at the road they came by [来时路].
-- Stiff: ...every Dao Lord's Primordial Spirit turned back from a higher dimension and looked along the paths they had taken to get here.
-- Repaired: At once, in some higher dimension..., the Primordial Spirits of all the Dao Lords turned and looked back at the road behind them.
-- Mechanism: 顿时 lets the maxim cause the look; "the road behind them" is fixed here and reused in every later paragraph.
-
 ## 3. Doer as subject, no imposed agent (Ch. 1411 P28)
 
 - Chinese: She felt not the slightest attachment [留恋]; the scene before her shattered [破灭].
@@ -90,20 +83,6 @@ principle.
 - Repaired: ...shot toward the Heaven Beyond the Heavens, and rammed headfirst into its gate.
 - Mechanism: the climactic verb gets its own finite slot at the end.
 
-## 4. The loaded question lands last (Ch. 1411 P68)
-
-- Chinese: Will you follow the other Dao Lords, or me, who has no Primordial Spirit and can only enter through you?
-- Stiff: "So who will it be? One of the other Dao Lords, or me? I don't have a Primordial Spirit, so I can only get inside with your help."
-- Repaired: "So will you follow one of them, or me, who has no Primordial Spirit and can only get in with your help?"
-- Mechanism: the premise moves inside the question, so the speech ends on it.
-
-## 5. Parallel frame; 6. no added hedge (Ch. 1411 P72)
-
-- Chinese: Put [放在] an Innate Dao God in the Ancient Era...; put [放在] him in the present age, and he is nothing but [纯粹] a punching bag.
-- Stiff: As an Innate Dao God, he might have dominated... In the present age, though, anyone... was little more than a punching bag.
-- Repaired: Put an Innate Dao God in the Ancient Era, and... Put him in the present age, and... he was nothing but a punching bag.
-- Mechanism: the doubled "Put" carries the comparison; "nothing but" matches 纯粹 instead of hedging the punch.
-
 ## 8. Free indirect order (Ch. 1411 P75)
 
 - Chinese: In that case, rather than [与其] follow the Primordial Saint, better [不如] to team up with Soaring Firmament.
@@ -124,3 +103,24 @@ principle.
 - Stiff: After watching the Sword Sovereign leave, the Light of Order around him...
 - Repaired: After Lü Yang watched the Sword Sovereign leave, the Light of Order around him...
 - Mechanism: the phrase attached to the Light and made it the watcher; naming Lü Yang keeps the revised time order.
+## 12. Calque and doublet (owner Ch.1428 P42)
+
+- Chinese: For this [为此], many Dao Ancestors had malicious guesses [恶意揣测] and conspiracy-theorized [阴谋论] the Dao Venerable's intent.
+- Stiff: Over that question, quite a few Dao Ancestors had in fact harbored some malicious suspicions and spun conspiracy theories about the Dao Venerable's intentions.
+- Repaired (owner): Because of that, more than a few Dao Ancestors had indulged in malicious speculation about the Dao Venerable's motives.
+- Mechanism: the connector becomes a plain cause, the filler "in fact" goes, and two nouns doing one job become one.
+
+## 7. Dialogue register (owner Ch.1428 P152)
+
+- Chinese: It is I who should thank Fellow Daoist Jiao [是我要多谢焦道友].
+- Stiff: "It's I who should thank you, Fellow Daoist Jiao."
+- Repaired (owner): "I'm the one who should be thanking you, Fellow Daoist Jiao."
+- Mechanism: a warrior's banter uses spoken syntax; the formal cleft reads as translationese.
+
+## 3. Stale referent and calque (owner Ch.1428 P103)
+
+- Chinese: As the words fell [话音落下], Tassel Immortal smiled bitterly.
+- Stiff: As his words fell, Tassel Immortal gave a bitter laugh.
+- Repaired (owner): When Lü Yang finished speaking, Tassel Immortal gave a bitter laugh.
+- Mechanism: "his" could claim either man; the name fixes the referent and the stock phrase becomes plain English.
+

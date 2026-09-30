@@ -50,7 +50,10 @@ no state and proves neither delivery nor approval.
 checks the target title number, the paragraph mapping (including declared
 display splits), reviewed scene-break positions, required terms and forbidden
 expansions, fixed displays and panel format, banned typography, CJK residue and
-contractions ending in 'd. Digit mismatches are warnings. It does not prove
+contractions ending in 'd, and English mechanics through `prose_check.py`: split lead-ins,
+sentences broken across paragraphs and word confusions fail; calques, bookish
+diction, repetition, trailing participles, missing contractions in speech and
+inconsistent capitals or serial commas are warnings to resolve. Digit mismatches are warnings. It does not prove
 meaning, completeness, Chinese-number conversion, the chapter ending or good
 English. `instructions/workflow.md` gives the flags.
 

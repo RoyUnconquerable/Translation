@@ -66,3 +66,24 @@ addendum; unapproved proposals remain unapproved. No chapter prose is included.
 | 02_BOOK_REFERENCE.md | libfile_9a5ebb0293e48191afcfd2a6cd7316d9 | fe5e47b77a22b907f2f396be667305309dbd8a57bc544075ee9a67d59864a985 |
 
 Saved version numbers: ChatGPT_Rules.md v1; Reference_Italicized_Titles.md v2; Reference_Talents_and_Hundred_Lives.md v2; Rule_Update_and_Proposed_Resolutions.md v1; Reference_Idioms.md v2; Reference_Formatting_Rules.md v2; 02_BOOK_REFERENCE.md v1.
+
+## Owner-edited English manuscript V2 (supplied 30 September 2026)
+
+- File: `Edited_Draft_V2.docx`; SHA-256
+  `ca80b4b5e4e662521514d26d2594abe2c7d6ed1104caba7f9e28ab91f6a234c4`.
+- Inspected 112,168 body paragraphs with 1,428 numbered headings from 1 through
+  1429; heading 238 is still absent. Ch.1429 is a heading with empty paragraphs.
+  No tracked changes or comments. Displays are bold 【...】 runs; no chapter has
+  an end line. The manuscript stays outside Git.
+- The owner reports reviewing the whole novel and lists recurring faults
+  (tense, agreement, reference, calques, repetition, register, consistency,
+  paragraph splits); these became editing-spec 2.3 and prose_check.py.
+- Status: owner-edited English evidence. The owner did not state approval of
+  V2 as final, so approved_manuscript in state still names the 16 September
+  manuscript. V2 Ch.1424-1427 English exists, but their Chinese was not
+  supplied here.
+- Survey facts at supply: comma lead-ins split from their sentence (e.g. Ch.
+  167, 343, 344, 358, 376, 378, 507, 510), sentences broken across paragraphs
+  (Ch. 387, 1146, 1183), and mixed conventions (upon, as for, serial comma,
+  em dashes) remain in older chapters; maintenance never edits the manuscript.
+
