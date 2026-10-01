@@ -240,7 +240,11 @@ def main() -> None:
         for detail in lint.expansion_errors(src, tgt, glossary):
             errors.append(f"paragraph {index}: {detail}")
         for entry in lint.glossary_matches(src, glossary):
-            if not lint.target_has_variant(tgt, entry["variants"]):
+            found = lint.target_has_variant(tgt, entry["variants"])
+            if not found and index == 1:
+                # Titles are in title case; match terms case-insensitively there.
+                found = lint.target_has_variant(tgt.lower(), [v.lower() for v in entry["variants"]])
+            if not found:
                 errors.append(
                     f"paragraph {index}: {entry['source']!r} requires {entry['target']}"
                 )

@@ -44,7 +44,7 @@ source	target	notes
 心斋	Heart Fasting	a Dao Heart tier; provenance terminology.tsv
 元神	Primordial Spirit	provenance terminology.tsv
 果位	Fruition Attainment	named Dao Fruit Secret Art recipes keep "Dao Fruit"; provenance terminology.tsv
-道果	Fruition Attainment|Dao Fruit	General sense "Fruition Attainment"; named recipes and fused products keep "Dao Fruit". Owner Ch.1339 retains Dao Fruit for the Heavenly Calendar Numbers as the fruit cultivated by the Heavenly Palace; preserve the linked tree/root/fruit image. Owner Ch.1408 chooses "Dao Fruit" for Lü Yang holding his own fruit steady (持定道果), a contextual choice, not a global replacement of Fruition Attainment.
+道果	Fruition Attainment|Dao Fruit	General sense "Fruition Attainment"; 道果然 is 道 + 果然 (really), not this term [except: 道果然]; named recipes and fused products keep "Dao Fruit". Owner Ch.1339 retains Dao Fruit for the Heavenly Calendar Numbers as the fruit cultivated by the Heavenly Palace; preserve the linked tree/root/fruit image. Owner Ch.1408 chooses "Dao Fruit" for Lü Yang holding his own fruit steady (持定道果), a contextual choice, not a global replacement of Fruition Attainment.
 真身	true body|true bodies	lowercase; number follows syntax. Ch.1348 confirms the ordinary plural with plural Dao Lords; do not force singular wording to satisfy a lexical checker.
 报身	Reward Body	standalone only; 法外报身 is its own entry; provenance terminology.tsv
 法外报身	Dharma Transcending Avatar	distinct from standalone 报身; provenance terminology.tsv
@@ -105,7 +105,7 @@ source	target	notes
 维度	dimension	owner edit Ch. 1209; provenance terminology.tsv
 真君中期	mid-stage True Monarch	owner edit Ch. 1209; provenance terminology.tsv
 无穷伟力	boundless power|power was boundless	owner edit Ch. 1209; overrides bare 伟力 in this collocation; provenance terminology.tsv
-修为	cultivation	distinct from 道行 = Dao Attainment (owner clarification 2026-08-19); provenance terminology.tsv
+修为	cultivation	Owner Ch.1430 may fold 修为 into the person (whoever was infinitely close to Divine Transformation) [except: 修为本身就已经无限接近化神]; distinct from 道行 = Dao Attainment (owner clarification 2026-08-19); provenance terminology.tsv
 法光	dharma light	owner edit Ch. 1210; not 'law-light'; provenance terminology.tsv
 混沌	Primordial Chaos	capitalize; provenance owner-rulings-ch1221-ch1243.tsv
 天赋	talent|Talent	lowercase talent in prose; Talent only inside approved system displays (tier + Talent, Unique Talent, the Talents: field) per Reference_Talents_and_Hundred_Lives.md; owner ruling 2026-09-24
@@ -326,7 +326,7 @@ source	target	notes
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁|维系住了他的性命|延续自己的性命|目标的性命|不要你的性命|性命之忧]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁|维系住了他的性命|延续自己的性命|目标的性命|不要你的性命|性命之忧|留了他一条性命]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
 神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase generic use; Title Case in a chapter title or established name. The more specific category 大神通 is Great Divine Ability/Abilities under the Ch.1346 owner correction.
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
@@ -496,6 +496,9 @@ source	target	notes
 末劫道神	Dao God of the Final Kalpa	Approved Ch.1428 (Continue). Owner revision also writes Innate Dao God of the Final Kalpa in five of seven uses; which wording to fix awaits an owner ruling.
 质变	transformation	Approved Ch.1428. Nature transformation (本质蜕变/质变): owner prefers a third transformation of nature, three transformations of nature, the second transformation; compressed lists may keep third nature transformation.
 大道之环	Ring of the Great Dao	Owner Ch.1429, capitalized. The Great Dao ring seen when the Ring of Infinity approaches; keep distinct from the named Ring of Infinity (无限之环).
-劫气	Tribulation Qi	Owner Ch.1429 (capital Q). The same chapter keeps Final Kalpa qi lowercase; the qi casing awaits an owner ruling.
+劫气	Tribulation Qi	Owner Ch.1429 (capital Q); Ch.1430 settles the casing: Qi is capitalized in these named compounds (Tribulation Qi, Final Kalpa Qi). Ambient spiritual qi stays lowercase.
 大祭众生	great sacrifice of all living beings|Great Sacrifice of All Living Beings|sacrifice all living beings	Owner retained Ch.1429. Title case only in the chapter title; 大祭 alone is the great sacrifice; verb form sacrifice all living beings.
 仙枢之地	Immortal Pivot site|Immortal Pivot	Owner retained in the Ch.1429 book display; in speech the owner shortens it to the Immortal Pivot. Bare 仙枢 is Immortal Pivot.
+末劫之气	Final Kalpa Qi	Owner Ch.1430, capital Q throughout the chapter (supersedes Ch.1429's lowercase qi).
+名相祖师	the founders of the Doctrines of Names and Appearances	Owner Ch.1430 spells the pair out instead of the two doctrines; also for 名相二教的祖师.
+魔道	the Demonic Path	Owner Ch.1430, capitalized, for the label pinned on the Supreme Source Immortal and the two doctrines.

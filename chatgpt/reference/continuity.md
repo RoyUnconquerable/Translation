@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1429 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1430 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-1428 and 1429, have verified sources and chat delivery; 1424-1427 are not
+1428-1430, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -105,21 +105,11 @@ Preserved in continuity-archive.md under Archived Chapters 1420-1421 at
 Chapter 1429: Dan Qiuhuo and Bu Changming as one person on two paths, and
 the Immortal-Nurturing Land as the source of later source jade.
 
-## Chapter 1422: Bu Changming's second Nurturing Life path
+## Chapters 1422-1423: lookup
 
-- Bu Changming uses a Feng Shui-derived annihilation method that imitates the Final Kalpa at a tiny fraction of its real power. Lü Yang's Infinity absorbs and grinds away the attack regardless of quantity.
-- Bu Changming's Nurturing Life path turns inward: he identifies flaws and repairs them, contrasting with Dan Qiuhuo's outward path of seeking fortune and avoiding calamity.
-- Bu Changming can calculate flaws even in a peer's relatively perfected Dao operation and exploit them directly.
-- He reveals that if he completed Feng Shui as well, he expected to split off another divine sense and reach three spirits as one, using Feng Shui to fill the weakness in his offensive methods.
-- Lü Yang connects that proposed three-spirit state to the Grand Sword Patriarch, Sanhe. The connection is a new suspicion, not yet confirmed identity or lineage.
-
-## Chapter 1423: Dan Qingjian and Dan Qiuhuo's agreement
-
-- Dan Qingjian, the Dao Ancestor of Study, records Divine Land's history as his path through the Final Kalpa. He values preserving civilization and transmitted cultivation legacy even if Divine Land and its people perish.
-- Tassel Immortal dislikes this path but does not oppose it because historical recording does not interfere with his grand Feng Shui formation.
-- Dan Qingjian reaches the entrance to the Immortal-Nurturing Land but cannot enter. He then notices a highly talented scholarly young man approaching and judges him suited to Study.
-- Inside the Immortal-Nurturing Land, Lü Yang rejects the idea that Dan Qiuhuo/Bu Changming and the Grand Sword Patriarch Sanhe are the same person; any relation is only a surviving trace.
-- Bu Changming concedes after Lü Yang traps rather than injures him. Dan Qiuhuo re-emerges, uses his Befriending the Noble attainments on Lü Yang, and agrees to let Tassel Immortal's Feng Shui formation foundation be planted inside the Immortal-Nurturing Land.
+Preserved in continuity-archive.md under Archived Chapters 1422-1423 at
+Chapter 1430: Bu Changming's inward Nurturing Life path, Dan Qingjian's
+recording of history, and Dan Qiuhuo's agreement to host the formation.
 
 ## Chapter 1428: the third transformation and Shi Weixiong
 
@@ -140,4 +130,12 @@ the Immortal-Nurturing Land as the source of later source jade.
 - Lü Yang's Ring of Infinity injures him. Lü Yang, using Tribulation borrowed from Soaring Firmament, and Soaring Firmament, using his Dao Heart, make the Ancestral Dragon's Primordial Spirit trust Lü Yang; Soaring Firmament keeps a sliver as proof, and True Waystation seals the rest. Si Sui breaks with Du Xuan, who wants Soaring Firmament dead.
 - The Primordial Saint's Names founder errand was a diversion: he used Time to reach the Final Kalpa and returned with Final Kalpa qi holding Knowing Heaven's Mandate's knowledge, severing the River of Time behind him.
 - The book's consciousness reports the Divine Land's Immortal Pivot site is Purple Firmament Palace. The Primordial Saint claims Jun's Transcendence is incomplete and that Jun means a great sacrifice of all living beings there; the Names and Appearances founders privately doubt it. As True Waystation's ritual light rises, the Primordial Saint heads for Purple Firmament Palace to "help" Jun's sacrifice. All of this is his claim, not established fact.
+
+## Chapter 1430: the Final Kalpa awakens
+
+- Soaring Firmament keeps a minimal Primordial Spirit flame to stay qualified and suspects Jun hand-picked the next Divine Transformation; the World-Honored One has told him he is an Ancient Past Dao Ancestor's reincarnation.
+- The Sword Sovereign (Nian Yao) recalls founding the Heavenly Dao to give heaven and earth feeling, and recognizes she has become cold since forming her Primordial Spirit: only the Self is real; those without Primordial Spirits are mayflies.
+- True Waystation makes her the vessel: she swallows Final Kalpa Qi and rebuilds the Heavenly Dao with Vast Sky (Fortune), Du Xuan (Spiritual Power) and Myriad Spells (Spells), the Ancestral Dragon's Primordial Spirit as bait. Lü Yang reads it as a bid to become the End Tiger; her threads of affection parasitize the newly spiritual, still mindless Final Kalpa.
+- The Final Kalpa's arrival moved earlier than Tassel Immortal's anchor. Fate shows no future of her success; a young Daoist (the Final Kalpa's consciousness, now intelligent) occupies every future, breaks her web and cracks her body. True Waystation blames the Supreme Source Immortal and the two founders.
+- At Purple Firmament Palace the Primordial Saint declares Nian Yao doomed and the Ancient Past's destruction counting down. The book's consciousness (speaking as the Supreme Source Immortal) has adopted the Primordial Saint's ways. The Primordial Saint plans to use the crisis to win support for the great sacrifice and to test whether Profound Virtue can still restart; the book says that power cannot affect Divine Transformation. The founders privately fear him.
 

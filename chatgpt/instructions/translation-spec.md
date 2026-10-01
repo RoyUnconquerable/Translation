@@ -95,7 +95,8 @@ goes in FLAGS, not into the text.
   licence for later drafts. An English-only editing guide never overrides
   paragraph boundaries or source checks.
 - Use `---` only for a genuine hard change of place, time or viewpoint, never
-  for pacing. Place it before a time-jump sentence so that sentence opens the
+  for pacing. A sustained cut into another character's memory or interior
+  viewpoint counts as a viewpoint change (owner Ch.1430 P29). Place it before a time-jump sentence so that sentence opens the
   new scene. Keep every separator the source prints, and record the reviewed
   positions, or none, for the checker.
 

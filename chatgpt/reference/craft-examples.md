@@ -34,13 +34,6 @@ principle.
 - Repaired: The four... had long since extinguished their humanity... Yet now they too stood dazed.
 - Mechanism: description first, reaction last, so "they too" reads as irony; "extinguished" keeps the agent.
 
-## 3. Doer as subject, no imposed agent (Ch. 1411 P28)
-
-- Chinese: She felt not the slightest attachment [留恋]; the scene before her shattered [破灭].
-- Stiff: Without the slightest reluctance, the Sword Sovereign shattered the scene before her.
-- Repaired: The Sword Sovereign felt not the slightest attachment, and the scene before her shattered.
-- Mechanism: 破灭 is intransitive, so the cause comes first and the scene breaks by itself.
-
 ## 4. Calque trap: 如果说...那 (Ch. 1411 P32)
 
 - Chinese: If we say [如果说] the others still felt a flicker toward the road behind them, then [那] he truly felt nothing.
@@ -123,4 +116,11 @@ principle.
 - Stiff: The Great Forest Wood behind him flourished ever more thickly. Its sea of mist spread across the sky and blotted out the sun, and light surged within it.
 - Repaired (owner): Behind him, the great forest flourished ever more densely, while its sea of mist spread across the sky, blotting out the sun as light surged within.
 - Mechanism: simultaneous description stays one moving sentence; while, a participle and as carry the simultaneity that full stops broke up.
+
+## 3. Concrete subject for a verdict (owner Ch.1430 P182-P183)
+
+- Chinese: It is not even [merely] bad anymore. It is simply beasts [简直就是畜生]!
+- Stiff: It wasn't even just wicked anymore. / It was downright bestial!
+- Repaired (owner): This wasn't even mere wickedness anymore. / They were beasts!
+- Mechanism: the verdict lands on the people, not an abstract it, so the insult hits as hard as 畜生.
 

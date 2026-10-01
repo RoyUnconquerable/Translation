@@ -3117,3 +3117,21 @@ remain in continuity-archive.md under Archived world separation at Chapter 1333.
 - Chapter 1421: the Immortal-Nurturing Land is revealed as a treasure land whose nature is comparable to a motionless, unconscious Dao Ancestor. Lü Yang recognizes it as the predecessor of the later source-jade remnants in Carefree Wandering that Dao Tianqi used to build the Underworld.
 - Dan Qiuhuo had planned to survive the Final Kalpa by placing the Immortal-Nurturing Land inside the largest Heavenly Person's Remnant Consciousness after Jun's soul split into seven secret realms. The later evidence shows the land survived only as source jade and Dan Qiuhuo himself did not remain.
 - Bu Changming is not merely a second public identity: a distinct Primordial Spirit condition allows him to emerge from Dan Qiuhuo, swallow him and take control, resembling the established good-and-evil Primordial Spirit split in structure but not yet confirmed identical in mechanism.
+
+## Archived Chapters 1422-1423 at Chapter 1430
+
+### Chapter 1422: Bu Changming's second Nurturing Life path
+
+- Bu Changming uses a Feng Shui-derived annihilation method that imitates the Final Kalpa at a tiny fraction of its real power. Lü Yang's Infinity absorbs and grinds away the attack regardless of quantity.
+- Bu Changming's Nurturing Life path turns inward: he identifies flaws and repairs them, contrasting with Dan Qiuhuo's outward path of seeking fortune and avoiding calamity.
+- Bu Changming can calculate flaws even in a peer's relatively perfected Dao operation and exploit them directly.
+- He reveals that if he completed Feng Shui as well, he expected to split off another divine sense and reach three spirits as one, using Feng Shui to fill the weakness in his offensive methods.
+- Lü Yang connects that proposed three-spirit state to the Grand Sword Patriarch, Sanhe. The connection is a new suspicion, not yet confirmed identity or lineage.
+
+### Chapter 1423: Dan Qingjian and Dan Qiuhuo's agreement
+
+- Dan Qingjian, the Dao Ancestor of Study, records Divine Land's history as his path through the Final Kalpa. He values preserving civilization and transmitted cultivation legacy even if Divine Land and its people perish.
+- Tassel Immortal dislikes this path but does not oppose it because historical recording does not interfere with his grand Feng Shui formation.
+- Dan Qingjian reaches the entrance to the Immortal-Nurturing Land but cannot enter. He then notices a highly talented scholarly young man approaching and judges him suited to Study.
+- Inside the Immortal-Nurturing Land, Lü Yang rejects the idea that Dan Qiuhuo/Bu Changming and the Grand Sword Patriarch Sanhe are the same person; any relation is only a surviving trace.
+- Bu Changming concedes after Lü Yang traps rather than injures him. Dan Qiuhuo re-emerges, uses his Befriending the Noble attainments on Lü Yang, and agrees to let Tassel Immortal's Feng Shui formation foundation be planted inside the Immortal-Nurturing Land.
