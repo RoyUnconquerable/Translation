@@ -118,8 +118,12 @@ Phrasing and rhythm
   upon, whilst, amidst, amongst; fixed phrases such as layer upon layer stay.
 - Dialogue register: each line sounds like its speaker; juniors joking are
   not stiff, and an idiomatic line gets an idiomatic English line.
-- Trailing participles: when a scene needs the action, give it a finite verb
-  (style guide 4 and check 3).
+- Trailing participles: give a decisive action its own finite verb (style
+  guide 4 and check 3). A participle for simultaneous or descriptive action
+  is fine and often better (owner Ch.1429); do not chop description into
+  short sentences.
+- Pacing: flowing sentences for description, short ones for beats; declared
+  pacing joins and splits per translation-spec.
 
 Register and consistency
 - Contractions in casual dialogue and thought (style guide 7 and 11).

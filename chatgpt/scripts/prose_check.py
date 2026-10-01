@@ -123,9 +123,6 @@ def paragraph_warnings(target: list[str], protected: set[str]) -> list[str]:
             if a == b == c:
                 warnings.append(f"paragraph {index}: three consecutive sentences open with '{a}'")
                 break
-        for sentence in sentences:
-            if TRAILING_PARTICIPLE_RE.search(sentence):
-                warnings.append(f"paragraph {index}: trailing participle; consider a finite verb: {sentence[-60:]!r}")
     return warnings
 
 

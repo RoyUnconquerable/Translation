@@ -546,6 +546,16 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("consecutive sentences open with 'the sword'", warnings)
         self.assertNotIn("bookish", "\n".join(prose_check.paragraph_warnings(["T", "Layer upon layer rose."], set())))
 
+    def test_pacing_join_and_split_align(self):
+        source = ["第1章 测试", "他看见了吗？", "所以走了？", "他说：一步之遥。"]
+        joined = ["Chapter 1: Test", "Did he see it and leave?", "He said: \"So close.\"", "\"One step short.\""]
+        groups, starts, errors = chat_check.align_display_splits(source, joined, [], ["4:2"], [3])
+        self.assertEqual(errors, [])
+        self.assertEqual(groups[2], ["Did he see it and leave?"])
+        self.assertEqual(len(groups[3]), 2)
+        _, _, bad = chat_check.align_display_splits(source, joined, [], [], [2])
+        self.assertTrue(any("invalid pacing join" in e for e in bad))
+
     def test_end_marker_is_framing_not_a_paragraph(self):
         self.assertEqual(chat_check.strip_end_marker(["第1章 测试", "正文。", "(本章完)"]), ["第1章 测试", "正文。"])
         self.assertEqual(chat_check.strip_end_marker(["Chapter 1: Test", "Body."]), ["Chapter 1: Test", "Body."])

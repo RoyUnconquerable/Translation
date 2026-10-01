@@ -85,7 +85,13 @@ goes in FLAGS, not into the text.
   lead-in, make it a complete short sentence or end it with an ellipsis; if
   the source joins it to the next line, keep one paragraph. Never split a
   sentence across paragraphs (editing-spec 2.3).
-- A split or merge in the owner's own revision is a local approval, not a
+- Pacing exceptions (owner Ch.1428-1429): join a source paragraph that only
+  completes the previous sentence or question (P189 "所以悄然退走了？" after
+  P188), and split off a short punch line that closes a speech ("He was one
+  step short."). Declare each to the checker (--pacing-joins SOURCE,
+  --pacing-splits SOURCE:COUNT) and list it in FLAGS. Complete beats the
+  source isolates (Just then. / Suddenly. / In short.) stay separate.
+- Any other split or merge in the owner's own revision is a local approval, not a
   licence for later drafts. An English-only editing guide never overrides
   paragraph boundaries or source checks.
 - Use `---` only for a genuine hard change of place, time or viewpoint, never

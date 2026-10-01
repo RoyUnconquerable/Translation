@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1428 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1429 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-and 1428, have verified sources and chat delivery; 1424-1427 are not
+1428 and 1429, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -99,13 +99,11 @@ Chapter 1428: the ten entrants to Jun's recollection, the Seed of the Great
 Dao contest, the seventeen Dao Ancestors, Returning Fate's reincarnation and
 True Spirit, and Tassel Immortal's bargain over the white-jade pillar.
 
-## Chapters 1420-1421: the two Nurturing Life paths
+## Chapters 1420-1421: lookup
 
-- Chapter 1420: the Immortal Recorder reveals that Nurturing Life appears to have two Dao Ancestors, Dan Qiuhuo and Bu Changming, but both are the same person who carved two distinct paths within one Dao lineage. Dan Qiuhuo also has deep Feng Shui attainments and used them to separate the Immortal-Nurturing Land from Divine Land.
-- Dan Qiuhuo's survival methods are the strongest among the Dao Ancestors in seeking fortune and avoiding calamity. Through the Dao Register, the Immortal Recorder can help Lü Yang locate him despite those methods.
-- Chapter 1421: the Immortal-Nurturing Land is revealed as a treasure land whose nature is comparable to a motionless, unconscious Dao Ancestor. Lü Yang recognizes it as the predecessor of the later source-jade remnants in Carefree Wandering that Dao Tianqi used to build the Underworld.
-- Dan Qiuhuo had planned to survive the Final Kalpa by placing the Immortal-Nurturing Land inside the largest Heavenly Person's Remnant Consciousness after Jun's soul split into seven secret realms. The later evidence shows the land survived only as source jade and Dan Qiuhuo himself did not remain.
-- Bu Changming is not merely a second public identity: a distinct Primordial Spirit condition allows him to emerge from Dan Qiuhuo, swallow him and take control, resembling the established good-and-evil Primordial Spirit split in structure but not yet confirmed identical in mechanism.
+Preserved in continuity-archive.md under Archived Chapters 1420-1421 at
+Chapter 1429: Dan Qiuhuo and Bu Changming as one person on two paths, and
+the Immortal-Nurturing Land as the source of later source jade.
 
 ## Chapter 1422: Bu Changming's second Nurturing Life path
 
@@ -134,3 +132,12 @@ True Spirit, and Tassel Immortal's bargain over the white-jade pillar.
 - Camps per Dan Qingjian: Names/Appearances with the Supreme Source Immortal and the Primordial Saint; Tassel Immortal, Dan Qiuhuo/Bu Changming with Lü Yang, Returning Fate's reincarnation and Si Sui; the Sword Sovereign, Vast Sky, Myriad Spells and Du Xuan with Worship Me and True Waystation, trapping Soaring Firmament and Dao Tianqi. Great Luck Comes's Luck lineage has not moved.
 - Lü Yang's Infinite Method will grow only to the second transformation's peak, about Other Shore layer six; layer seven needs a third transformation, for which he has no direction.
 - The Doctrine of Names' founder arrives wearing the Primordial Saint's name, removes it, offers cooperation and the trap's location. His motive, and whether the Primordial Saint directs him, stays open.
+
+## Chapter 1429: True Waystation and the Purple Firmament Palace plan
+
+- The Sword Sovereign, Vast Sky, Myriad Spells and Du Xuan, allied with Worship Me and True Waystation, trapped Soaring Firmament and Dao Tianqi at the bottom of the Divine Land's Northern Sea; Tribulation let them evade repeatedly.
+- True Waystation, third Revering the Gods Dao Ancestor and the Heavenly Dao's inspiration, lives in his jade; his body is disposable. He designed the Heavenly Heart Lock's prototype; the Ancestral Dragon's claim to have forged it is false. He plans to refine the Final Kalpa into a treasure and needs an Innate Dao God's Primordial Spirit thought, which he believes Jun promised him.
+- Lü Yang's Ring of Infinity injures him. Lü Yang, using Tribulation borrowed from Soaring Firmament, and Soaring Firmament, using his Dao Heart, make the Ancestral Dragon's Primordial Spirit trust Lü Yang; Soaring Firmament keeps a sliver as proof, and True Waystation seals the rest. Si Sui breaks with Du Xuan, who wants Soaring Firmament dead.
+- The Primordial Saint's Names founder errand was a diversion: he used Time to reach the Final Kalpa and returned with Final Kalpa qi holding Knowing Heaven's Mandate's knowledge, severing the River of Time behind him.
+- The book's consciousness reports the Divine Land's Immortal Pivot site is Purple Firmament Palace. The Primordial Saint claims Jun's Transcendence is incomplete and that Jun means a great sacrifice of all living beings there; the Names and Appearances founders privately doubt it. As True Waystation's ritual light rises, the Primordial Saint heads for Purple Firmament Palace to "help" Jun's sacrifice. All of this is his claim, not established fact.
+

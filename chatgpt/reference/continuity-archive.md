@@ -3107,3 +3107,13 @@ remain in continuity-archive.md under Archived world separation at Chapter 1333.
 - Lü Yang recognizes the True Spirit as leverage. He agrees to hand it over in exchange for immediate transport to the Seed of the Great Dao when it appears and help holding off one opponent.
 - Tassel Immortal demands an additional service: Lü Yang must install a white-jade pillar in the Immortal-Nurturing Land, the only major gap in his formation.
 - The Immortal-Nurturing Land is controlled by Dan Qiuhuo, the Dao Ancestor of Nurturing Life, whose methods excel at seeking fortune and avoiding calamity.
+
+## Archived Chapters 1420-1421 at Chapter 1429
+
+### Chapters 1420-1421: the two Nurturing Life paths
+
+- Chapter 1420: the Immortal Recorder reveals that Nurturing Life appears to have two Dao Ancestors, Dan Qiuhuo and Bu Changming, but both are the same person who carved two distinct paths within one Dao lineage. Dan Qiuhuo also has deep Feng Shui attainments and used them to separate the Immortal-Nurturing Land from Divine Land.
+- Dan Qiuhuo's survival methods are the strongest among the Dao Ancestors in seeking fortune and avoiding calamity. Through the Dao Register, the Immortal Recorder can help Lü Yang locate him despite those methods.
+- Chapter 1421: the Immortal-Nurturing Land is revealed as a treasure land whose nature is comparable to a motionless, unconscious Dao Ancestor. Lü Yang recognizes it as the predecessor of the later source-jade remnants in Carefree Wandering that Dao Tianqi used to build the Underworld.
+- Dan Qiuhuo had planned to survive the Final Kalpa by placing the Immortal-Nurturing Land inside the largest Heavenly Person's Remnant Consciousness after Jun's soul split into seven secret realms. The later evidence shows the land survived only as source jade and Dan Qiuhuo himself did not remain.
+- Bu Changming is not merely a second public identity: a distinct Primordial Spirit condition allows him to emerge from Dan Qiuhuo, swallow him and take control, resembling the established good-and-evil Primordial Spirit split in structure but not yet confirmed identical in mechanism.

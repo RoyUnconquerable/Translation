@@ -48,13 +48,6 @@ principle.
 - Repaired: Where the Sword Sovereign and the others had still felt a flicker of emotion toward the road behind them, he truly felt nothing.
 - Mechanism: the frame is a contrast, not a condition; the motif returns.
 
-## 4. Every connector carried (Ch. 1411 P37)
-
-- Chinese: By contrast [反而] the four, because [因为] they were more absorbed in the road behind them, were a beat slow and so [因此] fell behind.
-- Stiff: ...lingered over their memories a moment longer. They were slower to move and fell a step behind.
-- Repaired: ..., by contrast, had been more absorbed in the road behind them. They started a beat late and so fell a step behind.
-- Mechanism: three dropped markers get carriers; "memories" had rotated the motif.
-
 ## 4. Timing jolt and reversal (Ch. 1411 P43)
 
 - Chinese: The next instant [下一瞬], a Dao resonance shook heaven and earth; the others reappeared, yet [却] stuck before the gate.
@@ -123,4 +116,11 @@ principle.
 - Stiff: As his words fell, Tassel Immortal gave a bitter laugh.
 - Repaired (owner): When Lü Yang finished speaking, Tassel Immortal gave a bitter laugh.
 - Mechanism: "his" could claim either man; the name fixes the referent and the stock phrase becomes plain English.
+
+## 5. Pacing: flow for description (owner Ch.1429 P64)
+
+- Chinese: The great tree behind him grew ever more luxuriant, the sea of mist filled the sky and blotted out the sun, light surging.
+- Stiff: The Great Forest Wood behind him flourished ever more thickly. Its sea of mist spread across the sky and blotted out the sun, and light surged within it.
+- Repaired (owner): Behind him, the great forest flourished ever more densely, while its sea of mist spread across the sky, blotting out the sun as light surged within.
+- Mechanism: simultaneous description stays one moving sentence; while, a participle and as carry the simultaneity that full stops broke up.
 

@@ -97,6 +97,7 @@ def chapter_input_errors(source: list[str], target: list[str]) -> list[str]:
 
 def align_display_splits(
     source: list[str], target: list[str], declarations: list[str],
+    pacing_splits: list[str] | None = None, pacing_joins: list[int] | None = None,
 ) -> tuple[list[list[str]], dict[int, int], list[str]]:
     """Map only declared display-layout splits, retaining original source indices.
 
@@ -105,6 +106,24 @@ def align_display_splits(
     """
     counts: dict[int, int] = {}
     errors: list[str] = []
+    pacing: set[int] = set()
+    for value in pacing_splits or []:
+        match = re.fullmatch(r"([0-9]+):([0-9]+)", value)
+        if not match:
+            errors.append(f"invalid pacing split {value!r}; use SOURCE:COUNT")
+            continue
+        index, count = map(int, match.groups())
+        if not 2 <= index <= len(source) or count < 2 or index in counts:
+            errors.append(f"invalid pacing split {value!r}")
+        else:
+            counts[index] = count
+            pacing.add(index)
+    for index in pacing_joins or []:
+        if not 3 <= index <= len(source) or index in counts or index - 1 in counts and counts[index - 1] == 0:
+            errors.append(f"invalid pacing join {index}; it must join a body paragraph to the previous one")
+        else:
+            counts[index] = 0
+            pacing.add(index)
     for value in declarations:
         match = re.fullmatch(r"([0-9]+):([0-9]+)", value)
         if not match:
@@ -114,7 +133,7 @@ def align_display_splits(
         if not 2 <= index <= len(source) or count < 2:
             errors.append(f"invalid display split {value!r}; no title/out-of-range split or count below 2")
         elif index in counts:
-            errors.append(f"duplicate display split for source paragraph {index}")
+            errors.append(f"duplicate display or pacing declaration for source paragraph {index}")
         else:
             counts[index] = count
 
@@ -131,9 +150,11 @@ def align_display_splits(
         starts[index] = offset + 1
         count = counts.get(index, 1)
         group = target[offset:offset + count]
+        if count == 0 and groups:
+            group = groups[-1]
         groups.append(group)
         offset += count
-        if index in counts:
+        if index in counts and index not in pacing:
             displays = [bool(lint.DISPLAY_RE.fullmatch(part)) for part in group]
             if not any(displays):
                 errors.append(f"source paragraph {index}: display split contains no standalone panel")
@@ -155,6 +176,14 @@ def main() -> None:
         "--display-splits", nargs="*", default=[], metavar="SOURCE:COUNT",
         help="Reviewed display-only splits: source index and total target paragraphs.",
     )
+    parser.add_argument(
+        "--pacing-splits", nargs="*", default=[], metavar="SOURCE:COUNT",
+        help="Reviewed pacing splits that isolate a punch line (translation-spec).",
+    )
+    parser.add_argument(
+        "--pacing-joins", type=int, nargs="*", default=[], metavar="SOURCE",
+        help="Reviewed pacing joins: a source paragraph that only continues the previous sentence.",
+    )
     args = parser.parse_args()
     root = common.find_root()
     glossary = common.load_glossary(root)
@@ -166,7 +195,7 @@ def main() -> None:
     errors = chapter_input_errors(source, target)
     warnings: list[str] = []
     groups, target_starts, alignment_errors = align_display_splits(
-        source, target, args.display_splits
+        source, target, args.display_splits, args.pacing_splits, args.pacing_joins
     )
     errors.extend(alignment_errors)
 
