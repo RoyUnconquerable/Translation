@@ -69,13 +69,6 @@ principle.
 - Repaired: ...shot toward the Heaven Beyond the Heavens, and rammed headfirst into its gate.
 - Mechanism: the climactic verb gets its own finite slot at the end.
 
-## 8. Free indirect order (Ch. 1411 P75)
-
-- Chinese: In that case, rather than [与其] follow the Primordial Saint, better [不如] to team up with Soaring Firmament.
-- Stiff: Given those options, he would rather work with Soaring Firmament than go with the Primordial Saint.
-- Repaired: In that case, rather than follow the Primordial Saint, better to team up with Soaring Firmament.
-- Mechanism: source order puts the choice last in the Dragon's own voice; "Given those options" was padding.
-
 ## 4. Calque trap: 另一边; 5. punch last (Ch. 1411 P82)
 
 - Chinese: Over on the other side [另一边], Lü Yang, unrestrained, clapped his hands and burst out laughing.
@@ -123,4 +116,11 @@ principle.
 - Stiff: It wasn't even just wicked anymore. / It was downright bestial!
 - Repaired (owner): This wasn't even mere wickedness anymore. / They were beasts!
 - Mechanism: the verdict lands on the people, not an abstract it, so the insult hits as hard as 畜生.
+
+## 8. Rhetorical reasoning as direct thought (owner Ch.1431 P142)
+
+- Chinese: Heart too heavy, full of attachment, do you still want to transcend? Since you want to transcend and cast off everything, you should give up the heart's thoughts.
+- Stiff: With too heavy a heart, full of gratitude and attachment, did one still want to transcend? If one wanted to transcend..., one ought to give up...
+- Repaired (owner): *If you're so weighed down by your humanity and attachments, do you still want to transcend? Since you want to transcend and cast everything aside, you should abandon the thoughts and feelings of the human heart as well.*
+- Mechanism: the source's 你 is the character arguing in his own head; italic present-tense you keeps the voice, where roman one turns it into a lecture.
 

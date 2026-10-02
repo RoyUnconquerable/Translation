@@ -87,8 +87,9 @@ goes in FLAGS, not into the text.
   sentence across paragraphs (editing-spec 2.3).
 - Pacing exceptions (owner Ch.1428-1429): join a source paragraph that only
   completes the previous sentence or question (P189 "所以悄然退走了？" after
-  P188), and split off a short punch line that closes a speech ("He was one
-  step short."). Declare each to the checker (--pacing-joins SOURCE,
+  P188), split off a short punch line that closes a speech ("He was one
+  step short."), and set a standalone spoken line apart from a long narration
+  lead-in (owner Ch.1431 P217). Declare each to the checker (--pacing-joins SOURCE,
   --pacing-splits SOURCE:COUNT) and list it in FLAGS. Complete beats the
   source isolates (Just then. / Suddenly. / In short.) stay separate.
 - Any other split or merge in the owner's own revision is a local approval, not a

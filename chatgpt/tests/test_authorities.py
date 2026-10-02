@@ -531,11 +531,15 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("doubled word", errors)
         self.assertIn("modal + of", errors)
         self.assertEqual(prose_check.paragraph_errors(["Chapter 1: Test", "Even so, he spoke up at once:", "\"Wait!\""]), [])
+        slips = "\n".join(prose_check.paragraph_errors(["Chapter 1: Test", "He opened a passage though time.", "A flash: _The Saint... he thought."]))
+        self.assertIn("though/through typo", slips)
+        self.assertIn("unbalanced or underscore italics", slips)
+        self.assertEqual(prose_check.paragraph_warnings(["T", "The Mysteries gathered upon the saber light."], set()), [])
 
     def test_prose_check_warns_on_calques_register_and_repetition(self):
         import prose_check
         target = ["Chapter 1: Test",
-                  "At this time, he stood upon the peak amidst the clouds.",
+                  "At this time, he stood on the peak. \"I stand upon it amidst the clouds.\"",
                   "\"I do not know,\" he said. \"It is late.\"",
                   "The sword cut. The sword sang. The sword fell."]
         warnings = "\n".join(prose_check.paragraph_warnings(target, set()))

@@ -3135,3 +3135,17 @@ remain in continuity-archive.md under Archived world separation at Chapter 1333.
 - Dan Qingjian reaches the entrance to the Immortal-Nurturing Land but cannot enter. He then notices a highly talented scholarly young man approaching and judges him suited to Study.
 - Inside the Immortal-Nurturing Land, Lü Yang rejects the idea that Dan Qiuhuo/Bu Changming and the Grand Sword Patriarch Sanhe are the same person; any relation is only a surviving trace.
 - Bu Changming concedes after Lü Yang traps rather than injures him. Dan Qiuhuo re-emerges, uses his Befriending the Noble attainments on Lü Yang, and agrees to let Tassel Immortal's Feng Shui formation foundation be planted inside the Immortal-Nurturing Land.
+
+## Archived Chapter 1428 at Chapter 1431
+
+### Chapter 1428: the third transformation and Shi Weixiong
+
+- Tassel Immortal, aged to the limit but alive through his second transformation, reports that in the Final Kalpa's depths he saw an Innate Dao God carrying Knowing Heaven's Mandate's aura. The reincarnation failed but half succeeded: True Spirit fragments, memories and intelligence about the Dao Ancestors lie around the Dao God of the Final Kalpa, one step from forming a consciousness.
+- Knowing Heaven's Mandate and Shi Weixiong are the only Dao Ancestors to complete a third transformation of nature. Knowing Heaven's Mandate replaced Divine Land's original, pitiless Innate Dao God by reincarnating to its beginning; only Dao Ancestors perceive that rewrite.
+- Tassel Immortal now concludes Jun could only delay the Final Kalpa 129,600 years, not remove it, so its Dao God exceeds three transformations. This is his inference.
+- Lü Yang judges that awakening its spirituality (a Names/Appearances skill) would make it fight to survive, as in the last life, and suspects the Dao Ancestors' rescue attempts, including Tassel Immortal's formation and time-space passage, helped destroy the Ancient Past. Suspicion only.
+- Shi Weixiong, second Accumulating Merit Dao Ancestor, kills Jade Realm Sovereign, founder of Revering the Gods, severing his immortality, with Jiao Guiren of Befriending the Noble pinning him. His plan: kill every Dao Ancestor, gather their power, then fight the Final Kalpa; he spares the savers for now and names his father Shi Quanxian as next target. Dan Qingjian records the death.
+- Befriending the Noble: whoever the cultivator designates a Noble and befriends falls under his control. Jiao Guiren calls the Immortal Recorder's patron-clinging a deviation and now backs Shi Weixiong.
+- Camps per Dan Qingjian: Names/Appearances with the Supreme Source Immortal and the Primordial Saint; Tassel Immortal, Dan Qiuhuo/Bu Changming with Lü Yang, Returning Fate's reincarnation and Si Sui; the Sword Sovereign, Vast Sky, Myriad Spells and Du Xuan with Worship Me and True Waystation, trapping Soaring Firmament and Dao Tianqi. Great Luck Comes's Luck lineage has not moved.
+- Lü Yang's Infinite Method will grow only to the second transformation's peak, about Other Shore layer six; layer seven needs a third transformation, for which he has no direction.
+- The Doctrine of Names' founder arrives wearing the Primordial Saint's name, removes it, offers cooperation and the trap's location. His motive, and whether the Primordial Saint directs him, stays open.

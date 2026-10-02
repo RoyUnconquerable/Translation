@@ -295,7 +295,7 @@ source	target	notes
 后天返先天	turn from Postnatal back to Innate	owner-final Ch.1276; capitalize Postnatal and Innate as technical cultivation states; provenance owner-rulings-ch1276.tsv
 后天	Postnatal	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Innate; provenance owner-rulings-ch1276.tsv
 先天	Innate	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Postnatal; provenance owner-rulings-ch1276.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 先天就|先天资质]
-成道	prove the Dao	owner-final Ch.1278 default for the completed cultivation achievement; use "attain the Dao" only where an established construction or place of attainment requires it. In 成道主, 成 means become and 道主 is Dao Lord; do not impose prove the Dao on this compound [except: 成道隐玄府|成道地|成道之地|成道主]; provenance owner-rulings-ch1278.tsv and Ch.1299 source check
+成道	prove the Dao|proved the Dao|proven the Dao|proving the Dao|proves the Dao	owner-final Ch.1278 default for the completed cultivation achievement; use "attain the Dao" only where an established construction or place of attainment requires it. In 成道主, 成 means become and 道主 is Dao Lord; do not impose prove the Dao on this compound [except: 成道隐玄府|成道地|成道之地|成道主]; provenance owner-rulings-ch1278.tsv and Ch.1299 source check
 重光	Chongguang	Saint Sect Acting Sect Master; ordinary pronouns; do not match inside descriptive 重重光彩, 重重光景 or 重重光色 [except: 重重光彩|重重光景|重重光色]; provenance owner-final Ch.1268 and Ch.1291-1293 source review
 三根基	Three Foundations	Spiritual Power, Spells, and Dharma Body; capitalized named triad; provenance Ch.1276-1279
 六龙君	six Dragon Monarchs	normally takes "the"; lowercase six except at sentence start; provenance Ch.1268 onward
@@ -326,7 +326,7 @@ source	target	notes
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
 相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁|维系住了他的性命|延续自己的性命|目标的性命|不要你的性命|性命之忧|留了他一条性命]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁|维系住了他的性命|延续自己的性命|目标的性命|不要你的性命|性命之忧|留了他一条性命|不惜性命]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
 神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase generic use; Title Case in a chapter title or established name. The more specific category 大神通 is Great Divine Ability/Abilities under the Ch.1346 owner correction.
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290
@@ -374,7 +374,7 @@ source	target	notes
 剑种	Sword Seed	Explicit owner Ch.1326 replaces bastard with a sword. Retain the terse sarcastic appraisal; do not add a rank, ancestry claim, profanity, or explanation to compensate for the Chinese homophone.
 双修奇才	Dual Cultivation Prodigy	Owner Ch.1326 retains the named talent; this establishes current authority, not verification of an unavailable older attachment.
 道侣	Dao Companion|Dao Companions	Owner Ch.1329 consistently capitalizes the cultivation relationship. Select number and article by syntax; do not imply romantic sincerity where the source describes exploitation.
-太上忘情	supreme detachment	Owner Ch.1332 replaces the explanatory supreme state of forgetting all feeling. Use state of supreme detachment where syntax needs it. The state removes feelings as the threads' target; do not weaken its stated mechanics to mere composure.
+太上忘情	supreme detachment	Owner Ch.1431 also renders 太上无情 as supreme detachment (one state, not a second term). Owner Ch.1332 replaces the explanatory supreme state of forgetting all feeling. Use state of supreme detachment where syntax needs it. The state removes feelings as the threads' target; do not weaken its stated mechanics to mere composure.
 慧剑	sword of wisdom|swords of wisdom	Explicit owner correction during Ch.1332, consistent with owner Ch.1326. Lowercase; singular/plural by source. Preserve the separately established full title Eight Negations Wisdom Sword.
 秩序之光	Light of Order	Owner Ch.1339 consistently capitalizes the named light used for viewing and analyzing things as data. Normally takes the definite article; this is not a universal capitalization rule for ordinary order.
 黜龙尺	Dragon-Demoting Ruler	Artifact name verified in the owner book reference, approved manuscript Ch.1000 onward, and Ch.1339 owner revision; normally takes the definite article, roman as a name.
@@ -453,7 +453,7 @@ source	target	notes
 神州	Divine Land	Approved Ch.1397; one of the colliding regions. Owner Ch.1428 takes the definite article throughout: the Divine Land, the Divine Land of the Ancient Past. Distinct from Vast Sea and Sea of Light.
 瀚海	Vast Sea	Approved Ch.1397; distinct from 光海 / Sea of Light.
 七情参天决	Seven Emotions Heaven-Fathoming Art	Ch.1396 source variant of 七情参天诀, the same italic named work; not a new method.
-鸠占鹊巢	Cuckoo Occupying the Magpie's Nest	Established roman Talent, canonical Ch.435 description in the Talent reference. Ch.1391 conceals identity and karma but needs Cultivating Truth to mask the Primordial Spirit.
+鸠占鹊巢	Cuckoo Occupying the Magpie's Nest	As a plain idiom (seizing another's position), owner Ch.1431 writes like a cuckoo occupying the magpie's nest in lowercase [except: 先下手为强，鸠占鹊巢]. Established roman Talent, canonical Ch.435 description in the Talent reference. Ch.1391 conceals identity and karma but needs Cultivating Truth to mask the Primordial Spirit.
 知天命	Knowing Heaven's Mandate	Dao Register entry / Dao Ancestor designation in Ch.1401; owner approved before delivery. Proper title with this wording; do not mechanically replace its substring 天命 with the generic Mandate of Heaven rendering.
 大运来	Great Luck Comes	Dao Register entry / Dao Ancestor designation. Owner correction after Ch.1401 delivery replaces the provisional Great Luck Arrives.
 住旒仙	Tassel Immortal	Dao Register entry / Dao Ancestor designation. Owner correction after Ch.1401 delivery replaces the provisional pinyin Zhu Liuxian; do not infer a personal birth name.
@@ -493,7 +493,7 @@ source	target	notes
 师为雄	Shi Weixiong	Approved Ch.1428 (Continue). Personal name of the second Accumulating Merit Dao Ancestor; Fellow Daoist Shi.
 焦贵仁	Jiao Guiren	Approved Ch.1428 (Continue). Personal name of the Dao Ancestor of Befriending the Noble; Fellow Daoist Jiao. Homophone pun on 交贵人 is not carried.
 【功德】	Accumulating Merit	Approved Ch.1428 (Continue). Bracketed short form of the 积功德 path and lineage. Unbracketed 功德 is merit; 功德圆满 is merit and virtue complete.
-末劫道神	Dao God of the Final Kalpa	Approved Ch.1428 (Continue). Owner revision also writes Innate Dao God of the Final Kalpa in five of seven uses; which wording to fix awaits an owner ruling.
+末劫道神	Dao God of the Final Kalpa	Approved Ch.1428 (Continue). Owner Ch.1431: he once it has a consciousness (the End Tiger); it for the mindless Final Kalpa. Owner revision also writes Innate Dao God of the Final Kalpa in five of seven uses; which wording to fix awaits an owner ruling.
 质变	transformation	Approved Ch.1428. Nature transformation (本质蜕变/质变): owner prefers a third transformation of nature, three transformations of nature, the second transformation; compressed lists may keep third nature transformation.
 大道之环	Ring of the Great Dao	Owner Ch.1429, capitalized. The Great Dao ring seen when the Ring of Infinity approaches; keep distinct from the named Ring of Infinity (无限之环).
 劫气	Tribulation Qi	Owner Ch.1429 (capital Q); Ch.1430 settles the casing: Qi is capitalized in these named compounds (Tribulation Qi, Final Kalpa Qi). Ambient spiritual qi stays lowercase.
@@ -502,3 +502,4 @@ source	target	notes
 末劫之气	Final Kalpa Qi	Owner Ch.1430, capital Q throughout the chapter (supersedes Ch.1429's lowercase qi).
 名相祖师	the founders of the Doctrines of Names and Appearances	Owner Ch.1430 spells the pair out instead of the two doctrines; also for 名相二教的祖师.
 魔道	the Demonic Path	Owner Ch.1430, capitalized, for the label pinned on the Supreme Source Immortal and the two doctrines.
+太上无情	supreme detachment	Owner Ch.1431 merges it with 太上忘情; do not coin supreme heartlessness.

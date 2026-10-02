@@ -21,6 +21,7 @@ ERROR_PATTERNS = [
     (re.compile(r"\b(could|would|should|must|might)\s+of\b", re.I), "modal + of: use have"),
     (re.compile(r"\b(had|has|have|in the|the)\s+past\s+(?=\w+ed\b)", re.I), "passed/past confusion"),
     (re.compile(r"\b(\w+)\s+\1\b", re.I), "doubled word"),
+    (re.compile(r"\b(passage|way|path|road|gap|crack|hole)\s+though\b|\bthough\s+(time|space|the years)\b", re.I), "though/through typo"),
     (re.compile(r"\blaying\s+(there|down|on|in|motionless|still|flat)\b", re.I), "lay/lie: a person lies or lay (past), not laying"),
     (re.compile(r"\b(an|the|any|no|this|that|its)\s+affect\b", re.I), "affect/effect: the noun is effect"),
     (re.compile(r"\b(will|to|would|could|can|might|not)\s+effect\s+(on|the|him|her|them)\b", re.I), "affect/effect: the verb is affect"),
@@ -29,7 +30,6 @@ ERROR_PATTERNS = [
 DOUBLED_OK = {"that", "had", "very", "no", "so", "far", "on", "bye", "ha", "haha", "boom", "rumble", "tsk"}
 
 WARN_PATTERNS = [
-    (re.compile(r"\b(upon|whilst|amidst|amongst|thereupon|hitherto)\b", re.I), "bookish diction; prefer on, while, amid/among or plainer wording"),
     (re.compile(r"\bat this time\b", re.I), "calque 'at this time'"),
     (re.compile(r"\bin a short while\b", re.I), "calque 'in a short while'"),
     (re.compile(r"\bit can be said that\b", re.I), "calque 'it can be said that'"),
@@ -44,6 +44,8 @@ CONTRACTABLE_RE = re.compile(
     r"would not|could not|should not|have not|has not|had not|I am|it is|that is|"
     r"you are|we are|they are|there is|what is|let us)\b"
 )
+# Owner V2 review: bookish words grate in a casual voice; narration may keep them (owner Ch.1431).
+BOOKISH_RE = re.compile(r"\b(upon|whilst|amidst|amongst|thereupon|hitherto)\b", re.I)
 QUOTE_OR_THOUGHT_RE = re.compile(r'"[^"]*"|\*[^*]+\*')
 
 STOPWORDS = set("""
@@ -72,6 +74,8 @@ def paragraph_errors(target: list[str]) -> list[str]:
             errors.append(f"paragraph {index}: ends with a comma or semicolon; a lead-in belongs with what it introduces")
         if re.match(r"^[*\"']*[a-z]", para) and not re.match(r"^\*?[a-z]+\*?$", para):
             errors.append(f"paragraph {index}: starts in lowercase; a sentence is split across paragraphs")
+        if re.search(r"(?:^|\s)_\S", para) or para.count("*") % 2:
+            errors.append(f"paragraph {index}: unbalanced or underscore italics; wrap thought spans in paired asterisks")
         for pattern, label in ERROR_PATTERNS:
             for match in pattern.finditer(para):
                 if label == "doubled word" and match.group(1).lower() in DOUBLED_OK:
@@ -96,10 +100,12 @@ def paragraph_warnings(target: list[str], protected: set[str]) -> list[str]:
             continue
         for pattern, label in WARN_PATTERNS:
             for match in pattern.finditer(para):
-                if match.group(0).lower() == "upon" and re.search(r"\b(\w+) upon \1\b|once upon", para, re.I):
-                    continue
                 warnings.append(f"paragraph {index}: {label}: {match.group(0).strip()!r}")
         for span in QUOTE_OR_THOUGHT_RE.findall(para):
+            for match in BOOKISH_RE.finditer(span):
+                if match.group(0).lower() == "upon" and re.search(r"\b(\w+) upon \1\b|once upon", span, re.I):
+                    continue
+                warnings.append(f"paragraph {index}: bookish diction in speech or thought; prefer on, while, amid/among: {match.group(0)!r}")
             for match in CONTRACTABLE_RE.finditer(span):
                 warnings.append(f"paragraph {index}: uncontracted '{match.group(0)}' in speech or thought; contract unless formal or emphatic")
         counts: dict[str, int] = {}

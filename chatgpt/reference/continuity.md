@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1430 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1431 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-1428-1430, have verified sources and chat delivery; 1424-1427 are not
+1428-1431, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -111,17 +111,11 @@ Preserved in continuity-archive.md under Archived Chapters 1422-1423 at
 Chapter 1430: Bu Changming's inward Nurturing Life path, Dan Qingjian's
 recording of history, and Dan Qiuhuo's agreement to host the formation.
 
-## Chapter 1428: the third transformation and Shi Weixiong
+## Chapter 1428: lookup
 
-- Tassel Immortal, aged to the limit but alive through his second transformation, reports that in the Final Kalpa's depths he saw an Innate Dao God carrying Knowing Heaven's Mandate's aura. The reincarnation failed but half succeeded: True Spirit fragments, memories and intelligence about the Dao Ancestors lie around the Dao God of the Final Kalpa, one step from forming a consciousness.
-- Knowing Heaven's Mandate and Shi Weixiong are the only Dao Ancestors to complete a third transformation of nature. Knowing Heaven's Mandate replaced Divine Land's original, pitiless Innate Dao God by reincarnating to its beginning; only Dao Ancestors perceive that rewrite.
-- Tassel Immortal now concludes Jun could only delay the Final Kalpa 129,600 years, not remove it, so its Dao God exceeds three transformations. This is his inference.
-- Lü Yang judges that awakening its spirituality (a Names/Appearances skill) would make it fight to survive, as in the last life, and suspects the Dao Ancestors' rescue attempts, including Tassel Immortal's formation and time-space passage, helped destroy the Ancient Past. Suspicion only.
-- Shi Weixiong, second Accumulating Merit Dao Ancestor, kills Jade Realm Sovereign, founder of Revering the Gods, severing his immortality, with Jiao Guiren of Befriending the Noble pinning him. His plan: kill every Dao Ancestor, gather their power, then fight the Final Kalpa; he spares the savers for now and names his father Shi Quanxian as next target. Dan Qingjian records the death.
-- Befriending the Noble: whoever the cultivator designates a Noble and befriends falls under his control. Jiao Guiren calls the Immortal Recorder's patron-clinging a deviation and now backs Shi Weixiong.
-- Camps per Dan Qingjian: Names/Appearances with the Supreme Source Immortal and the Primordial Saint; Tassel Immortal, Dan Qiuhuo/Bu Changming with Lü Yang, Returning Fate's reincarnation and Si Sui; the Sword Sovereign, Vast Sky, Myriad Spells and Du Xuan with Worship Me and True Waystation, trapping Soaring Firmament and Dao Tianqi. Great Luck Comes's Luck lineage has not moved.
-- Lü Yang's Infinite Method will grow only to the second transformation's peak, about Other Shore layer six; layer seven needs a third transformation, for which he has no direction.
-- The Doctrine of Names' founder arrives wearing the Primordial Saint's name, removes it, offers cooperation and the trap's location. His motive, and whether the Primordial Saint directs him, stays open.
+Preserved in continuity-archive.md under Archived Chapter 1428 at Chapter
+1431: Knowing Heaven's Mandate's half-success, Shi Weixiong's kill-all plan,
+the camps, and Lü Yang's ceiling at the second transformation.
 
 ## Chapter 1429: True Waystation and the Purple Firmament Palace plan
 
@@ -138,4 +132,11 @@ recording of history, and Dan Qiuhuo's agreement to host the formation.
 - True Waystation makes her the vessel: she swallows Final Kalpa Qi and rebuilds the Heavenly Dao with Vast Sky (Fortune), Du Xuan (Spiritual Power) and Myriad Spells (Spells), the Ancestral Dragon's Primordial Spirit as bait. Lü Yang reads it as a bid to become the End Tiger; her threads of affection parasitize the newly spiritual, still mindless Final Kalpa.
 - The Final Kalpa's arrival moved earlier than Tassel Immortal's anchor. Fate shows no future of her success; a young Daoist (the Final Kalpa's consciousness, now intelligent) occupies every future, breaks her web and cracks her body. True Waystation blames the Supreme Source Immortal and the two founders.
 - At Purple Firmament Palace the Primordial Saint declares Nian Yao doomed and the Ancient Past's destruction counting down. The book's consciousness (speaking as the Supreme Source Immortal) has adopted the Primordial Saint's ways. The Primordial Saint plans to use the crisis to win support for the great sacrifice and to test whether Profound Virtue can still restart; the book says that power cannot affect Divine Transformation. The founders privately fear him.
+
+## Chapter 1431: the Primordial Saint's bait
+
+- The Final Kalpa, made conscious early, speaks through the dying Sword Sovereign; Lü Yang blames the Primordial Saint. Shi Weixiong's saber, strengthened by Jade Realm Sovereign and his father Shi Quanxian (suicide or killing, unresolved), seals the present against the Final Kalpa Qi.
+- In the time passage Shi Weixiong offers death by his saber. Vast Sky and Myriad Spells merge (supreme detachment allows fusion) and the Supreme Source Immortal pulls them back by rewriting history (they never came). Du Xuan, unlinked, faces his envy of Si Sui and his flawed Primordial Spirit, and dies to the saber; then the Sword Sovereign and True Waystation, who warns against the two founders and the Supreme Source Immortal.
+- Shi Weixiong destroys the time passage; the Dao God of the Final Kalpa, the End Tiger, vows there will be no next time. Only Shi Weixiong's head-on plan remains among the savers.
+- The Primordial Saint, in Purple Firmament Palace, sets up the Ancestral Dragon's Transcendence ritual; the Immortal Recorder alerts all Dao Ancestors. Lü Yang infers the palace is bait: the Primordial Saint will let the Dao God in to pin everyone, take the Seed of the Great Dao from the emptied future, then return for the great sacrifice. Lü Yang declines to restart, keeping the Book of a Hundred Lives' working restart secret. All of this is Lü Yang's inference.
 
