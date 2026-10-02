@@ -101,7 +101,9 @@ goes in FLAGS, not into the text.
   simultaneity line (几乎同时。 / 与此同时。) that moves the reader to another
   place takes a break before it every time, even when the action carries
   across (a hand reaching from the palace to Lü Yang, owner Ch.1432 P140); the
-  same line inside one location does not (Ch.1432 P84). Place it before a time-jump sentence so that sentence opens the
+  same line inside one location does not (Ch.1432 P84). A location opener
+  (Inside Purple Firmament Palace, ...) that leaves a scene of many onlookers
+  for one character's viewpoint also takes a break (owner Ch.1433 P81). Place it before a time-jump sentence so that sentence opens the
   new scene. Keep every separator the source prints, and record the reviewed
   positions, or none, for the checker.
 

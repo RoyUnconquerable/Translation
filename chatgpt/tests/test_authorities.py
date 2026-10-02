@@ -581,6 +581,11 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("caption tail", warnings)
         self.assertIn("noun stack after a possessive", warnings)
         self.assertEqual(warnings.count("unidiomatic collocation"), 2)
+        owner1433 = ["T", "Hearing this, Lü Yang's brow furrowed.", "Seeing this, his heart sank.",
+                     "Seeing this, Lü Yang frowned.", "High in the vault of the sky, a flame went out."]
+        w1433 = "\n".join(prose_check.paragraph_warnings(owner1433, set()))
+        self.assertEqual(w1433.count("dangling participle"), 2)
+        self.assertIn("the dome of heaven", w1433)
         clean = ["T", "A shadow crossed his face as their gazes filled with suspicion.",
                  "The auras of the other Dao Ancestors' Primordial Spirits have all stirred."]
         self.assertEqual(prose_check.paragraph_warnings(clean, set()), [])

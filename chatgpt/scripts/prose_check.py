@@ -47,6 +47,8 @@ WARN_PATTERNS = [
     (re.compile(r"\bbefore (his|her|their) \w+th (year|birthday)\b", re.I), "literary age phrase; prefer before he was even N years old"),
     (re.compile(r", (his|her|their)( entire| whole)? (gaze|gazes|focus|attention|eyes) (full of|fixed on|locked on|filled with)\b"), "caption tail; tie it to the actor with as or a participle"),
     (re.compile(r"\b[A-Z][\w-]*'s(?: [A-Z][a-z]+){2,} [a-z]+ (?:is|was|were|are|had|has)\b"), "noun stack after a possessive; unpack with of"),
+    # Owner Ch.1433: a participle opener must attach to the person, not his brow or gaze.
+    (re.compile(r"(?:^|[.!?]\s+)(?:Seeing|Hearing|Watching|Listening to|Looking at|Having \w+|After \w+ing)[^,.!?]{0,60}, (?:his|her|their|[A-Z][\w-]*(?: [A-Z][\w-]*)*(?:'s|s'))\s"), "dangling participle; make the person the subject"),
 ]
 
 # Collocations the owner replaced; extend from each owner revision (editing-spec 2.4).
@@ -55,6 +57,10 @@ COLLOCATION_FIXES = [
     (re.compile(r"\bdrained to (black|white|gr[ae]y)\b", re.I), "drained of color (owner Ch.1432)"),
     (re.compile(r"\blaid down in the unseen\b", re.I), "some unseen limit (owner Ch.1432)"),
     (re.compile(r"\bthe momentum was (already )?(his|hers|theirs)\b", re.I), "secured the overall advantage (owner Ch.1432)"),
+    (re.compile(r"\bvault of the sky\b", re.I), "the dome of heaven (owner Ch.1433)"),
+    (re.compile(r"\bdeathlessness\b", re.I), "immortality (owner Ch.1433)"),
+    (re.compile(r"\bPeach Blossom Spring\b"), "a secluded paradise (owner Ch.1433)"),
+    (re.compile(r"\bblood burst into light\b", re.I), "blood-red light exploded (owner Ch.1433)"),
 ]
 
 CONTRACTABLE_RE = re.compile(
