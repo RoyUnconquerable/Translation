@@ -101,7 +101,7 @@ source	target	notes
 古修	ancient cultivator	owner-approved 2026-08-19; provenance terminology.tsv
 琉璃	glazed	owner-approved 2026-08-19; 琉璃小球 = 'glazed sphere'; provenance terminology.tsv
 道行	Dao Attainment	道行 = Dao Attainment; 修为 = cultivation - two distinct terms (owner clarification 2026-08-19); provenance terminology.tsv
-意象	imagery	owner edit Ch. 1209; provenance terminology.tsv
+意象	imagery|images	owner edit Ch. 1209; mass imagery by default. Owner Ch.1431-1432 use images where the source counts or scatters them (诸多意象, 意象纷纷炸裂: countless images, the images burst apart); provenance terminology.tsv
 维度	dimension	owner edit Ch. 1209; provenance terminology.tsv
 真君中期	mid-stage True Monarch	owner edit Ch. 1209; provenance terminology.tsv
 无穷伟力	boundless power|power was boundless	owner edit Ch. 1209; overrides bare 伟力 in this collocation; provenance terminology.tsv
@@ -311,7 +311,7 @@ source	target	notes
 太古	Primordial Era	fixed era label after the Ancient Past and before the Ancient Era; normally takes the definite article; owner-final Ch.1283
 上古	Ancient Era	fixed era label beginning when Si Sui proved the Dao; normally takes the definite article; owner-final Ch.1283
 中古	Medieval Antiquity Era	fixed era label for the 129,600-year age of Dao Lords; normally takes the definite article; owner-final Ch.1283 [except: 心中古怪] (Ch.1326 means feeling something strange, not an era)
-名教	Doctrine of Names	Ancient Past Dao Lineage concerning the power of names; normally takes the definite article; owner-final Ch.1283
+名教	Doctrine of Names	Ancient Past Dao Lineage concerning the power of names; normally takes the definite article; owner-final Ch.1283. Owner Ch.1432 compresses the listed pair 名教祖师，相教祖师 to the founders of the Doctrines of Names and Appearances [except: 名教祖师，相教祖师]
 尊名	honorific name	an added protective name under the Doctrine of Names; owner-final Ch.1283
 爆丹	exploding pill	split from malformed combined source; provenance consolidation
 爆炸丹	exploding pill	split from malformed combined source; provenance consolidation
@@ -325,8 +325,8 @@ source	target	notes
 煌世兑光真君	True Monarch Radiant World Western Light	The World-Honored One's present life body; restored from owner-final Ch.1246 during the Ch.1285 authority check
 劫数	Tribulation	Capitalize as the named Great Dao; restored from owner-final Ch.1263 and phrase memory during the Ch.1286 authority check
 称心锁神决	Heart-Naming Spirit-Locking Art	Ancient Past Doctrine of Names method received by Lü Yang from Vast Sky; explicit owner correction after Ch.1287
-相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288
-性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁|维系住了他的性命|延续自己的性命|目标的性命|不要你的性命|性命之忧|留了他一条性命|不惜性命]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
+相教	Doctrine of Appearances	Ancient Past Dao Lineage used to alter outward appearance and bearing; owner-final Ch.1288. Owner Ch.1432 compresses the listed pair 名教祖师，相教祖师 to the founders of the Doctrines of Names and Appearances [except: 名教祖师，相教祖师]
+性命	nature and life	Paired Daoist cultivation concept; preserve both halves. Ordinary idioms mean life: endangering, producing, or signing away life [except: 危及性命|危及他性命|诞生性命|签下性命|要了他性命|众生的性命|性命修为|换不来性命|性命威胁|维系住了他的性命|延续自己的性命|目标的性命|不要你的性命|性命之忧|留了他一条性命|不惜性命|拯救自身性命]. Ch.1288, Ch.1303-1309 and Ch.1346 P20 source checks; independent paired occurrences remain enforced.
 神通	divine ability|divine abilities|Divine Abilities	Explicit owner correction in Ch.1290; never Divine Powers; lowercase generic use; Title Case in a chapter title or established name. The more specific category 大神通 is Great Divine Ability/Abilities under the Ch.1346 owner correction.
 转世生死轮	Reincarnation Wheel of Life and Death	Dao Tianqi's ink-black wheel, the Underworld's eighth component; normally takes the definite article; owner-final Ch.1290
 法灭尽经	Dharma Extinction Scripture	Myriad Spells' Mystery derived from the deficiency in the Three Foundations; normally takes the definite article; owner-final Ch.1290

@@ -550,6 +550,41 @@ class AuthorityTests(unittest.TestCase):
         self.assertIn("consecutive sentences open with 'the sword'", warnings)
         self.assertNotIn("bookish", "\n".join(prose_check.paragraph_warnings(["T", "Layer upon layer rose."], set())))
 
+    def test_prose_check_warns_on_ch1432_constructions(self):
+        import prose_check
+        target = ["Chapter 1: Test",
+                  "No sooner would he step outside than it struck.",
+                  "With a roar, and with the Saint pushing hard, the hand came.",
+                  "They disdained it, for before real strength, scheming meant nothing.",
+                  "He did it for the sect, for it mattered."]
+        warnings = "\n".join(prose_check.paragraph_warnings(target, set()))
+        self.assertIn("inverted 'no sooner'", warnings)
+        self.assertIn("stacked with-phrases", warnings)
+        self.assertEqual(warnings.count("conjunction 'for'"), 1)
+        repeated = ["T"] + ["He moved without the slightest hesitation."] * 3
+        self.assertIn("stock phrase 'without the slightest hesitation' used 3 times",
+                      "\n".join(prose_check.chapter_warnings(repeated, [])))
+        self.assertEqual(prose_check.chapter_warnings(repeated[:3], []), [])
+
+    def test_prose_check_sound_pass_warnings(self):
+        import prose_check
+        target = ["Chapter 1: Test",
+                  "The force took on, of all things, a stillness. They wanted to see, really see.",
+                  "What was more, he was not unlike the man he had been before his thousandth year.",
+                  "They watched like tigers, their gazes full of scrutiny.",
+                  "\"Every other Dao Ancestor's Primordial Spirit aura is stirring.\"",
+                  "A rare gloom crossed his face, and the world was drained to black and white."]
+        warnings = "\n".join(prose_check.paragraph_warnings(target, set()))
+        self.assertEqual(warnings.count("showy device"), 3)
+        self.assertIn("stiff connector", warnings)
+        self.assertIn("literary age phrase", warnings)
+        self.assertIn("caption tail", warnings)
+        self.assertIn("noun stack after a possessive", warnings)
+        self.assertEqual(warnings.count("unidiomatic collocation"), 2)
+        clean = ["T", "A shadow crossed his face as their gazes filled with suspicion.",
+                 "The auras of the other Dao Ancestors' Primordial Spirits have all stirred."]
+        self.assertEqual(prose_check.paragraph_warnings(clean, set()), [])
+
     def test_pacing_join_and_split_align(self):
         source = ["第1章 测试", "他看见了吗？", "所以走了？", "他说：一步之遥。"]
         joined = ["Chapter 1: Test", "Did he see it and leave?", "He said: \"So close.\"", "\"One step short.\""]

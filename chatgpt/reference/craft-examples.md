@@ -13,19 +13,19 @@ The bank is capped and refreshed under the exemplar-bank rule in
 rewrites replace seed entries first, then the oldest entry showing the same
 principle.
 
-## 5. Repeat what the source repeats (Ch. 1411 P8)
+## 5. Sound: collocation and caption tail (owner Ch.1432 P14, P33)
 
-- Chinese: Clearly [明明] he had reached supreme detachment, clearly [明明] severed everything, and still his mind wavered.
-- Stiff: He had attained supreme detachment and severed everything, yet his mind still wavered.
-- Repaired: He had reached supreme detachment. He had severed everything. And still his mind wavered.
-- Mechanism: the repeated frame restores the insistence, so the last sentence lands as the punch.
+- Chinese: watching like tigers, eyes carrying scrutiny and speculation; a rare gloom showed on his ever-gentle face.
+- Stiff: watching like hungry tigers, their gazes full of scrutiny and speculation. / a rare gloom crossed his usually gentle face.
+- Repaired (owner): watching like hungry tigers as their gazes filled with scrutiny and suspicion. / a rare shadow crossed his usually gentle face.
+- Mechanism: as ties the gazes to the watchers instead of hanging a caption on a comma; a shadow, not a gloom, is what crosses a face in English.
 
-## 4. Connector carrier; 3. right referent (Ch. 1411 P9)
+## 3. One pronoun, one referent (owner Ch.1432 P122)
 
-- Chinese: All because [只因] the aura was real; because of it [因此] the Book trembled, and a powerful consciousness showed impatience.
-- Stiff: The aura... was unmistakably real. The Book... shook..., and the powerful consciousness within could barely contain his impatience.
-- Repaired: All because the aura... was unmistakably real. It set the Book... shaking, and a powerful consciousness inside it grew openly impatient.
-- Mechanism: "All because" and a causal verb carry the markers; "his" no longer points at the Primordial Saint; the added "barely" goes.
+- Chinese: A slender hand reached out and pressed it [the blade] in place, even though [the hand] was cut bloody.
+- Stiff: A slender hand... pinned it firmly in place, even as the blade cut it bloody.
+- Repaired (owner): A slender hand... caught the blade, holding it firmly in place even as the edge cut deep and drew a stream of blood.
+- Mechanism: two its with two referents made the reader stop; naming the blade leaves one it, and the wound becomes concrete.
 
 ## 4. Setup before the ironic reaction (Ch. 1411 P11)
 
@@ -34,12 +34,12 @@ principle.
 - Repaired: The four... had long since extinguished their humanity... Yet now they too stood dazed.
 - Mechanism: description first, reaction last, so "they too" reads as irony; "extinguished" keeps the agent.
 
-## 4. Calque trap: 如果说...那 (Ch. 1411 P32)
+## 4. Spell out the stated logic (owner Ch.1432 P62)
 
-- Chinese: If we say [如果说] the others still felt a flicker toward the road behind them, then [那] he truly felt nothing.
-- Stiff: If the Sword Sovereign and the others had felt at least a flicker of emotion when they looked back, he felt nothing at all.
-- Repaired: Where the Sword Sovereign and the others had still felt a flicker of emotion toward the road behind them, he truly felt nothing.
-- Mechanism: the frame is a contrast, not a condition; the motif returns.
+- Chinese: not the Final Kalpa, but [而是] reaching an effect close to it by [以] destructive power.
+- Stiff: yet it was something else entirely: sheer destructive might achieving nearly the same effect.
+- Repaired (owner): but its nature was entirely different: sheer destructive might pushed to such an extreme that it achieved almost the same effect.
+- Mechanism: 以...达到 is a means-to-result chain; such an extreme that states it, where a bare participle only lists.
 
 ## 4. Timing jolt and reversal (Ch. 1411 P43)
 

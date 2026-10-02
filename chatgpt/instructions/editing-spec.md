@@ -140,7 +140,54 @@ Paragraph boundaries
 - Never break one sentence across paragraphs, and never merge two speakers
   into one paragraph.
 
-## 2.4 Formatting and conventions pass (check 13)
+## 2.4 Sound pass (owner Ch.1432)
+
+Meaning is settled by now. Read every paragraph aloud, or under your breath at
+speaking pace, and ask one question of each sentence: would a native novelist
+have written it this way? In the owner's Ch.1432 revision most of the 33
+changed paragraphs changed for sound, not meaning. A sentence can be accurate,
+grammatical and checker-clean and still sound translated.
+
+- Collocation: the words must be a pair English fiction actually uses (a
+  shadow crossed his face, not a gloom; drained of color, not drained to black
+  and white; the auras halted, not stalled). If you cannot recall the pairing,
+  change it.
+- Completeness over compression: write the full natural phrase, not a clever
+  short one. The owner's line is often a few words longer and smoother (he had
+  already secured the overall advantage, not the momentum was already his;
+  pushed to such an extreme that it achieved, not achieving).
+- No showy devices: of all things; see, really see; not unlike; no sooner
+  would he; Over the hand surged X; before his thousandth year. Use the plain
+  form a reader passes over without noticing.
+- No noun stacks: unpack possessive chains with of (the auras of the other Dao
+  Ancestors' Primordial Spirits, not every other Dao Ancestor's Primordial
+  Spirit aura).
+- No caption tails: an absolute phrase hung on a comma (their gazes full of
+  scrutiny; his entire focus fixed on Lü Yang) reads like a caption. Tie it to
+  the actor with as or a participle (as their gazes filled with scrutiny;
+  fixing all his attention on Lü Yang).
+- End weight: end on the new or important element (the plan had gone wrong at
+  the very first step; bringing him within a hair's breadth of saving the
+  Ancient Past).
+- No clause pileups: never stack two with-phrases or trail an unless clause off
+  a long sentence; split them into main clauses.
+- Modern connectors: because or since, not for; More importantly or Besides,
+  not What was more; in the face of, not before.
+- Spoken dialogue: hear the character say it. Spoken explanation comes in short
+  sentences with one idea each (They're watching this place. Only that group
+  hasn't moved.); a hedge such as 未免有些 becomes a rhetorical question
+  (Aren't you putting the cart before the horse?); tense follows the speaker's
+  moment (I needed to gather... he managed to enter ahead of me).
+- Parallel pairs match (If you can... If you can't...), without a stray And on
+  one half.
+
+When a sentence fails, rewrite it from its meaning instead of swapping words.
+Then reread the whole paragraph: lengths should vary and it should end on its
+strongest beat. The prose_check warnings for showy devices, noun stacks,
+caption tails, pileups, connectors and known collocations support this pass;
+a clean run never proves a sentence sounds right.
+
+## 2.5 Formatting and conventions pass (check 13)
 
 Apply the style guide sections named here; do not restate them.
 
@@ -156,20 +203,20 @@ Apply the style guide sections named here; do not restate them.
 - Contractions (sections 7 and 11), with no quota.
 - Scene breaks, typography, numbers and units (section 11).
 
-## 2.5 Re-verify (check 14)
+## 2.6 Re-verify (check 14)
 
 Any span whose meaning, degree, actor or order could have moved goes back
 through the Stage 1 bilingual check in `translation-spec.md`. Check those spans
 only, each against its source paragraph and neighbors. A rebuild that fails
 goes back to the verified wording or is rebuilt again.
 
-## 2.6 Mechanical check
+## 2.7 Mechanical check
 
 Run `chat_check.py` on the exact text you will deliver, as `workflow.md` step
-2.6 specifies. Fix real failures and rerun. Adjudicate a lexical false positive
+2.7 specifies. Fix real failures and rerun. Adjudicate a lexical false positive
 against the source and record it for the FLAGS block.
 
-## 2.7 Definition of done
+## 2.8 Definition of done
 
 - Every sentence has a clear actor, or a deliberate reason not to.
 - No paragraph opens three consecutive sentences with a prepositional or

@@ -37,6 +37,24 @@ WARN_PATTERNS = [
     (re.compile(r"\b(carr(?:y|ied|ying) out|conduct(?:ed|ing)?|ma(?:ke|de|king)|perform(?:ed|ing)?)\s+(an?|the)\s+\w*(tion|ment|ance|ence|sis)\b", re.I), "nominalized verb; use the verb itself"),
     (re.compile(r"\b(very|extremely|incredibly|utterly|truly|really|completely|absolutely)\s+(very|extremely|incredibly|utterly|truly|really|completely|absolutely)\b", re.I), "stacked intensifiers"),
     (re.compile(r"\b(each and every|first and foremost|null and void|full and complete|sudden and abrupt|end result)\b", re.I), "redundant doublet"),
+    # Owner Ch.1432: plain order and explicit logic over literary constructions.
+    (re.compile(r"\bno sooner (would|did|had|could|was|were)\b", re.I), "inverted 'no sooner'; prefer the moment he..."),
+    (re.compile(r"\bWith [^.!?]{3,90}, and with\b"), "stacked with-phrases; make one of them a main clause"),
+    (re.compile(r", for (he|she|they|we|I|you|without|before|there|it was|it had|it would)\b"), "conjunction 'for'; prefer because or since"),
+    # Owner Ch.1432 sound pass (editing-spec 2.4): showy devices, stacks and caption tails.
+    (re.compile(r"\bof all things\b|\bnot unlike\b|\b(\w+), really \1\b", re.I), "showy device; say it plainly"),
+    (re.compile(r"\bWhat was more\b"), "stiff connector; prefer More importantly or Besides"),
+    (re.compile(r"\bbefore (his|her|their) \w+th (year|birthday)\b", re.I), "literary age phrase; prefer before he was even N years old"),
+    (re.compile(r", (his|her|their)( entire| whole)? (gaze|gazes|focus|attention|eyes) (full of|fixed on|locked on|filled with)\b"), "caption tail; tie it to the actor with as or a participle"),
+    (re.compile(r"\b[A-Z][\w-]*'s(?: [A-Z][a-z]+){2,} [a-z]+ (?:is|was|were|are|had|has)\b"), "noun stack after a possessive; unpack with of"),
+]
+
+# Collocations the owner replaced; extend from each owner revision (editing-spec 2.4).
+COLLOCATION_FIXES = [
+    (re.compile(r"\b(gloom|darkness) crossed\b", re.I), "a shadow crossed (owner Ch.1432)"),
+    (re.compile(r"\bdrained to (black|white|gr[ae]y)\b", re.I), "drained of color (owner Ch.1432)"),
+    (re.compile(r"\blaid down in the unseen\b", re.I), "some unseen limit (owner Ch.1432)"),
+    (re.compile(r"\bthe momentum was (already )?(his|hers|theirs)\b", re.I), "secured the overall advantage (owner Ch.1432)"),
 ]
 
 CONTRACTABLE_RE = re.compile(
@@ -101,6 +119,9 @@ def paragraph_warnings(target: list[str], protected: set[str]) -> list[str]:
         for pattern, label in WARN_PATTERNS:
             for match in pattern.finditer(para):
                 warnings.append(f"paragraph {index}: {label}: {match.group(0).strip()!r}")
+        for pattern, fix in COLLOCATION_FIXES:
+            for match in pattern.finditer(para):
+                warnings.append(f"paragraph {index}: unidiomatic collocation {match.group(0)!r}; prefer {fix}")
         for span in QUOTE_OR_THOUGHT_RE.findall(para):
             for match in BOOKISH_RE.finditer(span):
                 if match.group(0).lower() == "upon" and re.search(r"\b(\w+) upon \1\b|once upon", span, re.I):
@@ -132,9 +153,20 @@ def paragraph_warnings(target: list[str], protected: set[str]) -> list[str]:
     return warnings
 
 
+# Stock phrases the owner varies once they recur within a chapter (owner Ch.1432).
+STOCK_PHRASES = (
+    "without the slightest hesitation", "without hesitation", "not the slightest",
+    "couldn't help", "at the sight", "a trace of", "in the blink of an eye",
+)
+
+
 def chapter_warnings(target: list[str], glossary_targets: list[str]) -> list[str]:
     warnings: list[str] = []
     body = "\n".join(p for p in target[1:] if _prose(p))
+    for phrase in STOCK_PHRASES:
+        count = len(re.findall(rf"\b{re.escape(phrase)}\b", body, re.I))
+        if count >= 3:
+            warnings.append(f"chapter: stock phrase '{phrase}' used {count} times; vary it after the second use")
     item = r"[A-Za-z'-]+(?: [A-Za-z'-]+){0,2}"
     serial = len(re.findall(rf"(?:{item}, ){{2,}}(?:and|or) ", body))
     open_list = len(re.findall(rf"(?:{item}, ){{2,}}{item} (?:and|or) ", body))
