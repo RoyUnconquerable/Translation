@@ -33,7 +33,7 @@ source	target	notes
 冥府	Underworld	usually takes "the"; provenance terminology.tsv
 伪史	False History	usually takes "the"; provenance terminology.tsv
 光海	Sea of Light	usually takes "the"; provenance terminology.tsv
-变数	Variable|Variables	Owner Ch.1433-1434 also uses Variables for 【变数】 as the emergent possibilities, with plural agreement (Variables were born). Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in his favor. Ordinary variable(s) follow the source number. Owner Ch.1402 uses A Variable for Dao Tianqi's bracketed classification, a scoped singular title rather than a renaming of the Great Dao or all ordinary variables. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数|变数太多]
+变数	Variable|Variables	Owner Ch.1433-1434 also uses Variables for 【变数】 as the emergent possibilities, with plural agreement (Variables were born). Use Variables with singular agreement and it/its for the named Great Dao: Variables helps or turns in his favor. Ordinary variable(s) follow the source number. Owner Ch.1402 uses A Variable for Dao Tianqi's bracketed classification, a scoped singular title rather than a renaming of the Great Dao or all ordinary variables. Owner Ch.1306 agreement check; earlier term provenance owner-rulings-ch1221-ch1243.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 变数少|变数多|会不会有变数|多出一个变数|变数太多|变数更小]
 百世书	Book of a Hundred Lives	normally takes the definite article; provenance owner-rulings-ch1221-ch1243.tsv
 天道	Heavenly Dao	usually takes "the"; provenance terminology.tsv
 大道	Great Dao	usually takes "the" [except: 最大道脉]; 最大道脉 is the greatest Dao lineage (owner Ch.1428); provenance terminology.tsv
@@ -54,7 +54,7 @@ source	target	notes
 灵气	qi|spiritual qi	lowercase; provenance terminology.tsv
 灵石	spirit stone	provenance terminology.tsv
 遁光	escape light	一道遁光 = "a streak of escape light"; provenance terminology.tsv
-一心	One Mind|One Heart	"the One Mind" only for the World-Honored One / Pure Land concept; the Outer Path Alliance's 一心 is "One Heart"; ordinary adverbial 一心 means wholeheartedly or with one's full attention [except: 一心逃遁|一心只想着|一心记录]; provenance terminology.tsv
+一心	One Mind|One Heart	"the One Mind" only for the World-Honored One / Pure Land concept; the Outer Path Alliance's 一心 is "One Heart"; ordinary adverbial 一心 means wholeheartedly or with one's full attention [except: 一心逃遁|一心只想着|一心记录|一心超脱]; provenance terminology.tsv
 妙乐	Sublime Bliss	the Spell Dao Lord's eldest disciple; true body is Taiyi; locked Ch. 1186; provenance terminology.tsv
 剑君	Sword Sovereign	same being as 剑主/剑尊; provenance terminology.tsv; pronoun words follow chapter-scoped entities.tsv and Reference_Formatting_Rules.md
 法术道主	Spell Dao Lord	usually takes 'the'; provenance terminology.tsv
@@ -107,7 +107,7 @@ source	target	notes
 无穷伟力	boundless power|power was boundless	owner edit Ch. 1209; overrides bare 伟力 in this collocation; provenance terminology.tsv
 修为	cultivation	Owner Ch.1430 may fold 修为 into the person (whoever was infinitely close to Divine Transformation) [except: 修为本身就已经无限接近化神|拥有了道主修为]; distinct from 道行 = Dao Attainment (owner clarification 2026-08-19); provenance terminology.tsv
 法光	dharma light	owner edit Ch. 1210; not 'law-light'; provenance terminology.tsv
-混沌	Primordial Chaos	capitalize; provenance owner-rulings-ch1221-ch1243.tsv
+混沌	Primordial Chaos	capitalize; provenance owner-rulings-ch1221-ch1243.tsv [except: 混沌色|混沌光]
 天赋	talent|Talent	lowercase talent in prose; Talent only inside approved system displays (tier + Talent, Unique Talent, the Talents: field) per Reference_Talents_and_Hundred_Lives.md; owner ruling 2026-09-24
 听幽祖师	Nether Whisper Ancestor	normally takes the definite article in running prose; provenance owner-rulings-ch1221-ch1243.tsv
 龙君	Dragon Monarch	named individual Dragon Monarch titles normally take "the" in running prose; owner final Ch. 1222; provenance owner-rulings-ch1221-ch1243.tsv
@@ -281,7 +281,7 @@ source	target	notes
 佛法	Buddhist Dharma	owner-final Ch.1268 capitalization in reference to the World-Honored One's teaching; provenance owner-rulings-ch1268.tsv
 人财	human capital	owner-final Ch.1268; deliberate modern economic wording in the gods' view of prosperous worshippers; provenance owner-rulings-ch1268.tsv
 天命	Mandate of Heaven	owner-final Ch.1268 formal proclamation rendering; owner Ch.1428 renders 遵从天命 (a being accepting its fated end) as obey its destiny [except: 遵从天命]; provenance owner-rulings-ch1268.tsv
-神道	Divine Dao	owner-final Ch.1268 formal proclamation rendering; provenance owner-rulings-ch1268.tsv
+神道	Divine Dao	owner-final Ch.1268 formal proclamation rendering; provenance owner-rulings-ch1268.tsv [except: 化神道尊]
 天神地祇	gods of heaven and earth	owner-final Ch.1268 formal proclamation rendering; provenance owner-rulings-ch1268.tsv
 至高道化	Supreme Dao Transformation	owner-final Ch.1269 talent; standalone activation is "Supreme Dao Transformation, activate!"; provenance owner-rulings-ch1269.tsv
 善恶元神法	good-and-evil Primordial Spirit method	owner-final Ch.1269; one consciousness becomes dominant rather than destroying the other; provenance owner-rulings-ch1269.tsv
