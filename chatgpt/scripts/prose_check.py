@@ -54,6 +54,10 @@ WARN_PATTERNS = [
     (re.compile(r"\b(tug-of-war|hodgepodge|smooth sailing|budge[sd]?|budging|altar table)\b", re.I), "owner prefers a plainer word (struggle, all sorts of forms, things going his way, move or shake, altar)"),
 ]
 
+# let alone needs a negative before it in the same statement (owner Ch.1435); questions are exempt.
+LET_ALONE_RE = re.compile(r"[^.!?]*\blet alone\b[^.!?]*[.!]")
+LET_ALONE_NEG_RE = re.compile(r"\b(not|no|never|nothing|nobody|none|hardly|barely|scarcely|without|cannot|neither|nor|only|half|nowhere|few|little|rarely)\b|n't\b", re.I)
+
 # Present tense in narration, outside speech, thought and displays (owner Ch.1434).
 NARRATION_PRESENT_RE = re.compile(r"(?<!would )(?<!could )(?<!might )(?<!should )(?<!must )(?<!will )\b(has|is|are|does)\b")
 
@@ -135,6 +139,9 @@ def paragraph_warnings(target: list[str], protected: set[str]) -> list[str]:
         narration = re.sub(r'"[^"]*"|\*[^*]+\*', "", para)
         for match in NARRATION_PRESENT_RE.finditer(narration):
             warnings.append(f"paragraph {index}: present tense in narration; keep narration past: {narration[max(0, match.start() - 25):match.end() + 15].strip()!r}")
+        for match in LET_ALONE_RE.finditer(para):
+            if not LET_ALONE_NEG_RE.search(match.group(0).split("let alone")[0]):
+                warnings.append(f"paragraph {index}: let alone without a preceding negative; use to say nothing of or recast: {match.group(0).strip()[:60]!r}")
         for pattern, fix in COLLOCATION_FIXES:
             for match in pattern.finditer(para):
                 warnings.append(f"paragraph {index}: unidiomatic collocation {match.group(0)!r}; prefer {fix}")
@@ -182,7 +189,7 @@ def chapter_warnings(target: list[str], glossary_targets: list[str]) -> list[str
     for phrase in STOCK_PHRASES:
         count = len(re.findall(rf"\b{re.escape(phrase)}\b", body, re.I))
         if count >= 3:
-            warnings.append(f"chapter: stock phrase '{phrase}' used {count} times; vary it after the second use")
+            warnings.append(f"chapter: stock phrase '{phrase}' used {count} times; vary the wording after the second use, never drop the source's meaning")
     item = r"[A-Za-z'-]+(?: [A-Za-z'-]+){0,2}"
     serial = len(re.findall(rf"(?:{item}, ){{2,}}(?:and|or) ", body))
     open_list = len(re.findall(rf"(?:{item}, ){{2,}}{item} (?:and|or) ", body))
