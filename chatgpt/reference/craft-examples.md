@@ -41,12 +41,12 @@ principle.
 - Repaired (owner): but its nature was entirely different: sheer destructive might pushed to such an extreme that it achieved almost the same effect.
 - Mechanism: 以...达到 is a means-to-result chain; such an extreme that states it, where a bare participle only lists.
 
-## 4. Timing jolt and reversal (Ch. 1411 P43)
+## 8. Tense: narration past, speech in the speaker's now (owner Ch.1434 P60, P98)
 
-- Chinese: The next instant [下一瞬], a Dao resonance shook heaven and earth; the others reappeared, yet [却] stuck before the gate.
-- Stiff: A thunderous Dao resonance sounded..., and the others reappeared, stranded outside its gate.
-- Repaired: The next instant, a Dao resonance that shook heaven and earth rang out... The others reappeared, but they were stuck at its gate.
-- Mechanism: the jolt gets its own clause; the reversal gets "but" and the final slot instead of a participle tail.
+- Chinese: luck is formless, yet truly shapes a person's acts (narration); my cultivation is higher than back then, and I have two more helpers (speech).
+- Stiff: Luck has no shape or substance, yet it truly sways what people do! / ...even higher than when we dealt with him back then, and I had two more Dao Ancestors helping me.
+- Repaired (owner): Luck had neither shape nor substance, yet it could truly sway a person's actions! / ...higher even than when I dealt with the Supreme Source Immortal, and I have two more Dao Ancestors helping me.
+- Mechanism: a generalization inside past narration stays past; the speaker's helpers are with him now, so his verb is present.
 
 ## 5. A refrain keeps its words (Ch. 1411 P46)
 

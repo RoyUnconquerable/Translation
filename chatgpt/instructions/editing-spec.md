@@ -180,6 +180,13 @@ grammatical and checker-clean and still sound translated.
   moment (I needed to gather... he managed to enter ahead of me).
 - Parallel pairs match (If you can... If you can't...), without a stray And on
   one half.
+- Tense (owner Ch.1434): narration stays past, generalizations included; a
+  counterfactual keeps would have throughout; speech uses the speaker's own
+  present and future (I have; I'll overlook), never a backshifted would; a
+  gerund subject becomes a clause (if I take the Seed first, I'll be playing
+  into his hands).
+- Plain standard words over idioms and literary words, people as subjects, no
+  clefts or inversions, no added intensifiers (style guide, House style).
 
 When a sentence fails, rewrite it from its meaning instead of swapping words.
 Then reread the whole paragraph: lengths should vary and it should end on its

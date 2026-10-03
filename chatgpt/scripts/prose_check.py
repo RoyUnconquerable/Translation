@@ -49,7 +49,13 @@ WARN_PATTERNS = [
     (re.compile(r"\b[A-Z][\w-]*'s(?: [A-Z][a-z]+){2,} [a-z]+ (?:is|was|were|are|had|has)\b"), "noun stack after a possessive; unpack with of"),
     # Owner Ch.1433: a participle opener must attach to the person, not his brow or gaze.
     (re.compile(r"(?:^|[.!?]\s+)(?:Seeing|Hearing|Watching|Listening to|Looking at|Having \w+|After \w+ing)[^,.!?]{0,60}, (?:his|her|their|[A-Z][\w-]*(?: [A-Z][\w-]*)*(?:'s|s'))\s"), "dangling participle; make the person the subject"),
+    # Owner Ch.1434 house style: no clefts; plain standard words.
+    (re.compile(r"\bIt was [A-Z][\w' ]{1,40}? (?:whose|who) "), "cleft sentence; make the person the subject"),
+    (re.compile(r"\b(tug-of-war|hodgepodge|smooth sailing|budge[sd]?|budging|altar table)\b", re.I), "owner prefers a plainer word (struggle, all sorts of forms, things going his way, move or shake, altar)"),
 ]
+
+# Present tense in narration, outside speech, thought and displays (owner Ch.1434).
+NARRATION_PRESENT_RE = re.compile(r"(?<!would )(?<!could )(?<!might )(?<!should )(?<!must )(?<!will )\b(has|is|are|does)\b")
 
 # Collocations the owner replaced; extend from each owner revision (editing-spec 2.4).
 COLLOCATION_FIXES = [
@@ -61,6 +67,7 @@ COLLOCATION_FIXES = [
     (re.compile(r"\bdeathlessness\b", re.I), "immortality (owner Ch.1433)"),
     (re.compile(r"\bPeach Blossom Spring\b"), "a secluded paradise (owner Ch.1433)"),
     (re.compile(r"\bblood burst into light\b", re.I), "blood-red light exploded (owner Ch.1433)"),
+    (re.compile(r"\b(ethereal|corporeal) souls\b", re.I), "the three souls and seven spirits (owner Ch.1434)"),
 ]
 
 CONTRACTABLE_RE = re.compile(
@@ -125,6 +132,9 @@ def paragraph_warnings(target: list[str], protected: set[str]) -> list[str]:
         for pattern, label in WARN_PATTERNS:
             for match in pattern.finditer(para):
                 warnings.append(f"paragraph {index}: {label}: {match.group(0).strip()!r}")
+        narration = re.sub(r'"[^"]*"|\*[^*]+\*', "", para)
+        for match in NARRATION_PRESENT_RE.finditer(narration):
+            warnings.append(f"paragraph {index}: present tense in narration; keep narration past: {narration[max(0, match.start() - 25):match.end() + 15].strip()!r}")
         for pattern, fix in COLLOCATION_FIXES:
             for match in pattern.finditer(para):
                 warnings.append(f"paragraph {index}: unidiomatic collocation {match.group(0)!r}; prefer {fix}")

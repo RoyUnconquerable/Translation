@@ -586,6 +586,12 @@ class AuthorityTests(unittest.TestCase):
         w1433 = "\n".join(prose_check.paragraph_warnings(owner1433, set()))
         self.assertEqual(w1433.count("dangling participle"), 2)
         self.assertIn("the dome of heaven", w1433)
+        w1434 = "\n".join(prose_check.paragraph_warnings(["T",
+            "Luck has no shape, yet it sways people. \"Luck is fickle,\" he said. *Luck is fickle.*",
+            "It was Great Luck Comes whose face fell. It was a tug-of-war on the altar table."], set()))
+        self.assertEqual(w1434.count("present tense in narration"), 1)
+        self.assertIn("cleft sentence", w1434)
+        self.assertEqual(w1434.count("plainer word"), 2)
         clean = ["T", "A shadow crossed his face as their gazes filled with suspicion.",
                  "The auras of the other Dao Ancestors' Primordial Spirits have all stirred."]
         self.assertEqual(prose_check.paragraph_warnings(clean, set()), [])
