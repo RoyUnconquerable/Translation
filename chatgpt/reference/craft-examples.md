@@ -69,12 +69,12 @@ principle.
 - Repaired: ...shot toward the Heaven Beyond the Heavens, and rammed headfirst into its gate.
 - Mechanism: the climactic verb gets its own finite slot at the end.
 
-## 4. Calque trap: 另一边; 5. punch last (Ch. 1411 P82)
+## 5. A remembered sequence as full sentences (owner Ch.1439 P145-P147)
 
-- Chinese: Over on the other side [另一边], Lü Yang, unrestrained, clapped his hands and burst out laughing.
-- Stiff: Lü Yang, on the other hand, clapped his hands and burst out laughing without the slightest restraint.
-- Repaired: Lü Yang, meanwhile, made no effort to hold back. He clapped his hands and burst out laughing.
-- Mechanism: spatial 另一边 is "meanwhile"; the laugh ends the paragraph instead of a trailing adverbial.
+- Chinese: From [从] the first storming of the Underworld, the accident, death in hatred. / To [到] later, a sliver of hope, a desperate fight. / Then [再到] defecting to Tribulation...
+- Stiff: From the first storming of the Underworld, the accident, and his death full of hatred. / To later, when he had a sliver of hope...
+- Repaired (owner): His first attempt had ended in failure, and he had died bitterly. / Later, he had found a sliver of hope and fought desperately for it. / Then he had switched to Tribulation...
+- Mechanism: 从...到...再到 lists memories, not a sentence; each step gets a subject and the past perfect of recollection, so the fragments stop reading as notes.
 
 ## 3. Opening phrase on its real subject (Ch. 1359 P40)
 

@@ -592,6 +592,9 @@ class AuthorityTests(unittest.TestCase):
         self.assertEqual(w1434.count("present tense in narration"), 1)
         self.assertIn("cleft sentence", w1434)
         self.assertEqual(w1434.count("plainer word"), 2)
+        w1439 = "\n".join(prose_check.paragraph_errors(["T",
+            "The past unfolded before them.", "He had past the gate."]))
+        self.assertEqual(w1439.count("passed/past confusion"), 1)
         w1435 = "\n".join(prose_check.paragraph_warnings(["T",
             "Even this world could fall, let alone a cultivator.",
             "He could not stand, let alone walk. Who would care, let alone value them?"], set()))

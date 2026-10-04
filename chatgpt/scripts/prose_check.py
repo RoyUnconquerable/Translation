@@ -19,7 +19,7 @@ ERROR_PATTERNS = [
     (re.compile(r"\b(more|less|rather|other|better|worse|greater|fewer|sooner|faster|stronger|weaker|higher|lower|larger|smaller)\s+then\b", re.I), "then/than: use than in a comparison"),
     (re.compile(r"\b(and|just|only|since|until|back)\s+than\b", re.I), "then/than: use then for time"),
     (re.compile(r"\b(could|would|should|must|might)\s+of\b", re.I), "modal + of: use have"),
-    (re.compile(r"\b(had|has|have|in the|the)\s+past\s+(?=\w+ed\b)", re.I), "passed/past confusion"),
+    (re.compile(r"\b(had|has|have)\s+past\b", re.I), "passed/past confusion"),
     (re.compile(r"\b(\w+)\s+\1\b", re.I), "doubled word"),
     (re.compile(r"\b(passage|way|path|road|gap|crack|hole)\s+though\b|\bthough\s+(time|space|the years)\b", re.I), "though/through typo"),
     (re.compile(r"\blaying\s+(there|down|on|in|motionless|still|flat)\b", re.I), "lay/lie: a person lies or lay (past), not laying"),
