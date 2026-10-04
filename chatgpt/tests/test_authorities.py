@@ -134,7 +134,7 @@ class AuthorityTests(unittest.TestCase):
             result = subprocess.run(
                 [sys.executable, str(SCRIPTS / "prepare.py"), str(source),
                  "--observed-through", str(frontier + 1)],
-                capture_output=True, text=True,
+                capture_output=True, encoding="utf-8",
             )
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertIn("repository state unchanged", result.stdout)
@@ -174,7 +174,7 @@ class AuthorityTests(unittest.TestCase):
             source.write_text(f"第{frontier + 2}章 测试\n\n正文。\n", encoding="utf-8")
             result = subprocess.run(
                 [sys.executable, str(SCRIPTS / "prepare.py"), str(source)],
-                capture_output=True, text=True,
+                capture_output=True, encoding="utf-8",
             )
         self.assertNotEqual(result.returncode, 0)
         self.assertIn("skips the recorded translation frontier", result.stdout + result.stderr)
@@ -335,7 +335,7 @@ class AuthorityTests(unittest.TestCase):
                 ("chat_check.py", [str(src), str(tgt), "--scene-break-before"], "PASS (2 paragraphs)"),
             ):
                 result = subprocess.run([sys.executable, str(SCRIPTS / script), *args],
-                                        cwd=root, text=True, capture_output=True)
+                                        cwd=root, encoding="utf-8", capture_output=True)
                 self.assertEqual(result.returncode, 0, result.stderr + result.stdout)
                 self.assertIn(marker, result.stdout)
             self.assertEqual(common.find_root(self.root), self.root)
@@ -469,18 +469,18 @@ class AuthorityTests(unittest.TestCase):
             target.write_text(target_text, encoding="utf-8")
             inventory = subprocess.run(
                 [sys.executable, str(SCRIPTS / "prepare.py"), str(source)],
-                capture_output=True, text=True,
+                capture_output=True, encoding="utf-8",
             )
             checked = subprocess.run(
                 [sys.executable, str(SCRIPTS / "chat_check.py"), str(source),
                  str(target), "--scene-break-before", "3"],
-                capture_output=True, text=True,
+                capture_output=True, encoding="utf-8",
             )
             target.write_text(target_text.replace("\n\n---", ""), encoding="utf-8")
             missing = subprocess.run(
                 [sys.executable, str(SCRIPTS / "chat_check.py"), str(source),
                  str(target), "--scene-break-before"],
-                capture_output=True, text=True,
+                capture_output=True, encoding="utf-8",
             )
         self.assertEqual(inventory.returncode, 0, inventory.stdout + inventory.stderr)
         self.assertIn("paragraphs: 3", inventory.stdout)
@@ -635,12 +635,12 @@ class AuthorityTests(unittest.TestCase):
             target.write_text(target_text, encoding="utf-8")
             command = [sys.executable, str(SCRIPTS / "chat_check.py"), str(source),
                        str(target), "--scene-break-before", "3"]
-            undeclared = subprocess.run(command, capture_output=True, text=True)
-            mapped = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, text=True)
+            undeclared = subprocess.run(command, capture_output=True, encoding="utf-8")
+            mapped = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, encoding="utf-8")
             target.write_text(target_text.replace("wisdom light", "radiance"), encoding="utf-8")
-            missing_term = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, text=True)
+            missing_term = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, encoding="utf-8")
             target.write_text(target_text.replace("\n\n---", "").replace("Then he left.", "---\n\nThen he left."), encoding="utf-8")
-            inner_break = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, text=True)
+            inner_break = subprocess.run(command + ["--display-splits", "2:3"], capture_output=True, encoding="utf-8")
         self.assertNotEqual(undeclared.returncode, 0)
         self.assertEqual(mapped.returncode, 0, mapped.stdout + mapped.stderr)
         self.assertIn("3 source paragraphs, 5 target paragraphs", mapped.stdout)
