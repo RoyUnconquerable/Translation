@@ -31,6 +31,7 @@ Keep each distinction exactly as the source draws it:
 ## Lexical and substring traps
 
 - 成道主 is become a Dao Lord, not prove the Dao.
+- A remark that counts Chinese characters (简单的两个字) describes the source line. When the English differs, drop the count instead of padding the line to match (owner Ch.1438: "Bullshit!").
 - 现世 may be a verb.
 - 心中古怪 names no era.
 - Bare and named variants, ordinary life versus nature-and-life, and generic

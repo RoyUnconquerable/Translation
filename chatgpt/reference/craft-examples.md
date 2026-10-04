@@ -27,12 +27,12 @@ principle.
 - Repaired (owner): A slender hand... caught the blade, holding it firmly in place even as the edge cut deep and drew a stream of blood.
 - Mechanism: two its with two referents made the reader stop; naming the blade leaves one it, and the wound becomes concrete.
 
-## 4. Setup before the ironic reaction (Ch. 1411 P11)
+## 4. Concession, not cause (owner Ch.1438 P39)
 
-- Chinese: The four, who had long since extinguished [灭绝] their humanity, also [也] stood dumbstruck.
-- Stiff: The four... stood dazed. These Dao Lords had long since lost their humanity...
-- Repaired: The four... had long since extinguished their humanity... Yet now they too stood dazed.
-- Mechanism: description first, reaction last, so "they too" reads as irony; "extinguished" keeps the agent.
+- Chinese: He had transformed three times, strictly equal to the eighth layer, [and] could barely [勉强] hold his own against me.
+- Stiff: ...which strictly speaking equals the eighth layer of the Other Shore, so he could barely hold his own against me.
+- Repaired (owner): ...which, strictly speaking, put him on par with the eighth layer of the Other Shore. Even then, he could barely hold his own against me.
+- Mechanism: 勉强 after a high rank is a letdown, so the carrier is even then; the draft's so invented a cause the source never states.
 
 ## 4. Spell out the stated logic (owner Ch.1432 P62)
 
