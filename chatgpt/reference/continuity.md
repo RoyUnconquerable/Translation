@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1438 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1439 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-1428-1438, have verified sources and chat delivery; 1424-1427 are not
+1428-1439, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -137,13 +137,11 @@ Preserved in continuity-archive.md under Archived Chapter 1435 at Chapter
 1438: the Seed's revelations (the Sea of Light as Jun's petri dish), the
 Saint storing the Seed in the book, and Returning Fate's reincarnation plan.
 
-## Chapter 1436: until the Underworld is empty
+## Chapter 1436: lookup
 
-- Through Purple Firmament Palace, the Immortal Pivot, the World-Honored One spreads the One Mind over every being below Dao Lord, chanting Amitabha-style vows; all declare themselves his incarnations. The founders of Names and Appearances see he means to take everyone into reincarnation and empty the sacrifice.
-- His secret: the One Mind delivers him as much as he delivers them, keeping him human; he took it back up after the Other Shore because his Primordial Spirit had made him stop caring about his junior brothers (Dao Tianqi, Bu Tianque, Lian Tiandou, Beast-Taming). Hence the Pure Land.
-- Everyone below Dao Lord sheds their bodies as golden Buddhas and joins the Underworld; Dao Tianqi stabilizes it. The World-Honored One, now Lord of the Underworld, leaps past Vast Sky and Myriad Spells at the fifth layer of the Other Shore, vows to ferry all beings across the Final Kalpa, and vanishes into the future with trillions of beings, using the future the Dao God left empty.
-- The Primordial Saint intercepts him in the torrent of time (several earlier lives saw the same resistance). Si Sui blocks and is exiled into the future; the Saint spares him as a possible successor. The Saint will pursue both plans: kill the World-Honored One, return the beings to the sacrifice, and smash the Underworld to complete the Other Shore Ascension Plan (a false Transcendence outside Jun's observation; only the Seed gives Divine Transformation). He calls him Shi Tianyi, Di Muni.
-- Shi Weixiong stays behind; Great Luck Comes reveals Lü Yang, alive, who claims a certain way to win.
+Preserved in continuity-archive.md under Archived Chapter 1436 at Chapter
+1439: the World-Honored One's One Mind and Underworld exodus, the Saint's
+interception in the torrent of time, and Lü Yang revealed alive to Shi Weixiong.
 
 ## Chapter 1437: the Primordial Saint transcends
 
@@ -160,3 +158,10 @@ Saint storing the Seed in the book, and Returning Fate's reincarnation plan.
 - Transcended, the Primordial Saint recalls past restarts: this is Lü Yang's eighteenth, near the Supreme Source Immortal's count. He quotes the passport-and-epitaph line against nobility.
 - Lü Yang restarts. The Saint is unaffected, but the saber returns with Lü Yang undiminished, and because the Heaven Beyond the Heavens is Absolute Truth, every Dao Ancestor remembers. In repeated rounds all ten paths' Dao Ancestors (including Great Luck Comes, Dan Qiuhuo/Bu Changming, Shi Quanxian, Jade Realm Sovereign, Dan Qingjian and the two founders) kill themselves into the saber; Lü Yang reaches the eighth layer.
 - Each restart also returns the Seed's power the Saint draws out to the Book of Divine Blessings and the Mandate of Heaven. The Saint sees the trap; Lü Yang vows to cut him down head-on.
+
+## Chapter 1439: no Variables for the Primordial Saint
+
+- Transcended, the Primordial Saint is beyond restarts but cannot stop Lü Yang's. The Supreme Source Immortal restarted only twenty-four times and felt the book weaken then. The Saint tries to force wasted restarts; Knowing Heaven's Mandate's failed reincarnation into his past freezes him for an instant, and the rounds continue. Lü Yang reaches the ninth layer.
+- Hiding in the Nothingness to refine the Seed fails: a transcender cannot hide, and each restart returns the drawn power to the book. Lü Yang has used under fifty pages and expects to match the merged Saint with over sixty left.
+- Lü Yang reaches the third transformation of nature: Variables, the Sea of Light's never-manifested Great Dao, emerges from his Infinite Method; the Seed begins to turn toward him. Everyone across the Sea of Light, in every time, recovers memories of all restarts (Saint Sect, Dao Court, the Heavenly Palace exiled in the Fathomless Void, Soaring Firmament, the World-Honored One).
+- Now stronger, Lü Yang strikes for the World-Honored One, Soaring Firmament and himself, wears down the merged lives, and cuts the fleeing Saint in half: for a transcender there are no Variables.
