@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1437 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1438 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-1428-1437, have verified sources and chat delivery; 1424-1427 are not
+1428-1438, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -131,13 +131,11 @@ Preserved in continuity-archive.md under Archived Chapters 1433-1434 at
 Chapter 1437: Lü Yang's fake death and the Luck trio's paradise (1433), and
 the effigy that turns the Primordial Saint toward the Seed (1434).
 
-## Chapter 1435: the Seed of the Great Dao
+## Chapter 1435: lookup
 
-- The Luck trio's boost succeeds; the Primordial Saint's and the Supreme Source Immortal's luck now rivals the Dao Venerable's at his peak. Great Luck Comes: refining the Seed takes a period of merging body and Dao, and success makes all things resonate. Lü Yang, ready to restart, bets the Saint's swelling greed will steer him away from serving as a successor.
-- In the future, a silent Nothingness where even the Final Kalpa has perished, the Saint learns from the Seed: the Final Kalpa was this world's first Divine Transformation being; a cultivator became the second and left the Seed; a Divine Transformation must resist the Final Kalpa until raising a successor, and some perished, becoming new worlds' foundations.
-- Revealed to the Saint: the Sea of Light is Jun's observed failure; Jun died and his remains founded it (the Dragon-Tiger Mountain secret). His body, spiritual power and spells became the Three Foundations; the Five Elements, Yin and Yang, the Five Heavenly Numbers and wisdom light were also his design. The Saint calls it Jun's petri dish for raising a Gu King successor.
-- The Saint refuses Divine Transformation, pockets the Seed, draws on it to reach the ninth layer of the Other Shore, and stores it in the Book of Divine Blessings and the Mandate of Heaven. He will continue the great sacrifice (Ancestral Dragon's method), with Si Sui as fallback.
-- At Purple Firmament Palace, Shi Weixiong and the others barely contain the Dao God; the sacrifice ritual is now irreversible. Shi Weixiong's call to consecrate his saber finds no takers but Si Sui. The World-Honored One steps forward holding the Underworld; Returning Fate's plan to reincarnate the Divine Land's people into the future is set in motion.
+Preserved in continuity-archive.md under Archived Chapter 1435 at Chapter
+1438: the Seed's revelations (the Sea of Light as Jun's petri dish), the
+Saint storing the Seed in the book, and Returning Fate's reincarnation plan.
 
 ## Chapter 1436: until the Underworld is empty
 
@@ -155,3 +153,10 @@ the effigy that turns the Primordial Saint toward the Seed (1434).
 - In the Divine Land, the Supreme Source Immortal leaves the book (the Seed is stored inside it, so a restart cannot change the outcome) and impales the Dao God of the Final Kalpa, whom he awakened and named. The Dao God takes the name Tai Yitian and the Saint's face; the three declare they were always one person and merge as three life bodies (past, present, future), each at the ninth layer.
 - The merged Saint, a hair short of Divine Transformation, overwhelms Shi Weixiong by sheer scale, shatters the Underworld, returns its trillions of beings to the great sacrifice and absorbs its fragments. The sacrifice completes him: he transcends beyond Jun's thought and the power to restart; only Jun could kill him now, and refining the Seed would add Divine Transformation.
 - In the secluded paradise Lü Yang covers his face and laughs: "He finally took the bait..."
+
+## Chapter 1438: the trap of Transcendence
+
+- Lü Yang appears alive; the World-Honored One has fallen back to peak Golden Core. Shi Weixiong hands Lü Yang his nameless saber (born of Accumulating Merit; it kills its wielder too) and kills himself into it; Tassel Immortal, Jiao Guiren and Dao Tianqi follow, then Si Sui on Lü Yang's promise of a way to guarantee victory. Lü Yang cuts down the World-Honored One. The saber lifts him to the seventh layer; Dan Qiuhuo alone holds back.
+- Transcended, the Primordial Saint recalls past restarts: this is Lü Yang's eighteenth, near the Supreme Source Immortal's count. He quotes the passport-and-epitaph line against nobility.
+- Lü Yang restarts. The Saint is unaffected, but the saber returns with Lü Yang undiminished, and because the Heaven Beyond the Heavens is Absolute Truth, every Dao Ancestor remembers. In repeated rounds all ten paths' Dao Ancestors (including Great Luck Comes, Dan Qiuhuo/Bu Changming, Shi Quanxian, Jade Realm Sovereign, Dan Qingjian and the two founders) kill themselves into the saber; Lü Yang reaches the eighth layer.
+- Each restart also returns the Seed's power the Saint draws out to the Book of Divine Blessings and the Mandate of Heaven. The Saint sees the trap; Lü Yang vows to cut him down head-on.
