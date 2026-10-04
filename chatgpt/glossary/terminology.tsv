@@ -73,8 +73,8 @@ source	target	notes
 位格	status	lowercase except at sentence start; the legacy phrase 踏天境的高位格 was translated compositionally [except: 踏天境的高位格]; provenance terminology.tsv
 现世	mortal world	owner-final Ch.1276; preferred default for the inhabited present; reserve real world for contexts that explicitly contrast reality with illusion or False History; when used verbally it means manifest or appear [except: 再度现世|刚刚现世|重现世间|无法再现世]; Ch.1295 confirms the verbal use in 刚刚现世; provenance owner-rulings-ch1276.tsv
 仙桥	Immortal Bridge	provenance terminology.tsv
-改因易果	altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; provenance terminology.tsv
-伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力|排山倒海的伟力|降下伟力]; 降下伟力 = bring his full power to bear (owner Ch.1429); 降世的伟力 = 'the might of their descent' (owner Ch.1210); 排山倒海的伟力 permits 'an overwhelming power' with the mountain-and-sea image retained (owner Ch.1295). Neither compound changes the default for bare 伟力.
+改因易果	altering cause and effect|altering cause and changing effect|alteration of cause and transformation of effect	verbal form when used as an action; owner Ch.1436 prefers altering cause and effect (V2 also uses the longer form); provenance terminology.tsv
+伟力	mighty power|real power	Use mighty power for positive transcendent or cosmological force; real power is approved in negative degree descriptions such as a gaze carrying little real power; owner-final Ch.1284 [except: 无穷伟力|降世的伟力|排山倒海的伟力|降下伟力|伟力不足]; 降下伟力 = bring his full power to bear (owner Ch.1429); 降世的伟力 = 'the might of their descent' (owner Ch.1210); 排山倒海的伟力 permits 'an overwhelming power' with the mountain-and-sea image retained (owner Ch.1295). Neither compound changes the default for bare 伟力.
 洞天	Grotto-Heaven	CAPITALIZED, owner ruling 2026-08-19; provenance terminology.tsv
 仙枢	Immortal Pivot	usually takes 'the'; what this world / Boundary Heaven is called; provenance terminology.tsv
 成道隐玄府	Achieving Dao Hidden Profound Manor	Skyward's grotto-heaven manor; provenance terminology.tsv
@@ -263,7 +263,7 @@ source	target	notes
 幽冥府君殿	Underworld Sovereign's Hall	owner-final Ch.1262; established core of the Underworld; provenance owner-rulings-ch1262.tsv
 天外	Outer Heavens	owner-final Ch.1262 location phrase; capitalize both words; provenance owner-rulings-ch1262.tsv; excludes the mental-absence idiom [except: 魂游天外]
 太易天	Tai Yitian	the Primordial Saint's altered name, not his original true name; owner-final Ch.1283 supersedes the earlier Ch.1262 assumption; provenance owner-rulings-ch1262.tsv and Ch.1283. Ch.1395 reveals this was also the Supreme Source Immortal's preferred name. Their relationship and suspected possession remain separate from identity.
-冥府之主	Lord of the Underworld	owner-final Ch.1262 title for Dao Tianqi in this scene; provenance owner-rulings-ch1262.tsv
+冥府之主	Lord of the Underworld	Title of whoever rules the Underworld: Dao Tianqi in owner-final Ch.1262 (provenance owner-rulings-ch1262.tsv). It is not an alias of Dao Tianqi. Owner Ch.1436 calls the World-Honored One its current lord rather than giving him the title [except: 如今冥府之主]
 光海暗面	Dark Side of the Sea of Light	owner-final Ch.1263 capitalization; supersedes lowercase use in running cosmological reference; provenance owner-rulings-ch1263.tsv
 天府	Celestial Court	owner-final Ch.1264; major Boundary Heaven listed beside the Immortal Pivot, Star Palace, and Mysterious Wall; provenance owner-rulings-ch1264.tsv
 星宫	Star Palace	owner-final Ch.1264; established major Boundary Heaven; provenance owner-rulings-ch1264.tsv
@@ -295,7 +295,7 @@ source	target	notes
 后天返先天	turn from Postnatal back to Innate	owner-final Ch.1276; capitalize Postnatal and Innate as technical cultivation states; provenance owner-rulings-ch1276.tsv
 后天	Postnatal	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Innate; provenance owner-rulings-ch1276.tsv
 先天	Innate	owner-final Ch.1276; capitalized technical cultivation state when contrasted with Postnatal; provenance owner-rulings-ch1276.tsv; verified Ch.1310-1318 ordinary or cross-word contexts [except: 先天就|先天资质]
-成道	prove the Dao|proved the Dao|proven the Dao|proving the Dao|proves the Dao	owner-final Ch.1278 default for the completed cultivation achievement; use "attain the Dao" only where an established construction or place of attainment requires it. In 成道主, 成 means become and 道主 is Dao Lord; do not impose prove the Dao on this compound [except: 成道隐玄府|成道地|成道之地|成道主]; provenance owner-rulings-ch1278.tsv and Ch.1299 source check
+成道	prove the Dao|proved the Dao|proven the Dao|proving the Dao|proves the Dao	owner-final Ch.1278 default for the completed cultivation achievement; use "attain the Dao" only where an established construction or place of attainment requires it. In 成道主, 成 means become and 道主 is Dao Lord; do not impose prove the Dao on this compound [except: 成道隐玄府|成道地|成道之地|成道主|毫不起眼的成道者]; provenance owner-rulings-ch1278.tsv and Ch.1299 source check
 重光	Chongguang	Saint Sect Acting Sect Master; ordinary pronouns; do not match inside descriptive 重重光彩, 重重光景 or 重重光色 [except: 重重光彩|重重光景|重重光色]; provenance owner-final Ch.1268 and Ch.1291-1293 source review
 三根基	Three Foundations	Spiritual Power, Spells, and Dharma Body; capitalized named triad; provenance Ch.1276-1279
 六龙君	six Dragon Monarchs	normally takes "the"; lowercase six except at sentence start; provenance Ch.1268 onward
@@ -505,3 +505,8 @@ source	target	notes
 太上无情	supreme detachment	Owner Ch.1431 merges it with 太上忘情; do not coin supreme heartlessness.
 炼气	Qi Refinement	Realm name; owner Ch.1435 and V2 (787 uses) use Qi Refinement, not Qi Refining. Verbal 炼气 (refining qi) is ordinary [except: 有的炼气]
 筑基	Foundation Establishment	Realm name; owner V2 and Ch.1435.
+峰主	Peak Lord	Established in the owner manuscript V2 (1,180 uses; Peak Master never). 初代万宝峰主 is the first-generation Myriad Treasures Peak Lord (owner Ch.1436).
+圣像	sacred image	Owner Ch.1436 and V2; not holy image.
+时光洪流	river of time|torrent of time	Owner Ch.1436 prefers river of time (V2 71 uses; torrent 15); lowercase time.
+邪法	evil art	Owner Ch.1436; not heretical method.
+宝光	treasure light	Owner Ch.1436 and V2 (81 uses) [except: 宝光萤煌]

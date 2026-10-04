@@ -117,37 +117,12 @@ Preserved in continuity-archive.md under Archived Chapter 1428 at Chapter
 1431: Knowing Heaven's Mandate's half-success, Shi Weixiong's kill-all plan,
 the camps, and Lü Yang's ceiling at the second transformation.
 
-## Chapter 1429: True Waystation and the Purple Firmament Palace plan
+## Chapters 1429-1432: lookup
 
-- The Sword Sovereign, Vast Sky, Myriad Spells and Du Xuan, allied with Worship Me and True Waystation, trapped Soaring Firmament and Dao Tianqi at the bottom of the Divine Land's Northern Sea; Tribulation let them evade repeatedly.
-- True Waystation, third Revering the Gods Dao Ancestor and the Heavenly Dao's inspiration, lives in his jade; his body is disposable. He designed the Heavenly Heart Lock's prototype; the Ancestral Dragon's claim to have forged it is false. He plans to refine the Final Kalpa into a treasure and needs an Innate Dao God's Primordial Spirit thought, which he believes Jun promised him.
-- Lü Yang's Ring of Infinity injures him. Lü Yang, using Tribulation borrowed from Soaring Firmament, and Soaring Firmament, using his Dao Heart, make the Ancestral Dragon's Primordial Spirit trust Lü Yang; Soaring Firmament keeps a sliver as proof, and True Waystation seals the rest. Si Sui breaks with Du Xuan, who wants Soaring Firmament dead.
-- The Primordial Saint's Names founder errand was a diversion: he used Time to reach the Final Kalpa and returned with Final Kalpa qi holding Knowing Heaven's Mandate's knowledge, severing the River of Time behind him.
-- The book's consciousness reports the Divine Land's Immortal Pivot site is Purple Firmament Palace. The Primordial Saint claims Jun's Transcendence is incomplete and that Jun means a great sacrifice of all living beings there; the Names and Appearances founders privately doubt it. As True Waystation's ritual light rises, the Primordial Saint heads for Purple Firmament Palace to "help" Jun's sacrifice. All of this is his claim, not established fact.
-
-## Chapter 1430: the Final Kalpa awakens
-
-- Soaring Firmament keeps a minimal Primordial Spirit flame to stay qualified and suspects Jun hand-picked the next Divine Transformation; the World-Honored One has told him he is an Ancient Past Dao Ancestor's reincarnation.
-- The Sword Sovereign (Nian Yao) recalls founding the Heavenly Dao to give heaven and earth feeling, and recognizes she has become cold since forming her Primordial Spirit: only the Self is real; those without Primordial Spirits are mayflies.
-- True Waystation makes her the vessel: she swallows Final Kalpa Qi and rebuilds the Heavenly Dao with Vast Sky (Fortune), Du Xuan (Spiritual Power) and Myriad Spells (Spells), the Ancestral Dragon's Primordial Spirit as bait. Lü Yang reads it as a bid to become the End Tiger; her threads of affection parasitize the newly spiritual, still mindless Final Kalpa.
-- The Final Kalpa's arrival moved earlier than Tassel Immortal's anchor. Fate shows no future of her success; a young Daoist (the Final Kalpa's consciousness, now intelligent) occupies every future, breaks her web and cracks her body. True Waystation blames the Supreme Source Immortal and the two founders.
-- At Purple Firmament Palace the Primordial Saint declares Nian Yao doomed and the Ancient Past's destruction counting down. The book's consciousness (speaking as the Supreme Source Immortal) has adopted the Primordial Saint's ways. The Primordial Saint plans to use the crisis to win support for the great sacrifice and to test whether Profound Virtue can still restart; the book says that power cannot affect Divine Transformation. The founders privately fear him.
-
-## Chapter 1431: the Primordial Saint's bait
-
-- The Final Kalpa, made conscious early, speaks through the dying Sword Sovereign; Lü Yang blames the Primordial Saint. Shi Weixiong's saber, strengthened by Jade Realm Sovereign and his father Shi Quanxian (suicide or killing, unresolved), seals the present against the Final Kalpa Qi.
-- In the time passage Shi Weixiong offers death by his saber. Vast Sky and Myriad Spells merge (supreme detachment allows fusion) and the Supreme Source Immortal pulls them back by rewriting history (they never came). Du Xuan, unlinked, faces his envy of Si Sui and his flawed Primordial Spirit, and dies to the saber; then the Sword Sovereign and True Waystation, who warns against the two founders and the Supreme Source Immortal.
-- Shi Weixiong destroys the time passage; the Dao God of the Final Kalpa, the End Tiger, vows there will be no next time. Only Shi Weixiong's head-on plan remains among the savers.
-- The Primordial Saint, in Purple Firmament Palace, sets up the Ancestral Dragon's Transcendence ritual; the Immortal Recorder alerts all Dao Ancestors. Lü Yang infers the palace is bait: the Primordial Saint will let the Dao God in to pin everyone, take the Seed of the Great Dao from the emptied future, then return for the great sacrifice. Lü Yang declines to restart, keeping the Book of a Hundred Lives' working restart secret. All of this is Lü Yang's inference.
-
-
-## Chapter 1432: either way, the Primordial Saint wins
-
-- The Primordial Saint sees that Lü Yang's group has not moved and concludes his bait plan is exposed; Lü Yang has warned the other Dao Ancestors, who hold back and encircle Purple Firmament Palace. He judges Lü Yang a schemer with a mortal's mindset, like his own younger self.
-- He starts the great sacrifice for Transcendence at once: Nascent Soul true body at the center, the two founders, Vast Sky and Myriad Spells on the four formation nodes; one of the five holds Fortune. Si Sui lived through it once before. Lü Yang hopes the Supreme Source Immortal will leave the Book of Divine Blessings and the Mandate of Heaven, which would let him restart freely.
-- Shi Weixiong strikes first; three transformations of nature, a saber consecrated with slain Dao Ancestors' Primordial Spirits, destruction close to the Final Kalpa's effect. The two founders (credit bankrupt, bound to the Primordial Saint) and Vast Sky and Myriad Spells all pull back while keeping the ritual going.
-- The Supreme Source Immortal offers to act; the Primordial Saint refuses: Lü Yang is watching and may restart. The book claims the restart power cannot affect Divine Transformation and that this is how it lost to Jun. The Primordial Saint suspects Lü Yang is Jun's reincarnation or pawn, since he holds the restart power Jun extracted and entered the Heaven Beyond the Heavens early.
-- The passage through Time reopens; the Dao God of the Final Kalpa's hand stops the saber (rust and decay on the blade) and stalemates Shi Weixiong. The Primordial Saint tells the Dao God everything about the power to restart; the Dao God's second hand swats at Lü Yang. Cliffhanger: Lü Yang must restart or die; the Primordial Saint wins either way.
+Preserved in continuity-archive.md under Archived Chapters 1429-1432 at
+Chapter 1436: True Waystation's plan and the palace (1429), the Final Kalpa's
+awakening (1430), the Primordial Saint's bait (1431), and his "either way, I
+win" gambit with the Dao God of the Final Kalpa (1432).
 
 ## Chapter 1433: the fake death
 

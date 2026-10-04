@@ -22,6 +22,15 @@ realms, and for known terms used in a new sense. Include unbracketed and
 single-use terms. The `prepare.py` inventory is an aid; it does not find every
 new term. Ordinary contextual word choice is not a term decision.
 
+Before proposing any rendering for a recurring title, rank, place, technique or
+fixed image that has no glossary row, search the owner manuscript (V2 text,
+when it is available in the session) and the owner-revised chapters for an
+established English form, and use it. Owner Ch.1436 showed the cost of
+skipping this: 峰主 is Peak Lord in 1,180 V2 uses, and the draft invented Peak
+Master. Add every term found this way to the glossary. Treat a glossary row
+scoped to one scene or one person (for example a title held by one character
+in one chapter) as scoped, not as a universal alias.
+
 Send one batch, one line per item:
 
 ```text
@@ -105,7 +114,10 @@ goes in FLAGS, not into the text.
   (Inside Purple Firmament Palace, ...) that leaves a scene of many onlookers
   for one character's viewpoint also takes a break (owner Ch.1433 P81). So
   does an unmarked return to another place, even when the source prints no
-  place line (owner Ch.1435 P106, from the future back to the paradise). Place it before a time-jump sentence so that sentence opens the
+  place line (owner Ch.1435 P106, from the future back to the paradise).
+  A source place line that moves the scene (前古神州，师为雄...) always takes a
+  break, even when the action flows on from the dialogue before it (owner
+  Ch.1436 P173). Place it before a time-jump sentence so that sentence opens the
   new scene. Keep every separator the source prints, and record the reviewed
   positions, or none, for the checker.
 
