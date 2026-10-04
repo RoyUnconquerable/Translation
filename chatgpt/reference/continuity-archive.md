@@ -3219,3 +3219,14 @@ remain in continuity-archive.md under Archived world separation at Chapter 1333.
 - Everyone below Dao Lord sheds their bodies as golden Buddhas and joins the Underworld; Dao Tianqi stabilizes it. The World-Honored One, now Lord of the Underworld, leaps past Vast Sky and Myriad Spells at the fifth layer of the Other Shore, vows to ferry all beings across the Final Kalpa, and vanishes into the future with trillions of beings, using the future the Dao God left empty.
 - The Primordial Saint intercepts him in the torrent of time (several earlier lives saw the same resistance). Si Sui blocks and is exiled into the future; the Saint spares him as a possible successor. The Saint will pursue both plans: kill the World-Honored One, return the beings to the sacrifice, and smash the Underworld to complete the Other Shore Ascension Plan (a false Transcendence outside Jun's observation; only the Seed gives Divine Transformation). He calls him Shi Tianyi, Di Muni.
 - Shi Weixiong stays behind; Great Luck Comes reveals Lü Yang, alive, who claims a certain way to win.
+
+## Archived Chapter 1437 at Chapter 1440
+
+### Chapter 1437: the Primordial Saint transcends
+
+- In the future Nothingness, the Dao Lords survive the sight of the Final Kalpa only because they live inside Jun's single thought, shielded by Divine Transformation's power. If Jun loses, he can only sacrifice himself to force open the next cycle.
+- The Primordial Saint seizes the World-Honored One at every point in his time (no transformation of nature; his immortality rests on the Underworld). Shi Weixiong's saber light, narrowed to a third of the time scenes, severs the hand there, and the World-Honored One escapes through them. The book calls Shi Weixiong's killing method unique to him and is sent on another task.
+- At the battlefield's edge, Tassel Immortal, Dan Qiuhuo, Jiao Guiren and Dao Tianqi face Vast Sky, Myriad Spells and the two founders, who regret but continue.
+- In the Divine Land, the Supreme Source Immortal leaves the book (the Seed is stored inside it, so a restart cannot change the outcome) and impales the Dao God of the Final Kalpa, whom he awakened and named. The Dao God takes the name Tai Yitian and the Saint's face; the three declare they were always one person and merge as three life bodies (past, present, future), each at the ninth layer.
+- The merged Saint, a hair short of Divine Transformation, overwhelms Shi Weixiong by sheer scale, shatters the Underworld, returns its trillions of beings to the great sacrifice and absorbs its fragments. The sacrifice completes him: he transcends beyond Jun's thought and the power to restart; only Jun could kill him now, and refining the Seed would add Divine Transformation.
+- In the secluded paradise Lü Yang covers his face and laughs: "He finally took the bait..."

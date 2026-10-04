@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1439 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1440 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-1428-1439, have verified sources and chat delivery; 1424-1427 are not
+1428-1440, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -143,14 +143,11 @@ Preserved in continuity-archive.md under Archived Chapter 1436 at Chapter
 1439: the World-Honored One's One Mind and Underworld exodus, the Saint's
 interception in the torrent of time, and Lü Yang revealed alive to Shi Weixiong.
 
-## Chapter 1437: the Primordial Saint transcends
+## Chapter 1437: lookup
 
-- In the future Nothingness, the Dao Lords survive the sight of the Final Kalpa only because they live inside Jun's single thought, shielded by Divine Transformation's power. If Jun loses, he can only sacrifice himself to force open the next cycle.
-- The Primordial Saint seizes the World-Honored One at every point in his time (no transformation of nature; his immortality rests on the Underworld). Shi Weixiong's saber light, narrowed to a third of the time scenes, severs the hand there, and the World-Honored One escapes through them. The book calls Shi Weixiong's killing method unique to him and is sent on another task.
-- At the battlefield's edge, Tassel Immortal, Dan Qiuhuo, Jiao Guiren and Dao Tianqi face Vast Sky, Myriad Spells and the two founders, who regret but continue.
-- In the Divine Land, the Supreme Source Immortal leaves the book (the Seed is stored inside it, so a restart cannot change the outcome) and impales the Dao God of the Final Kalpa, whom he awakened and named. The Dao God takes the name Tai Yitian and the Saint's face; the three declare they were always one person and merge as three life bodies (past, present, future), each at the ninth layer.
-- The merged Saint, a hair short of Divine Transformation, overwhelms Shi Weixiong by sheer scale, shatters the Underworld, returns its trillions of beings to the great sacrifice and absorbs its fragments. The sacrifice completes him: he transcends beyond Jun's thought and the power to restart; only Jun could kill him now, and refining the Seed would add Divine Transformation.
-- In the secluded paradise Lü Yang covers his face and laughs: "He finally took the bait..."
+Preserved in continuity-archive.md under Archived Chapter 1437 at Chapter
+1440: the three Tai Yitians merge as three life bodies, shatter the
+Underworld, complete the sacrifice, and the Primordial Saint transcends.
 
 ## Chapter 1438: the trap of Transcendence
 
@@ -165,3 +162,9 @@ interception in the torrent of time, and Lü Yang revealed alive to Shi Weixiong
 - Hiding in the Nothingness to refine the Seed fails: a transcender cannot hide, and each restart returns the drawn power to the book. Lü Yang has used under fifty pages and expects to match the merged Saint with over sixty left.
 - Lü Yang reaches the third transformation of nature: Variables, the Sea of Light's never-manifested Great Dao, emerges from his Infinite Method; the Seed begins to turn toward him. Everyone across the Sea of Light, in every time, recovers memories of all restarts (Saint Sect, Dao Court, the Heavenly Palace exiled in the Fathomless Void, Soaring Firmament, the World-Honored One).
 - Now stronger, Lü Yang strikes for the World-Honored One, Soaring Firmament and himself, wears down the merged lives, and cuts the fleeing Saint in half: for a transcender there are no Variables.
+
+## Chapter 1440: the road to ruin
+
+- Transcended, the Primordial Saint can no longer sense or borrow Variables: the trap of Transcendence. He reforms, flees across time to stall until the Final Kalpa (which only a transcender survives) and keeps drawing the Seed's power to burn Lü Yang's restarts.
+- Lü Yang fakes a natural Transcendence: using Variables, he makes people forget him (bit players first, Liu Xin, Xiao Shiye), showing a transmigrator's outsider nature. He hesitates over the Heavenly Palace, Soaring Firmament, the World-Honored One and Dao Tianqi.
+- Believing him, the Saint cracks the Book of Divine Blessings and the Mandate of Heaven and shatters the Seed (uniqueness survives restarts; the damage stays) for mutual destruction or Divine Transformation. Lü Yang reveals the lie, pities him for not seeing his real situation, and the Seed's released power engulfs the Saint.
