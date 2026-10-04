@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1431 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1437 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-1428-1431, have verified sources and chat delivery; 1424-1427 are not
+1428-1437, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -32,9 +32,10 @@ positions when the source now answers them.
 | Nether Whisper Ancestor, Demon-Purging True Person, Suo Huan and Empress Xiao | Last directly established at Ch.1343 greeting Lü Yang in the Palace. No subsequent erasure is inferred. |
 
 - Why does the End Tiger remember Jun, and who awakened the earlier Tiger?
-- The Primordial Saint's original mortal name remains unknown. Sharing the
-  name Tai Yitian with the Supreme Source Immortal does not prove that they
-  are one person.
+- The Primordial Saint's original mortal name remains unknown. Ch.1437: he,
+  the Supreme Source Immortal and the Dao God of the Final Kalpa share the
+  name Tai Yitian and one face, declare they were always one person and
+  merge as three life bodies; before Ch.1437, do not treat them as one.
 - The golden book is unique across restarts. Ch.1400 confirms its conscious
   occupant remembers a previous life and believes leaving the book would
   prevent him from surviving the next restart. The full extent of his memory
@@ -124,19 +125,11 @@ Chapter 1436: True Waystation's plan and the palace (1429), the Final Kalpa's
 awakening (1430), the Primordial Saint's bait (1431), and his "either way, I
 win" gambit with the Dao God of the Final Kalpa (1432).
 
-## Chapter 1433: the fake death
+## Chapters 1433-1434: lookup
 
-- Lü Yang reads the Dao God's palm as the Primordial Saint's test of whether he can still restart, and refuses both outcomes. Si Sui blocks the palm; Lü Yang hurls himself into it and uses the Fate cultivation reincarnation technique (from the Immortal Recorder) to fake his death.
-- Soaring Firmament spends the Ancestral Dragon Primordial Spirit fragment as Lü Yang's decoy, covers it with Tribulation and vanishes in white mist. Everyone, the Primordial Saint included, takes Lü Yang for dead; an unknown Primordial Spirit flame goes out on cue.
-- Lü Yang is reborn as a paramecium, then rebuilds himself through the Infinite Method, in a Peach Blossom Spring hidden from karmic divination, kept by Great Luck Comes and his two child attendants, all three Luck cultivation Dao Ancestors who call him Little Junior Brother.
-- Great Luck Comes: Luck cultivation observes and steers luck; Befriending the Noble branched from it. Jun and the Final Kalpa (consciousless; the Dao God is its agent) wage a Dao Struggle between Divine Transformations. The Sea of Light is a future Jun observed and brought into the Ancient Past, the true present; the Final Kalpa contests it; whichever side's pieces win anchors its future. Lü Yang and the Primordial Saint are the two centers of luck.
-
-## Chapter 1434: the Primordial Saint turns aside
-
-- Lü Yang concludes the Final Kalpa holds the advantage: Jun saw the future closest to surviving, and the Book of a Hundred Lives (more than eighty pages left) is Jun's hundred-restart foothold against it.
-- The Luck trio bow to a straw effigy named Tai Yitian, briefly weakening the Primordial Saint's luck so he accepts Lü Yang's death. He refuses to let the Supreme Source Immortal emerge publicly, opens the passage, lets the Dao God of the Final Kalpa into the present to hold off Shi Weixiong, and heads to the future for the Seed of the Great Dao. The bowing trio cough blood.
-- Great Luck Comes: the two founders did not create the Book of Divine Blessings and the Mandate of Heaven; the Supreme Source Immortal obtained it, and Knowing Heaven's Mandate founded Fate cultivation by comprehending it. Lü Yang guesses the Book was a previous Divine Transformation's Book of a Hundred Lives, and that Jun was raised by a predecessor who transcended.
-- At Lü Yang's request the trio boost the Primordial Saint's luck. The book notices the restart power never returned; the Primordial Saint concludes Jun is grooming a successor, shelves Divine Transformation and will take the Seed without using it, seeking Transcendence first. A Variable is born.
+Preserved in continuity-archive.md under Archived Chapters 1433-1434 at
+Chapter 1437: Lü Yang's fake death and the Luck trio's paradise (1433), and
+the effigy that turns the Primordial Saint toward the Seed (1434).
 
 ## Chapter 1435: the Seed of the Great Dao
 
@@ -153,3 +146,12 @@ win" gambit with the Dao God of the Final Kalpa (1432).
 - Everyone below Dao Lord sheds their bodies as golden Buddhas and joins the Underworld; Dao Tianqi stabilizes it. The World-Honored One, now Lord of the Underworld, leaps past Vast Sky and Myriad Spells at the fifth layer of the Other Shore, vows to ferry all beings across the Final Kalpa, and vanishes into the future with trillions of beings, using the future the Dao God left empty.
 - The Primordial Saint intercepts him in the torrent of time (several earlier lives saw the same resistance). Si Sui blocks and is exiled into the future; the Saint spares him as a possible successor. The Saint will pursue both plans: kill the World-Honored One, return the beings to the sacrifice, and smash the Underworld to complete the Other Shore Ascension Plan (a false Transcendence outside Jun's observation; only the Seed gives Divine Transformation). He calls him Shi Tianyi, Di Muni.
 - Shi Weixiong stays behind; Great Luck Comes reveals Lü Yang, alive, who claims a certain way to win.
+
+## Chapter 1437: the Primordial Saint transcends
+
+- In the future Nothingness, the Dao Lords survive the sight of the Final Kalpa only because they live inside Jun's single thought, shielded by Divine Transformation's power. If Jun loses, he can only sacrifice himself to force open the next cycle.
+- The Primordial Saint seizes the World-Honored One at every point in his time (no transformation of nature; his immortality rests on the Underworld). Shi Weixiong's saber light, narrowed to a third of the time scenes, severs the hand there, and the World-Honored One escapes through them. The book calls Shi Weixiong's killing method unique to him and is sent on another task.
+- At the battlefield's edge, Tassel Immortal, Dan Qiuhuo, Jiao Guiren and Dao Tianqi face Vast Sky, Myriad Spells and the two founders, who regret but continue.
+- In the Divine Land, the Supreme Source Immortal leaves the book (the Seed is stored inside it, so a restart cannot change the outcome) and impales the Dao God of the Final Kalpa, whom he awakened and named. The Dao God takes the name Tai Yitian and the Saint's face; the three declare they were always one person and merge as three life bodies (past, present, future), each at the ninth layer.
+- The merged Saint, a hair short of Divine Transformation, overwhelms Shi Weixiong by sheer scale, shatters the Underworld, returns its trillions of beings to the great sacrifice and absorbs its fragments. The sacrifice completes him: he transcends beyond Jun's thought and the power to restart; only Jun could kill him now, and refining the Seed would add Divine Transformation.
+- In the secluded paradise Lü Yang covers his face and laughs: "He finally took the bait..."
