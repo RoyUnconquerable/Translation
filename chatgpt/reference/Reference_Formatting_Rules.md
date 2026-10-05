@@ -23,6 +23,8 @@ located proposal, not an automatic new rule or permission to edit the novel.
   Remove trailing heading whitespace. Use natural contractions except those ending in 'd.
 - No em or en dashes, including interruptions. Preserve the unfinished word or thought
   using allowed punctuation; do not finish the sentence or invent an interruption action.
+  Sole exception (owner ruling 5 October 2026, Ch.1439-1440): the drawn-out restart shout
+  百世书——！！！ is "Book of a Hundred Lives—!!!". No other dash is allowed.
 - Environmental and impact sounds are uppercase and unquoted, with meaningful punctuation
   and repetition intact. Voiced breaths, coughs and laughter may remain quoted dialogue.
 - Use ordinary English pronoun case for everyone, including Dao Lords. Capitalize sentence

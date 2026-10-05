@@ -65,6 +65,10 @@ addendum; unapproved proposals remain unapproved. No chapter prose is included.
 | Reference_Formatting_Rules.md | libfile_1632fce49dd0819182c135d304616930 | 9372a42b1ef99275148c3b6a6d5fd4d1e427d8b1889109d3fe43148a9230348c |
 | 02_BOOK_REFERENCE.md | libfile_9a5ebb0293e48191afcfd2a6cd7316d9 | fe5e47b77a22b907f2f396be667305309dbd8a57bc544075ee9a67d59864a985 |
 
+Change since the last library sync (2026-10-05): Reference_Formatting_Rules.md adds the
+owner's single dash exception for the restart shout (Ch.1439-1440); the library copy is
+out of sync until the owner re-uploads it.
+
 Saved version numbers: ChatGPT_Rules.md v1; Reference_Italicized_Titles.md v2; Reference_Talents_and_Hundred_Lives.md v2; Rule_Update_and_Proposed_Resolutions.md v1; Reference_Idioms.md v2; Reference_Formatting_Rules.md v2; 02_BOOK_REFERENCE.md v1.
 
 ## Owner-edited English manuscript V2 (supplied 30 September 2026)

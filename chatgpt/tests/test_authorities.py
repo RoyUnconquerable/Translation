@@ -566,6 +566,20 @@ class AuthorityTests(unittest.TestCase):
                       "\n".join(prose_check.chapter_warnings(repeated, [])))
         self.assertEqual(prose_check.chapter_warnings(repeated[:3], []), [])
 
+    def test_restart_shout_is_the_only_allowed_dash(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source = Path(tmp) / "source.txt"
+            target = Path(tmp) / "target.txt"
+            source.write_text("第1章 测试\n\n“百世书——！！！”\n", encoding="utf-8")
+            command = [sys.executable, str(SCRIPTS / "chat_check.py"), str(source), str(target),
+                       "--scene-break-before"]
+            target.write_text("Chapter 1: Test\n\n\"Book of a Hundred Lives\u2014!!!\"\n", encoding="utf-8")
+            allowed = subprocess.run(command, capture_output=True, encoding="utf-8")
+            target.write_text("Chapter 1: Test\n\n\"Book of a Hundred\u2014Lives!!!\"\n", encoding="utf-8")
+            other = subprocess.run(command, capture_output=True, encoding="utf-8")
+        self.assertNotIn("banned typography", allowed.stdout + allowed.stderr)
+        self.assertIn("banned typography", other.stdout + other.stderr)
+
     def test_prose_check_sound_pass_warnings(self):
         import prose_check
         target = ["Chapter 1: Test",

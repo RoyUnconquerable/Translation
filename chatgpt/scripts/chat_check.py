@@ -22,6 +22,10 @@ import prose_check
 PARAGRAPH_INDENT_RE = re.compile(r"[ \t]*\n(?=(?:[ \t]{2,}|　)\S)")
 
 
+# The one owner-approved dash (Ch.1439-1440): the drawn-out restart shout.
+RESTART_SHOUT = "Book of a Hundred Lives\u2014!!!"
+
+
 def paragraphs(text: str, *, allow_scene_breaks: bool = False) -> list[str]:
     normalized = text.replace("\r\n", "\n").replace("\r", "\n").strip()
     # A pasted line that opens with the paragraph indent is its own paragraph
@@ -219,7 +223,8 @@ def main() -> None:
         residue = sorted({char for char in tgt if common.is_cjk(char)})
         if residue:
             errors.append(f"paragraph {index}: source characters {''.join(residue)}")
-        banned = [char for char in lint.BANNED_STYLE_CHARS if char in tgt]
+        checked = tgt.replace(RESTART_SHOUT, "")
+        banned = [char for char in lint.BANNED_STYLE_CHARS if char in checked]
         if banned:
             errors.append(f"paragraph {index}: banned typography {''.join(banned)}")
         cjk_punct = lint.punctuation_residue("", tgt, allow_displays=True)
