@@ -3230,3 +3230,12 @@ remain in continuity-archive.md under Archived world separation at Chapter 1333.
 - In the Divine Land, the Supreme Source Immortal leaves the book (the Seed is stored inside it, so a restart cannot change the outcome) and impales the Dao God of the Final Kalpa, whom he awakened and named. The Dao God takes the name Tai Yitian and the Saint's face; the three declare they were always one person and merge as three life bodies (past, present, future), each at the ninth layer.
 - The merged Saint, a hair short of Divine Transformation, overwhelms Shi Weixiong by sheer scale, shatters the Underworld, returns its trillions of beings to the great sacrifice and absorbs its fragments. The sacrifice completes him: he transcends beyond Jun's thought and the power to restart; only Jun could kill him now, and refining the Seed would add Divine Transformation.
 - In the secluded paradise Lü Yang covers his face and laughs: "He finally took the bait..."
+
+## Archived Chapter 1438 at Chapter 1441
+
+### Chapter 1438: the trap of Transcendence
+
+- Lü Yang appears alive; the World-Honored One has fallen back to peak Golden Core. Shi Weixiong hands Lü Yang his nameless saber (born of Accumulating Merit; it kills its wielder too) and kills himself into it; Tassel Immortal, Jiao Guiren and Dao Tianqi follow, then Si Sui on Lü Yang's promise of a way to guarantee victory. Lü Yang cuts down the World-Honored One. The saber lifts him to the seventh layer; Dan Qiuhuo alone holds back.
+- Transcended, the Primordial Saint recalls past restarts: this is Lü Yang's eighteenth, near the Supreme Source Immortal's count. He quotes the passport-and-epitaph line against nobility.
+- Lü Yang restarts. The Saint is unaffected, but the saber returns with Lü Yang undiminished, and because the Heaven Beyond the Heavens is Absolute Truth, every Dao Ancestor remembers. In repeated rounds all ten paths' Dao Ancestors (including Great Luck Comes, Dan Qiuhuo/Bu Changming, Shi Quanxian, Jade Realm Sovereign, Dan Qingjian and the two founders) kill themselves into the saber; Lü Yang reaches the eighth layer.
+- Each restart also returns the Seed's power the Saint draws out to the Book of Divine Blessings and the Mandate of Heaven. The Saint sees the trap; Lü Yang vows to cut him down head-on.

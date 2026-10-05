@@ -1,9 +1,9 @@
-# Current continuity: verified Chapters 1420-1440 and earlier prerequisites
+# Current continuity: verified Chapters 1420-1441 and earlier prerequisites
 
 Source facts and English approval are distinct; see the ledger for owner edits
 and review status. Earlier active windows and Chapters 1310-1311 are preserved
 in continuity-archive.md. Chapters 1339-1349 and 1354 onward through 1423,
-1428-1440, have verified sources and chat delivery; 1424-1427 are not
+1428-1441, have verified sources and chat delivery; 1424-1427 are not
 recorded in this repository. Chapters 1335-1338 have approved
 English but unretrieved exact Chinese and delivery; Chapters 1330-1331 are
 owner-reported as delivered, but their exact source and delivery were not
@@ -149,12 +149,11 @@ Preserved in continuity-archive.md under Archived Chapter 1437 at Chapter
 1440: the three Tai Yitians merge as three life bodies, shatter the
 Underworld, complete the sacrifice, and the Primordial Saint transcends.
 
-## Chapter 1438: the trap of Transcendence
+## Chapter 1438: lookup
 
-- Lü Yang appears alive; the World-Honored One has fallen back to peak Golden Core. Shi Weixiong hands Lü Yang his nameless saber (born of Accumulating Merit; it kills its wielder too) and kills himself into it; Tassel Immortal, Jiao Guiren and Dao Tianqi follow, then Si Sui on Lü Yang's promise of a way to guarantee victory. Lü Yang cuts down the World-Honored One. The saber lifts him to the seventh layer; Dan Qiuhuo alone holds back.
-- Transcended, the Primordial Saint recalls past restarts: this is Lü Yang's eighteenth, near the Supreme Source Immortal's count. He quotes the passport-and-epitaph line against nobility.
-- Lü Yang restarts. The Saint is unaffected, but the saber returns with Lü Yang undiminished, and because the Heaven Beyond the Heavens is Absolute Truth, every Dao Ancestor remembers. In repeated rounds all ten paths' Dao Ancestors (including Great Luck Comes, Dan Qiuhuo/Bu Changming, Shi Quanxian, Jade Realm Sovereign, Dan Qingjian and the two founders) kill themselves into the saber; Lü Yang reaches the eighth layer.
-- Each restart also returns the Seed's power the Saint draws out to the Book of Divine Blessings and the Mandate of Heaven. The Saint sees the trap; Lü Yang vows to cut him down head-on.
+Preserved in continuity-archive.md under Archived Chapter 1438 at Chapter
+1441: the saber consecrations, restarts with Absolute Truth memory, and the
+Seed's power returning to the book.
 
 ## Chapter 1439: no Variables for the Primordial Saint
 
@@ -168,3 +167,9 @@ Underworld, complete the sacrifice, and the Primordial Saint transcends.
 - Transcended, the Primordial Saint can no longer sense or borrow Variables: the trap of Transcendence. He reforms, flees across time to stall until the Final Kalpa (which only a transcender survives) and keeps drawing the Seed's power to burn Lü Yang's restarts.
 - Lü Yang fakes a natural Transcendence: using Variables, he makes people forget him (bit players first, Liu Xin, Xiao Shiye), showing a transmigrator's outsider nature. He hesitates over the Heavenly Palace, Soaring Firmament, the World-Honored One and Dao Tianqi.
 - Believing him, the Saint cracks the Book of Divine Blessings and the Mandate of Heaven and shatters the Seed (uniqueness survives restarts; the damage stays) for mutual destruction or Divine Transformation. Lü Yang reveals the lie, pities him for not seeing his real situation, and the Seed's released power engulfs the Saint.
+
+## Chapter 1441: the main story ends
+
+- The world collapses to a seed-like point, the start of the mortal world of the future Sea of Light. Above the Fathomless Void hangs the rift left by the shattered Seed; Lü Yang absorbs its power and reaches his fourth transformation: Divine Transformation. The Book of a Hundred Lives keeps about half its pages.
+- The Fathomless Void was the shadow of Jun's hand. Jun (the Dao Venerable Who Equalizes All Dharmas; the Primordial Saint copied his face) gave every Dao Ancestor a chance, the Primordial Saint seven (the Seven Emotions Heaven-Fathoming Art). The Saint, frozen in the rift forever because a transcender cannot refine this world's power, is the cornerstone of a Gate of Transcendence: future Divine Transformation cultivators can transcend through it and anyone strong enough can draw on it to reach Divine Transformation.
+- Jun transcends and leaves Purple Firmament Palace, the Immortal Recorder and the Dao Ancestors to Lü Yang. In the real present of the Ancient Past, the war and the Final Kalpa never happened. All beings of every time gather and greet him as the Dao Venerable Who Holds the Profound Pivot of Change (provisional). (Main text complete.)
