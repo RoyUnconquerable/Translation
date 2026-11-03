@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "novel_id": "next-novel",
+  "novel_title": null,
+  "branch": "chatgpt/next-novel",
+  "status": "awaiting_new_novel_source",
+  "source_language": "zh",
+  "target_language": "en-US",
+  "progress": {
+    "latest_source_seen": 0,
+    "latest_draft_delivered": 0,
+    "latest_owner_final": 0,
+    "next_translation_chapter": 1
+  },
+  "chapter_prose_storage": "chat_only",
+  "footnote_candidates_required": true,
+  "records": {
+    "terminology": "chatgpt/novels/next-novel/glossary/terminology.tsv",
+    "entities": "chatgpt/novels/next-novel/glossary/entities.tsv",
+    "phrase_memory": "chatgpt/novels/next-novel/glossary/phrase-memory.tsv",
+    "decisions": "chatgpt/novels/next-novel/reference/decisions.tsv",
+    "continuity": "chatgpt/novels/next-novel/reference/continuity.md",
+    "world": "chatgpt/novels/next-novel/reference/world.md",
+    "style": "chatgpt/novels/next-novel/reference/style.md",
+    "footnotes": "chatgpt/novels/next-novel/reference/footnote-candidates.tsv",
+    "chapter_ledger": "chatgpt/novels/next-novel/chapters/ledger.tsv"
+  },
+  "automatic_checker_ready": false,
+  "notes": "Original-novel records and automatic checker remain inactive for this book until explicitly reconfigured."
+}
