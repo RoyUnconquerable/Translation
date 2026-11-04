@@ -3,14 +3,14 @@
   "novel_id": "next-novel",
   "novel_title": null,
   "branch": "chatgpt/next-novel",
-  "status": "awaiting_new_novel_source",
+  "status": "chapter_1_owner_revision_received",
   "source_language": "zh",
   "target_language": "en-US",
   "progress": {
-    "latest_source_seen": 0,
-    "latest_draft_delivered": 0,
+    "latest_source_seen": 1,
+    "latest_draft_delivered": 1,
     "latest_owner_final": 0,
-    "next_translation_chapter": 1
+    "next_translation_chapter": 2
   },
   "chapter_prose_storage": "chat_only",
   "footnote_candidates_required": true,
@@ -26,5 +26,5 @@
     "chapter_ledger": "chatgpt/novels/next-novel/chapters/ledger.tsv"
   },
   "automatic_checker_ready": false,
-  "notes": "Original-novel records and automatic checker remain inactive for this book until explicitly reconfigured."
+  "notes": "Chapter 1 source and assistant delivery seen; owner's edited English received for future-usage guidance but not separately declared owner-final. The previous novel's reference tables and checker remain inactive for this novel. New-novel automation still requires migration."
 }

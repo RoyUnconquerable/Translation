@@ -1,1 +1,15 @@
 source	target	category	status	first_chapter	notes
+遊戲頭盔	gaming helmet	object	owner_used	1	Keep a modern gaming device, not a fantasy helm; Ch1 P2
+油紙傘	oil-paper umbrella	object	owner_used	1	Recurring physical prop; Ch1 P5
+短刀	short blade	weapon	owner_used	1	Use for the protagonist's short weapon in Ch1; do not impose on all knives; P5
+長刀	long blade	weapon	owner_used	1	Use for the assailant's long weapon in Ch1; P13
+天牢	Heavenly Prison	institution	owner_used	1	Captivity threatened by the unnamed man; his actual authority is unverified; P18
+偽靈胎	Pseudo Spirit Embryo	aptitude	owner_used	1	Title case as used in the owner revision; an aptitude designation, not a cultivation realm; P42 onward
+靈胎	spirit embryo	aptitude	owner_used	1	Lowercase generic aptitude, distinct from Pseudo Spirit Embryo; P44
+道門	Dao Sect	organization	owner_used	1	Do not import the previous novel's organization names; P63
+煉體	body tempering	method	owner_used	1	The only route described for Pseudo Spirit Embryos; P54
+大劫	great calamity	event	owner_used	1	Approaching crisis; do not substitute old-novel Final Kalpa; P43
+全民修行時代	age of universal cultivation	period	owner_used	1	Cultivation access expanded because of the approaching calamity; P43
+銀票	silver note	currency	owner_used	1	A banknote denominated in taels; in Ch1 a hundred-tael silver note; P29
+【開局】	starting scenario	gaming-language	owner_used	1	Bracketed inline concept in Ch1, not a system panel; P30
+【退出遊戲】	exit game	game-ui	owner_used	1	Inline action/button at Ch1 ending, not a system panel; P114
