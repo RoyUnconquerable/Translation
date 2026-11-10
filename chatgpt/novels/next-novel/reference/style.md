@@ -27,3 +27,11 @@ Chapter 1's 【遊戲頭盔】, 【開局】, 【偽靈胎】, 【道門】 and 
 - P42 Chinese 凡人 explicitly says mortal; the owner revision drops that word. Do not infer that mortals are interchangeable with Pseudo Spirit Embryos.
 - P77 and P80 distinguish taking the sheathed blade off his waist from drawing it. Do not collapse distinct actions as a general rule.
 - Owner's Ch1 contains em-dash glyphs in the blade sound and aside, one apparent unmotivated horizontal divider, escaped punctuation, and "j ust". Treat as localized mechanical/editorial queries, not permission to override the project's typography or scene standards.
+
+## Chapter 6 owner revision
+
+Use the owner's complete Chapter 6 text as a current new-novel voice example alongside Chapter 1. It favors direct, contemporary sentences, less needless embellishment, concise interior speech, preservation of physical action and restrained exposition. The owner explicitly used *Borrowing a Sword*, Mystic Calendar, Bliss Sect, Saintess and *Blissful Entanglement*. They are different concepts from the previous novel's names and terms.
+
+The owner's Ch6 nicknames for Li Chunsong are Hopeless Gambling Dog, Philanthropic King of Gamblers and Li Pure Giveaway. The last echoes a Chinese name pun. Keep these as Ch6 character-specific expressions, not mandatory word choices for other people or bets.
+
+The owner's insertion of ellipsis paragraphs and a divider in Chapter 6 is local formatting evidence, not authority to add scene breaks or split ordinary prose in future chapters. For Chapter 7, preserve the Chinese paragraph boundaries. Biyou Clearing is provisional for 碧游坪; Mountains Beyond the Mountains is explicitly a collective name for multiple mountains. The Chinese 零气十足/活零活现 contains a gay-slang pun; retain the joke without inventing a character identity.

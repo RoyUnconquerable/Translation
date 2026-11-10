@@ -13,3 +13,21 @@ source	target	category	status	first_chapter	notes
 銀票	silver note	currency	owner_used	1	A banknote denominated in taels; in Ch1 a hundred-tael silver note; P29
 【開局】	starting scenario	gaming-language	owner_used	1	Bracketed inline concept in Ch1, not a system panel; P30
 【退出遊戲】	exit game	game-ui	owner_used	1	Inline action/button at Ch1 ending, not a system panel; P114
+《借剑》	Borrowing a Sword	game_title	owner_used	3	Owner Chapter 3 and Chapter 6 renditions; use italics for game title in ordinary prose
+玄历	Mystic Calendar	calendar	owner_used	6	Owner Ch6 revision prefers Mystic Calendar to Xuan Calendar
+欢喜宗	Bliss Sect	sect	owner_used	6	Owner Ch6 revision; same sect earlier provisionally Pleasure Sect in Ch5
+圣女	Saintess	title	owner_used	6	Owner Ch6 revision; distinct from Holy Son
+《欢喜缠》	Blissful Entanglement	cultivation_work	owner_used	6	Owner Ch6 revision; title styled italic in prose
+大修行者	Great Cultivator	rank	owner_used	6	Respectful designation for fifth realm and above
+世界主角	World Protagonist	story_role	owner_used	6	Four named protagonists in game; Chu suspects role substitution in Ch7
+镜国	Mirror Kingdom	place	owner_used	6	Owner Ch6 revision
+月国	Moon Kingdom	place	owner_used	3	Owner Ch3 upload
+春秋山	Spring and Autumn Mountain	sect	provisional	4	One of four major sects; Chu's original-game sect
+乌蒙山	Wumeng Mountain	place	owner_used	6	Owner selected singular translation and repeated in Ch6
+山外山	Mountains Beyond the Mountains	place	provisional	4	Ch7 collective name for many mountain peaks, not a single mountain
+碧游坪	Biyou Clearing	place	provisional	7	Meeting place by largest tree at foot of Wumeng Mountain
+护山大阵	mountain-protecting formation	formation	provisional	7	Mist barrier surrounding Dao Sect, rumored to resist eighth-realm cultivators
+长老令牌	Elder's token	artifact	provisional	7	Li Chunsong's waist token permits escort through sect barrier
+神识	spiritual sense	perception	review	3	Earlier discussion favored spiritual sense, but owner Ch3 revised paste still reads divine sense; do not claim final resolution
+法宝	magical treasure	artifact_category	review	3	Discussion recommended magical treasure; Ch3 owner paste reads magic treasures; avoid inventing rarity hierarchy
+灵宝	spiritual treasure	artifact_category	provisional	3	Candidate distinct from 法宝 only; not established as separate rank in this novel

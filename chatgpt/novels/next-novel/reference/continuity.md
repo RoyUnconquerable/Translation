@@ -26,3 +26,18 @@ Ch1 P111-P114: Chu Huaixu retrieves his umbrella, takes pride in his performance
 - Is the rainy woodland a game, another reality, or something else? Do not answer before the text does.
 - Is the stubbled man genuinely authorized to imprison anyone in the Heavenly Prison? He claims authority; it is unverified.
 - Does Chu Huaixu's physical precision reflect skill from outside this situation? Ch1 demonstrates it but does not give the cause.
+
+## Chapters 2-7, source-supported developments (owner-final approval not assumed)
+
+- Ch2: Chu's home era is 2045. The highly immersive game *Borrowing a Sword* uses purchasable randomized accounts. Chu's game interface now shows an NPC template and Mystic Calendar 1990, not his remembered 1997; he cannot log out.
+- Ch3: The stubbled man is defeated through Chu's superior body control. Two Moon Kingdom spies from the Organization assume Chu is a newly sent operative and deliberately set a Mirror Kingdom officer on him as a covert test. Chu does not know this.
+- Ch4: The slain Constabulary officer is named Xue Hu. Other Constabulary officers can locate his death through a Life Tablet. Chu flees toward Wumeng Mountain for safety near the Dao Sect.
+- Ch5: Han Shuangjiang is one of four World Protagonists. Rumors about her childhood and the Bliss Sect are not all directly confirmed as fact at first appearance.
+- Ch6: Li Chunsong, a seventh-realm Sixth Elder of the Dao Sect, arrives and brings Han and Chu away. Chu remembers a forum account that Li should instead have brought Han and Xu Ziqing, the two World Protagonists of the Eastern Continent's Mirror Kingdom. Xu is held by Constabulary officers below.
+- Ch7: Xu Ziqing wants to become a sword cultivator at the Dao Sect and has followed a storyteller's directions to Biyou Clearing at midnight, no earlier than one incense stick's burn time. Four corrupt Constabulary officers hold him up and take all his silver. He reaches the largest tree shortly before midnight, while Li is already flying away with Han and Chu. Chu realizes he may have taken Xu's intended plot role. The Quest System awards Chu 100 experience points for evading the Constabulary; Li admits Chu and Han through Mountains Beyond the Mountains and lands by a courtyard in the outer mountain area.
+
+## Continuing uncertainties
+
+- Chu's exact origins and faction remain unknown to him, despite suspected Moon Kingdom involvement.
+- Li Chunsong's intentions, why he looked surprised and sighed at Chu, and whether he knows about the mistaken pair are not yet revealed.
+- Xu's future recruitment and the identity of the legendary sword at Dao Sect remain unrevealed.
