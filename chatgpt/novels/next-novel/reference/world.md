@@ -22,3 +22,11 @@ Only record new-novel facts established on page. Earlier novel lore is excluded.
 - Ch5-6: Bliss Sect is Han Shuangjiang's former sect, a subordinate of Spring and Autumn Mountain; Saintess and Holy Son are sect titles, and Blissful Entanglement is its core cultivation work.
 - Ch4-7: In Mirror Kingdom, the four great sects have more power than the imperial court. Chu's former game sect was Spring and Autumn Mountain, while the Dao Sect historically led the four and may rise again. Moon Kingdom's court/sect relationship differs.
 - Ch7: Biyou Clearing is a midnight meeting place near Wumeng Mountain. Mountains Beyond the Mountains is the collective name for multiple mountains housing the Dao Sect. Mist forms a mountain-protecting formation said to resist even eighth-realm force; Li's Elder's token admits him and guests.
+
+## Chapter 8 Chinese and Chapter 9 owner English
+
+- Ch8 Chinese: Medicine Mountain is one of three outer sect peaks of the Dao Sect, where spiritual qi is enriched by a Spirit Gathering Formation. The rank ladder mentioned includes menials, registered disciples, outer sect disciples, inner sect disciples, and true disciples; registered disciples do work but receive Aperture Opening and Body Tempering techniques.
+- Ch8 Chinese: A Life Tablet indicates whether someone is dead and can locate the site of death within a range that varies by the tablet's quality. Li Chunsong personally crafts tablets for the two newcomers from fingertip blood.
+- Ch8 Chinese: Han Shuangjiang's Profound Yin Physique is distinctive; the Dao Sect's founding ancestor had the Pure Yang Physique. Li Chunsong defers personal guidance about Han's physique to the Ninth Elder.
+- Ch8 Chinese: Niu Yuanshan is an outer sect official summoned by Li Chunsong. The owner Chapter 9 English calls his rank "Outer Sect Deacon," one of nine. Earlier "outer sect steward" is superseded.
+- Ch9 English-only: Registered disciple tokens double as storage treasures ("backpacks" to players), holding about three cubic meters. Li Chunsong recommends Ice Purity Art for Han, but the Chinese title of the work is not available. Xu waits at Biyou Meadow, previously called Biyou Clearing in an assistant translation of Ch7. The owner English name takes priority for future usage.

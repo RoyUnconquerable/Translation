@@ -25,9 +25,19 @@ source	target	category	status	first_chapter	notes
 春秋山	Spring and Autumn Mountain	sect	provisional	4	One of four major sects; Chu's original-game sect
 乌蒙山	Wumeng Mountain	place	owner_used	6	Owner selected singular translation and repeated in Ch6
 山外山	Mountains Beyond the Mountains	place	provisional	4	Ch7 collective name for many mountain peaks, not a single mountain
-碧游坪	Biyou Clearing	place	provisional	7	Meeting place by largest tree at foot of Wumeng Mountain
+碧游坪	Biyou Meadow	place	owner_used	7	Owner's Ch9 English explicitly uses Biyou Meadow for the same Wumeng Mountain meeting site called Biyou Clearing provisionally in Ch7; original Ch9 Chinese not supplied
 护山大阵	mountain-protecting formation	formation	provisional	7	Mist barrier surrounding Dao Sect, rumored to resist eighth-realm cultivators
 长老令牌	Elder's token	artifact	provisional	7	Li Chunsong's waist token permits escort through sect barrier
 神识	spiritual sense	perception	review	3	Earlier discussion favored spiritual sense, but owner Ch3 revised paste still reads divine sense; do not claim final resolution
-法宝	magical treasure	artifact_category	review	3	Discussion recommended magical treasure; Ch3 owner paste reads magic treasures; avoid inventing rarity hierarchy
+法宝	magical treasure	artifact_category	owner_used	3	Owner Chapter 9 English calls the registered disciple storage token a magical treasure; Chapter 3 Chinese 法宝 supports category, but Ch9 Chinese has not been seen. Distinct from proposed 灵宝
 灵宝	spiritual treasure	artifact_category	provisional	3	Candidate distinct from 法宝 only; not established as separate rank in this novel
+外门执事	Outer Sect Deacon	sect_office	owner_used	8	Chapter 8 Chinese explicitly calls Niu Yuanshan 外门执事, earlier drafted steward; owner's Ch9 English uses Outer Sect Deacon, one of nine
+记名弟子	registered disciple	disciple_rank	owner_used	8	Chapter 8 Chinese entry rank, also repeatedly used in owner's Ch9 English; above menial, below outer sect disciple
+外门杂役	outer sect menial	disciple_rank	provisional	8	Entry work role in Ch8 Chinese; Ch9 owner English refers to handymen; distinguish from registered disciple
+内门弟子	inner sect disciple	disciple_rank	owner_used	8	Ch8 Chinese and earlier owner Chapter 6 rendition
+冲窍期	Aperture Opening stage	cultivation_stage	owner_used	8	Owner Ch9 English repeatedly uses this expression; Ch8 Chinese distinguishes it from body tempering
+药山	Medicine Mountain	location	provisional	8	Chapter 8 Chinese: one of three outer sect peaks
+聚灵法阵	Spirit Gathering Formation	formation	provisional	8	Chapter 8 Chinese: enhances ambient spiritual qi
+玄阴之体	Profound Yin Physique	physique	owner_used	8	Ch8 Chinese and owner Ch9 English; distinctly rare with high technique compatibility
+纯阳之体	Pure Yang Physique	physique	provisional	8	Ch8 Chinese; Dao Sect founding ancestor's physique
+道祖	Dao Ancestor	honorific	provisional	8	Ch8 founding ancestor title; do not import other novel's Dao Ancestor characters

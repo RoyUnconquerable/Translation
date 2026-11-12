@@ -6,3 +6,5 @@ chapter	source_status	translation_status	review_status	footnote_review_status	ev
 5	source_in_chat	assistant_draft_delivered	not_owner_final	pending_review	Ch5 Chinese and English in chat
 6	source_in_chat	assistant_draft_delivered	owner_revision_received_not_owner_final	pending_review	Owner revised Ch6 and asked to note and apply, 2026-11-10
 7	source_in_chat	assistant_draft_delivered	not_owner_final	candidates_flagged_unapproved	Ch7 Chinese supplied and complete translation delivered in chat, 2026-11-10
+8	Chinese_source_supplied_in_chat	assistant_complete_draft_delivered	not_owner_final	pending_review	Ch8 Chinese source and complete assistant English draft in current conversation; no new-novel checker; future owner review pending
+9	Chinese_source_not_supplied	preferred_english_uploaded_by_owner	preferred_wording_for_future_chapters_not_source_audited	english_only_candidates_unapproved	Owner uploaded Chapter 9: Spy Meets Spy as /mnt/data/Pasted text(3).txt on 2026-11-12; no corresponding Chinese source or earlier Chapter 9 draft supplied; record preferences, not a bilingual verification

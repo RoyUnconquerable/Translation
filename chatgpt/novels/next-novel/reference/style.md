@@ -35,3 +35,13 @@ Use the owner's complete Chapter 6 text as a current new-novel voice example alo
 The owner's Ch6 nicknames for Li Chunsong are Hopeless Gambling Dog, Philanthropic King of Gamblers and Li Pure Giveaway. The last echoes a Chinese name pun. Keep these as Ch6 character-specific expressions, not mandatory word choices for other people or bets.
 
 The owner's insertion of ellipsis paragraphs and a divider in Chapter 6 is local formatting evidence, not authority to add scene breaks or split ordinary prose in future chapters. For Chapter 7, preserve the Chinese paragraph boundaries. Biyou Clearing is provisional for 碧游坪; Mountains Beyond the Mountains is explicitly a collective name for multiple mountains. The Chinese 零气十足/活零活现 contains a gay-slang pun; retain the joke without inventing a character identity.
+
+## Owner-provided Chapter 9 English guidance (2026-11-12)
+
+The owner's supplied Chapter 9, "Spy Meets Spy," is the latest preferred English voice example for future *Borrowing a Sword* translations, though the corresponding Chinese text and any earlier Chapter 9 draft were not supplied. Do not claim a source-based diff or fidelity review from this English alone.
+
+Use "Outer Sect Deacon" for Niu Yuanshan's 外门执事 office, superseding the provisional "outer sect steward" from Ch8; one of nine is asserted in the supplied English. Use "Biyou Meadow" for 碧游坪, superseding the earlier provisional "Biyou Clearing," for that same place at Wumeng Mountain. Preserve "magical treasure" as the preferred general object wording and do not conflate it with "spiritual treasure." "Ice Purity Art" is the preferred English name as supplied, but its original Chinese title has not been provided; do not invent a Chinese glossary mapping.
+
+Voice: Crisp third-person prose moves between Niu Yuanshan's sincere undercover loyalty, Chu Huaixu's private recognition and irritation, Li Chunsong's enthusiasm for gambling, and Xu Ziqing's increasingly desperate wait. Use italic direct thoughts for the relevant character. Maintain pointed understated humor, gaming references ("backpack," "speedrun"), foxlike face descriptions, and the author's dramatic punchlines. Maintain scene-specific identities, disguises, and who knows what, without importing spoilers or explanations not present.
+
+Do not infer a new default from the English-only Chapter 9's standalone ellipsis lines, divider, or loyalty cry that uses an em dash. The general no-em-dash rule remains controlling. Capitalization "Great Calamity" occurs once in this text; it does not supersede the previously established lower-case great calamity without a clearer ruling.

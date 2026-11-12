@@ -41,3 +41,20 @@ Ch1 P111-P114: Chu Huaixu retrieves his umbrella, takes pride in his performance
 - Chu's exact origins and faction remain unknown to him, despite suspected Moon Kingdom involvement.
 - Li Chunsong's intentions, why he looked surprised and sighed at Chu, and whether he knows about the mistaken pair are not yet revealed.
 - Xu's future recruitment and the identity of the legendary sword at Dao Sect remain unrevealed.
+
+## Chapter 8 Chinese, with English translation (delivered in chat, not owner-final)
+
+- Ch8: Li Chunsong brings Chu Huaixu and Han Shuangjiang to Medicine Mountain, one of three outer sect peaks within Mountains Beyond the Mountains. Both are named registered disciples. Han's Profound Yin Physique impresses Li; Chu's apparent lack of special aptitude does not. Li asks them to conceal the storyteller incident, takes blood samples for Life Tablets, and calls outer sect official Niu Yuanshan from his courtyard. Chu and Niu recognize one another in mutual shock, but without explicit spoken acknowledgement.
+
+## Chapter 9 owner-provided English (Chinese source unavailable)
+
+- Ch9 owner English: Niu Yuanshan is one of nine Outer Sect Deacons, a third-realm cultivator, and the gold-masked Moon Kingdom operative. He views Dao Sect recognition as cover for serving the Organization, and initially thinks Chu's association with Li Chunsong proves exceptional spying talent.
+- Ch9 owner English: Chu knows from remembered player-forum reports that Niu Yuanshan was an exposed infiltrator whose unmasking triggered broad player spy hunts and factional disputes. Niu wonders whether Chu knows his identity. Chu has deliberately let something slip to gauge Niu's reaction, but the exact comment is not included in the English supplied here.
+- Ch9 owner English: Niu gives Chu and Han storage-capable registered disciple tokens, with approximately three cubic meters of space and housing necessities already inside, and assigns them neighboring bamboo houses.
+- Ch9 owner English: Li personally selects Ice Purity Art for Han's Profound Yin Physique and tells Chu to choose any technique. Li considers whether Chu's unimpressive Pseudo Spirit Embryo may conceal unusual aptitude and is tempted to gamble on the newcomers' prospects.
+- Ch9 owner English: Xu Ziqing waits in Biyou Meadow past his appointment and believes he may have been fooled by the storyteller. His disappointment is narrated as his present understanding, not an independent verification that the storyteller lied.
+
+## Chapter 9 open evidence questions
+
+- The Chinese of Chapter 9 and a pre-owner English draft were not supplied. Distinguish source-supported Ch8 facts from details only asserted by the English-only Chapter 9.
+- The Chinese written name of Ice Purity Art is unknown. Do not manufacture one or claim it has been glossary-verified.
