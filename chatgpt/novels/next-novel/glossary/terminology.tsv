@@ -41,3 +41,24 @@ source	target	category	status	first_chapter	notes
 玄阴之体	Profound Yin Physique	physique	owner_used	8	Ch8 Chinese and owner Ch9 English; distinctly rare with high technique compatibility
 纯阳之体	Pure Yang Physique	physique	provisional	8	Ch8 Chinese; Dao Sect founding ancestor's physique
 道祖	Dao Ancestor	honorific	provisional	8	Ch8 founding ancestor title; do not import other novel's Dao Ancestor characters
+《炼剑诀》	Sword Refining Art	cultivation_technique	owner_used	11	Owner edited Chapter 11; roman technical name used consistently. Title text source includes 《》; do not treat as all named books roman
+《冰清诀》	Ice Purity Art	cultivation_technique	owner_used	10	Chinese verified Ch10; owner Ch9 and Ch11 English consistently names the technique Ice Purity Art
+《息邪》	Quelling Evil	skill	owner_used	11	Owner Ch11 revised named skill; black lotus-like flames on level 49 account
+《训诫》	Precepts	organization_document	owner_used	4	Owner Ch11 revision supersedes provisional Admonitions for the Organization's text, Article Three
+除尘法阵	dust-removing formation	formation	owner_used	11	Owner Ch11 chose lowercase descriptive term; avoids more grandiose Dust-Clearing Formation
+体魄	Physique	game_attribute	owner_used	11	Character stat including HP defense strength speed; value increases growth per level
+聚灵	Spirit Gathering	game_attribute	owner_used	11	Attribute for max spiritual power mana regeneration and level-based growth
+悟性	Comprehension	game_attribute	owner_used	11	Attribute controls spell/skill requirements and leveling XP costs
+灵胎属性	Spirit Embryo	game_attribute	owner_used	10	Character panel display label in Ch11 is Spirit Embryo; narration can say Spirit Embryo attribute; distinct from generic lowercase spirit embryo aptitude
+随机属性点	Random Attribute Point	game_reward	owner_used	10	Capitalized name in owner Ch11; random wheel allocates among character stats
+自由属性点	Free Attribute Point	game_reward	owner_used	11	Capitalized contrasting type; player could choose allocation, but Chu drew random point
+初窥门径	Novice	skill_mastery	owner_used	11	First of four spell-mastery stages; owner supersedes First Glimpse for this tier
+小成	Minor Completion	skill_mastery	owner_used	11	Second spell-mastery stage; owner supersedes Minor Achievement in this context
+大成	Major Completion	skill_mastery	owner_used	11	Third spell-mastery stage; owner supersedes Major Achievement in this context
+大圆满	Great Perfection	skill_mastery	owner_used	11	Fourth spell-mastery stage; use realm peak wording where owner Ch6 uses peak of first/fourth realm, scope to spell mastery
+炼器	artifact refining	profession_skill	owner_used	11	Item craft profession tied to Comprehension; owner avoids equipment refining
+炼丹	alchemy	profession_skill	owner_used	11	Pill-making profession tied to Comprehension
+炼符	talisman crafting	profession_skill	owner_used	11	Talisman-making profession tied to Comprehension
+修行感悟	cultivation insights	technique_notes	owner_used	11	Booklets written by previous disciples; future insights can be added
+人物等级	Character Level	game_panel	owner_used	11	Capitalized stat panel label; values include 0, etc.
+经验值	Experience Points	game_panel	owner_used	11	Panel label capitalized; prose experience points lowercase

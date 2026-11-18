@@ -4,11 +4,15 @@ Keep the reusable workflow's fidelity, paragraph alignment, full bilingual revie
 
 ## Voice
 
+The owner's Chapter 11 revision provides another concise new-novel example: short sentences, gamer jargon where the source justifies it (HP, mana, spam skills, comment section), explicit attributes and experience-point requirements, compact inner thoughts, and a blunt final review punchline. Preserve meaningful source contrasts, including spoken speech versus thoughts and narrated stat maxima, rather than copying incidental omissions or shifts of modality from the revision.
+
 Chapter 1 establishes close third-person past narration centered on Chu Huaixu, with fast cinematic action and sardonic, self-aware gaming humor. The protagonist is casual, confident and irreverent. His thought and speech may be blunt or profane when the Chinese supports it. Other speakers use scene-appropriate registers, not a blanket protagonist voice. The narrator can deliver dry punchlines without explaining the joke.
 
 The owner's Chapter 1 editing favors plain, vivid verbs and short, easily followed sentences. Preserve tense, actor, physical action, causal order and decisive endings. Keep the source's short standalone beats and abrupt comic reversals. Use contemporary American turns of phrase such as "bro" and "talking shit" only where the Chinese and viewpoint justify them. Do not impose a stock joke, metaphor or catchphrase on later chapters.
 
 ## Formatting
+
+The owner Chapter 11 revision consistently uses roman text for named cultivation techniques and skill names, including Sword Refining Art, Ice Purity Art and Quelling Evil. Apply this new-novel technique-reference usage where the referent matches; do not generalize it to actual book titles or unrelated named works. In Chapter 11 all seven stat rows are source bracket displays, even though four lose brackets in the owner revision. Keep genuine display semantics for new chapters and do not treat mixed bracket styling as a general rule.
 
 Preserve original paragraphs, title and scene-break evidence. Use straight quotes, three-dot ellipses, no em or en dashes, and direct-thought italics for actual interior speech. The two standalone "..." beats in Chapter 1 are pauses, not proof of a scene change. Do not let a single owner-inserted horizontal divider establish a new scene-break policy.
 
@@ -40,8 +44,10 @@ The owner's insertion of ellipsis paragraphs and a divider in Chapter 6 is local
 
 The owner's supplied Chapter 9, "Spy Meets Spy," is the latest preferred English voice example for future *Borrowing a Sword* translations, though the corresponding Chinese text and any earlier Chapter 9 draft were not supplied. Do not claim a source-based diff or fidelity review from this English alone.
 
-Use "Outer Sect Deacon" for Niu Yuanshan's 外门执事 office, superseding the provisional "outer sect steward" from Ch8; one of nine is asserted in the supplied English. Use "Biyou Meadow" for 碧游坪, superseding the earlier provisional "Biyou Clearing," for that same place at Wumeng Mountain. Preserve "magical treasure" as the preferred general object wording and do not conflate it with "spiritual treasure." "Ice Purity Art" is the preferred English name as supplied, but its original Chinese title has not been provided; do not invent a Chinese glossary mapping.
+Use "Outer Sect Deacon" for Niu Yuanshan's 外门执事 office, superseding the provisional "outer sect steward" from Ch8; one of nine is asserted in the supplied English. Use "Biyou Meadow" for 碧游坪, superseding the earlier provisional "Biyou Clearing," for that same place at Wumeng Mountain. Preserve "magical treasure" as the preferred general object wording and do not conflate it with "spiritual treasure." "Ice Purity Art" is the preferred English name; its original Chinese 《冰清诀》 was subsequently supplied in Chapter 10. This later verification is not a bilingual audit of Chapter 9.
 
 Voice: Crisp third-person prose moves between Niu Yuanshan's sincere undercover loyalty, Chu Huaixu's private recognition and irritation, Li Chunsong's enthusiasm for gambling, and Xu Ziqing's increasingly desperate wait. Use italic direct thoughts for the relevant character. Maintain pointed understated humor, gaming references ("backpack," "speedrun"), foxlike face descriptions, and the author's dramatic punchlines. Maintain scene-specific identities, disguises, and who knows what, without importing spoilers or explanations not present.
 
 Do not infer a new default from the English-only Chapter 9's standalone ellipsis lines, divider, or loyalty cry that uses an em dash. The general no-em-dash rule remains controlling. Capitalization "Great Calamity" occurs once in this text; it does not supersede the previously established lower-case great calamity without a clearer ruling.
+
+The Chapter 11 owner revision uses an isolated em-dash sound effect and adds two ellipsis pause lines not evidenced by Chinese paragraphs. Both remain local unpromoted editorial artifacts; the no-em-dash and source-paragraph rules continue to govern new deliveries. The Organization's instruction text 《训诫》 is now named *Precepts*, superseding the earlier provisional *Admonitions*; it is a document title, not a cultivation technique.

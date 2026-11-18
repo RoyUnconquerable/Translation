@@ -3,14 +3,14 @@
   "novel_id": "next-novel",
   "novel_title": null,
   "branch": "chatgpt/next-novel",
-  "status": "chapter_9_owner_english_received_source_unavailable",
+  "status": "chapter_11_owner_revision_received",
   "source_language": "zh",
   "target_language": "en-US",
   "progress": {
-    "latest_source_seen": 8,
-    "latest_draft_delivered": 8,
+    "latest_source_seen": 11,
+    "latest_draft_delivered": 11,
     "latest_owner_final": 0,
-    "next_translation_chapter": 10
+    "next_translation_chapter": 12
   },
   "chapter_prose_storage": "chat_only",
   "footnote_candidates_required": true,
@@ -26,5 +26,5 @@
     "chapter_ledger": "chatgpt/novels/next-novel/chapters/ledger.tsv"
   },
   "automatic_checker_ready": false,
-  "notes": "Ch8 Chinese and assistant draft delivered in chat; Ch9 preferred English supplied 2026-11-12 and owner requests applying terminology/style choices to future chapters. Ch9 original Chinese and earlier assistant draft are not available: do not claim bilingual audit or a measured line-by-line diff. Chapter 9 English may be used as voice/style guidance for Ch10 onward, while source-sensitive details remain provisional. Chapter prose is chat/attachment only, not stored in Git. New-novel mechanical checker remains unavailable."
+  "notes": "Chapters 10 and 11 Chinese source and assistant full drafts delivered in chat. Owner supplied a revised English Chapter 11 on 2026-11-18 with instruction to note changes; choices recorded as scoped for the new novel, not declared owner-final. Chapter 11 source comparison found an omitted fact (old account Spirit Gathering was highest), spoken-to-thought conversion for '就它了', four source display brackets omitted from stat list and an em-dash sound effect; these are REVIEW flags, not new rules. Ch9 Chinese remains unavailable. Chapter prose is chat/attachment only; new-novel mechanical checker remains unconfigured."
 }

@@ -57,4 +57,13 @@ Ch1 P111-P114: Chu Huaixu retrieves his umbrella, takes pride in his performance
 ## Chapter 9 open evidence questions
 
 - The Chinese of Chapter 9 and a pre-owner English draft were not supplied. Distinguish source-supported Ch8 facts from details only asserted by the English-only Chapter 9.
-- The Chinese written name of Ice Purity Art is unknown. Do not manufacture one or claim it has been glossary-verified.
+- At the time of the Chapter 9 English upload, the Chinese name of Ice Purity Art had not been supplied. Chapter 10 later verified the mapping as 《冰清诀》; Chapter 9 itself still lacks a Chinese source.
+
+## Chapter 10-11 developments (source supplied; Ch11 English owner-edited)
+
+- Ch10: Chu and Han bind their registered-disciple identity tokens with blood. The game system recognizes Chu as a member of the Mirror Kingdom's Dao Sect and calculates faction rewards: joining a regular faction grants one random attribute point, and joining an Eastern Continent great sect adds one Spirit Embryo attribute point.
+- Ch10: Niu gives Han the Ice Purity Art (《冰清诀》). Chu uses Information Probe to find its compatibility with him is zero; he tries multiple other Aperture Opening techniques and eventually finds one he prefers. Han waits despite impatience, and Chu responds curtly; Niu reads this interaction with surprise.
+- Ch11: Chu discovers Sword Refining Art (《炼剑诀》) has 93% compatibility, higher than all remaining options, whose maximum is 81%. He selects it, and Niu gives him and Han cultivation-insight booklets. Niu nearly approaches Chu privately but remembers his Organization's Precepts, Article Three, and slaps himself in rebuke.
+- Ch11: Chu and Han return to their adjacent bamboo homes. Chu's level remains 0 with 200 XP, a random attribute point and a separate Spirit Embryo point not usable until level 1. His initial on-panel attributes are Physique 1, Spirit Gathering 1, Comprehension 1 and Spirit Embryo 0. His random wheel awards a Physique point.
+- Ch11: Chu's old level 49 Spring and Autumn Mountain account had its highest attribute in Spirit Gathering and used a black lotus-flame skill called Quelling Evil, previously at skill level 3; raising that skill to level 4 requires Comprehension 7. He plans to study Sword Refining Art; its companion booklet's first page says "Don't practice!" (别练), a comic reveal.
+- Ch11 reviewer flag: Owner's revised English omits the source's explicit claim that Spirit Gathering was the highest attribute on his former level 49 account. Preserve that source fact and don't treat the omission as a preference.
